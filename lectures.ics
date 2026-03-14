@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ReportAutoCal//Lecture Calendar//CN
+METHOD:PUBLISH
+X-WR-CALNAME:清华物理系学术报告
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:Torsional Hall Viscosity of Massive Chern Insulators
+DTSTART;TZID=Asia/Shanghai:20260302T140000
+DTEND;TZID=Asia/Shanghai:20260302T153000
+UID:92cbf0e405db8f78404e9ba9ef2de5fe@reportautocal
+DESCRIPTION:主讲人: Weizhen Jia\, The Chinese University of Hong Kong\n
+ \n讨论了由挠率产生的(2+1)维相对论性费米子的非耗散、
+ 奇宇称输运——挠率霍尔粘度，包括其在电磁场和BHZ能
+ 带结构变形下的表现及其对拓扑平凡与非平凡区域的区
+ 分。
+LOCATION:Conference Hall 322\, Science Building\, Tsinghua University
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Coming Wave – The Application of Emerging Technologies in Nu
+ clear Field
+DTSTART;TZID=Asia/Shanghai:20260305T210000
+DTEND;TZID=Asia/Shanghai:20260305T220000
+UID:eccf466e2164fc33388bffe644b44921@reportautocal
+DESCRIPTION:主讲人: Emma WONG\, Xiaohong CHENG\, Eva GYANE\n\nThis talk
+  provides an insightful overview of emerging technologies relevant for nuc
+ lear energy\, including AI\, Digital Twins\, Robots & Drones\, Block Chain
+ \, and Advanced Manufacturing.
+LOCATION:刘卿楼402会议室
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stochastic Tensor Contraction Theory: A New Framework for Quantum 
+ Chemistry 随机张量收缩理论：量子化学的新框架
+DTSTART;TZID=Asia/Shanghai:20260302T123000
+DTEND;TZID=Asia/Shanghai:20260302T140000
+UID:abf79e9fa5ff69312caebf2fdd4164d5@reportautocal
+DESCRIPTION:主讲人: 孙嘉策，加州理工学院\n\n提出了一种
+ 通用的随机张量收缩算法，显著提升量子化学中高阶张
+ 量收缩的计算性能，并应用于CCSD(T)等方法，挑战了现有
+ 的成本-精度关系。
+LOCATION:腾讯会议：886-276-8732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Novel Advancements in Integrating Artificial Intelligence and Theo
+ retical Models for Predicting Material Properties
+DTSTART;TZID=Asia/Shanghai:20260303T160000
+DTEND;TZID=Asia/Shanghai:20260303T173000
+UID:931672c6b931854dc814b8c740ba4cef@reportautocal
+DESCRIPTION:主讲人: Dr. Anh D. Phan\n\n该研究将机器学习/深度
+ 学习模型整合到理论和模拟框架中，以预测和分析金属
+ 玻璃、氧化物、聚合物、磷光体、钙钛矿和热电材料的
+ 光学、热学、磁学和分子动力学性质。
+LOCATION:物理楼W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Ultrahigh-Q microcavity optics and photonics
+DTSTART;TZID=Asia/Shanghai:20260305T160000
+DTEND;TZID=Asia/Shanghai:20260305T173000
+UID:db11d9b1f90e3adf82c8c2ae767b7281@reportautocal
+DESCRIPTION:主讲人: 肖云峰\n\n介绍超高Q值微腔光学与光子
+ 学，包括其代表性光子学应用以及微腔传感机制在单纳
+ 米颗粒检测与识别中的实际应用。
+LOCATION:物理楼（附中南侧）W101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Symmetry in open quantum systems: from quantized response to long-
+ range entanglement
+DTSTART;TZID=Asia/Shanghai:20260305T150000
+DTEND;TZID=Asia/Shanghai:20260305T163000
+UID:eab75589f09f0232ad5b7fb2fc670162@reportautocal
+DESCRIPTION:主讲人: 孙孝奇 特聘研究员\n\n探讨开放量子系
+ 统中的对称性（弱对称与强对称）在一维系统中的物理
+ 含义，包括量化响应和长程纠缠。
+LOCATION:北京大学物理楼中212会议室
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stochastic Tensor Contraction Theory: A New Framework for Quantum 
+ Chemistry 随机张量收缩理论：量子化学的新框架
+DTSTART;TZID=Asia/Shanghai:20260303T123000
+DTEND;TZID=Asia/Shanghai:20260303T140000
+UID:41975bfdf07b0550821f2258d8edcb61@reportautocal
+DESCRIPTION:主讲人: 孙嘉策，加州理工学院\n\n提出一种通
+ 用的随机张量收缩算法，显著提升量子化学中高阶张量
+ 收缩的计算性能，并将其应用于CCSD(T)等方法，挑战现有
+ 的成本-精度关系。
+LOCATION:腾讯会议：886-276-8732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-dual Higgs transition: toric code and beyond
+DTSTART;TZID=Asia/Shanghai:20260303T140000
+DTEND;TZID=Asia/Shanghai:20260303T153000
+UID:db2d6c52404503d8c666c8f5bbf9068b@reportautocal
+DESCRIPTION:主讲人: Chong Wang\, Perimeter Institute\n\n提出了一种
+ 描述环面码自对偶希格斯相变的连续场论，即SO(4)_{2\,-2} 
+ Chern-Simons-Higgs理论，并将其推广到一系列涉及不同非阿
+ 贝尔拓扑序的相变。
+LOCATION:Conference Hall 322\, Science Building\, Tsinghua University
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Origin of Spin Stripes and Superconductivity in Bilayer Nickelates
+DTSTART;TZID=Asia/Shanghai:20260304T160000
+DTEND;TZID=Asia/Shanghai:20260304T173000
+UID:028687593b28c653bbb6dd120d549924@reportautocal
+DESCRIPTION:主讲人: Yi-Ming Wu\, Leinweber Institute for Theoretical Ph
+ ysics\, Stanford University\n\n通过微观模型研究揭示了双层镍
+ 酸盐中自旋条纹序和超导性的起源，强调了洪特耦合的
+ 关键作用。
+LOCATION:Conference Hall 322\, Science Building\, Tsinghua University
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Probe chiral states via Renyi modular commutators
+DTSTART;TZID=Asia/Shanghai:20260310T140000
+DTEND;TZID=Asia/Shanghai:20260310T153000
+UID:05090525122da7608c5ea0459494765a@reportautocal
+DESCRIPTION:主讲人: Ruihua Fan\, (University of California\, Berkeley)\
+ n\n介绍Renyi模交换子作为探测二维手性态手性中心荷的更
+ 方便工具，并解释如何在Chern-Simons理论中计算以及展示
+ 蒙特卡洛方法的数值结果。
+LOCATION:Conference Hall 322\, Science Building\, Tsinghua University
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing detectors for High Energy Physics and Applications
+DTSTART;TZID=Asia/Shanghai:20260311T100000
+DTEND;TZID=Asia/Shanghai:20260311T120000
+UID:60674d0fdda647d060da8578e0945f96@reportautocal
+DESCRIPTION:主讲人: Imad Laktineh\, Professor\, Lyon1 University\n\nA n
+ ew generation of 4D detectors is emerging in subatomic physics\, adding pr
+ ecise time information to spatial performance\, with applications in track
+ ing\, calorimetry\, photo-detection\, and societal fields like muon tomogr
+ aphy.
+LOCATION:Room 105 of Liuqing Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Approaching a topological qubit with selective-area-epitaxied M
+ ajorana nanowires
+DTSTART;TZID=Asia/Shanghai:20260311T160000
+DTEND;TZID=Asia/Shanghai:20260311T173000
+UID:df7d7470dc3460632f4b92179e519f2e@reportautocal
+DESCRIPTION:主讲人: 何柯 (清华大学物理系)\n\n介绍利用选
+ 区外延生长的PbTe基混合纳米线构建高质量马约拉纳纳米
+ 线以实现拓扑量子比特的方法。
+LOCATION:清华大学高等研究院（科学馆）322报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:新范式：理论计算+磁输运实验结合表征电子结构
+DTSTART;TZID=Asia/Shanghai:20260312T150000
+DTEND;TZID=Asia/Shanghai:20260312T163000
+UID:784b6bdfcd343db1763070badbaa38cf@reportautocal
+DESCRIPTION:主讲人: 吴泉生 研究员\n\n本报告聚焦于磁输运
+ 测量和第一性原理计算相结合来表征电子结构，提出了
+ 一种基于第一性原理与半经典玻尔兹曼输运理论相结合
+ 的非微扰方法，并通过开源软件 WannierTools 实现对真
+ 实材料磁电输运性质的高精度模拟。
+LOCATION:北京大学物理楼中212教室
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uncovering dark matter distributions: from the Milky Way to nearby
+  galaxies
+DTSTART;TZID=Asia/Shanghai:20260312T150000
+DTEND;TZID=Asia/Shanghai:20260312T163000
+UID:2b73a2293edd60d6ca7ffecdcdd7835e@reportautocal
+DESCRIPTION:主讲人: Ling Zhu 朱玲 (SHAO)\n\n通过结合MaNGA的IFU
+ 数据和FAST的HI光谱，测量了140个附近星系的暗物质分布
+ ，发现其内部区域暗物质密度低于宇宙学模拟预测，并
+ 揭示了银河系暗物质晕的独特三维形状。
+LOCATION:Physics Building E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★二维晶体非线性光学研究
+DTSTART;TZID=Asia/Shanghai:20260312T160000
+DTEND;TZID=Asia/Shanghai:20260312T173000
+UID:e1c7ce847afbb5d9c9955dc0c7fe96dd@reportautocal
+DESCRIPTION:主讲人: 刘开辉\n\n介绍二维晶体非线性光学方
+ 向的研究进展，包括材料制备机理和高效光学晶体构建
+ 。
+LOCATION:物理楼（附中南侧）W101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quantum magnonics and quantum nonlinear magnonics
+DTSTART;TZID=Asia/Shanghai:20260319T160000
+DTEND;TZID=Asia/Shanghai:20260319T173000
+UID:9bf331feb310c530766ff43a1616e208@reportautocal
+DESCRIPTION:主讲人: 游建强，浙江大学物理学院\n\n报告介
+ 绍了量子磁振子学的背景和最新进展，包括单磁振子的
+ 量子控制以及量子非线性磁振子学中的磁振子压缩现象
+ 。
+LOCATION:物理楼（附中南侧）W105
+END:VEVENT
+END:VCALENDAR
