@@ -50,4 +50,14 @@ def generate_ics(info: LectureInfo) -> str:
     cal.add_component(event)
 
     logger.info("已生成 ICS 事件: %s (%s)", title, info.start_time)
-    return cal.to_ical().decode("utf-8")
+
+    ics_str = cal.to_ical().decode("utf-8")
+
+    # 强制确保 METHOD:REQUEST 存在（iTIP 标准要求）
+    # 部分库可能输出 METHOD:PUBLISH 或不输出 METHOD
+    if "METHOD:PUBLISH" in ics_str:
+        ics_str = ics_str.replace("METHOD:PUBLISH", "METHOD:REQUEST")
+    elif "METHOD:" not in ics_str:
+        ics_str = ics_str.replace("BEGIN:VCALENDAR\r\n", "BEGIN:VCALENDAR\r\nMETHOD:REQUEST\r\n")
+
+    return ics_str

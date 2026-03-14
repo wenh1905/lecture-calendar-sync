@@ -35,16 +35,21 @@ class TestSendCalendarMail:
         raw_msg = call_args[0][2]  # 第三个参数是邮件内容
         msg = message_from_bytes(raw_msg.encode("utf-8") if isinstance(raw_msg, str) else raw_msg)
 
-        # 验证 multipart/mixed 结构
-        assert msg.get_content_type() == "multipart/mixed"
+        # 验证 multipart/alternative 结构（iTIP 要求）
+        assert msg.get_content_type() == "multipart/alternative"
 
         parts = list(msg.walk())
-        # 找到 text/calendar 附件
+        # 找到 text/calendar part
         cal_parts = [p for p in parts if p.get_content_type() == "text/calendar"]
         assert len(cal_parts) == 1
         cal_part = cal_parts[0]
+        # 验证 method=REQUEST 在 Content-Type 中
         assert "method" in cal_part["Content-Type"].lower()
         assert "REQUEST" in cal_part["Content-Type"]
+        # 验证 Content-Class header
+        assert cal_part["Content-Class"] == "urn:content-classes:calendarmessage"
+        # 验证 Content-Disposition 是 inline 而非 attachment
+        assert "inline" in cal_part["Content-Disposition"]
 
         mock_conn.quit.assert_called_once()
 
