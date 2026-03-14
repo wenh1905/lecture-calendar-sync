@@ -9,16 +9,17 @@ SUMMARY:Torsional Hall Viscosity of Massive Chern Insulators
 DTSTART;TZID=Asia/Shanghai:20260302T140000
 DTEND;TZID=Asia/Shanghai:20260302T153000
 UID:92cbf0e405db8f78404e9ba9ef2de5fe@reportautocal
-DESCRIPTION:主讲人: 贾伟振\n\n本次报告将探讨由挠率产生
- 的(2+1)维相对论性费米子的非耗散、奇宇称输运现象——
- 扭转霍尔粘性。报告人将首先介绍有质量狄拉克费米子
- 的扭转霍尔粘性，然后讨论其在两个实验相关变形下的
- 表现：一是在恒定电磁场存在下，磁场诱导的贡献会与
- 狄拉克质量产生的贡献相互竞争；二是考虑Bernevig–Hughes
- –Zhang (BHZ)提出的动量二次项能带结构变形，该变形显著
- 增强了畴壁构型中测得的扭转霍尔粘性幅度，但仍能区
- 分拓扑平庸与非平庸区域。这些结果为深入理解挠率引
- 起的拓扑响应及其可能的实验验证铺平了道路。
+DESCRIPTION:主讲人: Weizhen Jia The Chinese University of Hong Kong\n\n
+ 本次报告将讨论(2+1)维相对论性费米子由挠率产生的非耗
+ 散、宇称奇的输运现象——挠率霍尔粘性。报告人将介
+ 绍大质量狄拉克费米子的挠率霍尔粘性，并探讨其在两
+ 种实验相关变形下的表现：一是恒定电磁场存在时，磁
+ 场诱导的贡献会与狄拉克质量起源的贡献竞争；二是考
+ 虑Bernevig–Hughes–Zhang (BHZ)提出的动量二次项能带结构变
+ 形，该变形在畴壁构型中显著增强了挠率霍尔粘性的幅
+ 度，但仍能区分拓扑平庸与非平庸区域。这些结果为深
+ 入理解挠率引起的拓扑响应及其可能的实验验证铺平了
+ 道路。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -27,12 +28,13 @@ SUMMARY:The Coming Wave – The Application of Emerging Technologies in Nu
 DTSTART;TZID=Asia/Shanghai:20260305T210000
 DTEND;TZID=Asia/Shanghai:20260305T220000
 UID:eccf466e2164fc33388bffe644b44921@reportautocal
-DESCRIPTION:主讲人: Emma WONG\, 程晓红\, Eva GYANE\n\n本次报告
- 汇集了跨学科专家团队，重点探讨人工智能、数字孪生
- 、机器人、无人机、区块链和先进制造等新兴技术在核
- 能领域的应用。报告将分析如何利用智能技术，在可再
- 生能源项目从选址、设计、建造到运营维护的全生命周
- 期中，优化成本与时间线，并讨论相关创新方法。
+DESCRIPTION:主讲人: Emma WONG EPRI\, Xiaohong CHENG State Power Investm
+ ent Corporation\, Eva GYANE WiN Global\n\n本次报告汇集了跨学科
+ 专家团队，重点探讨人工智能、数字孪生、机器人、区
+ 块链和先进制造等新兴技术在核能领域的应用前景。报
+ 告将分析如何利用智能技术优化可再生能源项目全生命
+ 周期的成本与时间线，涵盖从选址、设计、建造到运营
+ 维护的各个环节，并讨论相关创新方法。
 LOCATION:刘卿楼/402
 END:VEVENT
 BEGIN:VEVENT
@@ -41,14 +43,13 @@ SUMMARY:Stochastic Tensor Contraction Theory: A New Framework for Quantum
 DTSTART;TZID=Asia/Shanghai:20260302T123000
 DTEND;TZID=Asia/Shanghai:20260302T140000
 UID:3f9bab1debab27c421632acf436f59e7@reportautocal
-DESCRIPTION:主讲人: 孙嘉策\n\n本报告介绍了一种通用的随
- 机张量收缩算法，旨在解决量子化学中高阶张量收缩计
- 算成本高昂的问题。该算法被应用于CCSD(T)等标准方法，
- 能在保证比化学精度更严格的误差条件下，将计算规模
- 显著降低至接近平均场理论的水平，并在计算时间和误
- 差上实现数量级提升，同时降低对体系维度和电子离域
- 的敏感性。报告认为该算法是加速量子化学计算的强大
- 工具。
+DESCRIPTION:主讲人: 孙嘉策 加州理工学院\n\n报告介绍了一
+ 种通用的随机张量收缩算法，用于加速量子化学中的高
+ 阶张量运算。该算法应用于CCSD(T)方法，能在满足严格化
+ 学精度的前提下，将计算规模降至平均场理论水平，并
+ 显著提升计算效率。与现有方法相比，该算法在计算时
+ 间和误差上均有数量级改进，且对体系维度和电子离域
+ 不敏感，为量子化学计算提供了新的强大工具。
 LOCATION:腾讯会议/886-276-8732
 END:VEVENT
 BEGIN:VEVENT
@@ -57,19 +58,19 @@ SUMMARY:Novel Advancements in Integrating Artificial Intelligence and Theo
 DTSTART;TZID=Asia/Shanghai:20260303T160000
 DTEND;TZID=Asia/Shanghai:20260303T173000
 UID:931672c6b931854dc814b8c740ba4cef@reportautocal
-DESCRIPTION:主讲人: Dr. Anh D. Phan\n\n本研究将机器学习/深度
- 学习模型整合到理论和模拟框架中，用于预测和分析金
- 属玻璃、氧化物、聚合物、磷光体、钙钛矿及热电材料
- 的光学、热学、磁学和分子动力学性质。构建的机器学
- 习模型可根据化学成分预测熔点、玻璃化转变温度、发
- 射峰位置等特性。该方法虽简洁，但预测精度高于先前
- 研究，尤其适用于预测尚未合成的新材料性质。模拟和AI
- 预测的玻璃化转变温度值被整合到弹性协作非线性朗之
- 万方程理论中，以确定非晶材料结构弛豫时间的温度依
- 赖性。所有计算结果与实验数据及先前模拟吻合良好，
- 无需任何可调参数。除了基于化学成分的'正向预测'，所
- 开发的模型还可发展为'逆向设计'，即根据所需材料性质
- 推荐化学成分。
+DESCRIPTION:主讲人: Anh D. Phan VinUniversity\n\n本研究将机器学
+ 习/深度学习模型整合到理论和模拟框架中，用于预测和
+ 分析金属玻璃、氧化物、聚合物、磷光体、钙钛矿和热
+ 电材料的光学、热学、磁学及分子动力学性质。构建的
+ 机器学习模型可根据化学成分预测熔点、玻璃化转变温
+ 度、发射峰位置等特性。该方法虽然简单，但预测精度
+ 高于先前研究，尤其适用于预测尚未合成的新材料性质
+ 。模拟和AI预测的玻璃化转变温度值被整合到弹性合作非
+ 线性朗之万方程理论中，以确定非晶材料结构弛豫时间
+ 的温度依赖性。所有计算结果与实验数据和先前模拟吻
+ 合良好，无需任何可调参数。除了基于化学成分的'正向
+ 预测'，所开发的模型还可发展为'逆向设计'，即根据所
+ 需材料性质建议化学成分。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -78,16 +79,14 @@ SUMMARY:Symmetry in open quantum systems: from quantized response to long-
 DTSTART;TZID=Asia/Shanghai:20260305T150000
 DTEND;TZID=Asia/Shanghai:20260305T163000
 UID:eab75589f09f0232ad5b7fb2fc670162@reportautocal
-DESCRIPTION:主讲人: 孙孝奇\n\n本次报告探讨开放量子系统
- 中的对称性及其物理意义。报告人将区分弱对称性（电
- 荷仅平均守恒）和强对称性（精确守恒律），并利用张
- 量网络框架研究它们在一维开放系统中的影响。对于弱
- 对称性，报告将展示其如何实现区分混合态相的量子化
- 响应，包括那些没有纯态对应物的相，这些相可通过弦
- 序参量识别。对于强对称性，报告将构建一类广泛的重
- 整化固定点混合态，这些态表现出零关联长度和反常对
- 称性，尽管没有局域关联，却无法被高效制备，暗示了
- 内在的长程纠缠。
+DESCRIPTION:主讲人: 孙孝奇 中国科学院物理研究所\n\n本次
+ 报告探讨对称性在开放量子系统中的核心作用，重点区
+ 分弱对称性与强对称性。报告人将在一维开放系统中，
+ 利用张量网络框架分析这两种对称性的物理含义。研究
+ 表明，弱对称性可导致区分混合态相的量子化响应，而
+ 强对称性则能构造出一类具有零关联长度和反常对称性
+ 的重整化固定点混合态，这些态虽无局域关联，却蕴含
+ 本征的长程纠缠。
 LOCATION:北京大学/物理楼/212
 END:VEVENT
 BEGIN:VEVENT
@@ -96,11 +95,11 @@ SUMMARY:Stochastic Tensor Contraction Theory: A New Framework for Quantum
 DTSTART;TZID=Asia/Shanghai:20260303T123000
 DTEND;TZID=Asia/Shanghai:20260303T140000
 UID:41975bfdf07b0550821f2258d8edcb61@reportautocal
-DESCRIPTION:主讲人: 孙嘉策\n\n报告介绍了一种通用的随机
- 张量收缩算法，旨在解决量子化学中高阶张量收缩计算
- 成本高昂的问题。该算法被应用于CCSD(T)等标准方法，能
- 在保证化学精度的前提下，将计算规模显著降低至接近
- 平均场理论的水平，并在计算时间和误差上实现数量级
+DESCRIPTION:主讲人: 孙嘉策 加州理工学院\n\n报告介绍了一
+ 种通用的随机张量收缩算法，旨在显著提升量子化学中
+ 高阶张量收缩运算的效率。该算法应用于CCSD(T)等标准方
+ 法，可将计算成本降至接近平均场理论水平，并在总计
+ 算时间和精度上相比现有局域关联近似方法实现数量级
  提升，同时降低对体系维度和电子离域的敏感性，为加
  速量子化学计算提供了新框架。
 LOCATION:腾讯会议/886-276-8732
@@ -110,14 +109,15 @@ SUMMARY:Self-dual Higgs transition: toric code and beyond
 DTSTART;TZID=Asia/Shanghai:20260303T140000
 DTEND;TZID=Asia/Shanghai:20260303T153000
 UID:db2d6c52404503d8c666c8f5bbf9068b@reportautocal
-DESCRIPTION:主讲人: Chong Wang\n\n本报告探讨了环面码在保持
- 电-磁激发交换的自对偶Z_2对称性形变下，向拓扑平凡态
- 的连续相变。针对该相变长期缺乏连续场论描述的问题
- ，报告人提出了SO(4)_{2\,-2}陈-西蒙斯-希格斯理论作为其
- 场论框架。该理论不仅能自然解释相图，还可推广至SO(4)
- _{k\,-k}系列，描述涉及非阿贝尔拓扑序（如双斐波那契序
- 、S_3量子双）的类似相变。报告还推测k=1情形与三维伊
- 辛相变存在红外对偶关系。
+DESCRIPTION:主讲人: Chong Wang Perimeter Institute\n\n本报告探讨
+ 了环面码在保持电-磁激发自对偶Z_2对称性的形变下，向
+ 拓扑平凡态的连续相变。针对该相变长期缺乏连续场论
+ 描述的难题，报告人提出了SO(4)_{2\,-2}陈-西蒙斯-希格斯
+ 理论作为其场论描述。该理论不仅为相图提供了自然的
+ “平均场”理解，还可推广至SO(4)_{k\,-k}系列，描述涉及
+ 非阿贝尔拓扑序（如双斐波那契序、S_3量子双）的类似
+ 相变。报告还推测k=1情形与三维伊辛相变存在红外对偶
+ 关系。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -125,17 +125,16 @@ SUMMARY:Origin of Spin Stripes and Superconductivity in Bilayer Nickelates
 DTSTART;TZID=Asia/Shanghai:20260304T160000
 DTEND;TZID=Asia/Shanghai:20260304T173000
 UID:028687593b28c653bbb6dd120d549924@reportautocal
-DESCRIPTION:主讲人: 吴一鸣\n\n本报告提出并研究了一个微
- 观哈密顿量，旨在揭示双层镍酸盐La3Ni2O7中磁性和超导性
- 的起源。通过密度矩阵重整化群计算，模型成功再现了
- 实验观测到的(π/2\, π/2)自旋条纹序，并揭示了其隐藏的
- 准一维特性。研究发现，自旋条纹序存在于一定范围的
- 电子浓度内，但需要较大的洪德耦合JH。超导性仅在层间
- 反铁磁耦合J⊥足够大时出现，这通常在压力条件下自然
- 发生。报告进一步从弱耦合角度分析了不同配对对称性
- 的竞争，指出当JH较大时，s±波对称性最为有利。结果表
- 明，强耦合与弱耦合框架对磁性和超导性的预测在定性
- 上一致，并强调了洪德耦合JH在该系统中的关键作用。
+DESCRIPTION:主讲人: Yi-Ming Wu 斯坦福大学\n\n本研究通过提出
+ 并分析一个微观哈密顿量，揭示了双层镍酸盐La3Ni2O7中磁
+ 性和超导性的起源。利用密度矩阵重整化群计算，模型
+ 成功再现了实验观测到的(π/2\, π/2)自旋条纹序，并揭示
+ 了其隐藏的准一维特性。研究发现，自旋条纹序在一定
+ 电子浓度范围内出现，但需要较大的洪德耦合JH。超导性
+ 仅在层间反铁磁耦合J⊥足够大时出现，这自然发生在压
+ 力条件下。研究进一步从弱耦合角度考察了不同配对对
+ 称性的竞争，表明当JH较大时，s±波对称性最为有利。结
+ 果强调了洪德耦合在该体系中的关键作用。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -143,13 +142,13 @@ SUMMARY:★Ultrahigh-Q microcavity optics and photonics
 DTSTART;TZID=Asia/Shanghai:20260305T160000
 DTEND;TZID=Asia/Shanghai:20260305T173000
 UID:db11d9b1f90e3adf82c8c2ae767b7281@reportautocal
-DESCRIPTION:主讲人: 肖云峰\n\n本报告将介绍超高Q值光学微
- 腔在光子学领域的原理与应用。首先概述微腔，特别是
- 回音壁模式微腔，在片上增强光与物质相互作用方面的
- 代表性光子学应用。随后重点探讨微腔传感机制，及其
- 在单纳米颗粒检测与识别中的实际应用。报告将展示微
- 腔如何通过光子限制与操控，推动基础与应用光子学的
- 研究。
+DESCRIPTION:主讲人: 肖云峰 北京大学\n\n本报告将介绍超高Q
+ 值微腔光学与光子学。首先概述超高Q值回音壁模式微腔
+ 在光子学中的代表性应用，这些微腔通过连续全内反射
+ 约束光子，具有长光子寿命、强场局域和面内发射特性
+ ，是片上增强光与物质相互作用的理想平台。随后，报
+ 告将重点聚焦于微腔传感机制及其在单纳米颗粒检测与
+ 识别中的实际应用。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -157,11 +156,11 @@ SUMMARY:Probe chiral states via Renyi modular commutators
 DTSTART;TZID=Asia/Shanghai:20260310T140000
 DTEND;TZID=Asia/Shanghai:20260310T153000
 UID:05090525122da7608c5ea0459494765a@reportautocal
-DESCRIPTION:主讲人: Ruihua Fan\n\n本次报告聚焦于二维手性态
- ，探讨拓扑与纠缠之间的基本关系。报告人将介绍Renyi模
- 交换子，作为手性中心电荷的一种更便捷的探测工具，
- 并解释如何在Chern-Simons理论中计算它，同时展示基于蒙
- 特卡洛方法的数值结果。
+DESCRIPTION:主讲人: Ruihua Fan University of California\, Berkeley\n\n
+ 本报告聚焦于二维手性态，旨在探索拓扑与纠缠之间的
+ 关系。报告将介绍Renyi模交换子，作为手性中心电荷的一
+ 种更便捷的探测工具，并解释如何在Chern-Simons理论中计
+ 算它，同时展示使用蒙特卡洛方法得到的数值结果。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -169,13 +168,13 @@ SUMMARY:Timing detectors for High Energy Physics and Applications
 DTSTART;TZID=Asia/Shanghai:20260311T100000
 DTEND;TZID=Asia/Shanghai:20260311T120000
 UID:60674d0fdda647d060da8578e0945f96@reportautocal
-DESCRIPTION:主讲人: Imad Laktineh\n\n本次讲座将介绍亚原子物
- 理领域新兴的第四代探测器技术，重点探讨如何为现有
- 探测器增加精确的时间信息，从而提升其空间性能。报
- 告将涵盖追踪、量能测量和光电探测等不同领域在时间
- 测量方面的最新进展，并阐述这一新特性为探测领域带
- 来的改进以及未来发展趋势。同时，讲座还将涉及这些
- 技术在缪子层析成像等社会应用中的潜在价值。
+DESCRIPTION:主讲人: Imad Laktineh 里昂第一大学\n\n本次讲座将
+ 介绍亚原子物理领域新兴的第四代探测器技术，重点探
+ 讨如何将精确的时间信息整合到现有的空间探测性能中
+ ，形成4D探测器。报告将涵盖追踪、量热和光电探测等领
+ 域中时序技术的发展，并阐述这一新特性为探测领域带
+ 来的改进，以及近期和远期的预期发展。同时，也将提
+ 及这些技术在如μ子断层扫描等社会应用中的益处。
 LOCATION:刘卿楼/105
 END:VEVENT
 BEGIN:VEVENT
@@ -184,19 +183,16 @@ SUMMARY:★Approaching a topological qubit with selective-area-epitaxied M
 DTSTART;TZID=Asia/Shanghai:20260311T160000
 DTEND;TZID=Asia/Shanghai:20260311T173000
 UID:df7d7470dc3460632f4b92179e519f2e@reportautocal
-DESCRIPTION:主讲人: 何柯\n\n本报告介绍了利用选区外延生
- 长的碲化铅基混合纳米线构建高质量马约拉纳纳米线，
- 以实现拓扑量子比特的研究。报告人指出，传统III-V族基
- 混合纳米线因无序度较高阻碍了拓扑量子计算的发展。
- 而碲化铅材料在低温下具有高介电常数，且能与碲化镉
- 衬底晶格匹配，有望克服无序问题。通过选区分子束外
- 延技术，可以制备界面原子级洁净、平坦、锐利且可调
- 的平面型PbTe-超导体混合器件。实验获得了比III-V族纳米
- 线质量更高的PbTe基纳米线，表现出超过1.5微米的弹道输
- 运特性和量子化的安德烈夫电导。在弹道输运区间的平
- 面PbTe-Pb纳米线中观察到了鲁棒的零偏压电导峰。报告将
- 讨论这一新候选马约拉纳纳米线系统的优势、问题以及
- 实现拓扑量子比特的前景。
+DESCRIPTION:主讲人: 何柯 清华大学\n\n本报告介绍了利用选
+ 区外延生长的碲化铅基混合纳米线构建高质量马约拉纳
+ 纳米线以实现拓扑量子比特的研究。针对传统III-V族混合
+ 纳米线中高无序度阻碍研究进展的问题，报告人团队利
+ 用碲化铅在低温下的大介电常数和可用的晶格匹配衬底
+ ，结合选区分子束外延技术，制备了具有原子级清洁、
+ 平坦、尖锐界面的平面器件。实验获得了具有弹道输运
+ 特性、安德烈夫电导量子化的高质量纳米线，并观察到
+ 了鲁棒的零电导峰。报告将讨论这一新候选马约拉纳纳
+ 米线系统的优势、问题及实现拓扑量子比特的前景。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -204,14 +200,13 @@ SUMMARY:新范式：理论计算+磁输运实验结合表征电子结构
 DTSTART;TZID=Asia/Shanghai:20260312T150000
 DTEND;TZID=Asia/Shanghai:20260312T163000
 UID:784b6bdfcd343db1763070badbaa38cf@reportautocal
-DESCRIPTION:主讲人: 吴泉生\n\n本报告提出了一种结合第一
- 性原理计算与半经典玻尔兹曼输运理论的新方法，用于
- 高精度模拟真实材料的磁电输运性质。该方法通过开源
- 软件WannierTools，定量解析了复杂费米面、磁有序和能带
- 拓扑对磁阻与霍尔效应的贡献，并在包括非磁金属、半
- 金属、半导体及多种磁性拓扑材料（如RuO₂、Co₃Sn₂S₂
- 等）的实验中得到验证，为从第一性原理角度量化关联
- 电子结构与输运性质开辟了新途径。
+DESCRIPTION:主讲人: 吴泉生 中国科学院物理研究所\n\n本报
+ 告提出了一种结合第一性原理计算与半经典玻尔兹曼输
+ 运理论的新方法，通过开源软件WannierTools高精度模拟真
+ 实材料的磁电输运性质。报告聚焦于解析复杂费米面、
+ 磁有序和能带拓扑对磁阻与霍尔响应的贡献，并在多种
+ 材料体系中得到实验验证，为从第一性原理定量计算复
+ 杂磁输运现象开辟了新途径。
 LOCATION:北京大学/物理楼/212
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +215,11 @@ SUMMARY:Uncovering dark matter distributions: from the Milky Way to nearby
 DTSTART;TZID=Asia/Shanghai:20260312T150000
 DTEND;TZID=Asia/Shanghai:20260312T163000
 UID:2b73a2293edd60d6ca7ffecdcdd7835e@reportautocal
-DESCRIPTION:主讲人: 朱玲\n\n本报告通过结合MaNGA的积分视场
- 光谱数据和FAST的HI光谱，测量了140个邻近星系的暗物质
- 分布。研究发现，这些星系的内部区域暗物质密度低于
- 标准宇宙学模拟的预测，存在暗物质亏损核心，且核心
- 尺寸随星系质量增大而增加。对于银河系，研究不仅发
+DESCRIPTION:主讲人: 朱玲 中国科学院上海天文台\n\n报告通
+ 过结合MaNGA的IFU数据和FAST的HI光谱，测量了140个邻近星系
+ 的暗物质分布。研究发现，这些星系内部区域的暗物质
+ 密度低于宇宙学模拟的预测，存在暗物质亏损核心，且
+ 核心尺寸随星系质量增加而增大。对于银河系，不仅发
  现了类似的暗物质亏损核心，还精确测定了其暗物质晕
  的三维形状，发现其垂直于恒星盘并与显著的卫星平面
  对齐，这可能由小规模并合引起的星系盘翻转导致。
@@ -235,15 +230,13 @@ SUMMARY:★二维晶体非线性光学研究
 DTSTART;TZID=Asia/Shanghai:20260312T160000
 DTEND;TZID=Asia/Shanghai:20260312T173000
 UID:e1c7ce847afbb5d9c9955dc0c7fe96dd@reportautocal
-DESCRIPTION:主讲人: 刘开辉\n\n本报告聚焦二维晶体的非线
- 性光学研究。传统强场物理主要基于原子分子体系，而
- 二维晶体因其独特的电子波函数局域化、周期性对称和
- 能带结构，为非线性光学提供了新机遇，有望实现更强
- 的光与物质相互作用，从而推动固态激光技术在更短波
- 长、更窄脉冲和更高量子相干性方面的发展。报告将介
- 绍课题组在材料制备（如米级二维晶体的普适制备）和
- 光学理论（如“转角相位匹配”）方面的关键进展，旨
- 在探索新物理效应并开发原创的极端激光技术。
+DESCRIPTION:主讲人: 刘开辉 北京大学\n\n本报告聚焦二维晶
+ 体的非线性光学研究。报告人将介绍其课题组在该领域
+ 的进展，包括发现“晶格传质-界面生长”机理以实现米
+ 级二维晶体制备，以及提出“转角相位匹配”理论以构
+ 建高效光学晶体。研究旨在探索二维晶体中更强的光与
+ 物质相互作用，以推动固态激光技术在极紫外波长、阿
+ 秒脉冲和量子相干性等方面的发展。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -251,13 +244,12 @@ SUMMARY:Quantum magnonics and quantum nonlinear magnonics
 DTSTART;TZID=Asia/Shanghai:20260319T160000
 DTEND;TZID=Asia/Shanghai:20260319T173000
 UID:9bf331feb310c530766ff43a1616e208@reportautocal
-DESCRIPTION:主讲人: 游建强\n\n本报告将介绍量子磁振子学
- 这一量子物理与凝聚态物理交叉领域的新兴研究方向。
- 报告人将首先阐述该领域的背景，并重点介绍其课题组
- 在单磁振子量子控制方面的最新进展，包括单磁振子态
- 的确定性生成及其与真空态的相干叠加。其次，报告将
- 展示在量子非线性磁振子学中关于磁振子压缩的新结果
- ，这是一种在量子领域的新颖现象。
+DESCRIPTION:主讲人: 游建强 浙江大学\n\n本次报告将介绍量
+ 子磁振子学这一量子物理与凝聚态物理交叉领域的新兴
+ 研究方向。报告人将首先展示单个磁振子的量子调控，
+ 包括单磁振子态的确定性生成及其与真空态的相干叠加
+ 。其次，将介绍在量子非线性磁振子学中取得的新成果
+ ，特别是量子区域内的磁振子压缩现象。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
