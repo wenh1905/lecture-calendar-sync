@@ -1,5 +1,6 @@
 """邮件获取模块 - 通过 IMAP 读取清华物理系学术报告邮件"""
 import email
+import email.message
 import imaplib
 import logging
 from dataclasses import dataclass
