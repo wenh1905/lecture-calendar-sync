@@ -18,20 +18,20 @@ logger = logging.getLogger(__name__)
 
 def main() -> None:
     # 从环境变量读取配置
-    imap_host = os.environ.get("IMAP_HOST", "mails.tsinghua.edu.cn")
+    imap_host = os.environ.get("IMAP_HOST") or "mails.tsinghua.edu.cn"
     imap_user = os.environ["IMAP_USER"]
     imap_pass = os.environ["IMAP_PASS"]
 
-    smtp_host = os.environ.get("SMTP_HOST", "mails.tsinghua.edu.cn")
-    smtp_port = int(os.environ.get("SMTP_PORT", "465"))
-    smtp_user = os.environ.get("SMTP_USER", imap_user)
-    smtp_pass = os.environ.get("SMTP_PASS", imap_pass)
+    smtp_host = os.environ.get("SMTP_HOST") or "mails.tsinghua.edu.cn"
+    smtp_port = int(os.environ.get("SMTP_PORT") or "465")
+    smtp_user = os.environ.get("SMTP_USER") or imap_user
+    smtp_pass = os.environ.get("SMTP_PASS") or imap_pass
 
     recipient = os.environ["RECIPIENT_EMAIL"]
 
     llm_base_url = os.environ["LLM_BASE_URL"]
     llm_api_key = os.environ["LLM_API_KEY"]
-    llm_model = os.environ.get("LLM_MODEL", "deepseek-chat")
+    llm_model = os.environ.get("LLM_MODEL") or "deepseek-chat"
 
     # Step 1: 获取未读邮件
     logger.info("=== 开始获取未读邮件 ===")
