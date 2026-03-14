@@ -110,7 +110,7 @@ def extract_lecture_info(
                 ],
                 "temperature": 0.1,
             },
-            timeout=30,
+            timeout=120,
         )
         resp.raise_for_status()
 
