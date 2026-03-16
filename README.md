@@ -4,10 +4,11 @@
 
 ## 工作流程
 
-1. IMAP 读取 `research_phys@mail.tsinghua.edu.cn` 的未读邮件
-2. 调用 LLM API 提取讲座的主题、时间、地点、主讲人
-3. 按 UID 去重，追加或覆盖更新到全局 `lectures.ics`
-4. GitHub Actions 自动 commit 更新后的日历文件
+1. IMAP 连接邮箱，获取近 1 天内所有邮件（readonly 模式，不修改邮件状态）
+2. Python 层按发件人 `research_phys@mail.tsinghua.edu.cn` 过滤
+3. 调用 LLM API 提取讲座的主题、时间、地点、主讲人及摘要
+4. 按 UID（MD5 of 标题+时间）去重，追加或覆盖更新到全局 `lectures.ics`
+5. GitHub Actions 自动 commit 更新后的日历文件
 
 与光谱学、低维半导体相关的讲座会在标题前加 ★ 标记。
 
@@ -27,17 +28,21 @@ https://raw.githubusercontent.com/wenh1905/lecture-calendar-sync/main/lectures.i
 
 | 变量 | 说明 | 必填 |
 |------|------|------|
-| `IMAP_HOST` | IMAP 服务器（默认 mails.tsinghua.edu.cn） | 否 |
+| `IMAP_HOST` | IMAP 服务器（默认 `mails.tsinghua.edu.cn`） | 否 |
 | `IMAP_USER` | 邮箱地址 | 是 |
 | `IMAP_PASS` | 邮箱密码 | 是 |
+| `IMAP_FOLDER` | IMAP 文件夹名（默认 `INBOX`，如有服务器分类规则需指定实际文件夹） | 否 |
 | `LLM_BASE_URL` | LLM API 地址 | 是 |
 | `LLM_API_KEY` | LLM API Key | 是 |
-| `LLM_MODEL` | 模型名称（默认 deepseek-chat） | 否 |
+| `LLM_MODEL` | 模型名称（默认 `deepseek-chat`） | 否 |
+
+> **注意**：如果邮箱服务器有自动分类规则，报告邮件可能不在 INBOX 中。需要通过 IMAP 客户端确认实际文件夹名称，并设置 `IMAP_FOLDER`（文件夹名使用 IMAP modified UTF-7 编码）。
 
 ## 本地运行
 
 ```bash
 pip install -r requirements.txt
+# 配置 .env 文件后运行
 python main.py
 ```
 
