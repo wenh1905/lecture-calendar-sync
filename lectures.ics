@@ -252,4 +252,34 @@ DESCRIPTION:主讲人: 游建强 浙江大学\n\n本次报告将介绍量
  ，特别是量子区域内的磁振子压缩现象。
 LOCATION:物理楼/W105
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Advanced nano-characterization using STEM-CL / STEM-EBIC
+DTSTART;TZID=Asia/Shanghai:20260319T150000
+DTEND;TZID=Asia/Shanghai:20260319T163000
+UID:cbd8788b6eae04ac8f3468e7b4545e04@reportautocal
+DESCRIPTION:主讲人: Frank Bertram Otto-von-Guericke University\n\n报
+ 告介绍了结合扫描透射电子显微镜与阴极发光光谱的STEM-
+ CL技术，用于在纳米尺度上对复杂半导体异质结构进行光
+ 学表征。该技术特别适用于低温环境，能高灵敏度、非
+ 破坏性地关联材料的结构、化学、电子和光学性质，是
+ 研究量子结构的有力工具。
+LOCATION:北京大学/物理楼/212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Low-Dimensional Spin Lattices in Mott-Insulating Nanographenes
+DTSTART;TZID=Asia/Shanghai:20260320T100000
+DTEND;TZID=Asia/Shanghai:20260320T113000
+UID:4dc3255d43d28cf9ecd753f93f273b87@reportautocal
+DESCRIPTION:主讲人: 赵晨晓 粤港澳大湾区量子科学中心\n\n
+ 本报告聚焦于纳米石墨烯晶格中处于半填充莫特绝缘体
+ 相的π电子磁性研究。报告将首先阐述石墨烯中π电子磁
+ 性的起源与基本原理，随后介绍如何利用扫描隧道显微
+ 镜（STM）实现对磁性纳米石墨烯自旋态的精确调控。最
+ 后，展示通过表面合成技术共价连接这些磁性纳米石墨
+ 烯结构单元，从而构建具有可调性质的自旋链，并利用
+ 具有空间和能量分辨能力的非弹性电子隧穿谱表征其基
+ 态性质。该研究为探索不同自旋相与集体激发（如自旋
+ 子和三重子）之间的关系提供了独特平台。
+LOCATION:物理楼/W105
+END:VEVENT
 END:VCALENDAR
