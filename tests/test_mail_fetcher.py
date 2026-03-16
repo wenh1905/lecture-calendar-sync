@@ -136,12 +136,13 @@ class TestFetchRecentMails:
             days=3,
         )
 
-        # 验证搜索条件格式
+        # 验证搜索条件包含 OR(SINCE, UNSEEN)
         search_call = mock_conn.search.call_args
         criteria = search_call[0][1]
         assert "FROM" in criteria
         assert "SINCE" in criteria
-        assert "UNSEEN" not in criteria
+        assert "UNSEEN" in criteria
+        assert "OR" in criteria
 
     @patch("src.mail_fetcher.imaplib.IMAP4_SSL")
     def test_imap_error_raises(self, mock_imap_cls: MagicMock) -> None:

@@ -89,15 +89,18 @@ def fetch_recent_mails(
         logger.info("IMAP 登录成功: %s", user)
 
         conn.select("INBOX", readonly=True)
-        search_criteria = f'(FROM "{sender}" SINCE {since_date})'
+
+        # OR 搜索：近 N 天的邮件 ∪ 未读邮件，避免遗漏
+        search_criteria = f'(OR (FROM "{sender}" SINCE {since_date}) (UNSEEN FROM "{sender}"))'
         status, data = conn.search(None, search_criteria)
 
         if status != "OK" or not data[0]:
-            logger.info("过去 %d 天内无来自 %s 的邮件", days, sender)
+            logger.info("无来自 %s 的邮件（近 %d 天 + 未读）", sender, days)
             return results
 
-        mail_ids = data[0].split()
-        logger.info("找到 %d 封邮件（过去 %d 天）", len(mail_ids), days)
+        # 去重：OR 搜索可能返回重复 ID
+        mail_ids = list(dict.fromkeys(data[0].split()))
+        logger.info("找到 %d 封邮件（近 %d 天 + 未读）", len(mail_ids), days)
 
         for mid in mail_ids:
             mid_str = mid.decode() if isinstance(mid, bytes) else mid
