@@ -22,6 +22,7 @@ def main() -> None:
     imap_host = os.environ.get("IMAP_HOST") or "mails.tsinghua.edu.cn"
     imap_user = os.environ["IMAP_USER"]
     imap_pass = os.environ["IMAP_PASS"]
+    imap_folder = os.environ.get("IMAP_FOLDER") or "INBOX"
 
     llm_base_url = os.environ["LLM_BASE_URL"]
     llm_api_key = os.environ["LLM_API_KEY"]
@@ -29,7 +30,10 @@ def main() -> None:
 
     # Step 1: 获取近 1 天内所有邮件（不限已读/未读，靠 UID 去重）
     logger.info("=== 开始获取近 1 天邮件 ===")
-    mails = fetch_recent_mails(host=imap_host, user=imap_user, password=imap_pass, days=1)
+    mails = fetch_recent_mails(
+        host=imap_host, user=imap_user, password=imap_pass,
+        days=1, folder=imap_folder,
+    )
     if not mails:
         logger.info("没有新的学术报告邮件，退出")
         return

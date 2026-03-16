@@ -61,6 +61,7 @@ def fetch_recent_mails(
     days: int = 1,
     port: int = 993,
     sender: str = TARGET_SENDER,
+    folder: str = "INBOX",
 ) -> list[MailMessage]:
     """
     获取过去 N 天内指定发件人的所有邮件（不限已读/未读，readonly 不修改邮件状态）。
@@ -74,6 +75,7 @@ def fetch_recent_mails(
         days: 回溯天数 (默认 1)
         port: IMAP 端口 (默认 993)
         sender: 目标发件人地址
+        folder: IMAP 文件夹名 (默认 INBOX)
 
     Returns:
         解析后的邮件列表
@@ -88,19 +90,20 @@ def fetch_recent_mails(
         conn.login(user, password)
         logger.info("IMAP 登录成功: %s", user)
 
-        conn.select("INBOX", readonly=True)
+        conn.select(folder, readonly=True)
+        logger.info("已选择文件夹: %s", folder)
 
-        # OR 搜索：近 N 天的邮件 ∪ 未读邮件，避免遗漏
-        search_criteria = f'(OR (FROM "{sender}" SINCE {since_date}) (UNSEEN FROM "{sender}"))'
+        # 只用 SINCE 搜索（清华 IMAP 服务器 FROM 索引对新邮件有延迟），
+        # 取回后在 Python 中按 sender 过滤
+        search_criteria = f"SINCE {since_date}"
         status, data = conn.search(None, search_criteria)
 
         if status != "OK" or not data[0]:
-            logger.info("无来自 %s 的邮件（近 %d 天 + 未读）", sender, days)
+            logger.info("近 %d 天无邮件（文件夹: %s）", days, folder)
             return results
 
-        # 去重：OR 搜索可能返回重复 ID
-        mail_ids = list(dict.fromkeys(data[0].split()))
-        logger.info("找到 %d 封邮件（近 %d 天 + 未读）", len(mail_ids), days)
+        mail_ids = data[0].split()
+        logger.info("IMAP 返回 %d 封邮件（近 %d 天），按发件人过滤中...", len(mail_ids), days)
 
         for mid in mail_ids:
             mid_str = mid.decode() if isinstance(mid, bytes) else mid
@@ -112,9 +115,13 @@ def fetch_recent_mails(
                 raw_email = msg_data[0][1]
                 msg = email.message_from_bytes(raw_email)
 
+                from_header = msg.get("From", "")
+                if sender not in from_header:
+                    continue
+
                 mail = MailMessage(
                     subject=_decode_header_value(msg.get("Subject", "")),
-                    sender=msg.get("From", ""),
+                    sender=from_header,
                     date=msg.get("Date", ""),
                     body=_extract_text_body(msg),
                     uid=mid_str,

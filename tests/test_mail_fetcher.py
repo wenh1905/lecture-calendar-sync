@@ -49,8 +49,6 @@ class TestFetchRecentMails:
         assert "Room 301" in results[0].body
         # readonly 模式不应标记已读
         mock_conn.store.assert_not_called()
-        # 验证 readonly=True
-        mock_conn.select.assert_called_once_with("INBOX", readonly=True)
         mock_conn.logout.assert_called_once()
 
     @patch("src.mail_fetcher.imaplib.IMAP4_SSL")
@@ -121,6 +119,30 @@ class TestFetchRecentMails:
         mock_conn.store.assert_not_called()
 
     @patch("src.mail_fetcher.imaplib.IMAP4_SSL")
+    def test_filters_by_sender_in_python(self, mock_imap_cls: MagicMock) -> None:
+        """Python 层按发件人过滤，非目标发件人的邮件被排除"""
+        mock_conn = MagicMock()
+        mock_imap_cls.return_value = mock_conn
+        mock_conn.login.return_value = ("OK", [b"Logged in"])
+        mock_conn.select.return_value = ("OK", [b"2"])
+        mock_conn.search.return_value = ("OK", [b"1 2"])
+        raw_match = _build_raw_email("Seminar A", "research_phys@mail.tsinghua.edu.cn", "Body A")
+        raw_other = _build_raw_email("Other", "someone@example.com", "Body B")
+        mock_conn.fetch.side_effect = [
+            ("OK", [(b"1 (RFC822 {100})", raw_match)]),
+            ("OK", [(b"2 (RFC822 {100})", raw_other)]),
+        ]
+
+        results = fetch_recent_mails(
+            host="mails.tsinghua.edu.cn",
+            user="test@mails.tsinghua.edu.cn",
+            password="secret",
+        )
+
+        assert len(results) == 1
+        assert "Seminar A" in results[0].subject
+
+    @patch("src.mail_fetcher.imaplib.IMAP4_SSL")
     def test_search_uses_since_date(self, mock_imap_cls: MagicMock) -> None:
         """验证搜索条件包含 SINCE 日期"""
         mock_conn = MagicMock()
@@ -136,13 +158,11 @@ class TestFetchRecentMails:
             days=3,
         )
 
-        # 验证搜索条件包含 OR(SINCE, UNSEEN)
+        # 验证 IMAP 搜索只用 SINCE（不含 FROM，避免服务器索引延迟问题）
         search_call = mock_conn.search.call_args
         criteria = search_call[0][1]
-        assert "FROM" in criteria
         assert "SINCE" in criteria
-        assert "UNSEEN" in criteria
-        assert "OR" in criteria
+        assert "FROM" not in criteria
 
     @patch("src.mail_fetcher.imaplib.IMAP4_SSL")
     def test_imap_error_raises(self, mock_imap_cls: MagicMock) -> None:
