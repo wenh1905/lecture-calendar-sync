@@ -3,7 +3,7 @@ import logging
 import os
 import sys
 
-from src.mail_fetcher import fetch_unseen_mails
+from src.mail_fetcher import fetch_recent_mails
 from src.llm_extractor import extract_lecture_info
 from src.ics_generator import load_calendar, make_event, upsert_event, save_calendar
 
@@ -27,9 +27,9 @@ def main() -> None:
     llm_api_key = os.environ["LLM_API_KEY"]
     llm_model = os.environ.get("LLM_MODEL") or "deepseek-chat"
 
-    # Step 1: 获取未读邮件
-    logger.info("=== 开始获取未读邮件 ===")
-    mails = fetch_unseen_mails(host=imap_host, user=imap_user, password=imap_pass)
+    # Step 1: 获取近 1 天内所有邮件（不限已读/未读，靠 UID 去重）
+    logger.info("=== 开始获取近 1 天邮件 ===")
+    mails = fetch_recent_mails(host=imap_host, user=imap_user, password=imap_pass, days=1)
     if not mails:
         logger.info("没有新的学术报告邮件，退出")
         return

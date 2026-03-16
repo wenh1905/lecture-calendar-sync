@@ -4,6 +4,7 @@ import email.message
 import imaplib
 import logging
 from dataclasses import dataclass
+from datetime import datetime, timedelta
 from email.header import decode_header
 from typing import Optional
 
@@ -53,20 +54,24 @@ def _extract_text_body(msg: email.message.Message) -> str:
         return ""
 
 
-def fetch_unseen_mails(
+def fetch_recent_mails(
     host: str,
     user: str,
     password: str,
+    days: int = 1,
     port: int = 993,
     sender: str = TARGET_SENDER,
 ) -> list[MailMessage]:
     """
-    获取指定发件人的未读邮件。
+    获取过去 N 天内指定发件人的所有邮件（不限已读/未读，readonly 不修改邮件状态）。
+
+    去重由下游 ics_generator 的 UID 机制保证。
 
     Args:
         host: IMAP 服务器地址
         user: 邮箱账号
         password: 邮箱密码
+        days: 回溯天数 (默认 1)
         port: IMAP 端口 (默认 993)
         sender: 目标发件人地址
 
@@ -76,22 +81,23 @@ def fetch_unseen_mails(
     conn: Optional[imaplib.IMAP4_SSL] = None
     results: list[MailMessage] = []
 
+    since_date = (datetime.now() - timedelta(days=days)).strftime("%d-%b-%Y")
+
     try:
         conn = imaplib.IMAP4_SSL(host, port)
         conn.login(user, password)
         logger.info("IMAP 登录成功: %s", user)
 
-        conn.select("INBOX")
-        # 按发件人 + 未读状态搜索
-        search_criteria = f'(UNSEEN FROM "{sender}")'
+        conn.select("INBOX", readonly=True)
+        search_criteria = f'(FROM "{sender}" SINCE {since_date})'
         status, data = conn.search(None, search_criteria)
 
         if status != "OK" or not data[0]:
-            logger.info("无未读邮件")
+            logger.info("过去 %d 天内无来自 %s 的邮件", days, sender)
             return results
 
         mail_ids = data[0].split()
-        logger.info("找到 %d 封未读邮件", len(mail_ids))
+        logger.info("找到 %d 封邮件（过去 %d 天）", len(mail_ids), days)
 
         for mid in mail_ids:
             mid_str = mid.decode() if isinstance(mid, bytes) else mid
@@ -111,13 +117,10 @@ def fetch_unseen_mails(
                     uid=mid_str,
                 )
                 results.append(mail)
-
-                # 标记为已读
-                conn.store(mid_str, "+FLAGS", "\\Seen")
-                logger.info("已处理邮件: %s", mail.subject)
+                logger.info("已读取邮件: %s", mail.subject)
 
             except Exception as e:
-                logger.error("处理邮件 %s 失败: %s", mid_str, e)
+                logger.error("读取邮件 %s 失败: %s", mid_str, e)
                 continue
 
     except imaplib.IMAP4.error as e:

@@ -1,13 +1,12 @@
 """mail_fetcher 模块测试"""
 import imaplib
-from dataclasses import dataclass
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-from unittest.mock import MagicMock, patch, call
-import email
+from unittest.mock import MagicMock, patch
+
 import pytest
 
-from src.mail_fetcher import MailMessage, fetch_unseen_mails
+from src.mail_fetcher import MailMessage, fetch_recent_mails
 
 
 def _build_raw_email(subject: str, from_addr: str, body: str, charset: str = "utf-8") -> bytes:
@@ -20,17 +19,16 @@ def _build_raw_email(subject: str, from_addr: str, body: str, charset: str = "ut
     return msg.as_bytes()
 
 
-class TestFetchUnseenMails:
-    """测试 IMAP 邮件获取"""
+class TestFetchRecentMails:
+    """测试 IMAP 按日期获取邮件"""
 
     @patch("src.mail_fetcher.imaplib.IMAP4_SSL")
     def test_fetch_single_mail(self, mock_imap_cls: MagicMock) -> None:
-        """正常获取一封未读邮件"""
+        """正常获取一封邮件"""
         mock_conn = MagicMock()
         mock_imap_cls.return_value = mock_conn
         mock_conn.login.return_value = ("OK", [b"Logged in"])
         mock_conn.select.return_value = ("OK", [b"1"])
-        # search 返回一个邮件 ID
         mock_conn.search.return_value = ("OK", [b"1"])
         raw = _build_raw_email(
             subject="Physics Seminar: Quantum Optics",
@@ -39,29 +37,32 @@ class TestFetchUnseenMails:
         )
         mock_conn.fetch.return_value = ("OK", [(b"1 (RFC822 {1234})", raw)])
 
-        results = fetch_unseen_mails(
+        results = fetch_recent_mails(
             host="mails.tsinghua.edu.cn",
             user="test@mails.tsinghua.edu.cn",
             password="secret",
+            days=1,
         )
 
         assert len(results) == 1
         assert "Quantum Optics" in results[0].subject
         assert "Room 301" in results[0].body
-        # 验证标记已读
-        mock_conn.store.assert_called_once_with("1", "+FLAGS", "\\Seen")
+        # readonly 模式不应标记已读
+        mock_conn.store.assert_not_called()
+        # 验证 readonly=True
+        mock_conn.select.assert_called_once_with("INBOX", readonly=True)
         mock_conn.logout.assert_called_once()
 
     @patch("src.mail_fetcher.imaplib.IMAP4_SSL")
-    def test_no_unseen_mails(self, mock_imap_cls: MagicMock) -> None:
-        """无未读邮件时返回空列表"""
+    def test_no_recent_mails(self, mock_imap_cls: MagicMock) -> None:
+        """无邮件时返回空列表"""
         mock_conn = MagicMock()
         mock_imap_cls.return_value = mock_conn
         mock_conn.login.return_value = ("OK", [b"Logged in"])
         mock_conn.select.return_value = ("OK", [b"0"])
         mock_conn.search.return_value = ("OK", [b""])
 
-        results = fetch_unseen_mails(
+        results = fetch_recent_mails(
             host="mails.tsinghua.edu.cn",
             user="test@mails.tsinghua.edu.cn",
             password="secret",
@@ -85,7 +86,7 @@ class TestFetchUnseenMails:
         )
         mock_conn.fetch.return_value = ("OK", [(b"1 (RFC822 {1234})", raw)])
 
-        results = fetch_unseen_mails(
+        results = fetch_recent_mails(
             host="mails.tsinghua.edu.cn",
             user="test@mails.tsinghua.edu.cn",
             password="secret",
@@ -109,11 +110,49 @@ class TestFetchUnseenMails:
             ("OK", [(b"2 (RFC822 {100})", raw2)]),
         ]
 
-        results = fetch_unseen_mails(
+        results = fetch_recent_mails(
             host="mails.tsinghua.edu.cn",
             user="test@mails.tsinghua.edu.cn",
             password="secret",
         )
 
         assert len(results) == 2
-        assert mock_conn.store.call_count == 2
+        # readonly 模式不标记已读
+        mock_conn.store.assert_not_called()
+
+    @patch("src.mail_fetcher.imaplib.IMAP4_SSL")
+    def test_search_uses_since_date(self, mock_imap_cls: MagicMock) -> None:
+        """验证搜索条件包含 SINCE 日期"""
+        mock_conn = MagicMock()
+        mock_imap_cls.return_value = mock_conn
+        mock_conn.login.return_value = ("OK", [b"Logged in"])
+        mock_conn.select.return_value = ("OK", [b"0"])
+        mock_conn.search.return_value = ("OK", [b""])
+
+        fetch_recent_mails(
+            host="mails.tsinghua.edu.cn",
+            user="test@mails.tsinghua.edu.cn",
+            password="secret",
+            days=3,
+        )
+
+        # 验证搜索条件格式
+        search_call = mock_conn.search.call_args
+        criteria = search_call[0][1]
+        assert "FROM" in criteria
+        assert "SINCE" in criteria
+        assert "UNSEEN" not in criteria
+
+    @patch("src.mail_fetcher.imaplib.IMAP4_SSL")
+    def test_imap_error_raises(self, mock_imap_cls: MagicMock) -> None:
+        """IMAP 连接失败应抛出异常"""
+        mock_conn = MagicMock()
+        mock_imap_cls.return_value = mock_conn
+        mock_conn.login.side_effect = imaplib.IMAP4.error("auth failed")
+
+        with pytest.raises(imaplib.IMAP4.error):
+            fetch_recent_mails(
+                host="mails.tsinghua.edu.cn",
+                user="test@mails.tsinghua.edu.cn",
+                password="wrong",
+            )
