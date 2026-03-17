@@ -257,12 +257,12 @@ SUMMARY:★Advanced nano-characterization using STEM-CL / STEM-EBIC
 DTSTART;TZID=Asia/Shanghai:20260319T150000
 DTEND;TZID=Asia/Shanghai:20260319T163000
 UID:cbd8788b6eae04ac8f3468e7b4545e04@reportautocal
-DESCRIPTION:主讲人: Frank Bertram Otto-von-Guericke University\n\n报
- 告介绍了结合扫描透射电子显微镜与阴极发光光谱的STEM-
- CL技术，用于在纳米尺度上对复杂半导体异质结构进行光
- 学表征。该技术特别适用于低温环境，能高灵敏度、非
- 破坏性地关联材料的结构、化学、电子和光学性质，是
- 研究量子结构的有力工具。
+DESCRIPTION:主讲人: Frank Bertram Otto-von-Guericke University\n\n本
+ 次讲座将介绍一种结合扫描透射电子显微镜与阴极发光
+ 光谱的先进纳米表征技术（STEM-CL）。该技术能够在液氦
+ 温度下，以纳米级空间分辨率对复杂半导体异质结构和
+ 量子结构进行光学、结构及电子性质的综合分析，是研
+ 究低维半导体材料与器件物理的强有力工具。
 LOCATION:北京大学/物理楼/212
 END:VEVENT
 BEGIN:VEVENT
@@ -274,12 +274,27 @@ DESCRIPTION:主讲人: 赵晨晓 粤港澳大湾区量子科学中心\n\n
  本报告聚焦于纳米石墨烯晶格中处于半填充莫特绝缘体
  相的π电子磁性，探讨了实现具有优异结构稳定性、可扩
  展性和强交换耦合的低维自旋系统的途径。报告人将首
- 先阐述石墨烯中π电子磁性的起源与基本原理，进而介绍
- 如何利用扫描隧道显微镜（STM）实现对磁性纳米石墨烯
- 自旋态的精确调控，以及如何通过表面合成技术共价连
- 接这些磁性纳米石墨烯结构单元，构建具有定制化性质
- 的自旋链。这些自旋链的基态性质已通过具有空间和能
- 量分辨能力的非弹性电子隧穿谱进行了表征。
+ 先阐述石墨烯中π电子磁性的起源与基本原理，随后介绍
+ 如何利用扫描隧道显微镜（STM）对磁性纳米石墨烯的自
+ 旋态进行精确调控，并展示通过表面合成技术共价连接
+ 这些磁性单元以构建具有定制性质的自旋链。最后，报
+ 告将讨论利用具有空间和能量分辨能力的非弹性电子隧
+ 穿谱对这些自旋链的基态性质进行表征的研究成果。
+LOCATION:物理楼/W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Noise\, Decoherence\, and Parameter Shifts in Silicon-based Qub
+ it Devices
+DTSTART;TZID=Asia/Shanghai:20260323T160000
+DTEND;TZID=Asia/Shanghai:20260323T173000
+UID:c1120682caa36f9739a6ff4fd035dbc6@reportautocal
+DESCRIPTION:主讲人: Robert Joynt University of Wisconsin-Madison\n\n本
+ 报告探讨电场噪声对硅基量子点量子计算机的有害影响
+ 。报告人将首先介绍这种来源尚不明确的噪声，并阐述
+ 基于贝叶斯推断的理论工具，用于从实验数据推断噪声
+ 的物理来源。噪声不仅导致量子退相干，还会引起量子
+ 比特频率漂移，这两者都是影响量子计算机稳定运行的
+ 关键问题。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
