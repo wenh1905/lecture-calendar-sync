@@ -280,13 +280,13 @@ DESCRIPTION:主讲人: Robert Joynt University of Wisconsin-Madison\n\n本
  。报告人将首先介绍这种来源尚不明确的噪声，并阐述
  基于贝叶斯推断的理论工具，用于从实验数据推断噪声
  的物理来源。报告重点分析噪声导致的主要后果——退
- 相干，并论证其同样会引起量子比特频率漂移，这两者
- 均是量子计算机稳定运行需要解决的关键问题。
+ 相干，并论证其同样会引起量子比特频率漂移，这对量
+ 子计算机的稳定运行构成挑战。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Light-induced spin splitting in PT-symmetric magnetic and nonmagne
- tic spin-orbit coupled systems
+SUMMARY:★Light-induced spin splitting in PT-symmetric magnetic and nonma
+ gnetic spin-orbit coupled systems
 DTSTART;TZID=Asia/Shanghai:20260324T100000
 DTEND;TZID=Asia/Shanghai:20260324T113000
 UID:786393436a042476e646b5d35aefc6a0@reportautocal
@@ -294,8 +294,10 @@ DESCRIPTION:主讲人: 严忠波 中山大学\n\n报告探讨了光与物
  质相互作用如何调控自旋劈裂的宇称特性。在具有PT对称
  性的反铁磁狄拉克材料中，圆偏振光可以诱导出奇宇称
  的自旋劈裂；而在具有自旋轨道耦合的中心对称非磁系
- 统中，圆偏振光则能实现偶宇称的自旋劈裂。这为通过
- 光场操纵自旋自由度提供了新的理论见解。
+ 统中，圆偏振光则能实现偶宇称的自旋劈裂。这揭示了
+ 光场作为一种对称性破缺工具，能够互换由磁交换场和
+ 自旋轨道耦合两种机制产生的自旋劈裂宇称，为自旋电
+ 子学提供了新的调控思路。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -303,13 +305,12 @@ SUMMARY:Quantum magnonics and quantum nonlinear magnonics
 DTSTART;TZID=Asia/Shanghai:20260319T160000
 DTEND;TZID=Asia/Shanghai:20260319T173000
 UID:9bf331feb310c530766ff43a1616e208@reportautocal
-DESCRIPTION:主讲人: 游建强 浙江大学\n\n本次报告聚焦量子
- 磁振子学这一量子物理与凝聚态物理交叉的新兴领域。
- 报告人将介绍其团队在单磁振子量子控制方面的最新进
- 展，包括确定性生成单磁振子态及其与真空态的相干叠
- 加。此外，还将展示在量子非线性磁振子学中实现磁振
- 子压缩的新结果，探讨其在量子信息处理等领域的潜在
- 应用。
+DESCRIPTION:主讲人: 游建强 浙江大学\n\n本报告介绍了量子
+ 磁振子学这一量子物理与凝聚态物理交叉领域的新兴研
+ 究方向。报告人将首先展示单个磁振子的量子操控，包
+ 括单磁振子态的确定性生成及其与真空态的相干叠加。
+ 其次，报告将展示在量子非线性磁振子学中取得的新成
+ 果，特别是量子区域内的磁振子压缩现象。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
