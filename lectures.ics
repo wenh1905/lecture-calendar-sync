@@ -344,4 +344,20 @@ DESCRIPTION:主讲人: 李博文 同方威视科技江苏有限公司人
  能的AI技术生态体系，并应用于安检等行业。
 LOCATION:刘卿楼/报告厅
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★From Phase Stability to chiral Photonics: Halide Perovskites fo
+ r Room-Temperature Exciton-Polariton Lasing
+DTSTART;TZID=Asia/Shanghai:20260323T103000
+DTEND;TZID=Asia/Shanghai:20260323T113000
+UID:d93789c3df422276eb7fd1a7b7565e5c@reportautocal
+DESCRIPTION:主讲人: 彭斯颖 西湖大学\n\n报告探讨卤化物钙
+ 钛矿在光电子器件中的应用，聚焦于解决材料不稳定性
+ 并开发新型光子功能。研究揭示了混合卤化物钙钛矿中
+ 残余应变是导致相分离不稳定的微观机制。同时，通过
+ 将手性二维钙钛矿与分布式布拉格反射镜微腔集成，实
+ 现了室温连续波手性激子-极化激元激光器，具有低阈值
+ 和高圆偏振度，为低能耗自旋光电子应用提供了新平台
+ 。
+LOCATION:物理楼/W105
+END:VEVENT
 END:VCALENDAR
