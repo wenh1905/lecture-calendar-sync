@@ -394,13 +394,13 @@ DTSTART;TZID=Asia/Shanghai:20260331T100000
 DTEND;TZID=Asia/Shanghai:20260331T113000
 UID:1731b788b0dfe961ae1313b012037460@reportautocal
 DESCRIPTION:主讲人: Alexandre Tkatchenko 卢森堡大学\n\n本次报
- 告探讨了精确量子力学模型与高效机器学习方法的融合
- 如何为全原子模拟带来范式转变。报告人将评估当前QM/ML
- 方法在模拟共价材料、分子、分子晶体、表面乃至生理
- 条件下整个蛋白质等挑战性应用中的进展，并重点讨论
- 实现复杂功能（生物）分子和材料系统完全可预测动力
- 学所需的发展，特别是化学空间和原子间相互作用的可
- 迁移性等关键挑战。
+ 告探讨了精确量子力学模型与高效机器学习方法相结合
+ 所带来的范式转变，及其在原子尺度模拟中的应用前景
+ 。报告人将评估当前QM/ML方法在模拟共价材料、分子、分
+ 子晶体、表面乃至生理条件下整个蛋白质等复杂体系方
+ 面的进展与挑战，重点关注化学空间和原子间相互作用
+ 的可迁移性等关键问题，旨在推动该领域实现复杂功能
+ （生物）分子和材料系统的完全预测性动力学模拟。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -408,14 +408,13 @@ SUMMARY:Quantum Molecular Simulations with Machine Learning Force Fields
 DTSTART;TZID=Asia/Shanghai:20260331T110000
 DTEND;TZID=Asia/Shanghai:20260331T123000
 UID:0a54a609d50873eabf16e825301dd56b@reportautocal
-DESCRIPTION:主讲人: Adil Kabylda University of Luxembourg\n\n本次报
- 告探讨机器学习力场在量子分子模拟中的应用。针对现
- 有模型在训练数据质量和长程效应捕捉上的局限，报告
- 人将介绍其团队开发的两个重要工具：结合SO(3)等变神经
- 网络与长程相互作用的预训练力场SO3LR，以及扩展化学空
- 间覆盖的量子力学数据集QCell。通过具体案例展示这些进
- 展如何实现接近从头算精度的复杂生物分子系统模拟，
- 并包含简短的实践教程和未来展望。
+DESCRIPTION:主讲人: Adil Kabylda University of Luxembourg\n\n本次讲
+ 座探讨机器学习力场在量子分子模拟中的应用。报告人
+ 将介绍两种方法以克服现有局限：SO3LR模型结合了SO(3)等
+ 变神经网络与长程静电和色散势，以及QCell量子力学数据
+ 集扩展了分子片段的化学空间覆盖。通过具体案例展示
+ 这些进展如何实现接近从头算精度的复杂生物分子系统
+ 模拟，并包含SO3LR的使用教程及未来方向的讨论。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -431,9 +430,9 @@ DESCRIPTION:主讲人: Cheng-Wei Qiu National University of Singapore\n\n
  两者的结合来调控光行为，实现零暗电流双极性半金属
  光电探测器、原子厚度单层超透镜、增强二次谐波产生
  与光致发光、可调结构色等功能。最后，报告将介绍在
- 对称性与拓扑物理与范德瓦尔斯极化激元超表面融合集
- 成方面的突破，为超低损耗、长程传播、拓扑界面及可
- 定制片上集成功能器件提供新的路线图。
+ 对称性与拓扑物理与范德华极化激元超表面融合集成方
+ 面的突破，为超低损耗、长程传播、拓扑界面及可定制
+ 片上集成功能器件提供新的路线图。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
