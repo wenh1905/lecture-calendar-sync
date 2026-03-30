@@ -456,11 +456,13 @@ SUMMARY:A Persistently Active Repeating Fast Radio Burst
 DTSTART;TZID=Asia/Shanghai:20260402T150000
 DTEND;TZID=Asia/Shanghai:20260402T163000
 UID:22e3d0f78f7a58aade49bbc308399b5b@reportautocal
-DESCRIPTION:主讲人: 牛晨辉 华中师范大学\n\n本报告将介绍
+DESCRIPTION:主讲人: 牛晨辉 华中师范大学\n\n本报告介绍了
  利用五百米口径球面射电望远镜（FAST）首次发现的持续
- 活跃重复快速射电暴源FRB 20190520B。报告人将回顾对该源
- 传播效应演化、周边环境及其可能双星起源的最新研究
- 进展，探讨快速射电暴的物理起源和宇宙学应用。
+ 活跃重复快速射电暴源FRB 20190520B。快速射电暴是起源未
+ 知的毫秒级高能射电暂现源。报告将回顾对该源传播效
+ 应演化、周围环境及其可能双星起源的最新研究进展，
+ 探讨重复暴源为理解其物理机制和宇宙学应用提供的独
+ 特机会。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
