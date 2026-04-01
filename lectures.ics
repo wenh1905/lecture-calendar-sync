@@ -436,22 +436,6 @@ DESCRIPTION:主讲人: Cheng-Wei Qiu National University of Singapore\n\n
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Driven Quantum Materials: Controlling Emergent Phenomena away from
-  Equilibrium
-DTSTART;TZID=Asia/Shanghai:20260402T160000
-DTEND;TZID=Asia/Shanghai:20260402T173000
-UID:5c5e7fd13e60b91bfa63f572acbea7e9@reportautocal
-DESCRIPTION:主讲人: Andrea Cavalleri 马克斯·普朗克物质结构
- 与动力学研究所、牛津大学\n\n本讲座将探讨如何利用与
- 量子材料集体模式共振的相干电磁辐射，诱导出非平衡
- 态下的新奇动力学现象。报告人将阐述如何通过光扰动
- 、切换、抑制或放大非平衡涌现序，如超导性、磁性、
- 铁电性等功能特性，并讨论其基础与应用意义。讲座还
- 将强调现代超快X射线自由电子激光器和新型太赫兹源在
- 这些研究中的关键作用。
-LOCATION:物理楼/W101
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Persistently Active Repeating Fast Radio Burst
 DTSTART;TZID=Asia/Shanghai:20260402T150000
 DTEND;TZID=Asia/Shanghai:20260402T163000
@@ -488,11 +472,27 @@ DTEND;TZID=Asia/Shanghai:20260407T113000
 UID:03993b8822539d3d28f27592f7ca4a0a@reportautocal
 DESCRIPTION:主讲人: Vadim Grinenko 上海交通大学李政道研究所
  \n\n报告探讨了Sr2RuO4中时间反演对称性破缺态的本质及其
- 与超导电性的关系。通过μ子自旋弛豫测量，研究了镧掺
- 杂、无序和钌包裹体对超导态中自发磁场的影响。研究
- 发现，自发磁场主要出现在不均匀区域周围，并随着超
- 导临界温度的抑制而减弱。该行为与多分量时间反演对
- 称性破缺超导性的理论预测一致。
+ 与超导性的关系。通过μ子自旋弛豫测量，研究了镧掺杂
+ 、无序和钌包裹体对超导态中自发磁场的影响。研究发
+ 现，自发磁场出现在不均匀性周围，并随着超导临界温
+ 度的抑制而减弱，这与多分量时间反演对称性破缺超导
+ 性的理论预测一致。
 LOCATION:物理楼/W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driven Quantum Materials: Controlling Emergent Phenomena away from
+  Equilibrium
+DTSTART;TZID=Asia/Shanghai:20260402T160000
+DTEND;TZID=Asia/Shanghai:20260402T173000
+UID:5c5e7fd13e60b91bfa63f572acbea7e9@reportautocal
+DESCRIPTION:主讲人: Andrea Cavalleri 马克斯·普朗克物质结构
+ 与动力学研究所/牛津大学\n\n本讲座将探讨如何利用与量
+ 子材料集体模式共振的相干电磁辐射，诱导出非平衡态
+ 下的新奇动力学现象。报告人将阐述如何通过光扰动、
+ 切换、抑制或放大非平衡涌现序，包括超导性、磁性、
+ 铁电性等功能特性，并讨论其基础与应用意义。讲座还
+ 将强调现代超快X射线自由电子激光器和新型太赫兹源在
+ 这些研究中的关键作用。
+LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
