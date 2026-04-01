@@ -461,8 +461,8 @@ DESCRIPTION:主讲人: 李自翔 中国科学院物理研究所\n\n本报
  发现不同数值方法均未观测到显著不对称性，提出掺杂
  诱导的无序可能是实验观测到不对称性的关键因素。其
  次，讨论了在掺杂SU(4) Su-Schrieffer-Heeger相互作用模型中出
- 现的电荷-4e超导电性，强相互作用下可稳定形成高转变
- 温度的电荷-4e超导相。
+ 现的电荷-4e超导性，强相互作用下可稳定形成高转变温
+ 度的电荷-4e超导相。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -471,12 +471,12 @@ DTSTART;TZID=Asia/Shanghai:20260407T100000
 DTEND;TZID=Asia/Shanghai:20260407T113000
 UID:03993b8822539d3d28f27592f7ca4a0a@reportautocal
 DESCRIPTION:主讲人: Vadim Grinenko 上海交通大学李政道研究所
- &物理与天文学院\n\n报告探讨了Sr2RuO4中时间反演对称性
- 破缺态的本质及其与超导性的关系。通过μ子自旋弛豫测
- 量，研究了镧掺杂、无序和钌包裹体对超导态中自发磁
- 场的影响。研究发现，自发磁场主要出现在非均匀性周
- 围，并随着超导临界温度的抑制而减弱。该行为与多分
- 量时间反演对称性破缺超导性的理论预测一致。
+ \n\n报告探讨了Sr2RuO4中时间反演对称性破缺态的本质及其
+ 与超导性的关系。通过μ子自旋弛豫测量，研究了镧掺杂
+ 、无序和钌包裹体对超导态中自发磁场的影响。研究发
+ 现，自发磁场主要出现在非均匀区域周围，并随着超导
+ 临界温度的抑制而减弱。该行为与多分量时间反演对称
+ 性破缺超导性的理论预测一致。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -485,14 +485,13 @@ SUMMARY:Driven Quantum Materials: Controlling Emergent Phenomena away from
 DTSTART;TZID=Asia/Shanghai:20260402T160000
 DTEND;TZID=Asia/Shanghai:20260402T173000
 UID:5c5e7fd13e60b91bfa63f572acbea7e9@reportautocal
-DESCRIPTION:主讲人: Andrea Cavalleri 马克斯·普朗克物质结构
- 与动力学研究所、牛津大学\n\n本次讲座将探讨如何利用
- 与量子材料集体模式共振的相干电磁辐射，诱导出非平
- 衡态下的新奇动力学现象。报告人将阐述如何通过光扰
- 动、切换、抑制或放大非平衡涌现序，包括超导性、磁
- 性、铁电性等功能特性，并讨论其基础与应用意义。讲
- 座还将强调现代超快X射线自由电子激光器和新型太赫兹
- 源在这些研究中的关键作用。
+DESCRIPTION:主讲人: Andrea Cavalleri Max Planck Institute for the Struc
+ ture and Dynamics of Matter\, University of Oxford\n\n报告将讨论如
+ 何利用与量子材料集体模式共振的相干电磁辐射，诱导
+ 出超导、磁性、铁电性等非平衡涌现现象。通过光控技
+ 术，可以在远高于热力学相变温度下诱导出这些有序态
+ 。报告还将涉及超快X射线自由电子激光和新型太赫兹源
+ 等关键技术在这些研究中的重要作用。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
