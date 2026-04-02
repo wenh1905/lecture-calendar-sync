@@ -485,14 +485,14 @@ SUMMARY:Driven Quantum Materials: Controlling Emergent Phenomena away from
 DTSTART;TZID=Asia/Shanghai:20260402T160000
 DTEND;TZID=Asia/Shanghai:20260402T173000
 UID:5c5e7fd13e60b91bfa63f572acbea7e9@reportautocal
-DESCRIPTION:主讲人: Andrea Cavalleri 马克斯·普朗克物质结构
- 与动力学研究所/牛津大学\n\n本讲座将探讨如何利用与量
- 子材料集体模式共振的相干电磁辐射，诱导出非平衡态
- 下的新奇动力学现象。报告人将阐述如何通过光扰动、
- 切换、抑制或放大非平衡涌现序，如超导性、磁性、铁
- 电性等功能特性，并讨论其基础与应用意义。讲座还将
- 强调现代超快X射线自由电子激光和新型太赫兹源在这些
- 研究中的关键作用。
+DESCRIPTION:主讲人: Andrea Cavalleri Max Planck Institute for the Struc
+ ture and Dynamics of Matter\, University of Oxford\n\n报告将讨论如
+ 何利用与量子材料集体模式共振的相干电磁辐射，诱导
+ 出非平衡态下的新奇动力学现象，如超导性、磁性、铁
+ 电性等功能态。通过光激发，可以在远高于热力学相变
+ 温度的条件下操控和诱导这些有序态。报告还将涉及超
+ 快X射线自由电子激光和新型太赫兹源等关键技术在这些
+ 研究中的重要作用。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
