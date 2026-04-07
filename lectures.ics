@@ -494,4 +494,21 @@ DESCRIPTION:主讲人: Andrea Cavalleri 马克斯·普朗克物质结构
  和新型太赫兹源等关键技术在这些研究中的重要作用。
 LOCATION:物理楼/W101
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Higgs Boson Candidates at the LHC and the Rise of Agentic AI i
+ n Particle Physics
+DTSTART;TZID=Asia/Shanghai:20260409T160000
+DTEND;TZID=Asia/Shanghai:20260409T173000
+UID:b940b4c78bb8354d070ba337dafb4516@reportautocal
+DESCRIPTION:主讲人: Bruce Mellado 中国科学院高能物理研究所\
+ n\n本次报告将讨论大型强子对撞机数据研究中出现的两
+ 个新的希格斯玻色子候选粒子，分别位于95 GeV和152 GeV附
+ 近，并解释它们为何日益受到关注。报告还将这些可能
+ 的信号置于高能新现象搜寻的更广泛背景中，探讨其对
+ 未来对撞机的意义及其在塑造粒子物理学下一阶段中的
+ 潜在作用。此外，报告将简要介绍粒子物理和科学领域
+ 中代理式人工智能的最新进展，以及AI系统如何协助探测
+ 器操作和日益复杂的分析工作流。
+LOCATION:物理楼/W101
+END:VEVENT
 END:VCALENDAR
