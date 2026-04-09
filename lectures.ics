@@ -508,53 +508,6 @@ DESCRIPTION:主讲人: 李海峰 山东大学\n\n本报告将回顾大型
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Energy correlators in heavy ion collisions
-DTSTART;TZID=Asia/Shanghai:20260407T100000
-DTEND;TZID=Asia/Shanghai:20260407T113000
-UID:1a3387c55dd516cac68129a50ff55721@reportautocal
-DESCRIPTION:主讲人: Joao Barata CERN/BNL\n\n本次讲座将探讨能量
- 流算符作为连接理论与实验的共同语言，如何用于映射
- 量子场论的动力学。重点介绍多点能量关联子在表征高
- 能散射（特别是重离子碰撞）中QCD物质性质的应用。报
- 告将回顾光射线关联函数的理论现状，包括因子化、演
- 化和介质诱导修正，并总结相应的实验测量。最后将论
- 证这些可观测量为研究非真空非平凡量子态提供了可控
- 途径，搭建了对撞机现象学与量子场论形式发展之间的
- 桥梁。
-LOCATION:物理楼/W260
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evolution of Globular Cluster Systems from High Redshift to the Pr
- esent
-DTSTART;TZID=Asia/Shanghai:20260409T150000
-DTEND;TZID=Asia/Shanghai:20260409T163000
-UID:07076a803713fcc4b72d6abfa14efa6b@reportautocal
-DESCRIPTION:主讲人: Oleg Gnedin University of Michigan\n\n本次报告
- 探讨球状星团系统从高红移至今的演化。球状星团是形
- 成于高红移星系中的大质量星团，可作为星系恒星形成
- 活跃期的示踪物，帮助重建银河系等星系的组装历史。
- 主讲人介绍了结合宇宙学模拟与半解析模型的研究项目
- ，模拟了球状星团在整个宇宙时间尺度上的形成与瓦解
- 过程。该研究预测并已被JWST观测证实，大质量星团是高
- 红移星系的主要恒星成分。报告还讨论了星团反馈对宿
- 主星系恒星形成史的影响，以及利用盖亚数据发现瓦解
- 星团产生的恒星流的方法。
-LOCATION:物理楼/E100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:★宽禁带半导体器件可靠性研究进展
-DTSTART;TZID=Asia/Shanghai:20260409T150000
-DTEND;TZID=Asia/Shanghai:20260409T163000
-UID:a0d26248bac4e370269cb998ceb8ec30@reportautocal
-DESCRIPTION:主讲人: 郑雪峰 西安电子科技大学\n\n本报告聚
- 焦以氮化镓为代表的宽禁带半导体器件可靠性问题。报
- 告将阐述器件在电、热、空间辐射等应力下的性能退化
- 现象与内在机理，并结合新型缺陷表征方法，深入探讨
- 其失效机制，旨在推动氮化镓基电子器件在高频率、大
- 功率领域的进一步应用。
-LOCATION:北京大学/物理楼/212
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:用激光聚变点亮未来
 DTSTART;TZID=Asia/Shanghai:20260412T150000
 DTEND;TZID=Asia/Shanghai:20260412T163000
@@ -594,5 +547,52 @@ DESCRIPTION:主讲人: CCMP2026组委会\n\nCCMP2026是凝聚态物理领
  专题。会议为全球专家和新兴人才提供交流平台，以激
  发新的合作与跨学科对话。
 LOCATION:长三角物理研究中心
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energy correlators in heavy ion collisions
+DTSTART;TZID=Asia/Shanghai:20260407T100000
+DTEND;TZID=Asia/Shanghai:20260407T113000
+UID:1a3387c55dd516cac68129a50ff55721@reportautocal
+DESCRIPTION:主讲人: Joao Barata CERN/BNL\n\n本次讲座将探讨能量
+ 流算符作为连接理论与实验的通用语言，如何用于映射
+ 量子场论的动力学。重点介绍多点能量关联子在表征高
+ 能散射（特别是重离子碰撞）中QCD物质性质的应用。报
+ 告将回顾光射线关联函数的理论现状，包括因子化、演
+ 化以及介质诱导修正，并总结相应的实验测量。最后将
+ 论证这些可观测量为研究非真空非平凡量子态提供了可
+ 控途径，从而在碰撞器现象学与量子场论形式发展之间
+ 架起桥梁。
+LOCATION:物理楼/W260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evolution of Globular Cluster Systems from High Redshift to the Pr
+ esent
+DTSTART;TZID=Asia/Shanghai:20260409T150000
+DTEND;TZID=Asia/Shanghai:20260409T163000
+UID:07076a803713fcc4b72d6abfa14efa6b@reportautocal
+DESCRIPTION:主讲人: Oleg Gnedin University of Michigan\n\n本次报告
+ 探讨球状星团系统从高红移至今的演化。球状星团是形
+ 成于高红移星系中的大质量星团，可作为星系恒星形成
+ 活跃期的示踪物，帮助我们重建银河系等星系的组装历
+ 史。报告人将介绍一个结合宇宙学模拟与半解析模型的
+ 研究项目，模拟球状星团在整个宇宙时间尺度上的形成
+ 与瓦解过程。该研究预测并已被JWST观测证实，大质量星
+ 团是高红移星系的主要恒星成分。此外，报告还涉及利
+ 用Gaia数据探测星团瓦解产生的恒星流，并为研究者提供
+ 了相关的模拟星表。
+LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★宽禁带半导体器件可靠性研究进展
+DTSTART;TZID=Asia/Shanghai:20260409T150000
+DTEND;TZID=Asia/Shanghai:20260409T163000
+UID:a0d26248bac4e370269cb998ceb8ec30@reportautocal
+DESCRIPTION:主讲人: 郑雪峰 西安电子科技大学\n\n本报告聚
+ 焦以氮化镓为代表的宽禁带半导体器件可靠性问题。报
+ 告将阐述器件在电、热、空间辐射等应力下的性能退化
+ 现象与内在机理，并结合新型缺陷表征方法，深入探讨
+ 其失效机制，旨在推动氮化镓基电子器件在高频率、大
+ 功率领域的应用发展。
+LOCATION:北京大学/物理楼/212
 END:VEVENT
 END:VCALENDAR
