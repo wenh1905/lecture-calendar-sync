@@ -575,13 +575,14 @@ DTSTART;TZID=Asia/Shanghai:20260409T160000
 DTEND;TZID=Asia/Shanghai:20260409T173000
 UID:b940b4c78bb8354d070ba337dafb4516@reportautocal
 DESCRIPTION:主讲人: Bruce Mellado 中国科学院高能物理研究所\
- n\n本次报告将讨论大型强子对撞机数据中出现的两个新
- 的希格斯玻色子候选者，分别位于95 GeV和152 GeV附近，并
- 解释它们为何引起领域内越来越多的关注。报告将把这
- 些可能的信号置于高能新现象搜寻的更广泛背景中，探
- 讨其对未来对撞机的意义，以及它们在塑造粒子物理学
- 下一阶段中的潜在作用。同时，报告还将简要介绍用于
- 粒子物理和科学的Agentic AI最新进展。
+ n\n本次报告将讨论大型强子对撞机数据研究中出现的两
+ 个新的希格斯玻色子候选者，分别位于95 GeV和152 GeV附近
+ ，并解释它们为何日益受到关注。报告将把这些可能的
+ 信号置于高能新现象搜寻的更广泛背景中，探讨其对未
+ 来对撞机的意义以及在粒子物理学下一阶段可能扮演的
+ 角色。同时，报告还将简要介绍用于粒子物理和科学的Ag
+ entic AI最新进展，这种AI系统可以协助探测器操作和日益
+ 复杂的分析工作流。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -589,14 +590,13 @@ SUMMARY:★Conference of Condensed Matter Physics 2026 (CCMP2026)
 DTSTART;TZID=Asia/Shanghai:20260622T090000
 DTEND;TZID=Asia/Shanghai:20260625T180000
 UID:4ab6afbae54d85c2e2c0e339395789e9@reportautocal
-DESCRIPTION:主讲人: CCMP 2026 Organizing Committee 中国科学院物
- 理研究所等\n\nCCMP2026是凝聚态物理领域的顶级国际会议
- ，旨在推动学科前沿发展并促进全球研究者合作。会议
- 将包含全会报告、邀请报告和海报展示，涵盖超导与磁
- 性、计算与AI驱动物理、能源与器件物理、低维系统与拓
- 扑物理等多个专题。会议为科学家、研究生和博士后提
- 供交流平台，分享最新研究成果并探索未来科技创新方
- 向。
+DESCRIPTION:主讲人: CCMP2026组委会\n\nCCMP2026是凝聚态物理领
+ 域的顶级国际会议，旨在推动学科前沿发展并促进研究
+ 者、学者及产业界专业人士的合作。会议将包含全会报
+ 告、邀请报告和海报展示，涵盖超导与磁性、计算与AI驱
+ 动物理、能源与器件物理、低维系统与拓扑物理等多个
+ 专题。会议为全球专家和新兴人才提供交流平台，以激
+ 发新的合作与跨学科对话。
 LOCATION:长三角物理研究中心
 END:VEVENT
 BEGIN:VEVENT
@@ -604,12 +604,13 @@ SUMMARY:★Optical Investigation of Strongly Correlated Electrons
 DTSTART;TZID=Asia/Shanghai:20260416T140000
 DTEND;TZID=Asia/Shanghai:20260416T153000
 UID:3ebb61ac05ed62329ad3efa79653a38c@reportautocal
-DESCRIPTION:主讲人: Atac Imamoglu 苏黎世联邦理工学院\n\n报告
- 探讨了在莫尔势作用下的二维半导体中强关联电子相的
- 实验光学研究。第一部分实验研究了拓扑平庸的莫尔能
- 带，观察到由动力学机制产生的铁磁关联。第二部分实
- 验聚焦于扭曲MoTe2同质双层中相互作用与拓扑的关联，展
- 示了光学手段对铁磁性及拓扑陈绝缘体态的控制。
+DESCRIPTION:主讲人: Atac Imamoglu 苏黎世联邦理工学院\n\n本报
+ 告探讨了在莫尔势作用下的二维半导体中强关联电子相
+ 的实验光学研究。研究聚焦于两个实验体系：首先，在
+ 拓扑平庸的莫尔能带中，观察到由动力学机制产生的铁
+ 磁关联；其次，在扭曲MoTe2同质双层结构中，研究了相互
+ 作用与拓扑的关联，并实现了对铁磁性及拓扑陈绝缘体
+ 态的光学调控。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -617,11 +618,12 @@ SUMMARY:Gravitational Waves: From Discovery to a New Science
 DTSTART;TZID=Asia/Shanghai:20260416T160000
 DTEND;TZID=Asia/Shanghai:20260416T173000
 UID:1035a8a44691cfbbbbc054857d13fd4a@reportautocal
-DESCRIPTION:主讲人: Barry C Barish 加州理工学院\n\n报告将介
- 绍激光干涉引力波天文台（LIGO）在爱因斯坦预测一百年
- 后首次直接探测到引力波的突破性发现，该发现源于对
- 双黑洞合并事件的观测。报告人将回顾这一历史性成就
- ，并总结过去十年间引力波科学领域的发展与进展。
+DESCRIPTION:主讲人: Barry C Barish 加州理工学院\n\n本次讲座
+ 将回顾引力波的首次直接探测，该发现由激光干涉引力
+ 波天文台（LIGO）在爱因斯坦预测一百年后实现。报告将
+ 重点介绍首次探测到的双黑洞合并事件，以及随后十年
+ 间引力波科学的发展。主讲人Barry Barish教授是2017年诺贝
+ 尔物理学奖得主，在LIGO项目中发挥了核心领导作用。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
