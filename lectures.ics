@@ -592,14 +592,12 @@ SUMMARY:★Optical Investigation of Strongly Correlated Electrons
 DTSTART;TZID=Asia/Shanghai:20260416T140000
 DTEND;TZID=Asia/Shanghai:20260416T153000
 UID:3ebb61ac05ed62329ad3efa79653a38c@reportautocal
-DESCRIPTION:主讲人: Atac Imamoglu 苏黎世联邦理工学院\n\n本报
- 告探讨了在莫尔势作用下的二维半导体中强关联电子相
- 的光学研究。报告人介绍了两个系列的实验：首先，在
- 拓扑平庸且交换相互作用可忽略的莫尔能带中，观察到
- 了由动力学机制产生的铁磁关联；其次，在扭曲的二碲
- 化钼同质双层结构中，研究了相互作用与拓扑之间的关
- 联，并展示了光学手段对铁磁性及拓扑陈绝缘体态的控
- 制能力。
+DESCRIPTION:主讲人: Atac Imamoglu 苏黎世联邦理工学院\n\n报告
+ 探讨了在莫尔势作用下的二维半导体中强关联电子相的
+ 实验研究。第一部分实验研究了拓扑平庸的莫尔能带，
+ 观察到由动力学机制产生的铁磁关联。第二部分实验聚
+ 焦于扭曲二碲化钼同质双层中相互作用与拓扑的关联，
+ 展示了铁磁性及拓扑陈绝缘体状态的光学调控。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -607,12 +605,12 @@ SUMMARY:Gravitational Waves: From Discovery to a New Science
 DTSTART;TZID=Asia/Shanghai:20260416T160000
 DTEND;TZID=Asia/Shanghai:20260416T173000
 UID:1035a8a44691cfbbbbc054857d13fd4a@reportautocal
-DESCRIPTION:主讲人: Barry C Barish 加州理工学院\n\n本次讲座
- 将回顾引力波的首次直接探测，该发现由激光干涉引力
- 波天文台（LIGO）在爱因斯坦预测一百年后实现。报告将
- 重点介绍首次探测到的双黑洞合并事件，以及随后十年
- 间引力波科学的发展。主讲人Barry Barish教授是2017年诺贝
- 尔物理学奖得主，在LIGO项目中发挥了核心领导作用。
+DESCRIPTION:主讲人: Barry C Barish 加州理工学院\n\n报告将介
+ 绍激光干涉引力波天文台（LIGO）在爱因斯坦预测一百年
+ 后首次直接探测到引力波的突破性发现，该发现源于对
+ 一对双黑洞合并事件的观测。报告人将回顾这一历史性
+ 成就，并总结过去十年间引力波科学的发展与进展，展
+ 望这一新领域对物理学和天文学的深远影响。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -621,11 +619,10 @@ DTSTART;TZID=Asia/Shanghai:20260412T150000
 DTEND;TZID=Asia/Shanghai:20260412T163000
 UID:2f3ee525a9f9d119010fc21e8f0f40f9@reportautocal
 DESCRIPTION:主讲人: 张杰 上海交通大学李政道研究所\n\n本
- 报告回顾核聚变能的发展历史，重点介绍2022年美国实现
- 净能量增益惯性约束核聚变的重要突破，展望聚变能时
- 代的未来趋势。报告将特别分析我国在迈向核聚变能时
- 代过程中面临的挑战与机遇，内容涉及激光聚变物理与
- 高能量密度物理等前沿领域。
+ 报告回顾了核聚变能的发展历史，重点介绍了2022年美国
+ 实现净能量增益惯性约束核聚变这一里程碑事件，标志
+ 着聚变能时代的开启。报告将展望核聚变能的未来发展
+ 趋势，并深入探讨我国在该领域面临的挑战与机遇。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
