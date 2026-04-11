@@ -592,12 +592,12 @@ SUMMARY:★Optical Investigation of Strongly Correlated Electrons
 DTSTART;TZID=Asia/Shanghai:20260416T140000
 DTEND;TZID=Asia/Shanghai:20260416T153000
 UID:3ebb61ac05ed62329ad3efa79653a38c@reportautocal
-DESCRIPTION:主讲人: Atac Imamoglu 苏黎世联邦理工学院\n\n报告
- 探讨了在莫尔势作用下的二维半导体中强关联电子态的
- 光学研究。实验聚焦于两类体系：一是拓扑平庸莫尔能
- 带中由动力学机制产生的铁磁关联；二是在扭曲MoTe2同质
- 双层中，研究相互作用与拓扑的 interplay，并实现了对铁
- 磁性及拓扑陈绝缘体态的光学调控。
+DESCRIPTION:主讲人: Atac Imamoglu 苏黎世联邦理工学院\n\n本报
+ 告探讨了在莫尔势作用下的二维半导体中强关联电子相
+ 的实验光学研究。第一部分实验研究了拓扑平庸的莫尔
+ 能带，观察到由动力学机制产生的铁磁关联。第二部分
+ 实验聚焦于扭曲MoTe2同质双层中相互作用与拓扑的关联，
+ 展示了铁磁性及拓扑陈绝缘体态的光学调控。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -610,8 +610,7 @@ DESCRIPTION:主讲人: Barry C Barish 加州理工学院\n\n本次讲座
  波天文台（LIGO）在爱因斯坦预测一百年后实现。报告将
  重点介绍首次探测到的双黑洞合并事件，以及随后十年
  间引力波科学的发展。主讲人Barry Barish教授是2017年诺贝
- 尔物理学奖得主，在LIGO项目及引力波探测中发挥了核心
- 领导作用。
+ 尔物理学奖得主，在LIGO项目中发挥了核心领导作用。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -621,9 +620,9 @@ DTEND;TZID=Asia/Shanghai:20260412T163000
 UID:2f3ee525a9f9d119010fc21e8f0f40f9@reportautocal
 DESCRIPTION:主讲人: 张杰 上海交通大学李政道研究所\n\n本
  报告回顾核聚变能的发展历史，重点介绍2022年美国实现
- 净能量增益惯性约束核聚变这一里程碑事件，展望聚变
- 能时代的未来趋势。报告将特别探讨我国在迈向核聚变
- 能时代过程中面临的挑战与机遇。
+ 净能量增益惯性约束核聚变反应的里程碑意义，展望聚
+ 变能时代的未来趋势。报告将特别探讨我国在迈向核聚
+ 变能时代过程中面临的挑战与机遇。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
