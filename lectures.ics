@@ -588,33 +588,6 @@ DESCRIPTION:主讲人: CCMP2026组委会\n\nCCMP2026是凝聚态物理领
 LOCATION:长三角物理研究中心
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Optical Investigation of Strongly Correlated Electrons
-DTSTART;TZID=Asia/Shanghai:20260416T140000
-DTEND;TZID=Asia/Shanghai:20260416T153000
-UID:3ebb61ac05ed62329ad3efa79653a38c@reportautocal
-DESCRIPTION:主讲人: Atac Imamoglu 苏黎世联邦理工学院\n\n本报
- 告探讨了在莫尔势作用下的二维半导体中强关联电子相
- 的实验光学研究。研究聚焦于两类实验：首先，在拓扑
- 平庸的莫尔能带中，观察到由动力学机制产生的铁磁关
- 联；其次，在扭曲MoTe2同质双层结构中，研究了相互作用
- 与拓扑的关联，并展示了光学手段对铁磁性及拓扑陈绝
- 缘体态的控制能力。
-LOCATION:物理楼/W101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gravitational Waves: From Discovery to a New Science
-DTSTART;TZID=Asia/Shanghai:20260416T160000
-DTEND;TZID=Asia/Shanghai:20260416T173000
-UID:1035a8a44691cfbbbbc054857d13fd4a@reportautocal
-DESCRIPTION:主讲人: Barry C Barish 加州理工学院\n\n报告将介
- 绍激光干涉引力波天文台（LIGO）在爱因斯坦预测一百年
- 后首次直接探测到引力波的突破性发现，该发现源于一
- 对遥远双黑洞的合并。报告人将回顾这一历史性成就，
- 并总结过去十年间引力波科学的发展与进展，展望这一
- 新领域对物理学和天文学的深远影响。
-LOCATION:物理楼/W101
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:用激光聚变点亮未来
 DTSTART;TZID=Asia/Shanghai:20260412T150000
 DTEND;TZID=Asia/Shanghai:20260412T163000
@@ -634,14 +607,14 @@ DTSTART;TZID=Asia/Shanghai:20260416T150000
 DTEND;TZID=Asia/Shanghai:20260416T163000
 UID:cc333f2016a21adb92d7c72c9f4dc3d2@reportautocal
 DESCRIPTION:主讲人: 王力乐 北京大学\n\n本报告聚焦于宇宙
- 弥散物质中的尘埃颗粒物理。研究采用密度泛函理论及
- 基于其的机器学习力场，从第一性原理出发，揭示了非
- 平衡动力学在尘埃行为中的关键作用，包括颗粒自身的
- 升华和表面吸附挥发物的脱附。研究进一步结合路径积
- 分蒙特卡洛方法，定量分析了尘埃表面分子氢催化形成
- 过程中的核量子效应，发现量子隧穿在观测到的宽温度
- 范围内能高效促进分子氢的产生。这些工作为天体物理
- 学中尘埃物理和化学的预测模型奠定了基础。
+ 弥散物质中尘埃颗粒的微观物理。研究结合密度泛函理
+ 论和基于DFT的机器学习力场，从第一性原理出发，揭示
+ 了非平衡动力学在尘埃颗粒自身升华及表面吸附物脱附
+ 过程中的关键作用。报告进一步通过路径积分蒙特卡洛
+ 方法，定量研究了尘埃表面分子氢催化形成中的核量子
+ 效应，发现量子隧穿在观测到的宽温度范围内能有效促
+ 进分子氢生成。这些工作为天体物理学中尘埃物理和化
+ 学的预测模型奠定了基础。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -655,9 +628,37 @@ DESCRIPTION:主讲人: 彭新华 中国科学技术大学\n\n本报告将
  及其在推动量子技术发展中的关键作用。报告人将介绍
  基于自旋的尖端量子技术，包括用于复杂多体物理的量
  子模拟平台、利用自然自旋动力学进行高效时间信息处
- 理的量子储备池计算，以及用于暗物质搜寻等基础物理
- 中弱磁场探测的自旋超灵敏磁强计。最后，报告将讨论
- 激光辅助固态磁共振的未来前景、挑战与机遇。
+ 理的量子储备计算，以及用于暗物质搜寻等基础物理中
+ 弱场探测的自旋超灵敏磁强计。最后，报告将讨论激光
+ 辅助固态磁共振的未来前景、挑战与机遇。
 LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Optical Investigation of Strongly Correlated Electrons
+DTSTART;TZID=Asia/Shanghai:20260416T140000
+DTEND;TZID=Asia/Shanghai:20260416T153000
+UID:3ebb61ac05ed62329ad3efa79653a38c@reportautocal
+DESCRIPTION:主讲人: Atac Imamoglu 苏黎世联邦理工学院\n\n本报
+ 告探讨了在摩尔势作用下的二维半导体中强关联电子相
+ 的实验研究。报告人介绍了在拓扑平庸的摩尔能带中，
+ 通过动力学机制观察到铁磁关联；以及在扭曲MoTe2同质双
+ 层结构中，研究了相互作用与拓扑的关联，并展示了利
+ 用光学手段对铁磁性和拓扑陈绝缘体态进行调控的实验
+ 结果。
+LOCATION:物理楼/W101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gravitational Waves: From Discovery to a New Science
+DTSTART;TZID=Asia/Shanghai:20260416T160000
+DTEND;TZID=Asia/Shanghai:20260416T173000
+UID:1035a8a44691cfbbbbc054857d13fd4a@reportautocal
+DESCRIPTION:主讲人: Barry C Barish 加州理工学院\n\n本次讲座
+ 将回顾激光干涉引力波天文台（LIGO）在爱因斯坦预测一
+ 百年后首次直接探测到引力波的历史性发现。报告将重
+ 点介绍首次探测到的双黑洞合并事件，以及LIGO探测器如
+ 何以前所未有的灵敏度测量到小于10的21次方分之一的空
+ 间时间扭曲。此外，讲座还将总结过去十年间引力波科
+ 学领域取得的主要进展和成果。
+LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
