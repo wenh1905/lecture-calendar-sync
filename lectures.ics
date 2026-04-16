@@ -630,8 +630,8 @@ DESCRIPTION:主讲人: 彭新华 中国科学技术大学\n\n本报告将
  基于自旋的尖端量子技术，包括用于复杂多体物理的量
  子模拟平台、利用自然自旋动力学进行高效时序信息处
  理的量子储备计算，以及用于暗物质搜寻等基础物理中
- 弱场探测的自旋超灵敏磁强计。最后，将讨论激光辅助
- 固态磁共振的未来前景、挑战与机遇。
+ 弱磁场探测的自旋超灵敏磁力计。最后，报告将讨论激
+ 光辅助固态磁共振的未来前景、挑战与机遇。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -639,12 +639,12 @@ SUMMARY:★Optical Investigation of Strongly Correlated Electrons
 DTSTART;TZID=Asia/Shanghai:20260416T140000
 DTEND;TZID=Asia/Shanghai:20260416T153000
 UID:3ebb61ac05ed62329ad3efa79653a38c@reportautocal
-DESCRIPTION:主讲人: Atac Imamoglu ETH Zurich\n\n报告探讨了在摩
+DESCRIPTION:主讲人: Atac Imamoglu ETH Zurich\n\n报告探讨了在莫
  尔势作用下的二维半导体中强关联电子相的实验研究。
- 第一组实验研究了拓扑平庸的摩尔能带，观察到由动力
- 学机制产生的铁磁关联。第二组实验聚焦于扭曲二碲化
- 钼同质双层中相互作用与拓扑的关联，展示了铁磁性及
- 拓扑陈绝缘体态的光学调控。
+ 第一部分实验研究了拓扑平庸的莫尔能带，观察到由动
+ 力学机制产生的铁磁关联。第二部分实验聚焦于扭曲二
+ 碲化钼同质双层中相互作用与拓扑的关联，展示了光学
+ 手段对铁磁性及拓扑陈绝缘体态的控制。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -655,10 +655,10 @@ UID:1035a8a44691cfbbbbc054857d13fd4a@reportautocal
 DESCRIPTION:主讲人: Barry C Barish 加州理工学院\n\n本次讲座
  将回顾激光干涉引力波天文台（LIGO）在爱因斯坦预测一
  百年后首次直接探测到引力波的历史性发现。报告将重
- 点介绍首次探测到的双黑洞合并事件，以及所使用的具
- 有空前灵敏度（可探测小于10^21分之一时空畸变）的干涉
- 仪技术。此外，报告人还将总结过去十年间引力波科学
- 领域取得的主要进展和成果。
+ 点介绍首次探测到的双黑洞合并事件，以及LIGO探测器如
+ 何以前所未有的灵敏度测量到小于10的21次方分之一的空
+ 间时间扭曲。此外，讲座还将总结过去十年间引力波科
+ 学领域取得的重要进展和成果。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
