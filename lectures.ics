@@ -678,4 +678,37 @@ DESCRIPTION:主讲人: 袁之良 北京量子信息科学研究院\n\n本
  。
 LOCATION:物理楼/W105
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★先进4D超快电子显微镜技术及应用研究
+DTSTART;TZID=Asia/Shanghai:20260428T100000
+DTEND;TZID=Asia/Shanghai:20260428T113000
+UID:781a2633c63e3ee1ef16a7bf21a47d3f@reportautocal
+DESCRIPTION:主讲人: 付学文 南开大学\n\n本报告介绍了4D超
+ 快电子显微镜技术，该技术融合了电子显微镜的高空间
+ 分辨率和飞秒激光的超快时间分辨率，用于观测物质在
+ 飞秒-纳米尺度的微观动力学过程。报告重点展示了课题
+ 组在新一代仪器研制方面的进展，包括场发射超快透射
+ 电镜、超快扫描电镜-阴极荧光联合系统等，及其在半导
+ 体表界面电荷动力学、低维关联电子体系相变、手性超
+ 表面光场转化和拓扑磁相变等前沿科学问题中的应用研
+ 究。
+LOCATION:物理楼/W05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learning to stabilize nonequilibrium phases of matter with active 
+ feedback using partial information
+DTSTART;TZID=Asia/Shanghai:20260422T140000
+DTEND;TZID=Asia/Shanghai:20260422T153000
+UID:2e9415ee57c5a9342e2b677c1fd02557@reportautocal
+DESCRIPTION:主讲人: Marin Bukov Max Planck Institute of the Physics of 
+ Complex Systems\n\n本研究利用强化学习探讨了信息在量子多
+ 体系统主动反馈控制中的作用。主动反馈打破了细致平
+ 衡，使得工程化稳态和非平衡物质动态相成为可能。研
+ 究训练智能体使用部分状态信息，以防止纠缠在多达128
+ 个量子比特的稳定电路中扩散。研究发现，超过临界信
+ 息阈值后，习得的近最优策略是非贪婪、随机的，并能
+ 将体积律纠缠稳态降低至面积律。这项工作为经典实现
+ 、信息驱动的多体量子系统个体控制奠定了基础。
+LOCATION:高等研究院/104
+END:VEVENT
 END:VCALENDAR
