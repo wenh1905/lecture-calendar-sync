@@ -662,23 +662,6 @@ DESCRIPTION:主讲人: Barry C Barish 加州理工学院\n\n本次讲座
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Understanding Resonance Fluorescence through Few-Photon Excitat
- ion
-DTSTART;TZID=Asia/Shanghai:20260423T160000
-DTEND;TZID=Asia/Shanghai:20260423T173000
-UID:2e33320ee430d55e5290b8915df9a22f@reportautocal
-DESCRIPTION:主讲人: 袁之良 北京量子信息科学研究院\n\n本
- 报告提出了一种通过少光子激发来理解共振荧光的新视
- 角。报告人将介绍一个统一的量子态框架，用以描述发
- 射体及其自发辐射，从而直观解释共振荧光中相位相干
- 性与光子反聚束如何共存。该模型能够解释一系列近期
- 实验观测，并给出可实验验证的预测，包括失谐共振荧
- 光场之间的干涉、通过与激光干涉实现可调高阶相干性
- ，以及仅使用被动线性干涉仪合成非经典和纠缠光子态
- 。
-LOCATION:物理楼/W105
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:★先进4D超快电子显微镜技术及应用研究
 DTSTART;TZID=Asia/Shanghai:20260428T100000
 DTEND;TZID=Asia/Shanghai:20260428T113000
@@ -712,5 +695,35 @@ DESCRIPTION:主讲人: Marin Bukov Max Planck Institute of the Physics of
  奠定了基础，展示了强化学习在稳定和揭示非平衡稳态
  新奇临界特性方面的能力。
 LOCATION:高等研究院/104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Understanding Resonance Fluorescence through Few-Photon Excitat
+ ion
+DTSTART;TZID=Asia/Shanghai:20260423T160000
+DTEND;TZID=Asia/Shanghai:20260423T173000
+UID:2e33320ee430d55e5290b8915df9a22f@reportautocal
+DESCRIPTION:主讲人: 袁之良 北京量子信息科学研究院\n\n本
+ 讲座介绍通过少光子激发理解共振荧光的互补视角。在
+ 统一量子态框架下描述发射体及其自发辐射，直观解释
+ 共振荧光中相位相干性与光子反聚束的共存。模型可解
+ 释近期观测结果，并预测可实验验证的现象，包括失谐
+ 共振荧光场干涉、通过激光干涉调控高阶相干性，以及
+ 利用无源线性干涉仪合成非经典纠缠光子态。
+LOCATION:物理楼/W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Closeby Habitable Exoplanet Survey (CHES): An Astrometry Mission t
+ o Explore Nearby Habitable Worlds
+DTSTART;TZID=Asia/Shanghai:20260423T150000
+DTEND;TZID=Asia/Shanghai:20260423T163000
+UID:cb743f93289bc3ff96e6f9545a4d7d1e@reportautocal
+DESCRIPTION:主讲人: 季江徽 中国科学院紫金山天文台\n\n报
+ 告介绍CHES任务，旨在利用微角秒级空间天体测量技术，
+ 搜寻距太阳约32光年内100颗类太阳恒星宜居带中的类地行
+ 星，确定其真实质量和三维轨道参数。该任务计划在日
+ 地拉格朗日L2点运行5年，有望在探测近邻类太阳恒星宜
+ 居带类地行星方面取得突破，回答近邻宜居系外行星分
+ 布、地球是否独特等关键科学问题。
+LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
