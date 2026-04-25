@@ -725,4 +725,18 @@ DESCRIPTION:主讲人: 季江徽 中国科学院紫金山天文台\n\n报
  否独特等科学问题。
 LOCATION:物理楼/E100
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Extraordinary boundary correlations at deconfined quantum critical
+  points
+DTSTART;TZID=Asia/Shanghai:20260428T140000
+DTEND;TZID=Asia/Shanghai:20260428T153000
+UID:d26ea23717d6072993b70abfed8b475a@reportautocal
+DESCRIPTION:主讲人: Hao-Ran Cui 明尼苏达大学\n\n报告探讨了
+ 非紧致CP^{N-1}模型在二维空间中的边界动力学，该模型描
+ 述了超导与量子自旋霍尔相之间的退禁闭量子临界点。
+ 在大N极限下，边界显示对数衰减的“非凡对数”关联，
+ 其中单极子算符呈现准长程有序，非凡对数指数为q=N/4，
+ 标志着由N参数化的新边界普适类。
+LOCATION:科学馆/322
+END:VEVENT
 END:VCALENDAR
