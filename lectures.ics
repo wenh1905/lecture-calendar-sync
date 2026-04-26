@@ -734,9 +734,22 @@ UID:d26ea23717d6072993b70abfed8b475a@reportautocal
 DESCRIPTION:主讲人: Hao-Ran Cui 明尼苏达大学\n\n报告探讨了
  非紧致CP^{N-1}模型在二维空间中的边界动力学，该模型描
  述了超导相与量子自旋霍尔相之间的退禁闭量子临界点
- 。在大N极限下，边界显示对数衰减的“非凡对数”关联
- ，单极子算符呈现准长程序，其指数为q=N/4，标志着由N
- 参数化的新边界普适类。
+ 。在大N极限下，边界显示对数衰减的“异常对数”关联
+ ，其中单极子算符呈现准长程有序，异常对数指数为q=N/4
+ ，标志着由N参数化的新边界普适类。
 LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★凝聚态体系中的量子涨落效应
+DTSTART;TZID=Asia/Shanghai:20260507T160000
+DTEND;TZID=Asia/Shanghai:20260507T173000
+UID:a3ef00404a302c685e410bae99e3a289@reportautocal
+DESCRIPTION:主讲人: 曾长淦 中国科学技术大学\n\n报告介绍
+ 了凝聚态体系中量子涨落引发的独特量子效应，包括研
+ 制扫描卡西米尔力显微镜实现卡西米尔力从吸引到排斥
+ 的磁场调控，在石墨烯与超导界面观测到超流拖拽效应
+ ，以及通过构筑暗腔增强量子涨落实现超导电性增强，
+ 展示了量子涨落作为宏观量子效应调控旋钮的潜力。
+LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
