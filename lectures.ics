@@ -731,12 +731,12 @@ SUMMARY:Extraordinary boundary correlations at deconfined quantum critical
 DTSTART;TZID=Asia/Shanghai:20260428T140000
 DTEND;TZID=Asia/Shanghai:20260428T153000
 UID:d26ea23717d6072993b70abfed8b475a@reportautocal
-DESCRIPTION:主讲人: Hao-Ran Cui University of Minnesota\n\n报告探讨
- 了非紧致CP^{N-1}模型在二维空间中的边界动力学，该模型
- 描述了超导相与量子自旋霍尔相之间的退禁闭量子临界
- 点。在大N极限下，边界显示对数衰减的“异常对数”关
- 联，其中单极子算符呈现准长程有序，异常对数指数为q=
- N/4，标志着由N参数化的新边界普适类。
+DESCRIPTION:主讲人: Hao-Ran Cui 明尼苏达大学\n\n报告探讨了
+ 非紧致CP^{N-1}模型在二维空间中的边界动力学，该模型描
+ 述了超导相与量子自旋霍尔相之间的退禁闭量子临界点
+ 。在大N极限下，边界显示对数衰减的“非凡对数”关联
+ ，单极子算符呈现准长程有序，其指数为q=N/4，标志着由
+ N参数化的新边界普适类。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
