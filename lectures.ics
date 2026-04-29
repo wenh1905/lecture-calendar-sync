@@ -758,14 +758,13 @@ SUMMARY:★Optical renormalization of collective magnetic excitations in q
 DTSTART;TZID=Asia/Shanghai:20260507T100000
 DTEND;TZID=Asia/Shanghai:20260507T113000
 UID:78e0cae61c5716578e70da3e719b917e@reportautocal
-DESCRIPTION:主讲人: Davide Bossini University of Konstanz\n\n本讲座
+DESCRIPTION:主讲人: Davide Bossini University of Konstanz\n\n本报告
  聚焦量子材料中的集体磁激发（磁振子），探讨其与电
- 荷自由度的耦合（自旋电子学基础）及太赫兹频率下的
- 最新进展。重点介绍通过共振激发特定磁和电子跃迁，
- 在非平衡态下光学操控磁振子，实现室温下20纳米厚磁体
- 中磁振子频率高达40%的修正，以及利用中红外激光脉冲
- 激发高动量磁振子，从而显著重整化区中心模的振幅和
- 频率。
+ 荷自由度的耦合（自旋电子学基础），并重点介绍通过
+ 共振激发特定磁和电子跃迁来光学操控磁振子，实现室
+ 温下20纳米厚磁体中磁振子频率高达40%的修正，以及利用
+ 中红外激光脉冲激发高动量磁振子，从而实现对磁振子
+ 色散关系的任意光学控制。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -777,9 +776,9 @@ UID:167f56d15789cad9bf329087128bfb27@reportautocal
 DESCRIPTION:主讲人: 陈鹏 广东以色列理工学院\n\n报告探讨
  铁电材料中多自由度本征耦合形成的调控“旋钮”，涵
  盖结构层面氧八面体转动与畴壁声子耦合、极化序层面
- 类DM手性耦合稳定拓扑织构、组分与应变耦合调控AlScN，
- 以及外场驱动下THz激光激发声子实现极化控制与拓扑缺
- 陷生成等，并展望周期性驱动下的非平衡态物理。
+ 类DM手性耦合稳定拓扑织构、外场驱动下THz激光激发声子
+ 实现极化控制与相变，以及周期性驱动下的非平衡态物
+ 理。
 LOCATION:物理楼/W361
 END:VEVENT
 END:VCALENDAR
