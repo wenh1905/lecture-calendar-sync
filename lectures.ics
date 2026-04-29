@@ -753,18 +753,18 @@ DESCRIPTION:主讲人: 曾长淦 中国科学技术大学\n\n报告介绍
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Optical renormalization of collective magnetic excitations in quan
- tum materials
+SUMMARY:★Optical renormalization of collective magnetic excitations in q
+ uantum materials
 DTSTART;TZID=Asia/Shanghai:20260507T100000
 DTEND;TZID=Asia/Shanghai:20260507T113000
 UID:78e0cae61c5716578e70da3e719b917e@reportautocal
-DESCRIPTION:主讲人: Davide Bossini University of Konstanz\n\n本讲座
- 聚焦量子材料中的集体磁激发（磁振子），探讨其与电
- 荷自由度的耦合（自旋电子学基础），并重点介绍通过
- 共振激发特定磁性和电子跃迁来光学操控磁振子，实现
- 室温下磁振子频率高达40%的修正，以及利用中红外激光
- 脉冲激发高动量磁振子，从而实现对磁振子色散关系的
- 任意光学控制。
+DESCRIPTION:主讲人: Davide Bossini University of Konstanz\n\n本报告
+ 聚焦量子材料中的集体磁激发（磁子），探讨如何通过
+ 光与电荷自由度的耦合实现磁子的光学调控。报告将介
+ 绍利用共振激发特定磁性和电子跃迁，在室温下将20纳米
+ 厚磁体中的磁子频率改变高达40%，以及通过中红外激光
+ 脉冲激发高动量磁子来重塑磁子色散关系，展望未来实
+ 现任意光学控制磁子色散的目标。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -778,7 +778,7 @@ DESCRIPTION:主讲人: 陈鹏 广东以色列理工学院\n\n报告探讨
  盖结构层面氧八面体转动与畴壁声子耦合、极化序层面
  类DM手性耦合稳定拓扑织构、组分与应变耦合调控AlScN，
  以及外场驱动下THz激光激发声子实现极化控制与拓扑缺
- 陷生成，并展望周期性驱动下的非平衡态物理。
+ 陷生成等，并展望周期性驱动下的非平衡态物理。
 LOCATION:物理楼/W361
 END:VEVENT
 END:VCALENDAR
