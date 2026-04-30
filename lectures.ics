@@ -811,12 +811,11 @@ SUMMARY:量子机器学习前沿研讨会 Progress in Quantum Machine Lear
 DTSTART;TZID=Asia/Shanghai:20260510T090000
 DTEND;TZID=Asia/Shanghai:20260510T180000
 UID:273f2adee19cac65ea90175b383aaa46@reportautocal
-DESCRIPTION:主讲人: 多位报告人\n\n本次研讨会汇聚国际顶
- 尖研究人员和企业专家，分享量子机器学习领域的最新
- 前沿研究，涵盖量子物质与计算、新材料发现、高能粒
- 子物理、药物设计与量子化学，以及量子算法与软件开
- 发等方向，同时也是清华大学物理系百年庆典活动之一
- 。
+DESCRIPTION:主讲人: 多名报告人\n\n本次研讨会汇聚国际顶
+ 尖研究人员与企业专家，分享量子机器学习在量子物质
+ 与计算、新材料发现、高能粒子物理、药物设计与量子
+ 化学、量子算法与软件开发等领域的最新前沿研究，并
+ 作为清华物理系百年庆典活动之一。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
