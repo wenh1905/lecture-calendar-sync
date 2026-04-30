@@ -792,4 +792,16 @@ DESCRIPTION:主讲人: 多位报告人\n\n本次研讨会汇聚国际顶
  物设计与量子化学、量子算法与软件开发等领域。
 LOCATION:物理楼/W101
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:量子机器学习前沿研讨会
+DTSTART;TZID=Asia/Shanghai:20260510T090000
+DTEND;TZID=Asia/Shanghai:20260510T180000
+UID:bc56acbf0cd016550122766469e31dfb@reportautocal
+DESCRIPTION:主讲人: 甘翠云 清华大学\n\n本次研讨会汇聚国
+ 际顶尖研究人员和企业专家，分享量子机器学习最新前
+ 沿研究，涵盖量子物质与计算、新材料发现、高能粒子
+ 物理、药物设计与量子化学、量子算法与软件开发等领
+ 域。同时作为清华物理系百年庆典活动的一部分。
+LOCATION:物理楼/W101
+END:VEVENT
 END:VCALENDAR
