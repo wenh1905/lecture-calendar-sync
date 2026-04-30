@@ -781,4 +781,15 @@ DESCRIPTION:主讲人: 陈鹏 广东以色列理工学院\n\n报告探讨
  等，并展望周期性驱动下的非平衡态物理。
 LOCATION:物理楼/W361
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Progress in Quantum Machine Learning Workshop
+DTSTART;TZID=Asia/Shanghai:20260510T090000
+DTEND;TZID=Asia/Shanghai:20260510T180000
+UID:47bf8925ea9fecb37df045a0ca0360b5@reportautocal
+DESCRIPTION:主讲人: 多位报告人\n\n本次研讨会汇聚国际顶
+ 尖研究人员和企业专家，分享量子机器学习前沿研究，
+ 涵盖量子物质与计算、新材料发现、高能粒子物理、药
+ 物设计与量子化学、量子算法与软件开发等领域。
+LOCATION:物理楼/W101
+END:VEVENT
 END:VCALENDAR
