@@ -811,11 +811,11 @@ SUMMARY:Progress in Quantum Machine Learning Workshop
 DTSTART;TZID=Asia/Shanghai:20260510T090000
 DTEND;TZID=Asia/Shanghai:20260510T180000
 UID:47bf8925ea9fecb37df045a0ca0360b5@reportautocal
-DESCRIPTION:主讲人: 无\n\n本次研讨会汇聚国际顶尖研究人
- 员与企业专家，分享量子机器学习领域最新前沿研究，
- 涵盖量子物质与计算、新材料发现、高能粒子物理、药
- 物设计与量子化学、量子算法与软件开发等方向，并庆
- 祝清华大学物理系建系100周年。
+DESCRIPTION:主讲人: \n\n本次研讨会汇聚国际顶尖研究人员
+ 和企业专家，共同探讨量子机器学习前沿研究，涵盖量
+ 子物质计算、新材料发现、高能物理、药物设计、量子
+ 化学及量子算法与软件开发等领域，并庆祝清华物理百
+ 年。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
