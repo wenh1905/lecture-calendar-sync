@@ -810,11 +810,37 @@ DTSTART;TZID=Asia/Shanghai:20260507T160000
 DTEND;TZID=Asia/Shanghai:20260507T173000
 UID:a3ef00404a302c685e410bae99e3a289@reportautocal
 DESCRIPTION:主讲人: 曾长淦 中国科学技术大学\n\n报告介绍
- 了凝聚态体系中量子涨落引发的新奇量子效应，包括利
- 用扫描卡西米尔力显微镜实现卡西米尔力从吸引到排斥
- 的磁场调控；在石墨烯与超导界面中观测到超流拖拽效
- 应；以及通过暗腔增强量子涨落来提升超导电性。这些
- 研究为宏观量子效应提供了新的调控手段。
+ 凝聚态体系中量子涨落引发的新奇效应，包括研制扫描
+ 卡西米尔力显微镜实现卡西米尔力吸引到排斥的磁场调
+ 控，在石墨烯/超导界面观测超流拖拽效应，以及通过暗
+ 腔增强量子涨落实现超导电性增强，为宏观量子效应提
+ 供新调控手段。
 LOCATION:物理楼/W101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An artificial intelligence era of magnetism
+DTSTART;TZID=Asia/Shanghai:20260512T100000
+DTEND;TZID=Asia/Shanghai:20260512T113000
+UID:c4d79a56fa26b06be45f936784e684af@reportautocal
+DESCRIPTION:主讲人: Jiadong Zang University of New Hampshire\n\n报告
+ 介绍了利用人工智能和大型语言模型从已发表论文的实
+ 验数据中提取磁性材料性质，构建了包含超过6万种磁性
+ 材料的数据库，并涵盖超导和热电材料。该数据库有望
+ 加速功能磁性材料的发现，推动磁学进入人工智能新时
+ 代。
+LOCATION:物理楼/W361
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exponential quantum advantage in processing massive classical data
+DTSTART;TZID=Asia/Shanghai:20260512T140000
+DTEND;TZID=Asia/Shanghai:20260512T153000
+UID:5a9f6b8a1849331d85df4e8d69487e8e@reportautocal
+DESCRIPTION:主讲人: 赵海蒙 加州理工学院\n\n该讲座证明，
+ 仅需少量逻辑量子比特的量子计算机即可对海量经典数
+ 据进行实时分类与降维，其性能远超任何经典机器。通
+ 过量子Oracle草图算法和经典阴影技术，量子计算机能绕
+ 过数据加载与读出瓶颈，构建简洁的经典模型，实现指
+ 数级优势。
+LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
