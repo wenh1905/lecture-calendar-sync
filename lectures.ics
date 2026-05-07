@@ -740,19 +740,6 @@ DESCRIPTION:主讲人: Hao-Ran Cui University of Minnesota\n\n报告探讨
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★凝聚态体系中的量子涨落效应
-DTSTART;TZID=Asia/Shanghai:20260507T160000
-DTEND;TZID=Asia/Shanghai:20260507T173000
-UID:a3ef00404a302c685e410bae99e3a289@reportautocal
-DESCRIPTION:主讲人: 曾长淦 中国科学技术大学\n\n报告介绍
- 凝聚态体系中量子涨落引发的新奇效应，包括研制扫描
- 卡西米尔力显微镜实现卡西米尔力从吸引到排斥的磁场
- 调控，在石墨烯与超导界面观测到超流拖拽效应，以及
- 通过构筑暗腔增强量子涨落实现超导电性增强。这些研
- 究为宏观量子效应提供了新的调控手段。
-LOCATION:物理楼/W101
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:★Optical renormalization of collective magnetic excitations in q
  uantum materials
 DTSTART;TZID=Asia/Shanghai:20260507T100000
@@ -815,6 +802,20 @@ DESCRIPTION:主讲人: \n\n本次研讨会汇聚国际顶尖研究人员
  和企业专家，分享量子机器学习在量子物质计算、新材
  料发现、高能物理、药物设计和量子化学等领域的最新
  前沿研究，庆祝清华物理百年，探讨发展趋势。
+LOCATION:物理楼/W101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★凝聚态体系中的量子涨落效应
+DTSTART;TZID=Asia/Shanghai:20260507T160000
+DTEND;TZID=Asia/Shanghai:20260507T173000
+UID:a3ef00404a302c685e410bae99e3a289@reportautocal
+DESCRIPTION:主讲人: 曾长淦 中国科学技术大学\n\n报告介绍
+ 了量子涨落引发的新奇效应，包括研制扫描卡西米尔力
+ 显微镜实现磁场调控卡西米尔力从吸引到排斥；在石墨
+ 烯/超导界面观测到超流拖拽效应，源于约瑟夫森结阵列
+ 中量子涨落与电子库伦相互作用；以及通过暗腔增强量
+ 子涨落来提升超导电性。这些工作为宏观量子效应提供
+ 了新调控手段。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
