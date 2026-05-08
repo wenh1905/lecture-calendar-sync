@@ -809,13 +809,12 @@ SUMMARY:★凝聚态体系中的量子涨落效应
 DTSTART;TZID=Asia/Shanghai:20260507T160000
 DTEND;TZID=Asia/Shanghai:20260507T173000
 UID:a3ef00404a302c685e410bae99e3a289@reportautocal
-DESCRIPTION:主讲人: 曾长淦 中国科学技术大学\n\n报告系统
- 介绍了量子涨落在凝聚态体系中引发的独特量子效应，
- 包括利用自主研制的扫描卡西米尔力显微镜在磁流体中
- 实现卡西米尔力从吸引到排斥的磁场调控，在石墨烯/LaAl
- O₃/SrTiO₃超导界面观测到超流拖拽效应，以及通过构筑
- 暗腔增强量子涨落从而提升材料超导电性，展示了量子
- 涨落作为宏观量子效应新调控旋钮的潜力。
+DESCRIPTION:主讲人: 曾长淦 中国科学技术大学\n\n曾长淦教
+ 授报告了凝聚态体系中量子涨落引发的新奇量子效应，
+ 包括研制扫描卡西米尔力显微镜并实现磁流体中卡西米
+ 尔力的磁场调控，在石墨烯/超导界面观测到超流拖拽效
+ 应，以及通过构筑暗腔增强量子涨落来提升材料超导电
+ 性。这些工作为宏观量子效应提供了新的调控手段。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -823,11 +822,11 @@ SUMMARY:An artificial intelligence era of magnetism
 DTSTART;TZID=Asia/Shanghai:20260512T100000
 DTEND;TZID=Asia/Shanghai:20260512T113000
 UID:c4d79a56fa26b06be45f936784e684af@reportautocal
-DESCRIPTION:主讲人: Jiadong Zang 新罕布什尔大学\n\n本讲座介
- 绍利用先进大型语言模型从实验数据中提取磁性材料性
- 质，构建包含6万多种磁性材料的数据库，并涵盖超导体
- 和热电材料。该数据库旨在加速新型功能磁性材料的发
- 现，推动磁学进入人工智能新时代。
+DESCRIPTION:主讲人: Jiadong Zang 新罕布什尔大学\n\n讲座介绍
+ 了利用人工智能和大语言模型从实验文献中自动提取磁
+ 性材料性质，构建了包含超过6万种磁性材料的数据库，
+ 并涵盖超导和热电材料。该数据库有望加速新型功能磁
+ 性材料的发现，推动磁性研究进入新纪元。
 LOCATION:物理楼/W361
 END:VEVENT
 BEGIN:VEVENT
@@ -835,12 +834,13 @@ SUMMARY:Exponential quantum advantage in processing massive classical data
 DTSTART;TZID=Asia/Shanghai:20260512T140000
 DTEND;TZID=Asia/Shanghai:20260512T153000
 UID:5a9f6b8a1849331d85df4e8d69487e8e@reportautocal
-DESCRIPTION:主讲人: Haimeng Zhao California Institute of Technology\n\n
- 该报告证明了少量逻辑量子比特的量子计算机可对海量
- 经典数据进行分类和降维，而经典机器需要指数级更大
- 的规模才能达到相同预测性能。通过量子oracle素描和经
- 典阴影技术，从经典数据中构建简洁经典模型，展示了
- 在单细胞RNA测序和电影评论情感分析中的实际优势。
+DESCRIPTION:主讲人: Haimeng Zhao 加州理工学院\n\n该报告证明
+ 少量逻辑量子比特的量子计算机在处理大规模经典数据
+ 时具有指数级优势，而经典机器需指数级更大规模才能
+ 达到相同性能。通过量子oracle素描和经典阴影技术，在
+ 单细胞RNA测序和电影评论情感分析中实现四到六个数量
+ 级的规模缩减。该优势基于量子力学正确性，无需假设
+ 经典复杂性类不等价。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
