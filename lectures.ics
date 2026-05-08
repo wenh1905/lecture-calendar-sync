@@ -805,16 +805,16 @@ DESCRIPTION:主讲人: \n\n本次研讨会汇聚国际顶尖研究人员
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:凝聚态体系中的量子涨落效应
+SUMMARY:★凝聚态体系中的量子涨落效应
 DTSTART;TZID=Asia/Shanghai:20260507T160000
 DTEND;TZID=Asia/Shanghai:20260507T173000
 UID:a3ef00404a302c685e410bae99e3a289@reportautocal
 DESCRIPTION:主讲人: 曾长淦 中国科学技术大学\n\n报告介绍
- 在凝聚态体系中量子涨落效应的研究进展，包括研制扫
- 描卡西米尔力显微镜实现卡西米尔力从吸引到排斥的磁
- 场调控、在石墨烯/超导界面观测到超流拖拽效应，以及
- 通过构筑暗腔增强量子涨落实现超导电性增强，展示了
- 量子涨落作为宏观量子效应调控新手段的潜力。
+ 量子涨落在凝聚态体系中引发的新奇效应，包括利用扫
+ 描卡西米尔力显微镜实现磁流体中卡西米尔力的吸引-排
+ 斥调控、在石墨烯与超导界面观测超流拖拽效应，以及
+ 通过暗腔增强量子涨落来提升超导电性，展示了量子涨
+ 落作为宏观量子效应调控手段的潜力。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -822,10 +822,11 @@ SUMMARY:An artificial intelligence era of magnetism
 DTSTART;TZID=Asia/Shanghai:20260512T100000
 DTEND;TZID=Asia/Shanghai:20260512T113000
 UID:c4d79a56fa26b06be45f936784e684af@reportautocal
-DESCRIPTION:主讲人: Jiadong Zang 新罕布什尔大学\n\n报告人利
- 用大语言模型从同行评审论文中提取实验数据，构建了
- 包含6万多种磁性材料（包括超导和热电材料）的数据库
- ，旨在加速磁性材料发现，为磁性研究开辟新纪元。
+DESCRIPTION:主讲人: Jiadong Zang 新罕布什尔大学\n\n本报告介
+ 绍利用机器学习与大型语言模型从实验文献中提取磁性
+ 材料性质，构建包含6万余种磁性材料的数据集，涵盖超
+ 导与热电材料，旨在加速新型功能磁性材料的发现，开
+ 启磁性研究的人工智能时代。
 LOCATION:物理楼/W361
 END:VEVENT
 BEGIN:VEVENT
@@ -833,16 +834,13 @@ SUMMARY:Exponential quantum advantage in processing massive classical data
 DTSTART;TZID=Asia/Shanghai:20260512T140000
 DTEND;TZID=Asia/Shanghai:20260512T153000
 UID:5a9f6b8a1849331d85df4e8d69487e8e@reportautocal
-DESCRIPTION:主讲人: 赵海蒙 加州理工学院\n\n该报告证明，
- 在经典数据处理和机器学习中，小型量子计算机（少于60
- 个逻辑量子比特）能够实现指数级量子优势，以指数级
- 更小的规模处理大规模数据。通过量子Oracle素描算法，
- 量子计算机可以在分类和降维任务中达到与经典机器相
- 同的预测性能，而经典机器需要指数级更大的规模。在
- 单细胞RNA测序和电影评论情感分析等实际应用中验证了
- 四到六个数量级的缩减。这种优势甚至在经典机器有无
- 限时间或BPP=BQP时依然成立，仅依赖于量子力学的正确性
- 。
+DESCRIPTION:主讲人: Haimeng Zhao 加利福尼亚理工学院\n\n本次
+ 报告证明了小规模量子计算机在处理海量经典数据时具
+ 有指数级量子优势，可进行大规模分类与降维任务，而
+ 经典计算机需指数级更大的规模才能达到相同预测性能
+ 。通过量子oracle sketching和经典阴影技术，规避了数据加
+ 载与读出瓶颈，在单细胞RNA测序和电影评论情感分析中
+ 验证了四到六个数量级的规模缩减。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
