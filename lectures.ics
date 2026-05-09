@@ -851,13 +851,12 @@ SUMMARY:Spin Seebeck Effect of Triangular-lattice Spin Supersolid
 DTSTART;TZID=Asia/Shanghai:20260513T160000
 DTEND;TZID=Asia/Shanghai:20260513T173000
 UID:9f71b34a8df6187f34c160e015ade3a0@reportautocal
-DESCRIPTION:主讲人: 李伟 中国科学院\n\n报告研究了三角晶
- 格自旋超固体的自旋Seebeck效应。通过有限温度张量网络
- 的新虚时近似方法，发现温度梯度导致自旋流，在低温
- 下自旋流方向反转并饱和为非零值，这源于自旋超流组
- 分的宏观量子效应。该工作提出自旋流可作为阻挫磁体
- 中新奇量子态和非传统激发的灵敏探针，为超低温自旋
- 热电子学开辟新途径。
+DESCRIPTION:主讲人: Wei Li 中国科学院\n\n报告介绍了在三角
+ 晶格自旋超固态中研究的自旋Seebeck效应。通过有限温度
+ 张量网络的虚时近似，发现温度梯度诱导的自旋电流在
+ 低温下符号反转并饱和到非零值，这源于自旋超流组分
+ 的宏观量子效应，为探索阻挫磁体中的新奇量子态和超
+ 低温自旋热电子学提供了新途径。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -866,10 +865,11 @@ DTSTART;TZID=Asia/Shanghai:20260514T160000
 DTEND;TZID=Asia/Shanghai:20260514T173000
 UID:1fe4b1ccc0a34cf46fbbcde363eb4c71@reportautocal
 DESCRIPTION:主讲人: 宋成 清华大学\n\n报告介绍了以交错磁
- 体和手性反铁磁为代表的非常规磁体，通过晶体对称性
- 调控和同质结设计，实现了零磁场下的全电学读写和磁
- 序翻转，为发展高密度、超快读写、低功耗的新一代磁
- 存储器提供了新途径。
+ 体CrSb和手性反铁磁Mn₃Sn为代表的非常规磁序的全电学操
+ 控方法。通过晶体对称性调控和晶格畸变实现交错磁体
+ 零磁场读写，利用同质结设计整合自旋指纹维度实现手
+ 性反铁磁序的完全翻转，为发展高密度、超快读写、低
+ 功耗磁存储器提供新途径。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
