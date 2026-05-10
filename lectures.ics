@@ -851,14 +851,11 @@ SUMMARY:Spin Seebeck Effect of Triangular-lattice Spin Supersolid
 DTSTART;TZID=Asia/Shanghai:20260513T160000
 DTEND;TZID=Asia/Shanghai:20260513T173000
 UID:9f71b34a8df6187f34c160e015ade3a0@reportautocal
-DESCRIPTION:主讲人: Wei Li  Chinese Academy of Sciences\n\n报告介绍
- 了三角晶格自旋超固体中的自旋塞贝克效应。利用有限
- 温度张量网络的新虚时近似方法，研究发现温度梯度诱
- 导的自旋电流随温度降低而反向，并在低温极限下趋于
- 非零值。这种非经典行为源于自旋超流分量，是自旋超
- 固体的宏观量子效应。研究提出自旋电流可作为阻挫磁
- 体中新型量子态及非传统激发的灵敏探针，并为超低温
- 自旋热电子学开辟新途径。
+DESCRIPTION:主讲人: 李伟 中国科学院\n\n报告介绍三角晶格
+ 自旋超固态中的自旋塞贝克效应。通过有限温度张量网
+ 络方法，发现温度梯度诱导自旋电流，并在低温下饱和
+ ，反映了自旋超流成分的宏观量子效应，为探测阻挫磁
+ 体中的新奇量子态和超低温自旋热电子学提供新途径。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -866,12 +863,11 @@ SUMMARY:非常规磁序的全电学操控
 DTSTART;TZID=Asia/Shanghai:20260514T160000
 DTEND;TZID=Asia/Shanghai:20260514T173000
 UID:1fe4b1ccc0a34cf46fbbcde363eb4c71@reportautocal
-DESCRIPTION:主讲人: 宋成 清华大学\n\n报告聚焦交错磁体和
- 手性反铁磁等非常规磁体的全电学操控。通过开发室温
- 交错磁体CrSb，利用晶格畸变切换磁空间群实现全电学读
- 写；同时利用非常规自旋流诱发Mn3Sn手性反铁磁序的动力
- 学翻转，在零磁场下实现完全翻转。该研究为发展高密
- 度、超快、低功耗的新一代磁存储器奠定了基础。
+DESCRIPTION:主讲人: 宋成 清华大学\n\n报告介绍以交错磁体
+ 和手性反铁磁为代表的非常规磁体，通过晶体对称性调
+ 控和同质结设计，在零磁场下实现了全电学读写和磁序
+ 翻转，突破了传统磁性材料的分类，为发展高密度、超
+ 快读写和低功耗的新型磁存储器提供了新方案。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
