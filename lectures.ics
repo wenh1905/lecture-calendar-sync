@@ -873,4 +873,18 @@ DESCRIPTION:主讲人: 宋成 清华大学\n\n报告聚焦交错磁体和
  、低功耗磁存储器奠定基础。
 LOCATION:物理楼/W101
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Floquet engineering of quantum materials: from semiconducting b
+ lack phosphorus to graphene
+DTSTART;TZID=Asia/Shanghai:20260514T143000
+DTEND;TZID=Asia/Shanghai:20260514T153000
+UID:e02db6d304d0a64078a36ada48ffdd8e@reportautocal
+DESCRIPTION:主讲人: 周树云 清华大学\n\n报告介绍利用时间
+ 分辨角分辨光电子能谱（TrARPES）对量子材料进行Floquet工
+ 程的研究进展，通过时间周期光场调控电子态，在黑磷
+ 、拓扑绝缘体、石墨烯和石墨中实现光致能带修饰和涌
+ 现现象，探讨了Floquet工程与光-物质相互作用的物理机制
+ 。
+LOCATION:物理楼/W101
+END:VEVENT
 END:VCALENDAR
