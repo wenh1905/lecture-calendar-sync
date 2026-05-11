@@ -879,11 +879,11 @@ SUMMARY:★Floquet engineering of quantum materials: from semiconducting b
 DTSTART;TZID=Asia/Shanghai:20260514T143000
 DTEND;TZID=Asia/Shanghai:20260514T153000
 UID:e02db6d304d0a64078a36ada48ffdd8e@reportautocal
-DESCRIPTION:主讲人: 周树云 清华大学\n\n本讲座介绍利用时
- 间分辨角分辨光电子能谱（TrARPES）对量子材料进行Floquet
- 工程的最新实验进展，包括在半导体黑磷、拓扑绝缘体
- 、石墨烯和石墨中实现的光诱导能带修饰和瞬态电子结
- 构调控，并讨论光-物质相互作用的实验见解。
+DESCRIPTION:主讲人: 周树云 清华大学\n\n报告介绍利用时间
+ 分辨角分辨光电子能谱（TrARPES）研究量子材料中的Floquet
+ 工程，包括半导体黑磷、拓扑绝缘体、石墨烯和石墨体
+ 系的光致能带调控和光-物质相互作用，展示时间周期光
+ 场对电子态修饰带来的瞬态物性调控。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
