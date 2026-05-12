@@ -879,12 +879,11 @@ SUMMARY:★Floquet engineering of quantum materials: from semiconducting b
 DTSTART;TZID=Asia/Shanghai:20260514T143000
 DTEND;TZID=Asia/Shanghai:20260514T153000
 UID:e02db6d304d0a64078a36ada48ffdd8e@reportautocal
-DESCRIPTION:主讲人: 周树云 清华大学\n\n报告介绍了利用时
- 间分辨角分辨光电子能谱（TrARPES）研究量子材料Floquet工
- 程的实验进展。通过周期性光场修饰电子结构，实现了
- 对半导体黑磷、拓扑绝缘体、石墨烯和石墨等材料的瞬
- 态调控，展示了光致带隙、赝自旋选择性能带工程等新
- 奇现象，深入探讨了光与物质相互作用机制。
+DESCRIPTION:主讲人: 周树云 清华大学\n\n本讲座介绍利用时
+ 间-角分辨光电子能谱（TrARPES）对半导体黑磷、拓扑绝缘
+ 体、石墨烯和石墨等量子材料进行Floquet工程的研究进展
+ 。通过光场调控电子态，实现瞬态能带结构修饰并诱导
+ 涌现现象，探讨了光与物质相互作用的实验见解。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -892,11 +891,11 @@ SUMMARY:地球中微子探测在地球科学中的应用
 DTSTART;TZID=Asia/Shanghai:20260515T100000
 DTEND;TZID=Asia/Shanghai:20260515T113000
 UID:321a79588ef1c1bdaf4d7b766b9fceb9@reportautocal
-DESCRIPTION:主讲人: 高若菡 中国地质大学（北京）\n\n地球
- 中微子是地球内部238U、232Th等放射性核素衰变释放的反
- 电子中微子，通过液闪IBD可探测其通量，从而约束地球
- 内部生热元素分布、检验地球科学模型。报告介绍该交
- 叉学科前沿的研究原理、现状及应用前景。
+DESCRIPTION:主讲人: 高若菡 中国地质大学（北京）\n\n报告
+ 介绍地球中微子（由地球内部238U、232Th等放射性衰变产
+ 生）的探测原理及其在地球科学中的应用。通过测量地
+ 球中微子通量，可约束地球内部生热元素分布，检验地
+ 球结构模型，是地质学与粒子物理的交叉前沿。
 LOCATION:刘卿楼/104
 END:VEVENT
 BEGIN:VEVENT
@@ -904,12 +903,12 @@ SUMMARY:Probing the Wave Nature of Light New Physics
 DTSTART;TZID=Asia/Shanghai:20260514T140000
 DTEND;TZID=Asia/Shanghai:20260514T153000
 UID:5d57b27bd884b7a4567e49aa10ca3606@reportautocal
-DESCRIPTION:主讲人: Chen Sun 中国科学院大学杭州高等研究院
- \n\n本报告介绍利用波状特性探测轴子和超轻暗物质等新
- 物理，包括轴子诱导的超新星遗迹射电回波、孤子印记
- 的星系旋转曲线、中子星X射线信号，以及空间变化磁场
- 中轴子-光子共振转换机制及其对LSTW实验和太阳轴子搜索
- 的影响。
+DESCRIPTION:主讲人: 孙晨 中国科学院大学杭州高等研究院\n
+ \n报告探讨利用波状特征探测轴子和超轻暗物质的新方法
+ ，包括轴子诱导的超新星遗迹射电回波、孤子印迹星系
+ 旋转曲线、轴子诱导中子星X射线信号，以及空间变化磁
+ 场背景下的轴子-光子共振转换机制及其对实验室实验和
+ 太阳轴子搜索的影响。
 LOCATION:物理楼/W206
 END:VEVENT
 BEGIN:VEVENT
@@ -918,14 +917,13 @@ SUMMARY:★Imaging Emergent Electronic States in Quantum Materials: Micro-
 DTSTART;TZID=Asia/Shanghai:20260527T100000
 DTEND;TZID=Asia/Shanghai:20260527T113000
 UID:a47e9ae71dd88da4f40618a6206d6365@reportautocal
-DESCRIPTION:主讲人: Takafumi Sato 日本东北大学\n\n本报告介绍
- 空间分辨角分辨光电子能谱（微米/纳米ARPES）的最新进
- 展，能够直接测量具有强三维键合的难以解理块材、微
- 米粉末的电子结构，以及极性、磁性和结构畴的电子态
- 。报告展示了在拓扑手性晶体、kagome晶格、反铁磁拓扑
- 绝缘体、原子层铁磁材料中的关键成果，并展望下一代
- 同步辐射设施将实现亚微米精度隐藏电子态的常规可视
- 化。
+DESCRIPTION:主讲人: Takafumi Sato 日本东北大学\n\n报告介绍微
+ 米/纳米角分辨光电子能谱（ARPES）技术的最新进展，展
+ 示其在硬解理块材、微米粉末、畴分辨研究等领域的应
+ 用，包括拓扑手性晶体边缘态、Kagome格子电荷序与超导
+ 、反铁磁拓扑绝缘体、近室温原子层铁磁体及多斯格明
+ 子相起源等成果，并展望新一代同步辐射设施（如NanoTera
+ su）实现亚微米精度隐藏电子态常规成像的前景。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
