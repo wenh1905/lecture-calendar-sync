@@ -879,10 +879,23 @@ SUMMARY:★Floquet engineering of quantum materials: from semiconducting b
 DTSTART;TZID=Asia/Shanghai:20260514T143000
 DTEND;TZID=Asia/Shanghai:20260514T153000
 UID:e02db6d304d0a64078a36ada48ffdd8e@reportautocal
-DESCRIPTION:主讲人: 周树云 清华大学\n\n本报告介绍利用时
- 间分辨角分辨光电子能谱对量子材料进行Floquet工程的最
- 新实验进展，包括半导体黑磷、拓扑绝缘体、石墨烯和
- 石墨中的光致能带调控及相关光-物质相互作用研究。
+DESCRIPTION:主讲人: 周树云 清华大学\n\n报告介绍了利用时
+ 间分辨角分辨光电子能谱技术（TrARPES）对量子材料进行F
+ loquet工程的研究进展。通过超快激光场调控电子态，在
+ 半导体黑磷、拓扑绝缘体、石墨烯和石墨等体系中实现
+ 了光诱导能带结构修饰和瞬态物态调控，探索了光与物
+ 质相互作用的新奇现象。
 LOCATION:物理楼/W101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地球中微子探测在地球科学中的应用
+DTSTART;TZID=Asia/Shanghai:20260515T100000
+DTEND;TZID=Asia/Shanghai:20260515T113000
+UID:321a79588ef1c1bdaf4d7b766b9fceb9@reportautocal
+DESCRIPTION:主讲人: 高若菡 中国地质大学（北京）\n\n地球
+ 中微子来自地球内部放射性核素衰变，通过液闪IBD探测
+ 其通量，可约束地球生热元素分布、检验地球科学模型
+ ，是地球物理与粒子物理交叉前沿。
+LOCATION:刘卿楼/104
 END:VEVENT
 END:VCALENDAR
