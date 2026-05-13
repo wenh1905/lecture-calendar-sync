@@ -880,9 +880,10 @@ DTSTART;TZID=Asia/Shanghai:20260515T100000
 DTEND;TZID=Asia/Shanghai:20260515T113000
 UID:321a79588ef1c1bdaf4d7b766b9fceb9@reportautocal
 DESCRIPTION:主讲人: 高若菡 中国地质大学（北京）\n\n地球
- 中微子来自地球内部铀、钍等放射性核素衰变，通过液
- 闪IBD探测其通量，可约束地球生热元素分布、检验地球
- 科学模型，是地球物理与核物理的交叉前沿方向。
+ 中微子是地球内部放射性核素衰变释放的反电子中微子
+ ，可通过液闪IBD探测。测量其通量有助于约束地球生热
+ 元素分布，检验地球科学模型，是地球物理与粒子物理
+ 交叉的前沿方向。
 LOCATION:刘卿楼/104
 END:VEVENT
 BEGIN:VEVENT
@@ -891,12 +892,11 @@ DTSTART;TZID=Asia/Shanghai:20260514T140000
 DTEND;TZID=Asia/Shanghai:20260514T153000
 UID:5d57b27bd884b7a4567e49aa10ca3606@reportautocal
 DESCRIPTION:主讲人: Chen Sun 国科大杭州高等研究院\n\n报告
- 探讨了利用玻色子轻自由度的波动特性来探测超出标准
- 模型的新物理，包括轴子和超轻暗物质。重点介绍了轴
- 子诱导的超新星遗迹射电回波、孤子印记的星系旋转曲
- 线、中子星X射线信号，以及一种由空间变化磁场背景引
- 发的新型轴子-光子共振转换机制及其对LSTW实验和太阳轴
- 子搜索的影响。
+ 探讨利用玻色子轻自由度的波动特性探测轴子和超轻暗
+ 物质等新物理，涉及超新星遗迹射电回波、孤子印记的
+ 星系旋转曲线、中子星X射线信号等天体物理现象，并提
+ 出一种基于空间变化磁场背景的轴子-光子共振转换新机
+ 制及其在LSTW实验和太阳轴子搜索中的应用。
 LOCATION:物理楼/W206
 END:VEVENT
 BEGIN:VEVENT
@@ -905,11 +905,14 @@ SUMMARY:★Imaging Emergent Electronic States in Quantum Materials: Micro-
 DTSTART;TZID=Asia/Shanghai:20260527T100000
 DTEND;TZID=Asia/Shanghai:20260527T113000
 UID:a47e9ae71dd88da4f40618a6206d6365@reportautocal
-DESCRIPTION:主讲人: Takafumi Sato 日本东北大学\n\n报告介绍利
- 用微米和纳米角分辨光电子能谱（ARPES）技术，对量子材
- 料中涌现电子态进行成像，涵盖硬解理晶体、微米粉末
- 、畴分辨研究等成果，并展望新一代同步辐射设施将实
- 现亚微米精度隐藏电子态的常规可视化。
+DESCRIPTION:主讲人: Takafumi Sato 日本东北大学\n\n报告介绍了
+ 角分辨光电子能谱（ARPES）技术的最新进展，特别是空间
+ 分辨的微米和纳米ARPES技术。该技术能够直接测量难解理
+ 块材、微小粉末的电子能带结构，实现极性、磁性和结
+ 构畴的鉴别，揭示拓扑手性晶体中的一维边缘态、Kagome
+ 晶格中的电荷序与超导交织、近室温铁磁性等新奇电子
+ 态。最后展望了新一代同步辐射设施将实现亚微米精度
+ 下隐藏电子态的常规可视化。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -917,11 +920,13 @@ SUMMARY:非常规磁序的全电学操控
 DTSTART;TZID=Asia/Shanghai:20260514T160000
 DTEND;TZID=Asia/Shanghai:20260514T173000
 UID:1fe4b1ccc0a34cf46fbbcde363eb4c71@reportautocal
-DESCRIPTION:主讲人: 宋成 清华大学\n\n本讲座介绍通过晶体
- 对称性调控和非常规自旋流，在零辅助磁场条件下实现
- 对交错磁体CrSb和手性反铁磁Mn3Sn等非常规磁序的全电学
- 操控，为发展高密度、超快读写、低功耗的磁存储器提
- 供新思路。
+DESCRIPTION:主讲人: 宋成 清华大学\n\n本报告介绍在零磁场
+ 条件下实现交错磁体和手性反铁磁等非常规磁序的全电
+ 学操控。通过开发室温交错磁体CrSb并利用晶格畸变切换
+ 磁空间群，突破全电学读写技术；同时利用同质结设计
+ 整合非共线自旋指纹，实现手性反铁磁序的完全翻转。
+ 该研究为发展高密度、超快读写、低功耗的新一代磁存
+ 储器奠定了基础。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
