@@ -918,11 +918,11 @@ SUMMARY:非常规磁序的全电学操控
 DTSTART;TZID=Asia/Shanghai:20260514T160000
 DTEND;TZID=Asia/Shanghai:20260514T173000
 UID:1fe4b1ccc0a34cf46fbbcde363eb4c71@reportautocal
-DESCRIPTION:主讲人: 宋成 清华大学\n\n本报告介绍以交错磁
- 体和手性反铁磁为代表的非常规磁体，通过晶体对称性
- 调控和同质结设计，在零磁场下实现了磁序的全电学操
- 控，突破了其读写技术，有望发展高密度、超快读写和
- 低功耗的新一代磁存储器。
+DESCRIPTION:主讲人: 宋成 清华大学\n\n报告介绍了通过晶体
+ 对称性调控和同质结设计，在零磁场下实现交错磁体CrSb
+ 和手性反铁磁Mn3Sn磁序的全电学操控，突破传统磁存储限
+ 制，有望发展超高密度、超快读写和低功耗的新一代磁
+ 存储器。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -931,13 +931,12 @@ SUMMARY:★Digital Quantum Simulation for Energy Spectroscopy: Schwinger a
 DTSTART;TZID=Asia/Shanghai:20260514T140000
 DTEND;TZID=Asia/Shanghai:20260514T153000
 UID:9d10b11252242094fc0f5487668d24f7@reportautocal
-DESCRIPTION:主讲人: Dongwook Ghim\n\n本报告介绍一种受相干成
- 像技术启发的量子算法，用于能量光谱学。通过对基态
- 施加周期性振荡扰动，并识别真空-真空概率显著下降的
- 共振频率，从而提取激发态能谱。以(1+1)维Schwinger模型和
- 周期链上Ising模型为例，详细阐述算法流程，包括绝热基
- 态制备和Suzuki-Trotter时间演化，并讨论其在早期容错量子
- 计算机上的计算效率与潜力。
-LOCATION:腾讯会议/597-627-1726
+DESCRIPTION:主讲人: Dongwook Ghim\n\n本报告介绍一种用于能量
+ 谱学的数字量子模拟新算法，通过对基态施加周期性扰
+ 动并监测真空概率下降来提取激发态能谱。以Schwinger模
+ 型和Ising模型为例，详细阐述绝热基态制备、Suzuki-Trotter
+ 时间演化等步骤，并讨论该算法在早期容错量子计算机
+ 上的计算效率、潜力和局限性。
+LOCATION:线上/腾讯会议/597-627-1726
 END:VEVENT
 END:VCALENDAR
