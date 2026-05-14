@@ -918,13 +918,13 @@ SUMMARY:非常规磁序的全电学操控
 DTSTART;TZID=Asia/Shanghai:20260514T160000
 DTEND;TZID=Asia/Shanghai:20260514T173000
 UID:1fe4b1ccc0a34cf46fbbcde363eb4c71@reportautocal
-DESCRIPTION:主讲人: 宋成 清华大学\n\n本报告介绍了在零辅
- 助磁场条件下实现非常规磁序（交错磁体和手性反铁磁
- ）的全电学操控。通过开发室温交错磁体CrSb，利用晶格
- 畸变切换磁空间群实现电学读写；并在Mn3Sn中利用非常规
- 自旋流实现手性反铁磁序的零场翻转，效率大幅提升。
- 这些成果有望推动新一代高密度、超快读写、低功耗磁
- 存储器的发展。
+DESCRIPTION:主讲人: 宋成 清华大学\n\n报告介绍了以交错磁
+ 体和手性反铁磁为代表的非常规磁体的全电学操控方法
+ 。通过开发室温交错磁体CrSb，利用晶格畸变切换磁空间
+ 群，实现全电学读写；并通过同质结设计整合手性反铁
+ 磁非共线自旋的两个维度，在零磁场下实现磁序完全翻
+ 转，效率大幅提升，为新一代高密度、超快读写磁存储
+ 器奠定基础。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -933,12 +933,13 @@ SUMMARY:★Digital Quantum Simulation for Energy Spectroscopy: Schwinger a
 DTSTART;TZID=Asia/Shanghai:20260514T140000
 DTEND;TZID=Asia/Shanghai:20260514T153000
 UID:9d10b11252242094fc0f5487668d24f7@reportautocal
-DESCRIPTION:主讲人: Dongwook Ghim\n\n本讲座介绍一种量子算法
- 用于能量谱学，灵感来自相干成像技术。通过对基态施
- 加周期性振荡扰动，检测真空-真空概率下降的共振频率
- 来提取激发态能谱。以Schwinger模型和Ising模型为例，讲解
- 了绝热基态制备和Suzuki-Trotter时间演化等步骤，并讨论了
- 该算法在早期容错量子计算机上的效率和挑战。
+DESCRIPTION:主讲人: Dongwook Ghim\n\n本讲座介绍一种基于数字
+ 量子模拟的能量光谱学新算法，该算法受相干成像技术
+ 启发，通过周期性振荡扰动基态并监测真空-真空概率的
+ 共振下降来提取激发态能谱。以(1+1)维Schwinger模型（含拓
+ 扑项）和周期链上Ising模型为例，详细阐述了绝热基态制
+ 备、Suzuki-Trotter时间演化等步骤，并讨论了算法在早期容
+ 错量子计算机上的计算效率、实际潜力与局限性。
 LOCATION:腾讯会议/597-627-1726
 END:VEVENT
 END:VCALENDAR
