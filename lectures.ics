@@ -931,27 +931,26 @@ SUMMARY:★Digital Quantum Simulation for Energy Spectroscopy: Schwinger a
 DTSTART;TZID=Asia/Shanghai:20260514T140000
 DTEND;TZID=Asia/Shanghai:20260514T153000
 UID:9d10b11252242094fc0f5487668d24f7@reportautocal
-DESCRIPTION:主讲人: Dongwook Ghim\n\n介绍一种新型量子算法，
- 利用数字量子模拟进行能量光谱学测量。该方法受相干
- 成像技术启发，通过对基态施加周期性振荡扰动，检测
- 真空-真空概率的共振下降来提取激发态能量谱。以(1+1)
- 维Schwinger模型和周期性链上的Ising模型为例，详细阐述了
- 算法流程，包括绝热基态制备和Suzuki-Trotter时间演化，并
- 讨论了在早期容错量子计算机上的计算效率、潜力与局
- 限性。
-LOCATION:腾讯会议 597-627-1726
+DESCRIPTION:主讲人: Dongwook Ghim\n\n报告介绍了一种新颖的量
+ 子算法用于能量谱学，通过周期振荡扰动基态并寻找共
+ 振频率来提取激发态能谱，从而规避经典蒙特卡洛的符
+ 号问题。以(1+1)维Schwinger模型和周期链Ising模型为例，详
+ 细阐述了绝热基态制备、Suzuki-Trotter时间演化等算法步骤
+ ，并讨论了该算法在早期容错量子计算机上的计算效率
+ 、实际潜力与局限性。
+LOCATION:腾讯会议
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:超构表面光场调控：从界面相位到平面光学
+SUMMARY:★超构表面光场调控：从界面相位到平面光学
 DTSTART;TZID=Asia/Shanghai:20260522T160000
 DTEND;TZID=Asia/Shanghai:20260522T173000
 UID:ebcdc0363c812c4623737e2323e5574f@reportautocal
-DESCRIPTION:主讲人: 周磊 复旦大学\n\n本报告系统回顾了超
- 构表面从界面相位调控到平面光学领域的发展历程。超
- 构表面利用亚波长人工微结构在透/反射时引入的界面相
- 位，实现对电磁波的任意调控，具有超薄、易制备、高
- 集成、低损耗等优势。报告还展望了该领域未来在信息
- 、能源、国防等方面的应用前景。
+DESCRIPTION:主讲人: 周磊 复旦大学\n\n本报告系统回顾超构
+ 表面如何利用亚波长人工微结构的界面相位实现对电磁
+ 波的高效调控，并建立平面光学领域。与自然材料相比
+ ，超构表面具有超薄、易制备、高集成、低损耗等优势
+ ，在信息、能源和国防等领域具有重要应用前景。报告
+ 还将展望该领域的未来发展方向。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -960,11 +959,12 @@ DTSTART;TZID=Asia/Shanghai:20260520T160000
 DTEND;TZID=Asia/Shanghai:20260520T173000
 UID:f2912a64bee9beb2f5dee53defc79657@reportautocal
 DESCRIPTION:主讲人: 姚星灿 中国科学技术大学\n\n报告介绍
- 了利用光晶格中的超冷费米子实现费米子哈伯德模型，
- 研究其中的磁性和超流性。在排斥侧实现了低熵均匀三
- 维哈伯德系统并观测到反铁磁转变，在吸引侧实现了晶
- 格超流，通过双占据分数的高精度测量揭示了超流转变
- 信号，为探索强关联量子物质提供了强大平台。
+ 在光晶格中实现费米子哈伯德模型，研究其排斥和吸引
+ 两侧的物理。排斥侧实现了低熵均匀三维哈伯德系统并
+ 观测到反铁磁转变；吸引侧实现了晶格超流，通过双占
+ 据分数精确测量显示超流转变特征。这些结果为探索哈
+ 伯德模型中的磁性和超流性以及强关联量子物质提供了
+ 强大平台。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -972,12 +972,12 @@ SUMMARY:Defining non-equilibrium phases of matter
 DTSTART;TZID=Asia/Shanghai:20260520T140000
 DTEND;TZID=Asia/Shanghai:20260520T153000
 UID:4af2b21dd9f69e041482d33103781c07@reportautocal
-DESCRIPTION:主讲人: Lee Jong Yeon UIUC\n\n本报告介绍了建立混
- 合态物质相系统框架的最新工作，通过识别局部可恢复
- 性、无长程关联和空间均匀性三个信息论量，类比量子
- 相研究中的能隙，定义了非平衡相的固定点和相变。进
- 一步讨论了近似条件下的拓扑鲁棒性，并提出了具有连
- 续可调剩余信息的“信息临界相”概念。
+DESCRIPTION:主讲人: Lee\, Jong Yeon UIUC\n\n本报告提出了一个系
+ 统框架研究混合态物质相，通过三个信息论量（局部可
+ 恢复性、无长程关联、空间均匀性）类比能隙作用，精
+ 确满足为固定点，近似满足则构成远离固定点的物质相
+ 。进一步介绍了“信息临界相”，其特征是剩余信息具
+ 有连续可调分数。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -986,10 +986,11 @@ DTSTART;TZID=Asia/Shanghai:20260518T140000
 DTEND;TZID=Asia/Shanghai:20260518T153000
 UID:2c4084267d7e10378b93b773e74c4ea3@reportautocal
 DESCRIPTION:主讲人: 吴远彬 南开大学\n\n电子俘获致核激发
- 是核物理与原子物理交叉领域的基本过程。报告围绕同
- 核异能态的产生与诱导衰变，介绍相关理论研究工作，
- 讨论基于强激光、电子束离子阱、重离子储存环等实验
- 平台观测电子俘获致核激发的可能。
+ 是核物理与原子物理交叉领域的基本过程，原子核的激
+ 发由离子俘获电子到原子轨道所驱动。报告围绕同核异
+ 能态的产生与诱导衰变，介绍相关理论研究，讨论实验
+ 观测，并探讨基于强激光、电子束离子阱、重离子储存
+ 环等平台实现观测的可能性。
 LOCATION:物理楼/E225A
 END:VEVENT
 END:VCALENDAR
