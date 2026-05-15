@@ -931,14 +931,26 @@ SUMMARY:★Digital Quantum Simulation for Energy Spectroscopy: Schwinger a
 DTSTART;TZID=Asia/Shanghai:20260514T140000
 DTEND;TZID=Asia/Shanghai:20260514T153000
 UID:9d10b11252242094fc0f5487668d24f7@reportautocal
-DESCRIPTION:主讲人: Dongwook Ghim\n\n本报告介绍一种受相干成
- 像技术启发的量子算法，用于在数字量子模拟中提取激
- 发态能谱。该方法通过对基态施加周期性扰动，识别真
- 空-真空概率显著下降的共振频率，从而获得能谱。报告
- 以(1+1)维Schwinger模型和周期链Ising模型为例，详细阐述了
- 绝热基态制备、Suzuki-Trotter时间演化等步骤，并讨论了该
- 算法在早期容错量子计算机上的计算效率、潜力与局限
- 性。
-LOCATION:腾讯会议/597-627-1726
+DESCRIPTION:主讲人: Dongwook Ghim\n\n本讲座介绍一种基于数字
+ 量子模拟的新型能量谱学算法，受相干成像技术启发，
+ 通过在基态施加周期性振荡扰动并检测真空概率下降的
+ 共振频率来提取激发态能谱。以(1+1)维Schwinger模型和周期
+ 性链Ising模型为例，详细阐述了绝热基态制备、Suzuki-Trott
+ er时间演化等步骤，并讨论了该算法在早期容错量子计算
+ 机上的计算效率、潜力与局限。
+LOCATION:腾讯会议（ID: 597-627-1726\, 密码: 522897）
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★超构表面光场调控：从界面相位到平面光学
+DTSTART;TZID=Asia/Shanghai:20260522T160000
+DTEND;TZID=Asia/Shanghai:20260522T173000
+UID:ebcdc0363c812c4623737e2323e5574f@reportautocal
+DESCRIPTION:主讲人: 周磊 复旦大学\n\n本报告系统回顾了超
+ 构表面从界面相位调控到平面光学领域的发展历程。超
+ 构表面利用亚波长人工微结构对电磁波进行透/反射时的
+ 界面相位调控，具有超薄、易制备、高集成、低损耗等
+ 优势，在信息、能源、国防等领域有重要应用前景。报
+ 告还展望了该领域的未来发展方向。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
