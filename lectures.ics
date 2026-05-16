@@ -958,11 +958,11 @@ SUMMARY:超构表面光场调控：从界面相位到平面光学
 DTSTART;TZID=Asia/Shanghai:20260522T160000
 DTEND;TZID=Asia/Shanghai:20260522T173000
 UID:ebcdc0363c812c4623737e2323e5574f@reportautocal
-DESCRIPTION:主讲人: 周磊 复旦大学\n\n本报告系统回顾了超
- 构表面从界面相位调控到平面光学领域的发展历程，介
- 绍利用人工微结构实现任意电磁参数、突破自然材料限
- 制的原理，并展望未来在信息、能源、国防等领域的应
- 用方向与潜在突破。
+DESCRIPTION:主讲人: 周磊 复旦大学\n\n本报告系统回顾超构
+ 表面利用亚波长人工微结构实现界面相位调控电磁波的
+ 原理，从界面相位概念的提出到平面光学领域的建立过
+ 程，并展望未来在信息、能源、国防等领域的应用前景
+ 。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -970,12 +970,12 @@ SUMMARY:Magnetism and Superfluidity in the fermionic Hubbard
 DTSTART;TZID=Asia/Shanghai:20260520T160000
 DTEND;TZID=Asia/Shanghai:20260520T173000
 UID:f2912a64bee9beb2f5dee53defc79657@reportautocal
-DESCRIPTION:主讲人: 姚星灿 中国科学技术大学\n\n报告介绍
- 利用超冷原子在光晶格中实现费米子哈伯德模型的实验
- 进展。在排斥侧，实现了低熵均匀三维哈伯德系统，观
- 测到反铁磁转变及关联淬火动力学；在吸引侧，通过双
- 占据分数高精度测量揭示了晶格超流转变信号，为研究
- 强关联量子物质中的磁性与超流性提供了有力平台。
+DESCRIPTION:主讲人: 姚星灿 中国科学技术大学\n\n本报告介
+ 绍利用超冷原子光晶格实现费米子哈伯德模型的实验进
+ 展，包括排斥侧反铁磁相变和费米子关联淬火动力学，
+ 以及吸引侧晶格超流的实现，通过双占据分数精确测量
+ 揭示超流转变信号，为研究强关联量子物质中的磁性和
+ 超流性提供了平台。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -983,12 +983,12 @@ SUMMARY:Defining non-equilibrium phases of matter
 DTSTART;TZID=Asia/Shanghai:20260520T140000
 DTEND;TZID=Asia/Shanghai:20260520T153000
 UID:4af2b21dd9f69e041482d33103781c07@reportautocal
-DESCRIPTION:主讲人: Lee Jong Yeon UIUC\n\n本报告介绍了一个系
- 统框架来研究混合态物质相，通过识别三个信息论量（
- 局域可恢复性、无长程关联、空间均匀性）来定义非平
- 衡相。满足精确条件的态为固定点，近似满足的则构成
- 远离固定点的物质相。进一步引入了“信息临界相”的
- 概念，其特征为剩余信息连续可调。
+DESCRIPTION:主讲人: Jong Yeon Lee UIUC\n\n本报告介绍了建立系
+ 统框架来研究混合态物质相的工作，通过识别三个信息
+ 论量（局部可恢复性、无长程关联、空间均匀性）作为
+ 类似能隙的角色来定义相。这些条件对精确不动点成立
+ ，近似版本提供鲁棒的拓扑数据。进一步提出了“信息
+ 临界相”的概念，其特征是剩余信息的连续可调分数。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -996,12 +996,11 @@ SUMMARY:Isomeric Nuclear Excitation by Electron Capture
 DTSTART;TZID=Asia/Shanghai:20260518T140000
 DTEND;TZID=Asia/Shanghai:20260518T153000
 UID:2c4084267d7e10378b93b773e74c4ea3@reportautocal
-DESCRIPTION:主讲人: 吴远彬 南开大学\n\n电子俘获致核激发
- 是核物理与原子物理交叉领域的基本过程，原子核激发
- 由离子俘获电子到原子轨道驱动。报告围绕同核异能态
- 的产生与诱导衰变，介绍相关理论研究工作，讨论基于
- 强激光、电子束离子阱及重离子储存环等实验平台观测
- 电子俘获致核激发的可能性。
+DESCRIPTION:主讲人: 吴远彬 南开大学\n\n报告介绍电子俘获
+ 致核激发这一核物理与原子物理交叉领域的基本过程，
+ 围绕同核异能态的产生与诱导衰变主题，介绍相关理论
+ 研究工作，并探讨基于强激光、电子束离子阱、重离子
+ 储存环等实验平台观测该过程的可能性。
 LOCATION:物理楼/E225A
 END:VEVENT
 END:VCALENDAR
