@@ -926,19 +926,6 @@ DESCRIPTION:主讲人: 宋成 清华大学\n\n报告聚焦交错磁体和
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:电子俘获致核激发与同核异能态 Isomeric Nuclear Excita
- tion by Electron Capture
-DTSTART;TZID=Asia/Shanghai:20260518T140000
-DTEND;TZID=Asia/Shanghai:20260518T153000
-UID:e552759f0ff8368cb89f5619198f5dbd@reportautocal
-DESCRIPTION:主讲人: 吴远彬 南开大学\n\n报告介绍了电子俘
- 获致核激发这一核物理与原子物理交叉领域的基本过程
- ，围绕同核异能态的产生与诱导衰变主题，探讨了相关
- 的理论研究，并对基于强激光、电子束离子阱、重离子
- 储存环等实验平台观测该效应的可能性进行了分析。
-LOCATION:物理楼/E225A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:★Digital Quantum Simulation for Energy Spectroscopy: Schwinger a
  nd Ising Models
 DTSTART;TZID=Asia/Shanghai:20260514T140000
@@ -953,46 +940,6 @@ DESCRIPTION:主讲人: Dongwook Ghim\n\n本报告介绍一种用于能量
 LOCATION:腾讯会议/597-627-1726
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:超构表面光场调控：从界面相位到平面光学
-DTSTART;TZID=Asia/Shanghai:20260522T160000
-DTEND;TZID=Asia/Shanghai:20260522T173000
-UID:ebcdc0363c812c4623737e2323e5574f@reportautocal
-DESCRIPTION:主讲人: 周磊 复旦大学\n\n本报告回顾超构表面
- 从界面相位概念提出到平面光学领域建立的发展历程。
- 超构表面利用亚波长人工微结构在界面处调控电磁波相
- 位，具有超薄、易集成等优势，克服了自然材料调控能
- 力有限的局限。报告展望该领域在信息、能源、国防等
- 领域的应用前景及未来发展方向。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magnetism and Superfluidity in the fermionic Hubbard
-DTSTART;TZID=Asia/Shanghai:20260520T160000
-DTEND;TZID=Asia/Shanghai:20260520T173000
-UID:f2912a64bee9beb2f5dee53defc79657@reportautocal
-DESCRIPTION:主讲人: 姚星灿 中国科学技术大学\n\n本报告介
- 绍利用光晶格中超冷原子实现费米子哈伯德模型的实验
- 进展，包括在排斥侧实现低熵均匀三维哈伯德系统并观
- 测反铁磁转变与关联淬火动力学，以及在吸引侧实现晶
- 格超流并利用双占据分数精确探测超流转变。这些结果
- 展示了超冷费米子作为研究强关联量子物质平台的潜力
- 。
-LOCATION:科学馆/322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Defining non-equilibrium phases of matter
-DTSTART;TZID=Asia/Shanghai:20260520T140000
-DTEND;TZID=Asia/Shanghai:20260520T153000
-UID:4af2b21dd9f69e041482d33103781c07@reportautocal
-DESCRIPTION:主讲人: Lee Jong Yeon UIUC\n\n本报告介绍了一种系
- 统框架来研究混合态物质相，通过定义三种信息论量（
- 局部可恢复性、无长程关联、空间均匀性）来精确刻画
- 不动点和近似的物质相，并讨论拓扑不变量的鲁棒性，
- 进一步提出“信息临界相”的概念，其特征是剩余信息
- 的连续可调分数。
-LOCATION:科学馆/322
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Isomeric Nuclear Excitation by Electron Capture
 DTSTART;TZID=Asia/Shanghai:20260518T140000
 DTEND;TZID=Asia/Shanghai:20260518T153000
@@ -1003,6 +950,60 @@ DESCRIPTION:主讲人: 吴远彬 南开大学\n\n电子俘获致核激发
  产生与诱导衰变主题，介绍相关理论研究，并探讨基于
  强激光、电子束离子阱和重离子储存环等平台观测该过
  程的可能。
+LOCATION:物理楼/E225A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:超构表面光场调控：从界面相位到平面光学
+DTSTART;TZID=Asia/Shanghai:20260522T160000
+DTEND;TZID=Asia/Shanghai:20260522T173000
+UID:ebcdc0363c812c4623737e2323e5574f@reportautocal
+DESCRIPTION:主讲人: 周磊 复旦大学\n\n报告回顾了超构表面
+ 从界面相位调控到平面光学的发展历程，介绍了利用亚
+ 波长人工微结构实现任意介电常数和磁导率的超构材料
+ ，特别是超构表面通过界面相位调控电磁波，具有超薄
+ 、易制备、高集成、低损耗等优势，并展望了该领域的
+ 未来方向。
+LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magnetism and Superfluidity in the fermionic Hubbard
+DTSTART;TZID=Asia/Shanghai:20260520T160000
+DTEND;TZID=Asia/Shanghai:20260520T173000
+UID:f2912a64bee9beb2f5dee53defc79657@reportautocal
+DESCRIPTION:主讲人: 姚星灿 中国科学技术大学\n\n报告介绍
+ 了在费米子哈伯德模型中磁性及超流现象的实验进展。
+ 在排斥作用侧，实现了低熵均匀三维哈伯德系统，观测
+ 到反铁磁相变及费米关联的淬火动力学。在吸引作用侧
+ ，通过双占据分数的精确测量揭示了超流转变的清晰信
+ 号，为探索强关联量子物质中的核心问题提供了新平台
+ 。
+LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Defining non-equilibrium phases of matter
+DTSTART;TZID=Asia/Shanghai:20260520T140000
+DTEND;TZID=Asia/Shanghai:20260520T153000
+UID:4af2b21dd9f69e041482d33103781c07@reportautocal
+DESCRIPTION:主讲人: Jong Yeon Lee UIUC\n\n本报告介绍了一种研
+ 究混合态物质相的系统框架，通过识别三个信息论量（
+ 局部可恢复性、无长程关联、空间均匀性）来定义非平
+ 衡相。这些条件近似成立时对应于远离不动点的物质相
+ ，可提供鲁棒的拓扑信息，并进一步引入“信息临界相
+ ”的概念。
+LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:电子俘获致核激发与同核异能态 Isomeric Nuclear Excita
+ tion by Electron Capture
+DTSTART;TZID=Asia/Shanghai:20260518T140000
+DTEND;TZID=Asia/Shanghai:20260518T153000
+UID:e552759f0ff8368cb89f5619198f5dbd@reportautocal
+DESCRIPTION:主讲人: 吴远彬 南开大学\n\n电子俘获致核激发
+ 是核物理与原子物理交叉领域的基本过程，原子核激发
+ 由离子俘获电子到原子轨道驱动。报告围绕同核异能态
+ 的产生与诱导衰变主题，介绍相关理论研究，并探讨基
+ 于强激光、电子束离子阱、重离子储存环等实验平台观
+ 测的可能性。
 LOCATION:物理楼/E225A
 END:VEVENT
 END:VCALENDAR
