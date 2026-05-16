@@ -952,16 +952,15 @@ DESCRIPTION:主讲人: 吴远彬 南开大学\n\n报告介绍电子俘获
 LOCATION:物理楼/E225A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:超构表面光场调控：从界面相位到平面光学
+SUMMARY:★超构表面光场调控：从界面相位到平面光学
 DTSTART;TZID=Asia/Shanghai:20260522T160000
 DTEND;TZID=Asia/Shanghai:20260522T173000
 UID:ebcdc0363c812c4623737e2323e5574f@reportautocal
-DESCRIPTION:主讲人: 周磊 复旦大学\n\n报告系统回顾了超构
- 表面从界面相位调控电磁波到建立平面光学领域的发展
- 历程。超构表面由亚波长人工微结构按特定方式排列而
- 成，具有超薄、易制备、高集成、低损耗等优势，可实
- 现对电磁波的自由调控。报告介绍了该领域的基础物理
- 原理、关键进展及未来展望。
+DESCRIPTION:主讲人: 周磊 复旦大学\n\n本报告系统回顾利用
+ 超构表面（人工微结构平面材料）实现光场调控的范式
+ 转变，从基于界面相位的电磁波操控原理出发，讲述平
+ 面光学领域的建立与发展，并展望未来在信息、能源、
+ 国防等领域的应用前景。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -969,13 +968,11 @@ SUMMARY:Magnetism and Superfluidity in the fermionic Hubbard
 DTSTART;TZID=Asia/Shanghai:20260520T160000
 DTEND;TZID=Asia/Shanghai:20260520T173000
 UID:f2912a64bee9beb2f5dee53defc79657@reportautocal
-DESCRIPTION:主讲人: 姚星灿 中国科学技术大学\n\n本报告介
- 绍费米子哈伯德模型中的磁性与超流现象，通过超冷原
- 子在光学晶格中的实验，实现低熵均匀三维哈伯德系统
- ，观测到反铁磁转变及费米关联的淬火动力学；在吸引
- 相互作用侧实现并识别晶格超流，利用双占据分数高精
- 度测量揭示超流转变信号，为强关联量子物质研究提供
- 重要平台。
+DESCRIPTION:主讲人: 姚星灿 中国科学技术大学\n\n报告介绍
+ 了利用超冷原子在光晶格中实现费米子哈伯德模型，在
+ 排斥和吸引两侧分别观测到反铁磁转变和晶格超流性。
+ 通过精确测量双占位分数揭示超流转变特征，为探索强
+ 关联量子物质中的磁性和超流性提供了平台。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -983,13 +980,12 @@ SUMMARY:Defining non-equilibrium phases of matter
 DTSTART;TZID=Asia/Shanghai:20260520T140000
 DTEND;TZID=Asia/Shanghai:20260520T153000
 UID:4af2b21dd9f69e041482d33103781c07@reportautocal
-DESCRIPTION:主讲人: Jong Yeon Lee UIUC\n\n该报告建立了研究混
- 合态物质相的系统框架，通过识别三个信息论量（局域
- 可恢复性、无长程关联和空间均匀性）来类比量子相变
- 中的能隙，定义非平衡相。精确满足这些条件的态为不
- 动点，近似满足的则构成相。该框架提供了鲁棒的拓扑
- 数据，并引入了信息临界相的概念，其特征是剩余信息
- 连续可调。
+DESCRIPTION:主讲人: Jong Yeon Lee UIUC\n\n本报告提出一种系统
+ 框架来研究混合态物质相，通过三个信息论量——局部
+ 可恢复性、无长程关联和空间均匀性——来定义非平衡
+ 相。近似满足这些条件的态构成远离固定点的物质相，
+ 并能为拓扑不变量提供鲁棒定义。进一步引入“信息临
+ 界相”概念，其特征为连续可调的部分信息保留量。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -1000,9 +996,10 @@ DTEND;TZID=Asia/Shanghai:20260518T153000
 UID:e552759f0ff8368cb89f5619198f5dbd@reportautocal
 DESCRIPTION:主讲人: 吴远彬 南开大学\n\n报告介绍电子俘获
  致核激发这一核物理与原子物理交叉领域的基本过程，
- 围绕同核异能态的产生与诱导衰变主题，讨论相关理论
- 工作及实验观测，并探讨基于强激光、电子束离子阱、
- 重离子储存环等平台实现观测的可能性。
+ 探讨其在核结构及新型核能存储释放中的重要性。围绕
+ 同核异能态的产生与诱导衰变，讨论相关理论研究，并
+ 分析基于强激光、电子束离子阱、重离子储存环等平台
+ 观测该过程的实验可能性。
 LOCATION:物理楼/E225A
 END:VEVENT
 END:VCALENDAR
