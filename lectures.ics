@@ -958,12 +958,11 @@ SUMMARY:超构表面光场调控：从界面相位到平面光学
 DTSTART;TZID=Asia/Shanghai:20260522T160000
 DTEND;TZID=Asia/Shanghai:20260522T173000
 UID:ebcdc0363c812c4623737e2323e5574f@reportautocal
-DESCRIPTION:主讲人: 周磊 复旦大学\n\n本报告系统回顾超构
- 表面从'界面相位'概念的提出到'平面光学'领域建立的过
- 程。超构表面利用亚波长人工微结构的界面相位调控电
- 磁波，具有超薄、易制备、高集成、低损耗等优势，彻
- 底改变了光场调控范式。报告还将展望该领域的未来发
- 展方向。
+DESCRIPTION:主讲人: 周磊 复旦大学\n\n讲座系统回顾超构表
+ 面领域的发展历程，从亚波长人工微结构构建的界面相
+ 位调控概念出发，阐述了平面光学如何突破自然材料限
+ 制，实现对电磁波的高效、超薄、低损耗调控，并展望
+ 未来该领域的发展方向。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -972,11 +971,12 @@ DTSTART;TZID=Asia/Shanghai:20260520T160000
 DTEND;TZID=Asia/Shanghai:20260520T173000
 UID:f2912a64bee9beb2f5dee53defc79657@reportautocal
 DESCRIPTION:主讲人: 姚星灿 中国科学技术大学\n\n报告介绍
- 利用超冷原子在光学晶格中实现费米子哈伯德模型的实
- 验进展。在排斥侧观察到反铁磁转变并研究费米子关联
- 的淬火动力学；在吸引侧通过双占据分数的高精度测量
- 识别晶格超流性，为理解强关联量子物质中的磁性和超
- 流现象提供了直接实验平台。
+ 了费米子哈伯德模型中排斥和吸引两侧的最新实验进展
+ ：在低熵均匀三维系统中实现反铁磁转变并研究费米子
+ 关联的淬火动力学；在吸引侧通过双占据分数的高精度
+ 测量识别晶格超流态，明确显示超流转变的特征。这些
+ 结果为深入理解强关联量子物质中的磁性和超流性提供
+ 了实验平台。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -984,12 +984,12 @@ SUMMARY:Defining non-equilibrium phases of matter
 DTSTART;TZID=Asia/Shanghai:20260520T140000
 DTEND;TZID=Asia/Shanghai:20260520T153000
 UID:4af2b21dd9f69e041482d33103781c07@reportautocal
-DESCRIPTION:主讲人: Jong Yeon Lee 伊利诺伊大学香槟分校\n\n本
- 报告介绍了研究混合态量子相的系统框架。通过识别三
- 个信息论量——局域可恢复性、无长程关联和空间均匀
- 性——来定义固定点和物质相，并讨论近似条件下的稳
- 健拓扑数据。进一步提出了“信息临界相”概念，该相
- 具有连续可调的信息剩余量。
+DESCRIPTION:主讲人: Lee Jong Yeon 伊利诺伊大学厄巴纳-香槟分
+ 校\n\n报告提出了研究混合态物质相的系统框架，通过三
+ 个信息论量——局部可恢复性、无长程关联和空间均匀
+ 性——来定义固定点及物质相。这些条件提供了鲁棒的
+ 拓扑数据，并引入了“信息临界相”的概念，其特征是
+ 剩余信息的连续可调分数。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -997,11 +997,13 @@ SUMMARY:Isomeric Nuclear Excitation by Electron Capture
 DTSTART;TZID=Asia/Shanghai:20260518T140000
 DTEND;TZID=Asia/Shanghai:20260518T153000
 UID:2c4084267d7e10378b93b773e74c4ea3@reportautocal
-DESCRIPTION:主讲人: 吴远彬 南开大学\n\n电子俘获致核激发
- 是核物理与原子物理交叉领域的基本过程，原子核激发
- 由离子俘获电子驱动。报告围绕同核异能态的产生与诱
- 导衰变，介绍相关理论工作，讨论基于强激光、电子束
- 离子阱、重离子储存环等平台的实验观测可能性。
+DESCRIPTION:主讲人: 吴远彬 南开大学\n\n报告介绍电子俘获
+ 致核激发这一核物理与原子物理交叉领域的基本过程，
+ 即原子核的激发由离子俘获电子到原子轨道所驱动。围
+ 绕同核异能态的产生与诱导衰变，讨论了相关理论研究
+ 工作，并对实验进行理论分析，探讨了基于强激光、电
+ 子束离子阱、重离子储存环等实验平台观测该过程的可
+ 能途径。
 LOCATION:物理楼/E225A
 END:VEVENT
 END:VCALENDAR
