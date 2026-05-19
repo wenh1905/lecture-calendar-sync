@@ -1010,13 +1010,12 @@ DTSTART;TZID=Asia/Shanghai:20260521T140000
 DTEND;TZID=Asia/Shanghai:20260521T150000
 UID:88b62947914d980e6d5b258a256f891a@reportautocal
 DESCRIPTION:主讲人: 葛永帅 中国科学院深圳先进技术研究
- 院\n\n报告围绕实验室级相位衬度纳米CT成像仪器研发，
- 阐述了新型相位衬度纳米CT成像物理原理，将光栅微分相
- 衬成像与波带片透镜成像统一，介绍了关键器件选型、
- 成像参数确定、仪器搭建与调试过程，展示了基于该仪
- 器获取的成像结果，并探讨了搭建中遇到的问题及下一
- 步研究方向。
-LOCATION:刘卿楼/105会议室
+ 院\n\n本报告围绕实验室级相位衬度纳米CT成像仪器研发
+ ，阐述新型相位衬度成像物理原理，统一光栅微分相衬
+ 成像与波带片透镜成像理论，介绍关键器件选型、仪器
+ 搭建与调试，展示成像结果，并探讨搭建过程中的问题
+ 与后续研究。
+LOCATION:刘卿楼/105
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Flares to Feedback: The Multi-Scale Lives of Supermassive Bla
@@ -1024,15 +1023,15 @@ SUMMARY:From Flares to Feedback: The Multi-Scale Lives of Supermassive Bla
 DTSTART;TZID=Asia/Shanghai:20260521T150000
 DTEND;TZID=Asia/Shanghai:20260521T163000
 UID:0378c3741d427b5f7bb698ab9b227804@reportautocal
-DESCRIPTION:主讲人: 薛永泉 中国科学技术大学\n\n本讲座介
- 绍活动星系核（AGN）研究，重点报告七项最新工作：候
- 选中等质量黑洞潮汐瓦解事件的多波段分析、可能超大
- 质量黑洞双星潮汐瓦解事件、AGN RE J1034+396的准周期振荡
- （QPO）时滞与频率关联、硬X射线QPO振幅受软波段通量调
- 制、QPO三重态发现及物理解释、近邻（超）亮红外星系
- 中AGN反馈的恒星运动学和电离气体外流研究，以及气体
- 供应与AGN反馈对星系核活动和恒星形成的作用。最后进
- 行总结和展望。
+DESCRIPTION:主讲人: 薛永泉 中国科学技术大学\n\n报告介绍
+ 了活动星系核的相关研究，重点阐述了七项最新成果：
+ 潮汐瓦解事件候选体的多波段观测、超大质量双黑洞潮
+ 汐瓦解事件的X射线发现、类星体RE J1034+396中准周期振荡
+ 的时延与频率相关演化、硬X射线准周期振荡振幅受软波
+ 段流量调制、准周期振荡三重态的探测及其物理起源、
+ 近邻发光/超发光红外星系中AGN反馈对恒星运动和电离气
+ 体外流的影响，以及气体供给和AGN反馈在星系核活动和
+ 恒星形成中的作用。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
