@@ -1010,11 +1010,27 @@ DTSTART;TZID=Asia/Shanghai:20260521T140000
 DTEND;TZID=Asia/Shanghai:20260521T150000
 UID:88b62947914d980e6d5b258a256f891a@reportautocal
 DESCRIPTION:主讲人: 葛永帅 中国科学院深圳先进技术研究
- 院\n\n报告围绕实验室级相位衬度纳米CT成像仪器研发，
- 阐述了新型相位衬度成像物理原理，将光栅微分相衬成
- 像与波带片透镜成像统一，介绍了关键器件选型、仪器
- 搭建与调试过程，展示了成像结果并讨论了遇到的问题
- 及后续研究。
+ 院\n\n报告围绕实验室级相位衬度纳米CT成像仪器的研发
+ ，阐述了新型相位衬度成像物理原理，将光栅微分相衬
+ 成像与波带片透镜成像统一，介绍了关键器件选型、仪
+ 器搭建与调试，展示了成像结果，并探讨了存在的问题
+ 与未来研究方向。
 LOCATION:刘卿楼/105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Flares to Feedback: The Multi-Scale Lives of Supermassive Bla
+ ck Holes
+DTSTART;TZID=Asia/Shanghai:20260521T150000
+DTEND;TZID=Asia/Shanghai:20260521T163000
+UID:0378c3741d427b5f7bb698ab9b227804@reportautocal
+DESCRIPTION:主讲人: 薛永泉 中国科学技术大学\n\n本讲座首
+ 先介绍活动星系核（AGN），随后报告七项关于潮汐瓦解
+ 事件（TDEs）、AGN准周期振荡（QPOs）和AGN反馈的最新研究
+ ，包括中等质量黑洞TDE候选体、可能超大质量黑洞双星TD
+ E、QPO时滞与频率演化、硬X射线QPO振幅调制、QPO三重态、
+ 邻近星系恒星运动与电离气体外流揭示的反馈机制，以
+ 及气体供应和反馈对核区恒星形成的影响。最后总结并
+ 展望未来研究方向。
+LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
