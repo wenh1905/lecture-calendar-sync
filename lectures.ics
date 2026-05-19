@@ -1004,4 +1004,17 @@ DESCRIPTION:主讲人: 吴远彬 南开大学\n\n电子俘获致核激发
  、重离子储存环等实验平台观测该过程的可能性。
 LOCATION:物理楼/E225A
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:实验室级相位衬度纳米CT成像仪器研发
+DTSTART;TZID=Asia/Shanghai:20260521T140000
+DTEND;TZID=Asia/Shanghai:20260521T150000
+UID:88b62947914d980e6d5b258a256f891a@reportautocal
+DESCRIPTION:主讲人: 葛永帅 中国科学院深圳先进技术研究
+ 院\n\n报告围绕实验室级相位衬度纳米CT成像仪器研发，
+ 阐述了新型相位衬度成像物理原理，将光栅微分相衬成
+ 像与波带片透镜成像统一，介绍了关键器件选型、仪器
+ 搭建与调试过程，展示了成像结果并讨论了遇到的问题
+ 及后续研究。
+LOCATION:刘卿楼/105
+END:VEVENT
 END:VCALENDAR
