@@ -1010,12 +1010,11 @@ DTSTART;TZID=Asia/Shanghai:20260521T140000
 DTEND;TZID=Asia/Shanghai:20260521T150000
 UID:88b62947914d980e6d5b258a256f891a@reportautocal
 DESCRIPTION:主讲人: 葛永帅 中国科学院深圳先进技术研究
- 院\n\n本报告围绕实验室级相位衬度纳米CT成像仪器的研
- 发，阐述了新型相位衬度纳米CT成像的物理原理，从理论
- 上统一了光栅微分相衬成像与波带片透镜成像。介绍了
- 关键器件选型、成像参数确定、仪器搭建与调试过程，
- 展示了基于该仪器获取的成像结果，并探讨了搭建中遇
- 到的问题及未来研究方向。
+ 院\n\n报告围绕实验室级相位衬度纳米CT成像仪器研发目
+ 标，阐述新型相位衬度纳米CT成像物理原理，将光栅微分
+ 相衬成像与波带片透镜成像统一；介绍关键器件选型、
+ 仪器搭建与调试及成像结果，探讨搭建问题与未来研究
+ 方向。
 LOCATION:刘卿楼/105
 END:VEVENT
 BEGIN:VEVENT
@@ -1024,14 +1023,11 @@ SUMMARY:From Flares to Feedback: The Multi-Scale Lives of Supermassive Bla
 DTSTART;TZID=Asia/Shanghai:20260521T150000
 DTEND;TZID=Asia/Shanghai:20260521T163000
 UID:0378c3741d427b5f7bb698ab9b227804@reportautocal
-DESCRIPTION:主讲人: 薛永泉 中国科学技术大学\n\n报告首先
- 简要介绍活动星系核，然后展示七项关于潮汐瓦解事件
- 、准周期振荡和反馈的最新研究，包括中等质量黑洞TDE
- 候选体、超长X射线观测揭示的可能超高质量黑洞双星TDE
- 、RE J1034+396中的QPO时滞和频率的相关演化、硬X射线QPO振
- 幅被软波段流量强烈调制、QPO三峰及其物理起源、邻近
- 星系中的AGN反馈以及气体供给和AGN反馈对核活动和恒星
- 形成的作用。最后给出总结和展望。
+DESCRIPTION:主讲人: 薛永泉 中国科学技术大学\n\n本讲座首
+ 先简要介绍活动星系核，随后汇报关于潮汐瓦解事件、AG
+ N准周期振荡及AGN反馈的七项近期研究成果，包括候选中
+ 等质量黑洞TDE、超长时标X射线双黑洞TDE、RE J1034+396的QPO
+ 时延与频率关联等，最后进行总结与展望。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
