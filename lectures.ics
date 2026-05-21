@@ -1026,11 +1026,10 @@ SUMMARY:超构表面光场调控：从界面相位到平面光学
 DTSTART;TZID=Asia/Shanghai:20260522T160000
 DTEND;TZID=Asia/Shanghai:20260522T173000
 UID:ebcdc0363c812c4623737e2323e5574f@reportautocal
-DESCRIPTION:主讲人: 周磊 复旦大学\n\n报告系统回顾了超构
- 表面从界面相位概念到平面光学领域的建立过程，利用
- 亚波长人工微结构实现电磁波自由调控，具有超薄、易
- 集成等优势，并展望了该领域在信息、能源、国防等方
- 面的未来发展方向。
+DESCRIPTION:主讲人: 周磊 复旦大学\n\n报告回顾了从界面相
+ 位调控到平面光学的发展历程，介绍了利用超构表面实
+ 现光场调控的原理与优势，并展望了该领域在超薄、易
+ 集成光学器件方面的未来方向。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
