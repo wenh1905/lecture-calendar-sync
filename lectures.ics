@@ -952,18 +952,6 @@ DESCRIPTION:主讲人: 吴远彬 南开大学\n\n报告介绍电子俘获
 LOCATION:物理楼/E225A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:超构表面光场调控：从界面相位到平面光学
-DTSTART;TZID=Asia/Shanghai:20260522T160000
-DTEND;TZID=Asia/Shanghai:20260522T173000
-UID:ebcdc0363c812c4623737e2323e5574f@reportautocal
-DESCRIPTION:主讲人: 周磊 复旦大学\n\n报告介绍利用超构表
- 面调控电磁波的新范式。超构表面通过亚波长人工微结
- 构在界面处引入相位突变，实现超薄、低损耗的平面光
- 学器件。报告回顾从界面相位概念到平面光学领域的建
- 立过程，并展望未来发展方向。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magnetism and Superfluidity in the fermionic Hubbard
 DTSTART;TZID=Asia/Shanghai:20260520T160000
 DTEND;TZID=Asia/Shanghai:20260520T173000
@@ -1032,5 +1020,18 @@ DESCRIPTION:主讲人: 薛永泉 中国科学技术大学\n\n本讲座介
  外流的影响，以及气体供应与AGN反馈在核区星暴活动中
  的作用。最后进行总结与展望。
 LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:超构表面光场调控：从界面相位到平面光学
+DTSTART;TZID=Asia/Shanghai:20260522T160000
+DTEND;TZID=Asia/Shanghai:20260522T173000
+UID:ebcdc0363c812c4623737e2323e5574f@reportautocal
+DESCRIPTION:主讲人: 周磊 复旦大学\n\n本报告系统回顾了超
+ 构表面从“界面相位”到“平面光学”的发展历程。超
+ 构表面利用人工微结构对电磁波进行界面相位调控，具
+ 有超薄、易制备、高集成等优势。报告介绍了该领域如
+ 何突破自然材料的局限，实现自由调控电磁波，并展望
+ 了未来发展方向。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
