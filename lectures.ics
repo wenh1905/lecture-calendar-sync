@@ -1022,15 +1022,16 @@ DESCRIPTION:主讲人: 薛永泉 中国科学技术大学\n\n本讲座介
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:超构表面光场调控：从界面相位到平面光学
+SUMMARY:★超构表面光场调控：从界面相位到平面光学
 DTSTART;TZID=Asia/Shanghai:20260522T160000
 DTEND;TZID=Asia/Shanghai:20260522T173000
 UID:ebcdc0363c812c4623737e2323e5574f@reportautocal
-DESCRIPTION:主讲人: 周磊 复旦大学\n\n本报告系统回顾了超
- 构表面利用亚波长人工微结构的界面相位实现光场调控
- 的原理，介绍了从界面相位概念的提出到平面光学领域
- 建立的过程，并展望了该领域在信息、能源、国防等方
- 面的应用前景和未来发展方向。
+DESCRIPTION:主讲人: 周磊 复旦大学\n\n报告系统介绍了利用
+ 亚波长人工微结构构建的超构表面，通过界面相位调控
+ 实现平面光学的新范式，回顾了从界面相位提出到平面
+ 光学领域建立的发展历程，展望了未来方向，强调超构
+ 表面具有超薄、易制备、高集成、低损耗等优势，是纳
+ 米光学前沿。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
