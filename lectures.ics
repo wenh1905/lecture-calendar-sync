@@ -1041,13 +1041,13 @@ SUMMARY:Barren Plateaus in the Riemannian Formulation and Gradient Scaling
 DTSTART;TZID=Asia/Shanghai:20260526T140000
 DTEND;TZID=Asia/Shanghai:20260526T153000
 UID:d649f936460ae16cd7fd634586539796@reportautocal
-DESCRIPTION:主讲人: 苗强 杜克大学\n\n报告探讨了混合量子-
- 经典算法优化中的贫瘠高原问题，通过黎曼几何公式证
- 明其与代价函数方差指数衰减等价，且梯度与无梯度优
- 化均受影响。进一步研究张量网络态（矩阵乘积态、树
- 张量网络、多尺度纠缠重整化）的梯度缩放性质，证明
- 这些结构天然避免贫瘠高原，为随机初始化张量网络的
- 可训练性提供了理论保证。
+DESCRIPTION:主讲人: 苗强 杜克大学\n\n报告探讨量子-经典混
+ 合算法优化中的贫瘠高原问题。通过黎曼几何表述证明
+ 贫瘠高原与代价函数方差指数衰减等价，且梯度方法与
+ 非梯度方法均无法避免。同时研究张量网络态（矩阵乘
+ 积态、树张量网络、多尺度纠缠重整化）的梯度缩放性
+ 质，证明这些架构天然避免贫瘠高原，为随机初始化张
+ 量网络的可训练性提供解析保证。
 LOCATION:物理楼/W361
 END:VEVENT
 BEGIN:VEVENT
@@ -1056,11 +1056,12 @@ SUMMARY:Orbital Architecture of Planetary Systems Formed by Gravitational
 DTSTART;TZID=Asia/Shanghai:20260528T150000
 DTEND;TZID=Asia/Shanghai:20260528T163000
 UID:9370dd6153b3c2e68e86333c14aecbab@reportautocal
-DESCRIPTION:主讲人: Eiichiro Kokubo 日本国立天文台\n\n该讲座
- 通过N体模拟研究行星系统在巨碰撞阶段的轨道构型，发
- 现平均轨道间隔和偏心率由行星两体表面逃逸速度与开
- 普勒圆周速度的比值决定，揭示了行星系统轨道构型的
- 基本标度律。
+DESCRIPTION:主讲人: Eiichiro Kokubo 日本国立天文台\n\n本报告
+ 通过N体模拟研究由原行星在巨撞击阶段（引力散射与碰
+ 撞）形成的行星系统的轨道结构，发现相邻行星的平均
+ 轨道间距和轨道离心率由行星的两体表面逃逸速度与开
+ 普勒圆周速度之比决定，这一比例可标度行星系统的轨
+ 道结构。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -1068,12 +1069,12 @@ SUMMARY:Emergent phenomena in topological magnets and altermagnets
 DTSTART;TZID=Asia/Shanghai:20260528T163000
 DTEND;TZID=Asia/Shanghai:20260528T180000
 UID:6b80f11a9acdc51b45d512b2a4822a98@reportautocal
-DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n本报告介绍拓
- 扑磁体和交变磁体等新型磁性材料中的涌现现象。重点
- 讨论磁斯格明子涡旋自旋结构产生的巨大拓扑霍尔效应
- 和磁光响应，以及交变磁体在无净磁化下实现的类铁磁
- 功能，展示如何利用材料的几何性质（拓扑、对称性等
- ）控制电子动力学并实现新奇电子学功能。
+DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n报告介绍拓扑
+ 磁体和交变磁体中的涌现现象，重点讨论磁斯格明子（
+ 具有拓扑稳定性的涡旋状自旋纹理）产生的巨大拓扑霍
+ 尔效应和磁光响应，以及交变磁体（无需净磁化即可实
+ 现类铁磁功能的反铁磁体）的最新研究进展，展示这些
+ 新奇磁性材料的独特功能响应。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
