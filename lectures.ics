@@ -1041,13 +1041,11 @@ SUMMARY:Barren Plateaus in the Riemannian Formulation and Gradient Scaling
 DTSTART;TZID=Asia/Shanghai:20260526T140000
 DTEND;TZID=Asia/Shanghai:20260526T153000
 UID:d649f936460ae16cd7fd634586539796@reportautocal
-DESCRIPTION:主讲人: 苗强 Duke Quantum Center\n\n报告探讨了混合
- 量子经典算法优化中的贫瘠高原问题。通过黎曼几何表
- 述证明贫瘠高原本质是代价函数方差的指数衰减，且无
- 论梯度优化与否均存在。进一步研究张量网络态（如MPS
- 、树张量网络、MERA）的梯度缩放性质，证明这些架构随
- 机初始化时天然不存在贫瘠高原，为克服指数级训练困
- 难提供了理论保障。
+DESCRIPTION:主讲人: 苗强 杜克大学\n\n报告通过黎曼几何视
+ 角揭示荒芜高原与代价函数方差指数衰减的等价性，并
+ 研究张量网络态（MPS、TTN、MERA）的梯度缩放性质，证明
+ 这些结构天然不存在荒芜高原，为随机初始化张量网络
+ 的可训练性提供了理论保证。
 LOCATION:物理楼/W361
 END:VEVENT
 BEGIN:VEVENT
@@ -1056,12 +1054,12 @@ SUMMARY:Orbital Architecture of Planetary Systems Formed by Gravitational
 DTSTART;TZID=Asia/Shanghai:20260528T150000
 DTEND;TZID=Asia/Shanghai:20260528T163000
 UID:9370dd6153b3c2e68e86333c14aecbab@reportautocal
-DESCRIPTION:主讲人: Eiichiro Kokubo NAOJ\n\n讲座利用N体模拟研
- 究由原行星（或行星胚胎）通过引力散射和碰撞（巨撞
- 击）形成的行星系统的轨道架构，发现行星的平均轨道
- 间隔和偏心率由行星的两体表面逃逸速度与开普勒环绕
- 速度之比决定，揭示了行星系统轨道构型的基本标度律
- 。
+DESCRIPTION:主讲人: Eiichiro Kokubo NAOJ\n\n本报告通过N体模拟
+ 研究行星系统在巨撞击阶段形成的轨道架构，重点关注
+ 相邻行星的平均轨道间距和偏心率。发现轨道架构由行
+ 星的两体表面逃逸速度与开普勒圆周速度之比决定，该
+ 比值可缩放行星系统的平均轨道间距和偏心率，揭示了
+ 行星系统多样性起源的基本标度律。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -1069,13 +1067,13 @@ SUMMARY:Emergent phenomena in topological magnets and altermagnets
 DTSTART;TZID=Asia/Shanghai:20260528T163000
 DTEND;TZID=Asia/Shanghai:20260528T180000
 UID:6b80f11a9acdc51b45d512b2a4822a98@reportautocal
-DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n本讲座介绍拓
- 扑磁体和交变磁体中的涌现现象。拓扑磁体中的磁斯格
- 明子具有涡旋状自旋纹理和拓扑稳定性，能产生巨大涌
- 现电磁场，驱动拓扑霍尔效应和磁光响应。交变磁体作
- 为破坏时间反演对称的反铁磁体，即使无净磁化也能实
- 现类似铁磁体的功能响应。报告将讨论这些奇异磁性材
- 料的最新进展及其独特功能。
+DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n报告介绍拓扑
+ 磁体（如磁斯格明子）和交替磁体中由几何有序导致的
+ 涌现电磁场现象。磁斯格明子具有拓扑稳定的涡旋自旋
+ 结构，可产生巨大拓扑霍尔效应和磁光响应；交替磁体
+ 是时间反演对称性破缺的反铁磁体，能在无净磁化下实
+ 现类铁磁功能。报告将讨论这类奇异磁性材料的最新进
+ 展及其独特功能响应。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
