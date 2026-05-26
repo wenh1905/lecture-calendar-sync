@@ -1041,13 +1041,13 @@ SUMMARY:Barren Plateaus in the Riemannian Formulation and Gradient Scaling
 DTSTART;TZID=Asia/Shanghai:20260526T140000
 DTEND;TZID=Asia/Shanghai:20260526T153000
 UID:d649f936460ae16cd7fd634586539796@reportautocal
-DESCRIPTION:主讲人: 苗强 杜克大学\n\n本报告针对混合量子-
- 经典算法中的贫瘠高原（Barren Plateaus）问题，从黎曼几
- 何角度证明其本质是代价函数方差指数衰减，无论梯度
- 优化与否都无法避免。同时研究张量网络态（如MPS、树
- 张量网络、MERA）中的梯度缩放性质，证明这些架构天然
- 无贫瘠高原，为随机初始化TNS的可训练性提供理论保证
- ，强调了量子态设计在克服指数困难中的关键作用。
+DESCRIPTION:主讲人: 苗强 杜克大学\n\n报告探讨了混合量子-
+ 经典算法优化中的贫瘠高原问题。通过黎曼几何形式化
+ ，证明贫瘠高原本质上是代价函数方差的指数衰减，且
+ 与优化方法无关。进一步研究了张量网络态（如矩阵积
+ 态、树张量网络、多尺度纠缠重整化假设）的梯度缩放
+ 性质，证明这些架构天然避免贫瘠高原，为随机初始化
+ 张量网络的可训练性提供了理论保证。
 LOCATION:物理楼/W361
 END:VEVENT
 BEGIN:VEVENT
@@ -1056,12 +1056,11 @@ SUMMARY:Orbital Architecture of Planetary Systems Formed by Gravitational
 DTSTART;TZID=Asia/Shanghai:20260528T150000
 DTEND;TZID=Asia/Shanghai:20260528T163000
 UID:9370dd6153b3c2e68e86333c14aecbab@reportautocal
-DESCRIPTION:主讲人: Eiichiro Kokubo 日本国立天文台\n\n通过N体
- 模拟研究原行星在巨撞击阶段通过引力散射和碰撞形成
- 行星系统的轨道架构。发现相邻行星的平均轨道间距和
- 平均轨道偏心率由行星两体表面逃逸速度与开普勒圆速
- 度之比决定，该比值可缩放行星系统的轨道结构，为理
- 解行星系统多样性提供基础规律。
+DESCRIPTION:主讲人: Eiichiro Kokubo NAOJ\n\n本研究通过N体模拟
+ ，探讨原行星在巨撞击阶段后形成的行星系统轨道架构
+ 。发现相邻行星的平均轨道间距和轨道偏心率由行星两
+ 体表面逃逸速度与开普勒圆速度之比决定，该比值可作
+ 为标度参数，揭示了行星系统轨道结构的普适规律。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -1069,12 +1068,13 @@ SUMMARY:Emergent phenomena in topological magnets and altermagnets
 DTSTART;TZID=Asia/Shanghai:20260528T163000
 DTEND;TZID=Asia/Shanghai:20260528T180000
 UID:6b80f11a9acdc51b45d512b2a4822a98@reportautocal
-DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n报告介绍了拓
- 扑磁体和交变磁体中涌现的奇异电磁现象。通过磁性斯
- 格明子的涡旋自旋织构产生巨大拓扑霍尔效应和磁光响
- 应，以及交变磁体在无净磁化下实现类铁磁功能。展示
- 了新型磁性材料的发展及其独特功能，为操控电子动力
- 学提供新思路。
+DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n本报告介绍拓
+ 扑磁体和交变磁体中涌现的奇特电磁现象。通过材料几
+ 何性质（拓扑、对称性、维度）控制电子行为，利用磁
+ 斯格明子等拓扑自旋结构产生巨大涌现电磁场，实现拓
+ 扑霍尔效应和磁光响应。同时探讨交变磁体在无净磁化
+ 下产生类铁磁功能响应的机制，讨论新型磁性材料的研
+ 究进展及其独特功能。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1082,11 +1082,12 @@ SUMMARY:Stabilizer Rényi Entropy in SYK-like Models
 DTSTART;TZID=Asia/Shanghai:20260527T150000
 DTEND;TZID=Asia/Shanghai:20260527T163000
 UID:af144a05879feb64a885c147f1d53a83@reportautocal
-DESCRIPTION:主讲人: 张鹏飞 复旦大学\n\n报告介绍了在SYK类
- 模型中利用辅助自旋自由度表示配分函数来研究稳定子R
- ényi熵（SRE）的方法。应用于单点SYK模型、耦合SYK模型和
- 热场双动力学三个例子，发现SRE中出现了传统观测量或
- 密度矩阵Rényi熵无法显示的转变。
+DESCRIPTION:主讲人: 张鹏飞 复旦大学\n\n讲座研究SYK类模型
+ 中的稳定子Rényi熵（SRE），通过引入辅助自旋表示配分
+ 函数，将SRE转化为自旋系统的自由能。应用于单点SYK、
+ 耦合SYK和热场双动态三个例子，发现SRE中存在传统观测
+ 量或Rényi熵无法显示的相变，揭示了量子魔法在复杂系
+ 统中的独特行为。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
