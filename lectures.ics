@@ -1069,12 +1069,13 @@ SUMMARY:Stabilizer Rényi Entropy in SYK-like Models
 DTSTART;TZID=Asia/Shanghai:20260527T150000
 DTEND;TZID=Asia/Shanghai:20260527T163000
 UID:af144a05879feb64a885c147f1d53a83@reportautocal
-DESCRIPTION:主讲人: 张鹏飞 复旦大学\n\n报告介绍在SYK-like
- 模型中研究量子魔法资源——稳定器Rényi熵（SRE）。通
- 过将配分函数表示为辅助自旋自由度的方法，分析了单
- 点SYK模型、耦合SYK模型以及热场双动力学中的SRE行为，
- 揭示了常规可观测量或密度矩阵Rényi熵中不可见的多种
- 相变现象。
+DESCRIPTION:主讲人: 张鹏飞 复旦大学\n\n报告介绍了在类似S
+ YK模型中研究稳定子Rényi熵（SRE）的工作。通过用辅助自
+ 旋自由度表示配分函数，分析了单点SYK模型、耦合SYK模
+ 型和热场对偶动力学三个例子，揭示了常规观测量或密
+ 度矩阵Rényi熵中不可见的相变。量子纠缠和量子魔力是
+ 量子系统超越经典模拟的关键资源，该工作为量子魔力
+ 在复杂系统中的应用提供了新见解。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -1082,12 +1083,12 @@ SUMMARY:Emergent phenomena in topological magnets and altermagnets
 DTSTART;TZID=Asia/Shanghai:20260528T163000
 DTEND;TZID=Asia/Shanghai:20260528T180000
 UID:6b80f11a9acdc51b45d512b2a4822a98@reportautocal
-DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n报告探讨拓扑
- 磁体与交变磁体中的涌现现象。磁斯格明子因自旋手性
- 产生巨大拓扑霍尔效应和磁光响应；交变磁体虽无净磁
- 化，却能实现类似铁磁体的功能性质。该领域有望通过
- 材料几何结构（拓扑、对称性、维度）控制电子动力学
- ，发展新型电子功能材料。
+DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n报告介绍拓扑
+ 磁体与交变磁体中的涌现现象。磁性斯格明子具有拓扑
+ 稳定的涡旋自旋结构，能产生巨大的拓扑霍尔效应和磁
+ 光响应；交变磁体在无净磁化下实现类似铁磁体的功能
+ 响应。报告还将讨论这些新型磁性材料的最新进展及其
+ 独特功能。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1096,12 +1097,12 @@ SUMMARY:Infinite-Layer Oxides and the Quest for High-temperature Supercond
 DTSTART;TZID=Asia/Shanghai:20260602T103000
 DTEND;TZID=Asia/Shanghai:20260602T120000
 UID:2371115b1c698bdde3dd4a8d178ee204@reportautocal
-DESCRIPTION:主讲人: Ariando National University of Singapore\n\n报告
- 介绍了在无限层氧化物中实现高温超导的最新进展。首
- 先，新型镍基超导体SECNO的Tc接近40K，表现出高场可重入
- 超导性和本征铁磁态共存。其次，通过化学掺杂实现了
- 空穴掺杂无限层铜基薄膜中的超导，起始转变温度高达10
- 0K，为理解铜基和镍基超导体的统一机制提供了新途径。
+DESCRIPTION:主讲人: Ariando 新加坡国立大学\n\n报告介绍了两
+ 项最新进展：一是新型无限层镍氧化物SECNO超导体，Tc接
+ 近40K，展现出高场可重入超导性和与铁磁态共存的特性
+ ；二是首次实现空穴掺杂无限层铜氧化物薄膜的超导，
+ 起始温度约100K。这些简单结构为理解高温超导机制提供
+ 了统一框架。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
