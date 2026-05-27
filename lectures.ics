@@ -1069,24 +1069,24 @@ SUMMARY:Stabilizer Rényi Entropy in SYK-like Models
 DTSTART;TZID=Asia/Shanghai:20260527T150000
 DTEND;TZID=Asia/Shanghai:20260527T163000
 UID:af144a05879feb64a885c147f1d53a83@reportautocal
-DESCRIPTION:主讲人: 张鹏飞 复旦大学\n\n报告介绍了SYK-like
- 模型中的稳定Rényi熵（SRE），通过辅助自旋自由度表示
- 配分函数，研究了单点SYK、耦合SYK和热场双动力学三种
- 情形，发现SRE中存在常规可观测量或Rényi熵中不可见的
- 相变。
+DESCRIPTION:主讲人: 张鹏飞 复旦大学\n\n本报告介绍了在SYK
+ 类模型中研究稳定子Rényi熵（SRE）的工作。通过辅助自
+ 旋自由度表示配分函数，将该方法应用于单点SYK模型、
+ 耦合SYK模型和热场双动态三个例子，发现SRE中存在传统
+ 可观测量或密度矩阵Rényi熵无法显示的多种转变，揭示
+ 了量子魔术在量子多体系统中的独特特征。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Emergent phenomena in topological magnets and altermagnets
+SUMMARY:★Emergent phenomena in topological magnets and altermagnets
 DTSTART;TZID=Asia/Shanghai:20260528T163000
 DTEND;TZID=Asia/Shanghai:20260528T180000
 UID:6b80f11a9acdc51b45d512b2a4822a98@reportautocal
-DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n报告介绍了拓
- 扑磁体和交变磁体中的新兴电磁现象。通过磁斯格明子
- 等拓扑自旋结构产生的巨大涌现电磁场，可实现新型电
- 子动力学控制；交变磁体虽无净磁化但具有类铁磁功能
- 响应。报告展示了相关新材料开发及其独特功能特性，
- 如拓扑霍尔效应和磁光响应。
+DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n本讲座介绍拓
+ 扑磁体和交变磁体中的涌现现象。拓扑磁体中的磁斯格
+ 明子产生巨大的拓扑霍尔效应和磁光响应；交变磁体虽
+ 无净磁化，但可实现类铁磁功能响应。报告将展示近期
+ 在新型磁性材料开发及其独特功能响应方面的进展。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1096,12 +1096,12 @@ DTSTART;TZID=Asia/Shanghai:20260602T103000
 DTEND;TZID=Asia/Shanghai:20260602T120000
 UID:2371115b1c698bdde3dd4a8d178ee204@reportautocal
 DESCRIPTION:主讲人: Ariando 新加坡国立大学\n\n报告介绍了在
- 无限层氧化物中实现高温超导的最新进展，包括在新发
- 现的镍酸盐SECNO中实现接近40K的超导，观察到高场可重入
- 超导和铁磁基态共存；以及在空穴掺杂的无限层铜酸盐
- 薄膜中实现起始温度高达100K的超导，通过阳离子替代和
- 顶氧控制实现空穴掺杂，为统一理解铜酸盐和镍酸盐超
- 导提供了新途径。
+ 无限层氧化物中实现高温超导的最新进展。首先，通过
+ 合成新型镍酸盐SECNO，实现了接近40K的超导转变温度，并
+ 发现其与铁磁基态共存。其次，在空穴掺杂的无限层铜
+ 酸盐薄膜中实现了起始温度高达100K的超导。这些结果有
+ 助于统一理解铜酸盐和镍酸盐高温超导机制，并为进一
+ 步提升超导转变温度提供了新思路。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
