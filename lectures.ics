@@ -1081,12 +1081,11 @@ SUMMARY:Emergent phenomena in topological magnets and altermagnets
 DTSTART;TZID=Asia/Shanghai:20260528T163000
 DTEND;TZID=Asia/Shanghai:20260528T180000
 UID:6b80f11a9acdc51b45d512b2a4822a98@reportautocal
-DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n本讲座介绍拓
- 扑磁和交变磁体中的涌现现象。拓扑磁斯格明子具有涡
- 旋状自旋织构，能产生巨拓扑霍尔效应和磁光响应；交
- 变磁体虽无净磁化但具有类铁磁功能响应。报告将展示
- 这类奇异磁性材料的最新进展及其独特功能特性，并讨
- 论如何利用几何拓扑性质控制电子动力学。
+DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n报告探讨拓扑
+ 磁体（如磁性斯格明子）和交变磁体中涌现的电磁现象
+ ，介绍利用自旋拓扑及时间反演对称性破缺实现的新型
+ 电子功能响应，如巨拓扑霍尔效应和类似铁磁体的特性
+ ，并展示近年在奇异磁性材料开发方面的进展。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1095,12 +1094,13 @@ SUMMARY:Infinite-Layer Oxides and the Quest for High-temperature Supercond
 DTSTART;TZID=Asia/Shanghai:20260602T103000
 DTEND;TZID=Asia/Shanghai:20260602T120000
 UID:2371115b1c698bdde3dd4a8d178ee204@reportautocal
-DESCRIPTION:主讲人: Ariando 新加坡国立大学\n\n报告介绍了在
- 无限层氧化物中实现高温超导的最新突破，包括新型镍
- 基超导SECNO（Tc接近40K）以及空穴掺杂铜基无限层超导薄
- 膜（起始Tc约100K）。通过磁输运、极化中子反射等实验
- 揭示了超导与铁磁共存等新奇现象，并探讨了电子-空穴
- 对称性对统一理解铜基和镍基超导的启示。
+DESCRIPTION:主讲人: Ariando 新加坡国立大学\n\n报告介绍了无
+ 限层氧化物在高温超导研究中的最新突破。在镍基超导
+ 方面，团队实现了新型无限层镍酸盐SECNO，超导转变温度
+ 接近40K，并观察到铁磁态与超导共存；在铜基超导方面
+ ，通过化学掺杂实现空穴型无限层铜酸盐薄膜，超导起
+ 始温度高达100K。这些成果为统一理解铜基和镍基超导机
+ 制提供了重要线索。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
