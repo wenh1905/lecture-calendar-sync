@@ -1081,11 +1081,12 @@ SUMMARY:Emergent phenomena in topological magnets and altermagnets
 DTSTART;TZID=Asia/Shanghai:20260528T163000
 DTEND;TZID=Asia/Shanghai:20260528T180000
 UID:6b80f11a9acdc51b45d512b2a4822a98@reportautocal
-DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n报告介绍拓扑
- 磁体和交变磁体中的涌现电磁现象。通过磁斯格明子等
- 拓扑自旋织构产生巨大涌现电磁场，实现新型电子功能
- ；交变磁体虽无净磁化却能产生类铁磁响应。报告将展
- 示这些奇特磁性材料的最新进展及其独特功能响应。
+DESCRIPTION:主讲人: Shinichiro Seki 东京大学\n\n报告介绍了拓
+ 扑磁体与交替磁体中涌现的新奇电磁现象。重点阐述了
+ 磁性斯格明子作为拓扑稳定的涡旋自旋结构，如何引发
+ 巨大的拓扑霍尔效应和磁光响应；以及交替磁体在无净
+ 磁化下实现类铁磁功能。通过材料设计与物性调控，展
+ 示了这些体系在新型电子学中的应用潜力。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1095,11 +1096,11 @@ DTSTART;TZID=Asia/Shanghai:20260602T103000
 DTEND;TZID=Asia/Shanghai:20260602T120000
 UID:2371115b1c698bdde3dd4a8d178ee204@reportautocal
 DESCRIPTION:主讲人: Ariando 新加坡国立大学\n\n报告介绍了在
- 无限层氧化物中探索高温超导的最新进展。首先，实现
- 了新型镍酸盐超导体SECNO，Tc接近40K，并发现磁性共存与
- 超导的相互作用。其次，首次在空穴掺杂的无限层铜氧
- 化物薄膜中实现超导，起始温度达100K，为理解铜氧化物
- 和镍氧化物超导的统一机制提供了关键桥梁。
+ 无限层氧化物中实现高温超导的最新进展。作者团队制
+ 备了新型无限层镍基超导SECNO，转变温度接近40K，发现其
+ 存在高场重入超导和本征铁磁态。同时在化学掺杂的Sr-Cu
+ -O单晶薄膜中实现了空穴掺杂超导，起始温度高达100K。
+ 研究为理解铜基和镍基超导的统一机制提供了新途径。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
