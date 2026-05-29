@@ -1109,13 +1109,13 @@ SUMMARY:Function follows form: When shape dictates functionality of quantu
 DTSTART;TZID=Asia/Shanghai:20260604T160000
 DTEND;TZID=Asia/Shanghai:20260604T173000
 UID:bcf4c486771205f5573dcb50046d7170@reportautocal
-DESCRIPTION:主讲人: Philip J.W. Moll Max-Planck-Institute for Structure
-  and Dynamics of Matter\n\n报告探讨了通过聚焦离子束微纳加
- 工技术对单晶材料进行三维介观形状控制，从而突破体
- 材料对称性限制，实现新型电子功能。以铋、铁基超导
- 体FeSe和CoTa3S6为例，展示了形状诱导的量子霍尔效应、超
- 导二极管效应以及手性与向列序的耦合，提出形状控制
- 作为量子材料功能设计的新范式。
+DESCRIPTION:主讲人: Philip J.W. Moll 马克斯·普朗克物质结构
+ 与动力学研究所\n\n本次报告探讨三维形状控制对量子材
+ 料电子功能的影响。通过聚焦离子束加工技术，在单晶
+ 铋中实现三维量子霍尔效应，在反演对称的FeSe中设计超
+ 导二极管效应，并在CoTa3S6中降低对称性实现向列与手性
+ 磁序的耦合。形状调控成为突破体材料对称性限制、实
+ 现新奇量子功能的新范式。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1124,9 +1124,10 @@ DTSTART;TZID=Asia/Shanghai:20260611T160000
 DTEND;TZID=Asia/Shanghai:20260611T173000
 UID:37daaeb9a93a362eb0826de84c70d8a2@reportautocal
 DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n报告介绍
- 双致密星并合（黑洞和中子星）产生的引力波事件及其
- 多波段电磁对应体，阐述多信使观测对于理解致密天体
- 并合过程的关键作用，并展望该领域的研究前景。
+ 了黑洞和中子星等致密天体，阐述了双致密星并合产生
+ 的引力波事件及其多波段电磁对应体，强调多信使手段
+ 在理解并合过程中的关键作用，并展望了该领域的研究
+ 前景。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
