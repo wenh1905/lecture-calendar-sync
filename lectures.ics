@@ -1109,13 +1109,12 @@ SUMMARY:Function follows form: When shape dictates functionality of quantu
 DTSTART;TZID=Asia/Shanghai:20260604T160000
 DTEND;TZID=Asia/Shanghai:20260604T173000
 UID:bcf4c486771205f5573dcb50046d7170@reportautocal
-DESCRIPTION:主讲人: Philip J.W. Moll 马克斯·普朗克物质结构
- 与动力学研究所\n\n报告探讨形状设计对量子材料电子功
- 能的影响。通过聚焦离子束制备3D介观晶体结构，可打破
- 体材料对称性限制，实现新功能。以铋的量子霍尔效应
- 、铁基超导体FeSe中的超导二极管效应及CoTa3S6中的手性磁
- 序为例，展示了形状控制作为设计量子材料功能的新范
- 式。
+DESCRIPTION:主讲人: Philip J.W. Moll 马克斯-普朗克物质结构与
+ 动力学研究所\n\n报告探讨了通过三维介观形状控制来设
+ 计量子材料的功能，突破体材料对称性限制。以铋、FeSe
+ 和CoTa3S6为例，展示了形状控制如何实现量子霍尔效应、
+ 超导二极管效应等新奇现象，揭示了形状作为量子材料
+ 功能设计新范式的潜力。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1123,12 +1122,10 @@ SUMMARY:多信使问天
 DTSTART;TZID=Asia/Shanghai:20260611T160000
 DTEND;TZID=Asia/Shanghai:20260611T173000
 UID:37daaeb9a93a362eb0826de84c70d8a2@reportautocal
-DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n报告介绍
- 多信使天文学在理解双致密星（黑洞、中子星）并合过
- 程中的关键作用。自首例双黑洞并合引力波事件发现以
- 来，已探测到300多例引力波事件，其中双中子星并合事
- 件还观测到多波段电磁对应体。报告深入浅出地阐述多
- 信使研究前景。
+DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n报告深入
+ 浅出地介绍了黑洞和中子星两类致密天体，重点阐述多
+ 信使（引力波及多波段电磁对应体）在理解双致密星并
+ 合过程中的关键作用，并展望该领域的研究前景。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
