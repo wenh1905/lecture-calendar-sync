@@ -1110,13 +1110,10 @@ DTSTART;TZID=Asia/Shanghai:20260604T160000
 DTEND;TZID=Asia/Shanghai:20260604T173000
 UID:bcf4c486771205f5573dcb50046d7170@reportautocal
 DESCRIPTION:主讲人: Philip J.W. Moll Max-Planck-Institute for Structure
-  and Dynamics of Matter\n\n本报告探讨了通过介观形状控制量
- 子材料功能性的新范式。传统上，体材料对称性禁止某
- 些响应，但利用聚焦离子束加工对单晶进行三维形状设
- 计，可有效改变对称性，解锁如超导二极管效应等原本
- 被禁止的功能。以铋、铁基超导体FeSe和CoTa3S6为例，展示
- 了形状控制在量子霍尔效应、超导二极管及磁电耦合中
- 的关键作用。
+  and Dynamics of Matter\n\n报告探讨了通过3D介观形状控制解锁
+ 量子材料中体对称性禁止的功能。以铋微结构中的量子
+ 霍尔效应、FeSe超导二极管效应及CoTa3S6中对称性破缺为例
+ ，展示了形状设计如何成为调控电子功能性的新范式。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1125,8 +1122,8 @@ DTSTART;TZID=Asia/Shanghai:20260611T160000
 DTEND;TZID=Asia/Shanghai:20260611T173000
 UID:37daaeb9a93a362eb0826de84c70d8a2@reportautocal
 DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n报告介绍
- 双致密星并合（双黑洞、双中子星）产生的引力波及多
- 波段电磁对应体，阐述多信使观测对理解并合过程的关
+ 双致密星并合产生的引力波事件及其多波段电磁对应体
+ ，阐述多信使观测在理解黑洞和中子星并合过程中的关
  键作用，并展望该领域研究前景。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
