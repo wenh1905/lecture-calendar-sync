@@ -1109,13 +1109,13 @@ SUMMARY:Function follows form: When shape dictates functionality of quantu
 DTSTART;TZID=Asia/Shanghai:20260604T160000
 DTEND;TZID=Asia/Shanghai:20260604T173000
 UID:bcf4c486771205f5573dcb50046d7170@reportautocal
-DESCRIPTION:主讲人: Philip J.W. Moll 马克斯·普朗克物质结构
- 与动力学研究所\n\n报告讨论了通过聚焦离子束加工实现
- 单晶三维介观结构，利用形状控制打破体材料对称性，
- 从而在量子材料中实现原本禁止的功能。例如在铋中实
- 现三维量子霍尔效应，在铁基超导体FeSe中设计和调控超
- 导二极管效应，以及在CoTa3S6中实现向列序与手性磁有序
- 的耦合。形状控制成为量子材料功能设计的新范式。
+DESCRIPTION:主讲人: Philip J.W. Moll Max-Planck-Institute for Structure
+  and Dynamics of Matter\n\n报告探讨形状控制如何突破对称性
+ 限制，在量子材料中实现新功能。通过聚焦离子束加工
+ 三维单晶微结构，在铋中发现三维量子霍尔效应，在铁
+ 基超导体FeSe中设计出可调控的超导二极管效应，并在CoTa
+ 3S6中实现对称性禁止的向列-手性磁序耦合，展示了形状
+ 作为设计电子功能性的新范式。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1123,10 +1123,12 @@ SUMMARY:多信使问天
 DTSTART;TZID=Asia/Shanghai:20260611T160000
 DTEND;TZID=Asia/Shanghai:20260611T173000
 UID:37daaeb9a93a362eb0826de84c70d8a2@reportautocal
-DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n报告深入
- 浅出地介绍多信使天文学在理解双致密星（黑洞和中子
- 星）并合过程中的关键作用，包括引力波事件及其多波
- 段电磁对应体，并展望该领域的研究前景。
+DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n黑洞和中
+ 子星是两类神秘的致密天体。报告介绍了双黑洞并合引
+ 力波事件以来的数百例双致密星并合事件，特别是双中
+ 子星并合产生的引力波及多波段电磁对应体。深入浅出
+ 地阐述多信使观测在理解双致密星并合过程中的关键作
+ 用，并展望该领域的研究前景。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
