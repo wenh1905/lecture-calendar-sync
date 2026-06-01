@@ -1148,14 +1148,16 @@ SUMMARY:Pseudogap and Non-Fermi-liquid criticality in double Kondo model f
 DTSTART;TZID=Asia/Shanghai:20260601T150000
 DTEND;TZID=Asia/Shanghai:20260601T163000
 UID:79eb1cabbe488be563c37686bbfb8745@reportautocal
-DESCRIPTION:主讲人: 张亚晖 Johns Hopkins University\n\n本报告通
- 过单点动力学平均场理论研究双层Kondo晶格模型，揭示双
- 层镍酸盐正常态相图。当层间隧穿为零时，存在非费米
- 液体临界点，将过掺杂区的标准费米液体与欠掺杂区的
- 赝能隙金属分开。赝能隙相呈现小空穴口袋并违反微扰Lu
- ttinger定理，其行为类似重费米液体。基于辅助费米子框
- 架提供解析描述，并应用于La3Ni2O7，提出当前实验样品处
- 于过掺杂区，可通过电子掺杂接近赝能隙相。
+DESCRIPTION:主讲人: 张亚晖 Johns Hopkins University\n\n基于双层
+ 镍酸盐高温超导的最新实验进展，该报告研究了双层Kondo
+ 晶格模型正常态的相图。通过单点动力学平均场理论计
+ 算，发现当层间隧穿为零时，层间自旋耦合或空穴掺杂
+ 可调谐非费米液体临界点，将过掺杂区的标准费米液体
+ 与欠掺杂区的伪能隙金属区分开。伪能隙相表现为“第
+ 二费米液体”，具有小空穴口袋且违反微扰Luttinger定理
+ 。报告还利用辅助费米子框架提供了伪能隙和基态波函
+ 数的直观解析描述，并提出了通过电子掺杂获取该相和
+ 临界点的实验建议。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -1163,9 +1165,11 @@ SUMMARY:Techniques of Feynman integral computation and their applications
 DTSTART;TZID=Asia/Shanghai:20260604T140000
 DTEND;TZID=Asia/Shanghai:20260604T153000
 UID:5c5ba36436bf7ba344687716e98c18ba@reportautocal
-DESCRIPTION:主讲人: 吴子昊 华南师范大学\n\n介绍多圈费曼
- 积分的计算技术及相关前沿软件，探讨其在量子场论精
- 密计算和高能物理中的应用。
+DESCRIPTION:主讲人: 吴子昊 华南师范大学\n\n本报告介绍多
+ 圈费曼积分的计算技术及其在量子场论和高能物理精确
+ 计算中的应用。重点讲述最新计算软件的发展、高效算
+ 法研究，以及在前沿高能物理计算中的实际应用案例，
+ 旨在解决当前该领域面临的高计算复杂度挑战。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -1173,13 +1177,14 @@ SUMMARY:Galaxy-dark matter connection星系-暗物质关联
 DTSTART;TZID=Asia/Shanghai:20260604T150000
 DTEND;TZID=Asia/Shanghai:20260604T163000
 UID:148da63e73eb5da720c7031d18557230@reportautocal
-DESCRIPTION:主讲人: 王慧元 中国科学技术大学\n\n本讲座介
- 绍星系与暗物质关联的研究，包括从星系红移巡天重建
- 宇宙暗物质分布初始条件的方法，以及利用宇宙学模拟
- 研究星系形成、星系际介质、活动星系核反馈等大尺度
- 问题；小尺度上讨论星系-晕关系，如恒星质量与暗物质
- 晕质量关系的多样性及星系次级性质与晕的联系，为理
- 解星系形成物理过程及暗物质性质提供见解。
+DESCRIPTION:主讲人: 王慧元 中国科学技术大学\n\n本报告探
+ 讨星系与暗物质之间的关联。在大尺度上，研究团队开
+ 发了从星系红移巡天重建宇宙暗物质分布初始条件的方
+ 法，并利用宇宙学模拟追溯结构演化，应用于探测星系
+ 际介质微弱信号、约束活动星系核反馈等。在小尺度上
+ ，介绍了星系-暗晕连接的工作，包括恒星质量-暗晕质量
+ 关系的多样性以及星系与暗晕次级属性的联系，为理解
+ 星系形成物理过程和暗物质性质提供见解。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -1188,11 +1193,10 @@ DTSTART;TZID=Asia/Shanghai:20260605T140000
 DTEND;TZID=Asia/Shanghai:20260605T160000
 UID:576e906a142ec978d42740e9ef555254@reportautocal
 DESCRIPTION:主讲人: 李百文 北京应用物理与计算数学研究
- 所\n\n2022年12月美国国家点火装置实现激光惯性约束聚变
- 点火，输出能量大于输入激光能量，开启聚变能应用新
- 篇章。本报告介绍激光聚变的基本原理、间接驱动中心
- 点火路线、当前国内外主要进展及未来高增益聚变面临
- 的挑战与机遇。
-LOCATION:刘卿楼/105会议室
+ 所\n\n报告介绍了激光惯性约束聚变的研究进展，包括聚
+ 变基本问题、激光惯性约束聚变的原理和方法、间接驱
+ 动中心点火路线与挑战，以及当前国际和国内主要进展
+ ，展望了未来高增益聚变研究的挑战与机遇。
+LOCATION:刘卿楼/105
 END:VEVENT
 END:VCALENDAR
