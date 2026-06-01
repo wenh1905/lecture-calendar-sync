@@ -1129,33 +1129,6 @@ DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n报告深入
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pseudogap and Non-Fermi-liquid criticality in double Kondo model f
- or bilayer nickelates
-DTSTART;TZID=Asia/Shanghai:20260601T150000
-DTEND;TZID=Asia/Shanghai:20260601T163000
-UID:79eb1cabbe488be563c37686bbfb8745@reportautocal
-DESCRIPTION:主讲人: 张亚晖 Johns Hopkins University\n\n该报告基
- 于双层Kondo晶格模型，利用单点动力学平均场理论研究双
- 层镍酸盐正常态相图。当层间隧穿为零时，发现一个非
- 费米液体临界点，将过掺杂区的标准费米液体与欠掺杂
- 区的赝能隙金属分开。赝能隙相表现为重费米液体，存
- 在小空穴口袋并违反Luttinger定理。将此框架应用于La₃Ni
- ₂O₇，提出当前实验样品处于过掺杂区，可通过电子掺
- 杂进入赝能隙和NFL临界相。
-LOCATION:科学馆/322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Techniques of Feynman integral computation and their applications
-DTSTART;TZID=Asia/Shanghai:20260604T140000
-DTEND;TZID=Asia/Shanghai:20260604T153000
-UID:5c5ba36436bf7ba344687716e98c18ba@reportautocal
-DESCRIPTION:主讲人: 吴子昊 华南师范大学\n\n本讲座介绍多
- 圈费曼积分计算的关键技术及相应软件（如NeatIBP），阐
- 述该领域的最新进展及其在前沿高能物理精确计算中的
- 应用，旨在解决计算复杂度带来的挑战。
-LOCATION:物理楼/W260
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Galaxy-dark matter connection 星系-暗物质关联
 DTSTART;TZID=Asia/Shanghai:20260604T150000
 DTEND;TZID=Asia/Shanghai:20260604T163000
@@ -1168,5 +1141,57 @@ DESCRIPTION:主讲人: 王慧元 中国科学技术大学\n\n讲座介绍
  量-暗晕质量关系的多样性及星系与暗晕次级属性的关联
  。
 LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pseudogap and Non-Fermi-liquid criticality in double Kondo model f
+ or bilayer nickelates
+DTSTART;TZID=Asia/Shanghai:20260601T150000
+DTEND;TZID=Asia/Shanghai:20260601T163000
+UID:79eb1cabbe488be563c37686bbfb8745@reportautocal
+DESCRIPTION:主讲人: 张亚晖 约翰霍普金斯大学\n\n基于双层
+ 镍酸盐高温超导实验，利用动力学平均场理论研究双层Ko
+ ndo格子模型正常态相图。发现层间隧穿为零时，存在非
+ 费米液体临界点，区分过掺杂区费米液体与欠掺杂区赝
+ 能隙金属（第二费米液体）。该赝能隙相含小空穴口袋
+ ，违反微扰Luttinger定理，并可用辅助费米子框架解析描
+ 述。
+LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techniques of Feynman integral computation and their applications
+DTSTART;TZID=Asia/Shanghai:20260604T140000
+DTEND;TZID=Asia/Shanghai:20260604T153000
+UID:5c5ba36436bf7ba344687716e98c18ba@reportautocal
+DESCRIPTION:主讲人: 吴子昊 华南师范大学\n\n本报告介绍多
+ 圈费曼积分计算的关键技术，包括最新软件工具及其在
+ 高能物理前沿精密计算中的应用。由于计算复杂度高，
+ 该领域面临重大挑战，报告将阐述近期发展及其在解析
+ 计算中的高效算法。
+LOCATION:物理楼/W260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Galaxy-dark matter connection星系-暗物质关联
+DTSTART;TZID=Asia/Shanghai:20260604T150000
+DTEND;TZID=Asia/Shanghai:20260604T163000
+UID:148da63e73eb5da720c7031d18557230@reportautocal
+DESCRIPTION:主讲人: 王慧元 中国科学技术大学\n\n本次报告
+ 介绍星系与暗物质关联的研究。大尺度上，团队开发了
+ 从星系红移巡天重建暗物质初始条件的方法，用于研究
+ 星系际介质、AGN反馈等；小尺度上，研究了恒星质量-暗
+ 晕质量关系的多样性及星系-暗晕联系的次级属性，有助
+ 于理解星系形成和暗物质性质。
+LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:激光惯性约束聚变研究进展
+DTSTART;TZID=Asia/Shanghai:20260605T140000
+DTEND;TZID=Asia/Shanghai:20260605T160000
+UID:576e906a142ec978d42740e9ef555254@reportautocal
+DESCRIPTION:主讲人: 李百文 北京应用物理与计算数学研究
+ 所\n\n报告介绍了激光惯性约束聚变（ICF）的研究进展，
+ 包括聚变的基本问题、激光ICF的由来和原理、间接驱动
+ 中心点火路线与挑战，以及国内外主要进展和未来高增
+ 益聚变的挑战与机遇。
+LOCATION:刘卿楼/105
 END:VEVENT
 END:VCALENDAR
