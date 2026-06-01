@@ -1129,47 +1129,6 @@ DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n报告深入
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Galaxy-dark matter connection 星系-暗物质关联
-DTSTART;TZID=Asia/Shanghai:20260604T150000
-DTEND;TZID=Asia/Shanghai:20260604T163000
-UID:540e61b7b21602de05a4ba5cbb00836a@reportautocal
-DESCRIPTION:主讲人: 王慧元 中国科学技术大学\n\n讲座介绍
- 了星系与暗物质关联的研究进展。在大尺度上，通过星
- 系红移巡天重建暗物质初始条件，结合宇宙学模拟研究
- 宇宙结构演化、探测星系际介质信号和约束活动星系核
- 反馈；在小尺度上，探讨了星系-暗晕关系，包括恒星质
- 量-暗晕质量关系的多样性及星系与暗晕次级属性的关联
- 。
-LOCATION:物理楼/E100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pseudogap and Non-Fermi-liquid criticality in double Kondo model f
- or bilayer nickelates
-DTSTART;TZID=Asia/Shanghai:20260601T150000
-DTEND;TZID=Asia/Shanghai:20260601T163000
-UID:79eb1cabbe488be563c37686bbfb8745@reportautocal
-DESCRIPTION:主讲人: 张亚晖 约翰霍普金斯大学\n\n基于双层
- 镍酸盐高温超导实验，利用动力学平均场理论研究双层Ko
- ndo格子模型正常态相图。发现层间隧穿为零时，存在非
- 费米液体临界点，区分过掺杂区费米液体与欠掺杂区赝
- 能隙金属（第二费米液体）。该赝能隙相含小空穴口袋
- ，违反微扰Luttinger定理，并可用辅助费米子框架解析描
- 述。
-LOCATION:科学馆/322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Techniques of Feynman integral computation and their applications
-DTSTART;TZID=Asia/Shanghai:20260604T140000
-DTEND;TZID=Asia/Shanghai:20260604T153000
-UID:5c5ba36436bf7ba344687716e98c18ba@reportautocal
-DESCRIPTION:主讲人: 吴子昊 华南师范大学\n\n本报告介绍多
- 圈费曼积分计算的关键技术，包括最新软件工具及其在
- 高能物理前沿精密计算中的应用。由于计算复杂度高，
- 该领域面临重大挑战，报告将阐述近期发展及其在解析
- 计算中的高效算法。
-LOCATION:物理楼/W260
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Galaxy-dark matter connection星系-暗物质关联
 DTSTART;TZID=Asia/Shanghai:20260604T150000
 DTEND;TZID=Asia/Shanghai:20260604T163000
@@ -1183,15 +1142,57 @@ DESCRIPTION:主讲人: 王慧元 中国科学技术大学\n\n本次报告
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pseudogap and Non-Fermi-liquid criticality in double Kondo model f
+ or bilayer nickelates
+DTSTART;TZID=Asia/Shanghai:20260601T150000
+DTEND;TZID=Asia/Shanghai:20260601T163000
+UID:79eb1cabbe488be563c37686bbfb8745@reportautocal
+DESCRIPTION:主讲人: 张亚晖 Johns Hopkins University\n\n该报告研
+ 究了双层镍氧化物正常态的相图，利用单点动力学平均
+ 场理论分析了双层Kondo晶格模型。当层间隧穿为零时，发
+ 现由层间自旋耦合或空穴掺杂调控的非费米液体临界点
+ ，将过掺杂区标准费米液体与欠掺杂区赝能隙金属分开
+ 。赝能隙相（第二费米液体）具有小空穴口袋且违反Lutti
+ nger定理，通过辅助费米子框架提供直观理解，并应用于L
+ a3Ni2O7，提出电子掺杂可进入赝能隙相。
+LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techniques of Feynman integral computation and their applications
+DTSTART;TZID=Asia/Shanghai:20260604T140000
+DTEND;TZID=Asia/Shanghai:20260604T153000
+UID:5c5ba36436bf7ba344687716e98c18ba@reportautocal
+DESCRIPTION:主讲人: 吴子昊 华南师范大学\n\n本报告介绍多
+ 圈费曼积分的计算技术，包括当前最先进的软件及其最
+ 新进展。这些技术是高能物理中精度计算的关键，但由
+ 于计算复杂度高而极具挑战。报告将讨论这些方法在粒
+ 子物理前沿计算中的应用。
+LOCATION:物理楼/W260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Galaxy-dark matter connection 星系-暗物质关联
+DTSTART;TZID=Asia/Shanghai:20260604T150000
+DTEND;TZID=Asia/Shanghai:20260604T163000
+UID:540e61b7b21602de05a4ba5cbb00836a@reportautocal
+DESCRIPTION:主讲人: 王慧元 中国科学技术大学\n\n报告探讨
+ 了星系与暗物质的关联，在大尺度上开发了从星系红移
+ 巡天重建宇宙暗物质初始条件的方法，并结合宇宙学模
+ 拟研究宇宙结构演化、星系际介质信号和AGN反馈；在小
+ 尺度上介绍了星系-晕关联研究，包括恒星质量-暗晕质量
+ 关系的多样性以及星系次级属性与暗晕的联系，为理解
+ 星系形成和暗物质性质提供见解。
+LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:激光惯性约束聚变研究进展
 DTSTART;TZID=Asia/Shanghai:20260605T140000
 DTEND;TZID=Asia/Shanghai:20260605T160000
 UID:576e906a142ec978d42740e9ef555254@reportautocal
 DESCRIPTION:主讲人: 李百文 北京应用物理与计算数学研究
- 所\n\n报告介绍了激光惯性约束聚变（ICF）的研究进展，
- 包括聚变的基本问题、激光ICF的由来和原理、间接驱动
- 中心点火路线与挑战，以及国内外主要进展和未来高增
- 益聚变的挑战与机遇。
-LOCATION:刘卿楼/105
+ 所\n\n介绍激光惯性约束聚变（ICF）的研究进展，包括2022
+ 年美国NIF实现聚变点火的里程碑，ICF的基本原理、间接
+ 驱动中心点火路线及挑战，国内外最新进展，以及未来
+ 高增益聚变研究的机遇与挑战。
+LOCATION:刘卿楼/105会议室
 END:VEVENT
 END:VCALENDAR
