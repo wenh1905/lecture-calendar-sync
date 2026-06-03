@@ -1190,13 +1190,13 @@ SUMMARY:Function follows form: When shape dictates functionality of quantu
 DTSTART;TZID=Asia/Shanghai:20260604T160000
 DTEND;TZID=Asia/Shanghai:20260604T173000
 UID:bcf4c486771205f5573dcb50046d7170@reportautocal
-DESCRIPTION:主讲人: Philip J.W. Moll Max-Planck-Institute for Structure
-  and Dynamics of Matter\n\n报告探讨形状控制对量子材料电子
- 功能性的影响。通过聚焦离子束加工实现单晶三维介观
- 结构，改变有效对称性从而解锁体材料对称性禁止的功
- 能。以铋晶体展示三维量子霍尔效应，以FeSe超导体实现
- 可设计的超导二极管效应，以CoTa3S6展示形状与磁场协同
- 降低对称性从而耦合向列序与手性磁序。
+DESCRIPTION:主讲人: Philip J.W. Moll 马克斯·普朗克物质结构
+ 与动力学研究所\n\n报告探讨形状控制如何突破体材料对
+ 称性限制，赋予量子材料新的电子功能。通过聚焦离子
+ 束加工实现三维介观晶体结构，在铋中展示3D量子霍尔效
+ 应，在铁基超导体FeSe中设计并调控超导二极管效应，在C
+ oTa3S6中实现向列相与手性磁有序的耦合。这些研究揭示
+ 了形状设计在量子材料功能调控中的核心作用。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
