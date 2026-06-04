@@ -1185,17 +1185,18 @@ DESCRIPTION:主讲人: 李百文 北京应用物理与计算数学研究
 LOCATION:刘卿楼/105会议室
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Function follows form: When shape dictates functionality of quantu
- m materials
+SUMMARY:★Function follows form: When shape dictates functionality of qua
+ ntum materials
 DTSTART;TZID=Asia/Shanghai:20260604T160000
 DTEND;TZID=Asia/Shanghai:20260604T173000
 UID:bcf4c486771205f5573dcb50046d7170@reportautocal
-DESCRIPTION:主讲人: Philip J.W. Moll Max-Planck-Institute for Structure
-  and Dynamics of Matter\n\n报告探讨了形状控制作为量子材料
- 功能设计的新范式。通过聚焦离子束加工实现三维介观
- 结构，打破体材料对称性限制，实现如三维量子霍尔效
- 应、超导二极管效应等奇异物性。以铋、FeSe和CoTa3S6为例
- ，展示了形状设计对电子输运的调控能力。
+DESCRIPTION:主讲人: Philip J.W. Moll 马克斯·普朗克物质结构
+ 与动力学研究所\n\n报告聚焦通过聚焦离子束对单晶进行
+ 三维微纳加工，利用形状设计打破体材料的对称性限制
+ ，实现原本被禁止的电子功能。以铋、铁基超导体FeSe和C
+ oTa₃S₆为例，展示了形状控制可诱导三维量子霍尔效应
+ 、超导二极管效应以及向列与手性磁序的耦合，为量子
+ 材料的功能化提供了新范式。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1203,11 +1204,11 @@ SUMMARY:AI时代领导力
 DTSTART;TZID=Asia/Shanghai:20260605T140000
 DTEND;TZID=Asia/Shanghai:20260605T160000
 UID:b523a67c35c5773cdab21932a244064c@reportautocal
-DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n报
- 告探讨人工智能时代领导者应具备的核心能力与素质，
- 分析AI技术如何影响决策效率和组织管理，分享提升领导
- 力的实践策略与未来趋势，帮助管理者在智能时代有效
- 应对变革与挑战。
+DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n本
+ 报告探讨AI时代领导力的核心变化与应对策略，结合报告
+ 人深耕在线教育行业26年的经验，分析领导者如何利用技
+ 术变革提升组织效能与创新能力，为数字化转型提供实
+ 践指导。
 LOCATION:科学馆/104
 END:VEVENT
 BEGIN:VEVENT
@@ -1215,11 +1216,11 @@ SUMMARY:The coevolution of black holes\, galaxies and dark matter halos
 DTSTART;TZID=Asia/Shanghai:20260608T140000
 DTEND;TZID=Asia/Shanghai:20260608T153000
 UID:dc0b40dcdd27a319d81f10531f3bc328@reportautocal
-DESCRIPTION:主讲人: 莫厚俊 马萨诸塞大学\n\n本报告介绍在
- ΛCDM宇宙学框架下，黑洞、星系与暗物质晕共同演化的模
- 型。该模型利用宇宙学初始与边界条件，将不同红移处
- 的天体与其前身和后代联系起来，并解释近期JWST观测结
- 果，有助于理解结构层次的形成与演化。
+DESCRIPTION:主讲人: 莫厚俊 马萨诸塞大学\n\n报告介绍当前
+ 宇宙学提供的初始条件和边界条件，并描述黑洞、星系
+ 和暗物质晕在ΛCDM宇宙学中的共同演化模型。该模型不仅
+ 能够解释单个快照中的天体，还能连接天体的前身和后
+ 代，并讨论与近期JWST观测相关的结果。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
