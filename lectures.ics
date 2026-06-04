@@ -1191,12 +1191,12 @@ DTSTART;TZID=Asia/Shanghai:20260604T160000
 DTEND;TZID=Asia/Shanghai:20260604T173000
 UID:bcf4c486771205f5573dcb50046d7170@reportautocal
 DESCRIPTION:主讲人: Philip J.W. Moll 马克斯·普朗克物质结构
- 与动力学研究所\n\n报告聚焦通过聚焦离子束对单晶进行
- 三维微纳加工，利用形状设计打破体材料的对称性限制
- ，实现原本被禁止的电子功能。以铋、铁基超导体FeSe和C
- oTa₃S₆为例，展示了形状控制可诱导三维量子霍尔效应
- 、超导二极管效应以及向列与手性磁序的耦合，为量子
- 材料的功能化提供了新范式。
+ 与动力学研究所\n\n报告探讨了形状控制量子材料功能性
+ 的新兴范式。通过聚焦离子束加工实现单晶3D介观结构，
+ 形状可以改变有效对称性，解锁体材料中对称性禁止的
+ 功能。以铋晶体、铁基超导体FeSe和CoTa3S6为例，展示了形
+ 状控制如何诱导3D量子霍尔效应、超导二极管效应以及非
+ 传统磁电耦合。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1204,11 +1204,11 @@ SUMMARY:AI时代领导力
 DTSTART;TZID=Asia/Shanghai:20260605T140000
 DTEND;TZID=Asia/Shanghai:20260605T160000
 UID:b523a67c35c5773cdab21932a244064c@reportautocal
-DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n本
- 报告探讨AI时代领导力的核心变化与应对策略，结合报告
- 人深耕在线教育行业26年的经验，分析领导者如何利用技
- 术变革提升组织效能与创新能力，为数字化转型提供实
- 践指导。
+DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n报
+ 告探讨人工智能时代下的领导力变革，分析AI技术对组织
+ 管理、决策模式及人才培养的冲击，并结合在线教育行
+ 业26年实践，提出适应AI时代的领导力核心要素与提升路
+ 径。
 LOCATION:科学馆/104
 END:VEVENT
 BEGIN:VEVENT
@@ -1216,11 +1216,11 @@ SUMMARY:The coevolution of black holes\, galaxies and dark matter halos
 DTSTART;TZID=Asia/Shanghai:20260608T140000
 DTEND;TZID=Asia/Shanghai:20260608T153000
 UID:dc0b40dcdd27a319d81f10531f3bc328@reportautocal
-DESCRIPTION:主讲人: 莫厚俊 马萨诸塞大学\n\n报告介绍当前
- 宇宙学提供的初始条件和边界条件，并描述黑洞、星系
- 和暗物质晕在ΛCDM宇宙学中的共同演化模型。该模型不仅
- 能够解释单个快照中的天体，还能连接天体的前身和后
- 代，并讨论与近期JWST观测相关的结果。
+DESCRIPTION:主讲人: 莫厚俊 马萨诸塞大学\n\n报告介绍了一
+ 个在ΛCDM宇宙学框架下的黑洞、星系和暗物质晕共同演化
+ 模型。该模型利用宇宙学背景不仅解释单个快照中的天
+ 体特性，还建立天体与其前身和后代之间的关联。报告
+ 将讨论与最新JWST观测相关的成果。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
