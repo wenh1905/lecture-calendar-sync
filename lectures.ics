@@ -1185,19 +1185,19 @@ DESCRIPTION:主讲人: 李百文 北京应用物理与计算数学研究
 LOCATION:刘卿楼/105会议室
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Function follows form: When shape dictates functionality of qua
- ntum materials
+SUMMARY:Function follows form: When shape dictates functionality of quantu
+ m materials
 DTSTART;TZID=Asia/Shanghai:20260604T160000
 DTEND;TZID=Asia/Shanghai:20260604T173000
 UID:bcf4c486771205f5573dcb50046d7170@reportautocal
-DESCRIPTION:主讲人: Philip J.W. Moll Max-Planck-Institute for Structure
-  and Dynamics of Matter\n\n报告探讨了在量子材料中通过三维
- 微纳形状控制实现电子功能性的新范式。以铋晶体为例
- ，形状设计在量子极限下揭示了三维量子霍尔效应；在
- 铁基超导体FeSe中，通过形貌调控超导二极管效应；在CoTa
- 3S6中，形状与磁场共同降低对称性，实现了原本禁止的
- 向列相与手性磁序耦合。这些研究展示了形状工程作为
- 量子材料设计的新原理。
+DESCRIPTION:主讲人: Philip J.W. Moll 马克斯·普朗克物质结构
+ 与动力学研究所\n\n报告探讨形状控制如何突破体材料对
+ 称性限制，实现量子材料中非寻常电子功能。通过聚焦
+ 离子束加工技术制备3D介观单晶结构，以铋晶体展示3D量
+ 子霍尔效应，在FeSe超导体中设计可调超导二极管效应，
+ 以及CoTa3S6中形状与磁场协同降低对称性产生新型耦合。
+ 这些案例展示了3D形状控制作为量子材料电子功能设计的
+ 新范式。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1205,23 +1205,23 @@ SUMMARY:AI时代领导力
 DTSTART;TZID=Asia/Shanghai:20260605T140000
 DTEND;TZID=Asia/Shanghai:20260605T160000
 UID:b523a67c35c5773cdab21932a244064c@reportautocal
-DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n本
- 报告探讨人工智能时代领导力的变革与提升。报告人结
- 合多年在线教育行业经验，分析AI技术对组织管理、决策
- 模式、团队协作的影响，分享如何在AI浪潮中重塑领导思
- 维，培养适应未来的领导能力，并给出实践案例与策略
- 建议。
-LOCATION:高研院/科学馆/104
+DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n报
+ 告人张震结合自身在在线教育行业26年的丰富经验，探讨
+ 人工智能时代下领导力的变革与提升。通过分析教育行
+ 业发展趋势，分享如何利用AI技术优化管理决策与团队协
+ 作，为教育从业者提供领导力转型的实践思路。
+LOCATION:高研院科学馆/104
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The coevolution of black holes\, galaxies and dark matter halos
 DTSTART;TZID=Asia/Shanghai:20260608T140000
 DTEND;TZID=Asia/Shanghai:20260608T153000
 UID:dc0b40dcdd27a319d81f10531f3bc328@reportautocal
-DESCRIPTION:主讲人: Houjun Mo 莫厚俊 UMass\n\n在当前ΛCDM宇宙
- 学框架下，描述黑洞、星系和暗物质晕共同演化的模型
- ，该模型利用宇宙学背景将不同时期的星系和黑洞联系
- 起来，并解释了近期JWST的观测结果。
+DESCRIPTION:主讲人: 莫厚俊 马萨诸塞大学\n\n报告介绍在ΛCD
+ M宇宙学框架下黑洞、星系和暗物质晕共同演化的模型。
+ 该模型结合宇宙学背景，不仅解释单个快照中的天体特
+ 性，还能将天体与其前身和后代联系起来，并展示了近
+ 期JWST观测的相关结果。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
