@@ -1205,23 +1205,34 @@ SUMMARY:AI时代领导力
 DTSTART;TZID=Asia/Shanghai:20260605T140000
 DTEND;TZID=Asia/Shanghai:20260605T160000
 UID:b523a67c35c5773cdab21932a244064c@reportautocal
-DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n报
- 告探讨人工智能时代领导力的变化与挑战，分析AI技术对
- 管理决策、组织协作和人才培养的影响，提出领导者需
- 具备的数据思维、战略视野和人文素养等核心能力，以
- 及如何利用AI工具提升领导效能。
-LOCATION:高等研究院/科学馆/104
+DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n探
+ 讨人工智能时代下领导力的变革与挑战，结合在线教育
+ 行业经验，分析领导者如何适应技术发展，提升组织效
+ 率与创新能力。
+LOCATION:高研院/科学馆/104
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The coevolution of black holes\, galaxies and dark matter halos
 DTSTART;TZID=Asia/Shanghai:20260608T140000
 DTEND;TZID=Asia/Shanghai:20260608T153000
 UID:dc0b40dcdd27a319d81f10531f3bc328@reportautocal
-DESCRIPTION:主讲人: 莫厚俊 马萨诸塞大学\n\n报告介绍在ΛCD
- M宇宙学框架下黑洞、星系与暗物质晕共同演化的模型。
- 该模型将宇宙学背景纳入考虑，不仅可解释单个红移处
- 的星系和黑洞性质，还能关联不同演化阶段的对应体。
- 报告将展示与最新JWST观测相关的结果。
+DESCRIPTION:主讲人: 莫厚俊 马萨诸塞大学\n\n讲座介绍在ΛCD
+ M宇宙学框架下黑洞、星系和暗物质晕共同演化的模型。
+ 该模型不仅解释单个快照中的天体，还能将天体与其前
+ 身和后代关联。重点展示与韦伯太空望远镜最新观测结
+ 果相关的研究成果，探讨宇宙结构层次中天体的形成与
+ 演化。
 LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:高研国际会议--量子物质前沿暑期论坛
+DTSTART;TZID=Asia/Shanghai:20260608T090000
+DTEND;TZID=Asia/Shanghai:20260619T170000
+UID:9ffe05812f4c79ca878a7915f3720838@reportautocal
+DESCRIPTION:主讲人: 多位海内外学者\n\n本次暑期论坛聚焦
+ 量子信息与凝聚态物理交叉领域，邀请众多海内外学者
+ 分享前沿理论进展，为期两周，旨在为研究人员和研究
+ 生提供学术交流平台。
+LOCATION:科学馆/104
 END:VEVENT
 END:VCALENDAR
