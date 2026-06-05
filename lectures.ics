@@ -1201,37 +1201,38 @@ DESCRIPTION:主讲人: Philip J.W. Moll 马克斯·普朗克物质结构
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:高研国际会议--量子物质前沿暑期论坛
-DTSTART;TZID=Asia/Shanghai:20260608T090000
-DTEND;TZID=Asia/Shanghai:20260619T170000
-UID:9ffe05812f4c79ca878a7915f3720838@reportautocal
-DESCRIPTION:主讲人: 多位海内外学者\n\n本次暑期论坛聚焦
- 量子信息与凝聚态物理交叉领域，邀请众多海内外学者
- 分享前沿理论进展，为期两周，旨在为研究人员和研究
- 生提供学术交流平台。
-LOCATION:科学馆/104
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AI时代领导力
 DTSTART;TZID=Asia/Shanghai:20260605T140000
 DTEND;TZID=Asia/Shanghai:20260605T160000
 UID:b523a67c35c5773cdab21932a244064c@reportautocal
-DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n报
- 告探讨AI时代下领导力的变革与实践，结合主讲人在在线
- 教育行业26年的经验，分析技术发展对管理、决策和组织
- 文化的影响，提出适应智能化趋势的领导力提升策略。
-LOCATION:科学馆/104
+DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n本
+ 讲座探讨人工智能时代下领导力的变革与挑战。主讲人
+ 结合多年在线教育行业经验，分析AI技术如何赋能领导力
+ 提升，以及管理者如何适应智能时代的新要求。
+LOCATION:高研院/科学馆/104
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The coevolution of black holes\, galaxies and dark matter halos
 DTSTART;TZID=Asia/Shanghai:20260608T140000
 DTEND;TZID=Asia/Shanghai:20260608T153000
 UID:dc0b40dcdd27a319d81f10531f3bc328@reportautocal
-DESCRIPTION:主讲人: 莫厚俊 马萨诸塞大学\n\n该讲座介绍了
- 在ΛCDM宇宙学框架下，黑洞、星系和暗物质晕共同演化的
- 模型。模型利用宇宙学背景，不仅能解释单个时刻的天
- 体性质，还能将天体与其前身和后裔联系起来。报告还
- 讨论了与JWST最新观测相关的结果。
+DESCRIPTION:主讲人: 莫厚俊 麻省大学\n\n当前宇宙学为理解
+ 结构层次中天体的形成与演化提供了初始条件和边界条
+ 件。本报告介绍了一个在ΛCDM宇宙学框架下的黑洞、星系
+ 和暗物质晕共同演化模型，该模型不仅能解释单个时期
+ 的星系和黑洞，还能将天体与其前身和后代联系起来，
+ 并描述与近期JWST观测相关的结果。
 LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:高研国际会议--量子物质前沿暑期论坛
+DTSTART;TZID=Asia/Shanghai:20260608T090000
+DTEND;TZID=Asia/Shanghai:20260619T170000
+UID:9ffe05812f4c79ca878a7915f3720838@reportautocal
+DESCRIPTION:主讲人: \n\n本次暑期论坛为期两周，聚焦量子
+ 信息与凝聚态物理的交叉前沿领域，邀请海内外学者分
+ 享量子物质前沿理论进展，旨在为研究人员和研究生提
+ 供交流与学习的平台。
+LOCATION:高等研究院/科学馆/104
 END:VEVENT
 END:VCALENDAR
