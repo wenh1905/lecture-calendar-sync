@@ -1201,42 +1201,6 @@ DESCRIPTION:主讲人: Philip J.W. Moll 马克斯·普朗克物质结构
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:高研国际会议--量子物质前沿暑期论坛
-DTSTART;TZID=Asia/Shanghai:20260608T090000
-DTEND;TZID=Asia/Shanghai:20260619T170000
-UID:9ffe05812f4c79ca878a7915f3720838@reportautocal
-DESCRIPTION:主讲人: \n\n本次暑期论坛为期两周，聚焦量子
- 信息与凝聚态物理的交叉前沿领域，邀请海内外学者分
- 享量子物质前沿理论进展，旨在为研究人员和研究生提
- 供交流与学习的平台。
-LOCATION:高等研究院/科学馆/104
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI时代领导力
-DTSTART;TZID=Asia/Shanghai:20260605T140000
-DTEND;TZID=Asia/Shanghai:20260605T160000
-UID:b523a67c35c5773cdab21932a244064c@reportautocal
-DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n报
- 告探讨了在人工智能时代背景下，领导者面临的挑战与
- 机遇，分析了AI技术对传统领导力模式的冲击，并结合实
- 际案例提出了适应新时代的领导策略与能力培养方向。
-LOCATION:高研院/科学馆/104
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The coevolution of black holes\, galaxies and dark matter halos
-DTSTART;TZID=Asia/Shanghai:20260608T140000
-DTEND;TZID=Asia/Shanghai:20260608T153000
-UID:dc0b40dcdd27a319d81f10531f3bc328@reportautocal
-DESCRIPTION:主讲人: 莫厚俊 UMass\n\n当前宇宙学模型提供了
- 研究宇宙结构层级中物体形成与演化的初始和边界条件
- 。本报告将介绍一个描述黑洞、星系和暗物质晕在ΛCDM宇
- 宙学中共同演化的模型。该模型的宇宙学背景不仅允许
- 解释单个快照中的星系和黑洞，还能将不同时期的物体
- 与其前身和后代联系起来，并讨论与近期JWST观测相关的
- 结果。
-LOCATION:物理楼/E100
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:量子物质前沿暑期论坛
 DTSTART;TZID=Asia/Shanghai:20260608T090000
 DTEND;TZID=Asia/Shanghai:20260619T180000
@@ -1246,5 +1210,42 @@ DESCRIPTION:主讲人: 多位学者\n\n该论坛为期两周，聚焦量
  沿理论进展，旨在为相关方向研究人员和研究生提供交
  流平台。
 LOCATION:高等研究院/科学馆/104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI时代领导力
+DTSTART;TZID=Asia/Shanghai:20260605T140000
+DTEND;TZID=Asia/Shanghai:20260605T160000
+UID:b523a67c35c5773cdab21932a244064c@reportautocal
+DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n本
+ 报告由北京网梯科技发展有限公司总裁张震主讲，探讨
+ 人工智能时代领导力的变革。张震深耕在线教育26年，结
+ 合自动化系背景，分享AI如何赋能领导决策与团队管理，
+ 以及未来领导者的核心能力。
+LOCATION:高研院/科学馆/104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The coevolution of black holes\, galaxies and dark matter halos
+DTSTART;TZID=Asia/Shanghai:20260608T140000
+DTEND;TZID=Asia/Shanghai:20260608T153000
+UID:dc0b40dcdd27a319d81f10531f3bc328@reportautocal
+DESCRIPTION:主讲人: 莫厚俊 马萨诸塞大学\n\n该讲座介绍当
+ 前宇宙学提供的初始条件和边界条件如何理解从星系到
+ 暗物质晕的等级结构形成与演化。重点描述一种ΛCDM宇宙
+ 学下黑洞、星系和暗物质晕共同演化的模型，该模型不
+ 仅可解释单个快照中的星系和黑洞，还能将天体与其前
+ 身和后代联系起来。还将介绍与最新JWST观测相关的结果
+ 。
+LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:高研国际会议--量子物质前沿暑期论坛
+DTSTART;TZID=Asia/Shanghai:20260608T090000
+DTEND;TZID=Asia/Shanghai:20260619T170000
+UID:9ffe05812f4c79ca878a7915f3720838@reportautocal
+DESCRIPTION:主讲人: 徐超 清华大学\n\n清华大学高等研究院
+ 举办的为期两周的暑期论坛，聚焦量子信息与凝聚态物
+ 理的交叉领域，邀请海内外学者分享前沿理论进展，旨
+ 在构建学术交流平台促进讨论与合作。
+LOCATION:科学馆/104
 END:VEVENT
 END:VCALENDAR
