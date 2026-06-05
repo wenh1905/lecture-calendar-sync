@@ -1206,11 +1206,11 @@ DTSTART;TZID=Asia/Shanghai:20260605T140000
 DTEND;TZID=Asia/Shanghai:20260605T160000
 UID:b523a67c35c5773cdab21932a244064c@reportautocal
 DESCRIPTION:主讲人: 张震 北京网梯科技发展有限公司\n\n报
- 告人张震结合自身在在线教育行业26年的丰富经验，探讨
- 人工智能时代下领导力的变革与提升。通过分析教育行
- 业发展趋势，分享如何利用AI技术优化管理决策与团队协
- 作，为教育从业者提供领导力转型的实践思路。
-LOCATION:高研院科学馆/104
+ 告探讨人工智能时代领导力的变化与挑战，分析AI技术对
+ 管理决策、组织协作和人才培养的影响，提出领导者需
+ 具备的数据思维、战略视野和人文素养等核心能力，以
+ 及如何利用AI工具提升领导效能。
+LOCATION:高等研究院/科学馆/104
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The coevolution of black holes\, galaxies and dark matter halos
@@ -1218,10 +1218,10 @@ DTSTART;TZID=Asia/Shanghai:20260608T140000
 DTEND;TZID=Asia/Shanghai:20260608T153000
 UID:dc0b40dcdd27a319d81f10531f3bc328@reportautocal
 DESCRIPTION:主讲人: 莫厚俊 马萨诸塞大学\n\n报告介绍在ΛCD
- M宇宙学框架下黑洞、星系和暗物质晕共同演化的模型。
- 该模型结合宇宙学背景，不仅解释单个快照中的天体特
- 性，还能将天体与其前身和后代联系起来，并展示了近
- 期JWST观测的相关结果。
+ M宇宙学框架下黑洞、星系与暗物质晕共同演化的模型。
+ 该模型将宇宙学背景纳入考虑，不仅可解释单个红移处
+ 的星系和黑洞性质，还能关联不同演化阶段的对应体。
+ 报告将展示与最新JWST观测相关的结果。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
