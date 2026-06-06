@@ -1247,4 +1247,15 @@ DESCRIPTION:主讲人: 多位学者 海内外高校\n\n本次暑期论坛
  交流讨论、相互学习的学术平台。
 LOCATION:科学馆/104
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:高研国际会议--量子物质前沿暑期论坛
+DTSTART;TZID=Asia/Shanghai:20260608T000000
+DTEND;TZID=Asia/Shanghai:20260621T235900
+UID:547ff5f241948d6f7094fba1f296a1df@reportautocal
+DESCRIPTION:主讲人: 多位学者\n\n为期两周的量子物质前沿
+ 暑期论坛，聚焦量子信息与凝聚态物理的交叉领域，邀
+ 请海内外学者分享前沿理论进展，旨在为研究人员和研
+ 究生提供交流讨论的学术平台。
+LOCATION:科学馆/104
+END:VEVENT
 END:VCALENDAR
