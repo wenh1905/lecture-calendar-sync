@@ -1227,16 +1227,6 @@ DESCRIPTION:主讲人: 莫厚俊 马萨诸塞大学\n\n该讲座介绍当
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:量子物质前沿暑期论坛
-DTSTART;TZID=Asia/Shanghai:20260608T090000
-DTEND;TZID=Asia/Shanghai:20260619T170000
-UID:fad19e0234325c0c9c9271c34b1bd424@reportautocal
-DESCRIPTION:主讲人: \n\n该论坛聚焦量子信息与凝聚态物理
- 交叉领域，邀请海内外学者分享前沿理论进展，旨在为
- 研究人员和研究生提供学术交流平台，为期两周。
-LOCATION:高等研究院/科学馆/104报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:高研国际会议--量子物质前沿暑期论坛
 DTSTART;TZID=Asia/Shanghai:20260608T000000
 DTEND;TZID=Asia/Shanghai:20260621T235900
@@ -1256,6 +1246,17 @@ DESCRIPTION:主讲人: \n\n清华高等研究院举办的为期两周的
  量子物质前沿暑期论坛，邀请海内外学者分享量子信息
  与凝聚态物理交叉领域的前沿理论进展，旨在提供交流
  平台。
+LOCATION:科学馆/104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:量子物质前沿暑期论坛
+DTSTART;TZID=Asia/Shanghai:20260608T090000
+DTEND;TZID=Asia/Shanghai:20260619T170000
+UID:fad19e0234325c0c9c9271c34b1bd424@reportautocal
+DESCRIPTION:主讲人: 多名海内外学者\n\n为期两周的暑期论
+ 坛，聚焦量子信息与凝聚态物理的交叉领域，邀请众多
+ 海内外学者分享量子物质前沿理论进展，旨在为研究人
+ 员和研究生提供交流平台。
 LOCATION:科学馆/104
 END:VEVENT
 END:VCALENDAR
