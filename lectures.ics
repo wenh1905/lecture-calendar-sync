@@ -1201,17 +1201,6 @@ DESCRIPTION:主讲人: Philip J.W. Moll 马克斯·普朗克物质结构
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:量子物质前沿暑期论坛
-DTSTART;TZID=Asia/Shanghai:20260608T090000
-DTEND;TZID=Asia/Shanghai:20260619T180000
-UID:fad19e0234325c0c9c9271c34b1bd424@reportautocal
-DESCRIPTION:主讲人: 多位学者\n\n该论坛为期两周，聚焦量
- 子信息与凝聚态物理交叉领域，邀请海内外学者分享前
- 沿理论进展，旨在为相关方向研究人员和研究生提供交
- 流平台。
-LOCATION:高等研究院/科学馆/104
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AI时代领导力
 DTSTART;TZID=Asia/Shanghai:20260605T140000
 DTEND;TZID=Asia/Shanghai:20260605T160000
@@ -1247,5 +1236,15 @@ DESCRIPTION:主讲人: \n\n为期两周的量子物质前沿暑期论坛
  的前沿理论进展，为研究人员和研究生提供交流讨论的
  学术平台。
 LOCATION:高等研究院/科学馆/104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:量子物质前沿暑期论坛
+DTSTART;TZID=Asia/Shanghai:20260608T090000
+DTEND;TZID=Asia/Shanghai:20260619T170000
+UID:fad19e0234325c0c9c9271c34b1bd424@reportautocal
+DESCRIPTION:主讲人: \n\n该论坛聚焦量子信息与凝聚态物理
+ 交叉领域，邀请海内外学者分享前沿理论进展，旨在为
+ 研究人员和研究生提供学术交流平台，为期两周。
+LOCATION:高等研究院/科学馆/104报告厅
 END:VEVENT
 END:VCALENDAR
