@@ -1258,4 +1258,16 @@ DESCRIPTION:主讲人: 多位海内外学者\n\n本次暑期论坛聚焦
  理论进展，旨在促进学术交流与讨论。
 LOCATION:科学馆/104
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:中性里德堡原子阵列研究
+DTSTART;TZID=Asia/Shanghai:20260611T143000
+DTEND;TZID=Asia/Shanghai:20260611T153000
+UID:94dc4f8f5218f3b0032bc5141c23c203@reportautocal
+DESCRIPTION:主讲人: 郑盟锟 清华大学\n\n中性里德堡原子阵
+ 列是实现通用量子计算与量子模拟的重要平台。报告将
+ 介绍该领域的发展现状，并回顾研究组在里德堡原子阵
+ 列方面的成果，包括异常信息置乱、拓扑相、假真空衰
+ 变等研究。
+LOCATION:物理楼/W101
+END:VEVENT
 END:VCALENDAR
