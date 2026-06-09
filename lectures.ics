@@ -1264,10 +1264,41 @@ DTSTART;TZID=Asia/Shanghai:20260611T143000
 DTEND;TZID=Asia/Shanghai:20260611T153000
 UID:94dc4f8f5218f3b0032bc5141c23c203@reportautocal
 DESCRIPTION:主讲人: 郑盟锟 清华大学\n\n中性里德堡原子阵
- 列是实现通用量子计算和量子模拟的重要平台。报告将
- 介绍其发展现状，并回顾研究组在里德堡原子阵列研究
- 方面取得的成果，包括异常信息置乱、无序体系拓扑相
- 、假真空衰变探测以及激光相位噪声抑制等。
+ 列是实现通用量子计算和量子模拟的重要平台。报告介
+ 绍该领域的发展现状，并回顾研究组在里德堡原子阵列
+ 和超冷分子研究方面的成果，包括异常信息扰乱、无序
+ 拓扑相、假真空衰变等现象的观测。
 LOCATION:物理楼/W101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Simple Molecules\, Rich Physics: Rydberg States for Antimatter 
+ Synthesis\, Precision Measurements\, and Laser Cooling
+DTSTART;TZID=Asia/Shanghai:20260611T103000
+DTEND;TZID=Asia/Shanghai:20260611T113000
+UID:5c4657d99d97cc35a2698d21da05996c@reportautocal
+DESCRIPTION:主讲人: Maximilian Beyer\n\n报告聚焦简单双原子分
+ 子里德伯态的研究，利用(1+2)REMPI和飞行时间谱等技术研
+ 究分子氢超激发态的解离通道，为早期宇宙H₂⁺形成和
+ 反物质阴离子H₂⁻的合成提供新途径。同时介绍通过里
+ 德伯激发和脉冲场电离制备态选择分子离子，用于精密
+ 测量质子-电子质量比变化，并探讨He₂作为激光冷却候
+ 选分子及He₂⁺作为量子传感器的应用。
+LOCATION:物理楼/W216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Coherent Nonlinear Dynamics of Collective Excitations in Antife
+ rromagnets
+DTSTART;TZID=Asia/Shanghai:20260616T100000
+DTEND;TZID=Asia/Shanghai:20260616T113000
+UID:5d2cd648845be58df8d621c8dfc532f6@reportautocal
+DESCRIPTION:主讲人: 张琦 南京大学\n\n该报告通过太赫兹二
+ 维相干光谱技术，直接解析了范德瓦尔斯反铁磁体FePS3中
+ 磁子和声子等集体激发的相干非线性动力学。实验绘制
+ 了二维相干光谱，分离出反铁磁磁子的二阶和三阶非线
+ 性响应，并证实了磁子与晶格振动的和频与差频产生。
+ 报告还讨论非线性磁子过程的对称性要求，并探索利用
+ 这些相干非线性实现磁与振动自由度的纠缠，为超快量
+ 子控制和混合太赫兹技术提供新途径。
+LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
