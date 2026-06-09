@@ -1263,10 +1263,11 @@ SUMMARY:中性里德堡原子阵列研究
 DTSTART;TZID=Asia/Shanghai:20260611T143000
 DTEND;TZID=Asia/Shanghai:20260611T153000
 UID:94dc4f8f5218f3b0032bc5141c23c203@reportautocal
-DESCRIPTION:主讲人: 郑盟锟 清华大学\n\n报告介绍中性里德
- 堡原子阵列作为通用量子计算和量子模拟平台的现状，
- 回顾研究组在信息扰乱、拓扑相、假真空衰变及激光相
- 位噪声抑制等方面的实验成果。
+DESCRIPTION:主讲人: 郑盟锟 清华大学\n\n中性里德堡原子阵
+ 列是实现通用量子计算与量子模拟的重要平台。报告将
+ 介绍该领域发展现状，并回顾研究组在异常信息扰乱、
+ 无序拓扑相、假真空衰变等实验方面的最新成果，展示
+ 了里德堡原子阵列在量子信息处理中的潜力。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -1275,12 +1276,14 @@ SUMMARY:★Simple Molecules\, Rich Physics: Rydberg States for Antimatter
 DTSTART;TZID=Asia/Shanghai:20260611T103000
 DTEND;TZID=Asia/Shanghai:20260611T113000
 UID:5c4657d99d97cc35a2698d21da05996c@reportautocal
-DESCRIPTION:主讲人: Maximilian Beyer\n\n介绍双原子分子里德堡
- 态在反物质合成、精密测量和激光冷却中的前沿应用。
- 重点阐述氢分子超激发态通过REMPI和飞行时间谱研究电离
- 、离子对形成等竞争通道，为早期宇宙H2+形成提供基准
- ，并开辟反物质阴离子H-2的合成路线。还讨论了脉冲场
- 电离态选择制备分子离子及He2激光冷却的可行性。
+DESCRIPTION:主讲人: Maximilian Beyer\n\n本讲座介绍简单双原子
+ 分子中里德堡态的研究，重点探讨分子氢的超激发态通
+ 过自电离、离子对形成和中性解离等竞争通道的衰变动
+ 力学，以及这些过程对早期宇宙H₂⁺形成和反物质H₂⁻
+ 合成的意义。同时讨论利用里德堡激发和脉冲场电离实
+ 现分子离子的态选择制备，用于精密测量质子电子质量
+ 比变化。最后展望He₂分子激光冷却的可能性，该分子有
+ 望成为最轻的激光冷却同核双原子分子。
 LOCATION:物理楼/W216
 END:VEVENT
 BEGIN:VEVENT
@@ -1289,14 +1292,13 @@ SUMMARY:★Coherent Nonlinear Dynamics of Collective Excitations in Antife
 DTSTART;TZID=Asia/Shanghai:20260616T100000
 DTEND;TZID=Asia/Shanghai:20260616T113000
 UID:5d2cd648845be58df8d621c8dfc532f6@reportautocal
-DESCRIPTION:主讲人: 张琦 南京大学\n\n本讲座介绍利用太赫
- 兹二维相干光谱技术直接分辨范德华反铁磁体FePS3中磁振
- 子和声子等集体激发的相干非线性动力学。通过二维相
- 干光谱映射，分离反铁磁磁振子的二阶和三阶非线性响
- 应，证明磁振子与晶格振动之间的和频与差频产生。进
- 一步讨论非线性磁振过程的对称性要求，并探索利用这
- 些相干非线性实现磁性和振动自由度的纠缠，为超快量
- 子控制和混合太赫兹技术开辟新途径。
+DESCRIPTION:主讲人: 张琦 南京大学\n\n本报告利用太赫兹二
+ 维相干光谱技术，直接解析范德瓦尔斯反铁磁体FePS3中磁
+ 振子与晶格振动之间的非线性相互作用。通过二维相干
+ 谱，分离出反铁磁磁振子的二阶和三阶非线性响应，证
+ 明磁振子与声子之间的和频与差频产生，并探讨非线性
+ 磁振子过程的对称性要求，为实现超快量子调控和混合
+ 太赫兹技术提供新途径。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
