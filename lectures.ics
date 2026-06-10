@@ -1104,17 +1104,6 @@ DESCRIPTION:主讲人: Ariando 新加坡国立大学\n\n报告介绍了在
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:多信使问天
-DTSTART;TZID=Asia/Shanghai:20260611T160000
-DTEND;TZID=Asia/Shanghai:20260611T173000
-UID:37daaeb9a93a362eb0826de84c70d8a2@reportautocal
-DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n报告深入
- 浅出地介绍了黑洞和中子星两类致密天体，重点阐述多
- 信使（引力波及多波段电磁对应体）在理解双致密星并
- 合过程中的关键作用，并展望该领域的研究前景。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Galaxy-dark matter connection 星系-暗物质关联
 DTSTART;TZID=Asia/Shanghai:20260604T150000
 DTEND;TZID=Asia/Shanghai:20260604T163000
@@ -1276,14 +1265,12 @@ SUMMARY:★Simple Molecules\, Rich Physics: Rydberg States for Antimatter
 DTSTART;TZID=Asia/Shanghai:20260611T103000
 DTEND;TZID=Asia/Shanghai:20260611T113000
 UID:5c4657d99d97cc35a2698d21da05996c@reportautocal
-DESCRIPTION:主讲人: Maximilian Beyer\n\n本讲座介绍简单双原子
- 分子中里德堡态的研究，重点探讨分子氢的超激发态通
- 过自电离、离子对形成和中性解离等竞争通道的衰变动
- 力学，以及这些过程对早期宇宙H₂⁺形成和反物质H₂⁻
- 合成的意义。同时讨论利用里德堡激发和脉冲场电离实
- 现分子离子的态选择制备，用于精密测量质子电子质量
- 比变化。最后展望He₂分子激光冷却的可能性，该分子有
- 望成为最轻的激光冷却同核双原子分子。
+DESCRIPTION:主讲人: Maximilian Beyer 未知\n\n报告介绍了双原子
+ 分子中里德伯态的多方面应用，包括利用超激发态实现
+ 反物质分子H₂⁻的合成、通过脉冲场电离实现H₂⁺的态
+ 选择性制备以进行质子电子质量比变化测量，以及理论
+ 上提出He₂作为激光冷却候选分子，这是迄今最轻最简单
+ 的可激光冷却同核双原子分子。
 LOCATION:物理楼/W216
 END:VEVENT
 BEGIN:VEVENT
@@ -1292,13 +1279,26 @@ SUMMARY:★Coherent Nonlinear Dynamics of Collective Excitations in Antife
 DTSTART;TZID=Asia/Shanghai:20260616T100000
 DTEND;TZID=Asia/Shanghai:20260616T113000
 UID:5d2cd648845be58df8d621c8dfc532f6@reportautocal
-DESCRIPTION:主讲人: 张琦 南京大学\n\n本报告利用太赫兹二
- 维相干光谱技术，直接解析范德瓦尔斯反铁磁体FePS3中磁
- 振子与晶格振动之间的非线性相互作用。通过二维相干
- 谱，分离出反铁磁磁振子的二阶和三阶非线性响应，证
- 明磁振子与声子之间的和频与差频产生，并探讨非线性
- 磁振子过程的对称性要求，为实现超快量子调控和混合
- 太赫兹技术提供新途径。
+DESCRIPTION:主讲人: 张琦 南京大学\n\n本讲座介绍利用太赫
+ 兹二维相干光谱技术研究范德华反铁磁体FePS3中磁振子与
+ 声子等集体激发的相干非线性动力学。通过二维相干光
+ 谱直接观测二阶和三阶非线性响应，揭示磁振子与晶格
+ 振动之间的和频与差频过程，并讨论非线性磁振子过程
+ 的对称性要求以及利用相干非线性实现磁与振动自由度
+ 纠缠的途径，为超快量子调控和混合太赫兹技术提供新
+ 思路。
 LOCATION:物理楼/W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:多信使问天
+DTSTART;TZID=Asia/Shanghai:20260611T160000
+DTEND;TZID=Asia/Shanghai:20260611T173000
+UID:37daaeb9a93a362eb0826de84c70d8a2@reportautocal
+DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n本讲座深
+ 入浅出地介绍了多信使天文（引力波与电磁波）对理解
+ 双致密星（黑洞和中子星）并合过程的关键作用，回顾
+ 了从首例双黑洞并合引力波事件到双中子星并合多波段
+ 对应体的重要发现，并展望了该领域的研究前景。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
