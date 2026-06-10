@@ -1265,13 +1265,13 @@ SUMMARY:★Simple Molecules\, Rich Physics: Rydberg States for Antimatter
 DTSTART;TZID=Asia/Shanghai:20260611T103000
 DTEND;TZID=Asia/Shanghai:20260611T113000
 UID:5c4657d99d97cc35a2698d21da05996c@reportautocal
-DESCRIPTION:主讲人: Maximilian Beyer\n\n本报告介绍简单双原子
- 分子中里德伯态在反物质合成、精密测量和激光冷却方
- 面的应用。重点讨论氢分子超激发态的衰变通道研究，
- 以及通过脉冲场电离实现分子离子态选择制备，用于探
- 测质子-电子质量比变化和正反物质分子H₂⁻的合成。最
- 后展望He₂分子的激光冷却前景，其可作为最轻的激光冷
- 却双原子分子。
+DESCRIPTION:主讲人: Maximilian Beyer\n\n报告介绍简单双原子分
+ 子中Rydberg态的研究，重点探讨氢分子超激发态的衰变通
+ 道（自电离、离子对形成、中性解离），通过REMPI和速度
+ 成像解析分支比和动力学，为反物质分子H−2的合成提供
+ 途径。同时展示Rydberg激发结合脉冲场电离实现分子离子
+ 的状态选择制备，用于精密测量质子电子质量比变化，
+ 并探讨He2分子作为激光冷却候选者的潜力。
 LOCATION:物理楼/W216
 END:VEVENT
 BEGIN:VEVENT
@@ -1280,14 +1280,14 @@ SUMMARY:★Coherent Nonlinear Dynamics of Collective Excitations in Antife
 DTSTART;TZID=Asia/Shanghai:20260616T100000
 DTEND;TZID=Asia/Shanghai:20260616T113000
 UID:5d2cd648845be58df8d621c8dfc532f6@reportautocal
-DESCRIPTION:主讲人: 张琦 南京大学\n\n本讲座介绍利用太赫
- 兹二维相干光谱直接观测范德华反铁磁体FePS3中磁振子与
- 晶格振动之间的相干非线性动力学。通过二维相干谱，
- 分离出反铁磁磁振子的二阶和三阶非线性响应，证实了
- 磁振子与声子间的和频与差频产生过程。还讨论了非线
- 性磁振子过程的对称性要求，以及利用这些相干非线性
- 纠缠磁性和振动自由度，为超快量子控制和混合太赫兹
- 技术开辟新途径。
+DESCRIPTION:主讲人: 张琦 南京大学\n\n报告利用太赫兹二维
+ 相干光谱技术，直接解析了范德瓦尔斯反铁磁体FePS3中磁
+ 振子与晶格振动之间的相干非线性相互作用。通过映射
+ 二维相干光谱，分离了反铁磁磁振子的二阶和三阶非线
+ 性响应，证明了磁振子与声子之间的和频与差频产生。
+ 探讨了非线性磁振过程的对称性要求，以及利用相干非
+ 线性纠缠磁与振动自由度，为超快量子控制和混合太赫
+ 兹技术开辟新途径。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1296,10 +1296,9 @@ DTSTART;TZID=Asia/Shanghai:20260611T160000
 DTEND;TZID=Asia/Shanghai:20260611T173000
 UID:37daaeb9a93a362eb0826de84c70d8a2@reportautocal
 DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n报告介绍
- 多信使（引力波与电磁波）在理解双致密星（黑洞和中
- 子星）并合过程中的关键作用，回顾首例双中子星并合
- 事件及其多波段电磁对应体的发现，展望该领域的研究
- 前景。
+ 双致密星并合（如双黑洞、双中子星）产生的引力波及
+ 其多波段电磁对应体，阐述多信使观测在理解致密天体
+ 并合过程中的关键作用，并展望未来研究前景。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
