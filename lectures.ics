@@ -1296,10 +1296,10 @@ SUMMARY:多信使问天
 DTSTART;TZID=Asia/Shanghai:20260611T160000
 DTEND;TZID=Asia/Shanghai:20260611T173000
 UID:37daaeb9a93a362eb0826de84c70d8a2@reportautocal
-DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n报告将介
- 绍双致密星并合（如双黑洞、双中子星）产生的引力波
- 及其多波段电磁对应体，说明多信使观测在理解这类天
- 体物理过程的关键作用，并展望该领域的研究前景。
+DESCRIPTION:主讲人: 戴子高 中国科学技术大学\n\n讲座深入
+ 浅出地介绍多信使（引力波及其电磁对应体）在理解双
+ 致密星（黑洞和中子星）并合过程中的关键作用，并展
+ 望该领域的研究前景。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
