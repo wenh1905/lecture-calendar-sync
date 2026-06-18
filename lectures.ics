@@ -1323,12 +1323,13 @@ SUMMARY:★Quantum simulation and metrology with optical fiber cavities
 DTSTART;TZID=Asia/Shanghai:20260622T100000
 DTEND;TZID=Asia/Shanghai:20260622T120000
 UID:1e7458a9f3b0c872dbbc44813396b237@reportautocal
-DESCRIPTION:主讲人: Jakob Reichel 索邦大学\n\n讲座介绍光纤法
- 布里-珀罗微腔在量子模拟与计量中的应用。这类微腔可
- 实现光子与多种量子发射体（冷原子、离子、固态系统
- 如金刚石色心、碳纳米管、半导体量子点）的强耦合，
- 产生多粒子纠缠。同时探讨微腔技术推动的超窄光学滤
- 波器和便携式温室气体分析仪等前沿应用。
+DESCRIPTION:主讲人: Jakob Reichel 索邦大学 巴黎高等师范学院
+ \n\n本讲座介绍光纤法布里-珀罗微腔在量子模拟与计量中
+ 的应用。实现光子与物质量子比特的强耦合，产生多体
+ 纠缠，并探索在超冷原子、固态系统（如金刚石色心、
+ 碳纳米管、半导体量子点）中的应用。同时讨论微腔技
+ 术在超窄光学滤波器和便携式温室气体分析仪方面的进
+ 展。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1336,12 +1337,12 @@ SUMMARY:Quantum metrology in the noisy intermediate-scale quantum era
 DTSTART;TZID=Asia/Shanghai:20260625T160000
 DTEND;TZID=Asia/Shanghai:20260625T173000
 UID:98243594a2a12af9c4aa12b281b47fd8@reportautocal
-DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n报告介绍量子精密
- 测量在噪声环境下的局限性（无成就定理），并提出通
- 过Floquet工程对原子施加周期驱动来克服该问题。研究发
- 现当形成Floquet束缚态时，频率测量精度恢复理想t⁻¹标
- 度，结合最优控制可使海森堡极限完全恢复，为实验实
- 现抗噪声量子计量提供指导。
+DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n量子精密测量利用
+ 量子纠缠等资源超越经典精度极限，但退相干导致精度
+ 受限（无go定理）。本报告提出通过Floquet工程施加周期
+ 性驱动，形成Floquet束缚态，使基于Ramsey光谱的量子测量
+ 精度恢复理想t⁻¹标度，结合最优控制可实现海森堡极
+ 限标度，为实验实现抗噪声量子计量提供指导。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
