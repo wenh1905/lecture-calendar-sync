@@ -1324,11 +1324,11 @@ DTSTART;TZID=Asia/Shanghai:20260622T100000
 DTEND;TZID=Asia/Shanghai:20260622T120000
 UID:1e7458a9f3b0c872dbbc44813396b237@reportautocal
 DESCRIPTION:主讲人: Jakob Reichel 索邦大学\n\n本报告介绍光纤
- 法布里-珀罗微腔在量子模拟和计量中的应用。这种微腔
- 可实现光子与多种量子发射器（如超冷原子、离子、金
- 刚石色心、碳纳米管、半导体量子点等）的强耦合，产
- 生多粒子纠缠，并探讨微腔技术在超窄光学滤波器和便
- 携温室气体分析仪方面的进展。
+ 法布里-珀罗微腔实现光子与物质量子比特的强耦合，在
+ 量子模拟与计量中的应用。该微腔合作性超过100，可用
+ 于冷原子、离子、固态量子发射体（如量子点、色心）
+ ，产生多粒子纠缠。此外，微腔技术还可用于超窄光学
+ 滤波和便携式温室气体分析仪。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1336,13 +1336,12 @@ SUMMARY:Quantum metrology in the noisy intermediate-scale quantum era
 DTSTART;TZID=Asia/Shanghai:20260625T160000
 DTEND;TZID=Asia/Shanghai:20260625T173000
 UID:98243594a2a12af9c4aa12b281b47fd8@reportautocal
-DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n本报告探讨在噪声
- 中等规模量子（NISQ）时代，如何通过Floquet工程克服量子
- 精密测量中的无定理问题。研究发现，对基于拉姆齐光
- 谱的量子计量学中的原子施加周期性驱动，可恢复理想
- 的时间-1标度，并结合最优控制实现任意原子数下的海森
- 堡极限精度，为实际退相干环境下的量子计量实验提供
- 指导。
+DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n量子精密测量利用
+ 量子纠缠等资源超越经典测量极限，但退相干导致长期
+ 精度下降形成无定理。本报告介绍通过Floquet工程对原子
+ 施加周期驱动，当形成Floquet束缚态时可恢复理想精度标
+ 度，结合最优控制实现任意原子数下的海森堡极限，为
+ 实验实现抗噪声量子精密测量提供指导。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
