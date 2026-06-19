@@ -1324,12 +1324,10 @@ DTSTART;TZID=Asia/Shanghai:20260622T100000
 DTEND;TZID=Asia/Shanghai:20260622T120000
 UID:1e7458a9f3b0c872dbbc44813396b237@reportautocal
 DESCRIPTION:主讲人: Jakob Reichel 索邦大学/巴黎高等师范学院
- \n\n报告介绍光纤法布里-珀罗微腔在量子模拟与计量学中
- 的应用。这类腔体可实现光子与物质量子比特的强耦合
- （协同性>100），适用于超冷原子、离子、固态系统（如
- 金刚石色心、碳纳米管、半导体量子点）。通过耦合多
- 粒子系统产生非局域相互作用和纠缠，并探讨微腔技术
- 在超窄光学滤波器和便携式温室气体分析仪中的进展。
+ \n\n讲座介绍光纤法布里-珀罗微腔在量子模拟和计量学中
+ 的应用，包括实现光子与物质量子比特的强耦合，产生
+ 多粒子纠缠，以及微腔技术在超窄带光学滤波器和便携
+ 式温室气体分析仪等领域的进展。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1337,13 +1335,12 @@ SUMMARY:Quantum metrology in the noisy intermediate-scale quantum era
 DTSTART;TZID=Asia/Shanghai:20260625T160000
 DTEND;TZID=Asia/Shanghai:20260625T173000
 UID:98243594a2a12af9c4aa12b281b47fd8@reportautocal
-DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n报告介绍了在噪声
- 量子计量学中，利用Floquet工程克服no-go定理的方法。通
- 过在基于Ramsey光谱的量子计量中对原子施加周期驱动，
- 当驱动原子与局域噪声形成Floquet束缚态时，频率测量的
- 极限精度可恢复理想的t⁻¹标度。结合最优控制，任意
- 原子数下海森堡极限标度可完全恢复，为实验实现抗噪
- 量子计量提供了指导。
+DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n讲座介绍噪声中尺
+ 度量子时代下量子精密测量的挑战与突破。针对退相干
+ 导致的精度退化问题，提出利用Floquet工程在原子系统中
+ 形成Floquet束缚态，克服无go定理，恢复频率测量的理想t
+ ⁻¹标度，并结合最优控制实现任意原子数下的海森堡极
+ 限精度，为实际量子计量提供了理论指导。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
