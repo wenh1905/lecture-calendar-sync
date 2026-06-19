@@ -1319,18 +1319,19 @@ DESCRIPTION:主讲人: 田野 中国科学院上海光学精密机械研
 LOCATION:刘卿楼/104
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quantum simulation and metrology with optical fiber cavities
+SUMMARY:★Quantum simulation and metrology with optical fiber cavities
 DTSTART;TZID=Asia/Shanghai:20260622T100000
 DTEND;TZID=Asia/Shanghai:20260622T120000
 UID:1e7458a9f3b0c872dbbc44813396b237@reportautocal
-DESCRIPTION:主讲人: Jakob Reichel 法国索邦大学和巴黎高等师
- 范学院\n\n报告介绍基于光纤法布里-珀罗微腔的量子模拟
- 与计量技术。强耦合光子与物质量子比特在量子技术中
- 起核心作用，微腔可实现与超冷原子、离子、金刚石色
- 心、碳纳米管及半导体量子点等多种量子发射体的耦合
- ，产生多粒子纠缠和非局域相互作用。讨论微腔技术在
- 超窄光学滤波器及便携式温室气体分析仪等方向的应用
- 进展。
+DESCRIPTION:主讲人: Jakob Reichel 索邦大学/巴黎高等师范学院
+ \n\n本讲座介绍光纤法布里-珀罗微腔在量子模拟与量子计
+ 量学中的应用。这种微腔能实现光子与物质量子比特的
+ 强耦合（协作性C>100），可用于超冷原子、离子、金刚石
+ 色心、碳纳米管和半导体量子点等多种量子发射器。通
+ 过将多粒子量子系统耦合到腔中，产生非局域相互作用
+ 和多粒子纠缠，为量子光学和固态量子光学带来新机遇
+ 。此外，微腔技术还可发展超窄带光学滤波器和便携式
+ 温室气体分析仪。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1338,12 +1339,13 @@ SUMMARY:Quantum metrology in the noisy intermediate-scale quantum era
 DTSTART;TZID=Asia/Shanghai:20260625T160000
 DTEND;TZID=Asia/Shanghai:20260625T173000
 UID:98243594a2a12af9c4aa12b281b47fd8@reportautocal
-DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n报告介绍了量子计
- 量学在含噪中等规模量子时代的进展，重点讨论了利用Fl
- oquet工程克服噪声引起的精度退化问题。通过周期性驱动
- 原子实现Floquet束缚态，使频率测量精度恢复理想t⁻¹标
- 度，并借助最优控制实现任意原子数的海森堡极限精度
- ，为实验实现抗噪声量子计量提供了理论指导。
+DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n本报告讨论在噪声
+ 中尺度量子时代，通过Floquet工程克服量子精密测量中的
+ “无演化定理”。研究表明，对基于拉姆齐光谱的量子
+ 计量学中的原子施加周期性驱动，当形成Floquet束缚态时
+ ，频率测量的极限精度恢复理想的t⁻¹标度，结合最优
+ 控制还可完全恢复海森堡极限标度，为实验实现抗噪声
+ 量子计量提供了指导。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
