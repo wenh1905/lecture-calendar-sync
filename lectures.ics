@@ -1354,10 +1354,10 @@ DTSTART;TZID=Asia/Shanghai:20260622T140000
 DTEND;TZID=Asia/Shanghai:20260622T153000
 UID:6d727b97d455316f699af184aa5eb824@reportautocal
 DESCRIPTION:主讲人: Trevor Cheung University of Nottingham\n\n报告探
- 讨暴涨期间的大质量自旋场及其在宇宙微波背景（CMB）
- 关联函数中的印记。通过引入微因果性条件，研究最一
- 般的大质量自旋-1场，发现除标准参数外还有两个额外参
- 数可在四谱中探测，而非三谱。
+ 讨暴胀期间巨大自旋场在CMB相关器中留下的独特印记。
+ 通过施加微观因果性条件，研究最一般的巨大自旋-1场，
+ 发现存在两个额外参数可在三谱中探测，而双谱中无法
+ 体现。该研究涉及宇宙学相关器和弯曲时空量子场论。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -1367,14 +1367,14 @@ SUMMARY:Three Hot Topics in Nuclear Engineering: From Machine Learning-Aid
 DTSTART;TZID=Asia/Shanghai:20260622T090000
 DTEND;TZID=Asia/Shanghai:20260622T110000
 UID:c6ab9305ff5fd5fd210790813b54014d@reportautocal
-DESCRIPTION:主讲人: Antonio Cammi Politecnico di Milano\n\n本报告介
- 绍核工程三大前沿热点：1. 机器学习辅助多物理场耦合
- ，利用数据驱动降阶模型实现核反应堆状态估计、最优
- 传感器布置及数字孪生；2. 基于动理学理论统一框架或
- 薛定谔CFD（不可压缩薛定谔流）的多物理场建模；3. 利
- 用光致裂变对小型模块化反应堆乏燃料中次锕系元素进
- 行嬗变，以减少核废料长期放射性毒性。
-LOCATION:刘卿楼/105会议室
+DESCRIPTION:主讲人: Antonio Cammi Politecnico di Milano\n\n本报告探
+ 讨核工程中的三大前沿热点：机器学习辅助多物理场耦
+ 合，通过数据驱动降阶模型实现状态估计和场重建，构
+ 建数字孪生；统一动理学框架与基于Madelung变换的不可压
+ 缩薛定谔流替代传统CFD，放宽稳定性限制；以及利用光
+ 致裂变实现小型模块化反应堆乏燃料中次锕系元素的嬗
+ 变，降低长期放射性毒性。
+LOCATION:刘卿楼/105
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Optimization and Representability of time-dependent Neural Quantum
@@ -1382,12 +1382,12 @@ SUMMARY:Optimization and Representability of time-dependent Neural Quantum
 DTSTART;TZID=Asia/Shanghai:20260623T140000
 DTEND;TZID=Asia/Shanghai:20260623T150000
 UID:ea46785fcdaec779f11ce83d1573cb71@reportautocal
-DESCRIPTION:主讲人: Markus Michael Schmitt 雷根斯堡大学\n\n该报
- 告研究神经量子态在变分蒙特卡洛框架下的可表示性和
- 优化问题，以二维临界横向场伊辛模型的时间演化为实
- 例。发现即使对于中等系统尺寸，与精确解的偏差在动
- 力学早期就已出现，系统分析表明关键挑战在于非线性
- 运动方程的动力学不稳定性。
+DESCRIPTION:主讲人: Markus Michael Schmitt 雷根斯堡大学\n\n讲座
+ 探讨神经量子态在临界横场Ising模型时间演化中的优化与
+ 可表示性问题。通过变分蒙特卡洛方法发现，即使对于
+ 中等系统尺寸，精确解偏离很早发生，其根源在于非线
+ 性运动方程的动力不稳定性，而非传统认为的表达能力
+ 限制。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
