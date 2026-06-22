@@ -1353,11 +1353,12 @@ SUMMARY:Massive spinning fields during inflation
 DTSTART;TZID=Asia/Shanghai:20260622T140000
 DTEND;TZID=Asia/Shanghai:20260622T153000
 UID:6d727b97d455316f699af184aa5eb824@reportautocal
-DESCRIPTION:主讲人: Trevor Cheung 诺丁汉大学\n\n报告探讨了暴
- 胀期间大质量自旋场在CMB关联函数中留下的独特印记。
- 通过引入微观因果性，研究了最一般的大质量自旋-1场，
- 发现存在两个额外参数，这些参数可在四点相关函数（
- 而非三点函数）中得到探测。
+DESCRIPTION:主讲人: Trevor Cheung University of Nottingham\n\n该报告
+ 探讨了暴胀期间大质量自旋场在宇宙微波背景（CMB）关
+ 联函数中留下的独特印记。通过引入微因果性约束，研
+ 究了最一般的大质量自旋-1场，发现其具有两个额外参数
+ ，这些参数可在三重谱中探测，但不在双谱中体现。报
+ 告涉及宇宙学关联函数和弯曲时空量子场论。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -1367,16 +1368,15 @@ SUMMARY:Three Hot Topics in Nuclear Engineering: From Machine Learning-Aid
 DTSTART;TZID=Asia/Shanghai:20260622T090000
 DTEND;TZID=Asia/Shanghai:20260622T110000
 UID:c6ab9305ff5fd5fd210790813b54014d@reportautocal
-DESCRIPTION:主讲人: Antonio Cammi 米兰理工大学\n\n本报告介绍
- 核工程三大前沿热点：1）机器学习辅助多物理场，利用
- 数据驱动降阶模型进行状态估计与场重建，大幅降低高
- 保真模拟计算成本，优化传感器布局并构建数字孪生；2
- ）基于动理学理论统一描述中子、流体、热与辐射的输
- 运过程，或采用薛定谔CFD（不可压缩薛定谔流）替代传
- 统CFD；3）利用光致裂变实现小型模块化反应堆乏燃料中
- 次锕系元素的嬗变，通过FLUKA模拟评估不同光子源降低核
- 废料长期放射毒性的潜力。
-LOCATION:刘卿楼/105会议室
+DESCRIPTION:主讲人: Antonio Cammi Politecnico di Milano\n\n本报告讨
+ 论核工程三大前沿热点：机器学习辅助多物理场，利用
+ 数据驱动降阶模型实现状态估计与场重建，降低高保真
+ 模拟成本并构建数字孪生；统一动理学理论框架，用玻
+ 尔兹曼型输运算子描述中子、流体、热与辐射，或用不
+ 可压缩薛定谔流替代传统CFD；光致裂变用于小型模块堆
+ 乏燃料中次锕系元素的嬗变，评估多种光子源以减少核
+ 废料长期毒性。
+LOCATION:刘卿楼/105
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Optimization and Representability of time-dependent Neural Quantum
@@ -1384,12 +1384,12 @@ SUMMARY:Optimization and Representability of time-dependent Neural Quantum
 DTSTART;TZID=Asia/Shanghai:20260623T140000
 DTEND;TZID=Asia/Shanghai:20260623T150000
 UID:ea46785fcdaec779f11ce83d1573cb71@reportautocal
-DESCRIPTION:主讲人: Markus Michael Schmitt University of Regensburg\n\n
- 本讲座探讨神经量子态在一维临界横场Ising模型时间演化
- 中的优化与可表示性。研究表明，即使对于中等系统大
- 小，精确解在动力学早期即出现偏差，其根源在于非线
- 性运动方程的动力不稳定性，这一发现揭示了神经量子
- 态实际应用中的关键挑战。
+DESCRIPTION:主讲人: Markus Michael Schmitt 雷根斯堡大学\n\n神经
+ 量子态作为多体系统数值方法近年兴起，但其实际可表
+ 示性和优化局限性尚不明确。本报告以临界一维横场Ising
+ 模型的时间演化为例，通过变分蒙特卡洛方法分析发现
+ ，即使中等系统尺寸，精确解也会在动力学早期偏离，
+ 其根源在于运动方程的非线性动力不稳定性。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
