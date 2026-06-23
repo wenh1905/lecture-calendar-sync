@@ -1353,12 +1353,10 @@ SUMMARY:Massive spinning fields during inflation
 DTSTART;TZID=Asia/Shanghai:20260622T140000
 DTEND;TZID=Asia/Shanghai:20260622T153000
 UID:6d727b97d455316f699af184aa5eb824@reportautocal
-DESCRIPTION:主讲人: Trevor Cheung University of Nottingham\n\n报告探
- 讨暴胀时期大质量自旋场在宇宙微波背景相关函数中的
- 可观测印记。通过引入微观因果性条件，研究了最一般
- 的大质量自旋1场，发现除了标准参数外还有两个额外参
- 数可在三点函数中探测，而非两点函数。内容涉及暴胀
- 宇宙学、量子场论和宇宙学相关函数。
+DESCRIPTION:主讲人: Trevor Cheung 诺丁汉大学\n\n报告探讨暴胀
+ 期间存在的最普遍大质量自旋-1场。通过施加微观因果性
+ ，发现两个额外参数可在CMB三谱（而非双谱）中被探测
+ ，为宇宙学早期宇宙物理提供新的可检验特征。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -1368,12 +1366,13 @@ SUMMARY:Three Hot Topics in Nuclear Engineering: From Machine Learning-Aid
 DTSTART;TZID=Asia/Shanghai:20260622T090000
 DTEND;TZID=Asia/Shanghai:20260622T110000
 UID:c6ab9305ff5fd5fd210790813b54014d@reportautocal
-DESCRIPTION:主讲人: Antonio Cammi 米兰理工大学\n\n本报告介绍
- 核工程中三大前沿热点：机器学习辅助多物理场耦合（
- 如数据驱动降阶模型用于数字孪生）、基于动理学理论
- 和薛定谔CFD的多物理场建模、以及基于光致裂变的次锕
- 系元素嬗变技术，旨在降低核废料长期放射性毒性。
-LOCATION:刘卿楼/105会议室
+DESCRIPTION:主讲人: Antonio Cammi 米兰理工大学\n\n报告探讨核
+ 工程三大前沿：机器学习辅助多物理场耦合，利用数据
+ 驱动降阶模型实现状态估计与数字孪生；统一动理学理
+ 论框架及基于麦德隆变换的不可压缩薛定谔流(ISF)方法；
+ 以及利用光致裂变嬗变小堆乏燃料中的次锕系元素，通
+ 过FLUKA模拟评估不同光子源减少长期放射毒性的可行性。
+LOCATION:刘卿楼/105
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Optimization and Representability of time-dependent Neural Quantum
@@ -1381,12 +1380,12 @@ SUMMARY:Optimization and Representability of time-dependent Neural Quantum
 DTSTART;TZID=Asia/Shanghai:20260623T140000
 DTEND;TZID=Asia/Shanghai:20260623T150000
 UID:ea46785fcdaec779f11ce83d1573cb71@reportautocal
-DESCRIPTION:主讲人: Markus Michael Schmitt 雷根斯堡大学\n\n神经
- 量子态近年来成为多体系统强大的数值方法，但其在优
- 化和可表示性方面存在实际限制。本工作以临界横场Ising
- 模型的一维时间演化为例，系统分析其与精确解的早期
- 偏离，发现关键挑战源于非线性运动方程的动力学不稳
- 定性。
+DESCRIPTION:主讲人: Markus Michael Schmitt 雷根斯堡大学\n\n本报
+ 告研究神经量子态在变分蒙特卡洛框架下对一维临界横
+ 向场伊辛模型时间演化的表示与优化。发现即使中等系
+ 统尺寸下，动力学早期就会偏离精确解，分析表明主要
+ 挑战源于非线性运动方程的动力学不稳定性，为理解神
+ 经量子态的实际局限性提供了新视角。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1395,13 +1394,13 @@ DTSTART;TZID=Asia/Shanghai:20260626T140000
 DTEND;TZID=Asia/Shanghai:20260626T153000
 UID:943e9f0eda36d0a23a3ff92dcc6a54c9@reportautocal
 DESCRIPTION:主讲人: Xuyang Yu 加州大学圣塔芭芭拉分校\n\n报
- 告探讨de Sitter量子引力中局域可观测量的定义问题。由
- 于de Sitter空间无空间边界，规范不变算子需通过关系性
- 定义。通过引入物理参考系统并对de Sitter群进行平均，
- 可构建规范不变态和关系性算子。在参考态核函数尖锐
- 时，关系性代数近似于固定背景量子场论的局域代数，
- 表明局域性是在受控半经典区域内从参考系中近似涌现
- 的。
+ 告探讨了de Sitter量子引力中局域可观测量的构造问题。
+ 由于微分同胚不变性，需通过关系性定义算符。使用群
+ 平均方法引入物理参考系统，对de Sitter群平均得到不变
+ 态和关系性算符，将固定背景QFT关联函数转化为de Sitter
+ 涂抹关联函数。在dS_{1+1}中具体计算表明，局域化质量依
+ 赖于表示论数据和参考态选择，局域QFT仅在引力反作用
+ 可忽略的区域近似恢复。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
