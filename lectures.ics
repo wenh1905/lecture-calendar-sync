@@ -1381,26 +1381,27 @@ SUMMARY:Locality from References in de Sitter Quantum Gravity
 DTSTART;TZID=Asia/Shanghai:20260626T140000
 DTEND;TZID=Asia/Shanghai:20260626T153000
 UID:943e9f0eda36d0a23a3ff92dcc6a54c9@reportautocal
-DESCRIPTION:主讲人: Xuyang Yu 加州大学圣塔芭芭拉分校\n\n本
- 报告讨论de Sitter量子引力中的局域可观测量问题。由于de
-  Sitter空间无空间边界，传统QFT算符不保持物理Hilbert空间
- 。通过引入物理参考系并平均de Sitter群，构造规范不变
- 算符，将固定背景的QFT关联函数转化为de Sitter平均的关
- 联函数。参考系的选择决定了局域性质量，只有当参考
- 系的引力反作用可忽略时才能恢复近似局域QFT。
+DESCRIPTION:主讲人: Xuyang Yu 加州大学圣塔芭芭拉分校\n\n报
+ 告探讨德西特量子引力中的局域可观测量问题。由于德
+ 西特空间无边，传统固定背景的QFT算子不能保持物理希
+ 尔伯特空间。通过引入物理参考系统并对德西特群进行
+ 群平均，构造规范不变的态和关系性算子，可恢复近似
+ 的局域QFT结构，且局域性质量依赖于参考态的表示论数
+ 据。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quantum metrology in the noisy intermediate-scale quantum era
+SUMMARY:★Quantum metrology in the noisy intermediate-scale quantum era
 DTSTART;TZID=Asia/Shanghai:20260625T160000
 DTEND;TZID=Asia/Shanghai:20260625T173000
 UID:98243594a2a12af9c4aa12b281b47fd8@reportautocal
-DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n本报告讨论在嘈杂
- 中间尺度量子时代中，通过Floquet工程克服噪声量子计量
- 学的no-go定理。利用周期驱动在原子与局域噪声间形成Flo
- quet束缚态，使频率测量精度恢复理想t⁻¹标度，并结合
- 最优控制实现任意原子数下的海森堡极限。该成果为实
- 际退相干环境中的量子计量实验提供了指导。
+DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n量子精密测量利用
+ 量子纠缠等资源突破经典测量极限，但噪声导致精度退
+ 化并出现no-go定理。本报告介绍通过Floquet工程在基于Ramse
+ y光谱的量子计量中施加周期性驱动，形成Floquet束缚态，
+ 使频率测量精度恢复理想t⁻¹标度，结合最优控制可完
+ 全恢复任意原子数下的海森堡极限。该结果为在退相干
+ 条件下实现量子计量提供了理论指导。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
