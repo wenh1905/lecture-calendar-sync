@@ -1397,13 +1397,13 @@ SUMMARY:Quantum metrology in the noisy intermediate-scale quantum era
 DTSTART;TZID=Asia/Shanghai:20260625T160000
 DTEND;TZID=Asia/Shanghai:20260625T173000
 UID:98243594a2a12af9c4aa12b281b47fd8@reportautocal
-DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n量子计量学利用量
- 子资源实现超越经典极限的精密测量，但退相干导致精
- 度下降。报告介绍通过Floquet工程在基于拉姆齐光谱的量
- 子计量中克服无验证定理，当驱动原子与局域噪声形成Fl
- oquet束缚态时，频率测量精度恢复理想t⁻¹标度，结合最
- 优控制可实现任意原子数下的海森堡极限精度，为实际
- 噪声环境中的量子计量提供指导。
+DESCRIPTION:主讲人: 安钧鸿 兰州大学\n\n本报告探讨在噪声
+ 中尺度量子时代如何实现量子计量学的优越性能。通过Fl
+ oquet工程对基于拉姆齐光谱的原子频率测量施加周期性驱
+ 动，当驱动原子与局域噪声形成Floquet束缚态时，测量精
+ 度恢复理想时间反比标度；结合最优控制，可完全恢复
+ 任意原子数的海森堡极限标度，为实验实现抗退相干量
+ 子计量提供指导。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
