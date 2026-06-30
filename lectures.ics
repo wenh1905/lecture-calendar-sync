@@ -1410,14 +1410,14 @@ SUMMARY:Universal Fluctuations in Disordered Systems
 DTSTART;TZID=Asia/Shanghai:20260702T140000
 DTEND;TZID=Asia/Shanghai:20260702T153000
 UID:4d7f7b350e9dd7c34bcedf3cb8e2d8a7@reportautocal
-DESCRIPTION:主讲人: Sen Mu 马克斯·普朗克复杂系统物理研究
- 所\n\n本报告讨论无序系统中的普适涨落现象，分两部分
- 阐述：一是通过将二维安德森局域化中的涨落映射到KPZ
- 类定向聚合物模型，揭示超越局域长度的涨落特征；二
- 是利用谱填充方法解决有限密度定向聚合物模拟中的指
- 数墙问题，发现缺乏自平均导致热力学量累积量出现不
- 同临界指数，表明涨落在无序系统统计物理中揭示普适
- 规律的关键作用。
+DESCRIPTION:主讲人: Sen Mu MPI-PKS\n\n讲座讨论无序系统中的普
+ 适涨落现象，通过两个例子展开：一是二维安德森局域
+ 化中超越局域长度的涨落，可通过映射到Kardar-Parisi-Zhang
+ 普适类的定向聚合物理解；二是有限密度定向聚合物作
+ 为玻璃态线状物质的最小模型，揭示了无自平均性导致
+ 热力学量累积量具有不同临界指数的特性。这些工作表
+ 明涨落揭示了平均量无法体现的普适规律和集体行为，
+ 连接了量子局域化与玻璃态物理。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -1425,12 +1425,12 @@ SUMMARY:Beyond the Foundation Model: The New Dimension of Intelligence
 DTSTART;TZID=Asia/Shanghai:20260630T150000
 DTEND;TZID=Asia/Shanghai:20260630T163000
 UID:24fd825497902eaea698299b711ea787@reportautocal
-DESCRIPTION:主讲人: Kai Wu\n\n报告提出基础模型并非智能的
- 唯一来源，存在与模型正交的另一个维度，该维度通过
- 递归自反思过程不断重组系统自身经验。为此需要一种
- 结构化的外部记忆——认知流形（Cognitive Manifold），它
- 是一种面向关系、延迟绑定的算法，以更低成本达到竞
- 争性精度，可能为前沿科学突破提供新智能维度。
+DESCRIPTION:主讲人: Kai Wu 清华大学\n\n本报告提出基础模型
+ 并非智能的唯一来源，存在另一个维度——递归自反过
+ 程，通过认知流形算法实现结构化记忆，对系统自身经
+ 验进行持续重组。该算法具有关系导向和晚绑定特征，
+ 在LoCoMo任务上以低成本达到竞争性精度，为科学发现开
+ 辟新路径。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
