@@ -1410,13 +1410,12 @@ SUMMARY:Universal Fluctuations in Disordered Systems
 DTSTART;TZID=Asia/Shanghai:20260702T140000
 DTEND;TZID=Asia/Shanghai:20260702T153000
 UID:4d7f7b350e9dd7c34bcedf3cb8e2d8a7@reportautocal
-DESCRIPTION:主讲人: Sen Mu 马克斯·普朗克复杂物理系统研究
- 所\n\n报告探讨无序系统中的普遍涨落现象，通过二维安
- 德森局域化和有限密度定向聚合物玻璃两个实例，展示
- 了涨落如何揭示平均量无法反映的普适物理规律。其中
- ，安德森局域化的涨落可通过到定向聚合物的映射理解
- ，而有限密度定向聚合物则通过谱填充方法克服指数墙
- ，揭示了非自平均性导致的临界指数差异。
+DESCRIPTION:主讲人: Sen Mu MPI-PKS\n\n本讲座探讨无序系统中的
+ 普适涨落，通过量子局域化和定向聚合物玻璃两个实例
+ ，揭示涨落揭示的隐藏普适规律。将二维安德森局域化
+ 的涨落映射到KPZ普适类中的定向聚合物，并解决有限密
+ 度定向聚合物模拟中的“指数墙”问题，发现自平均缺
+ 失导致热力学观测量的累积量出现不同临界指数。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -1424,10 +1423,12 @@ SUMMARY:Beyond the Foundation Model: The New Dimension of Intelligence
 DTSTART;TZID=Asia/Shanghai:20260630T150000
 DTEND;TZID=Asia/Shanghai:20260630T163000
 UID:24fd825497902eaea698299b711ea787@reportautocal
-DESCRIPTION:主讲人: Kai Wu\n\n该报告探讨了基础模型之外的
- 智能新维度，提出了一种名为认知流形的结构化记忆算
- 法。该算法具有关系导向和延迟绑定特征，能够以低成
- 本实现高精度，为人工智能和科学发现提供新思路。
+DESCRIPTION:主讲人: Kai Wu\n\n讲座提出基础模型不是智能的
+ 唯一来源，存在一个与模型正交的新维度，通过递归自
+ 省过程作用于系统自身经验并持续重组。为此提出认知
+ 流形（Cognitive Manifold）结构记忆算法，具有关系导向和
+ 延迟绑定特征，在LoCoMo数据集上以约一个数量级更低的
+ 成本达到竞争性精度，为前沿突破提供可能。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
