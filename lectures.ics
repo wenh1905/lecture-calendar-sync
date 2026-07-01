@@ -1447,21 +1447,17 @@ DESCRIPTION:主讲人: 无\n\n此邮件为Tsinghua-Weizmann凝聚态物理
 LOCATION:清华大学/物理楼/未指定
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coupling Chirality\, Polar Order\, and Altermagnetic Spin Splittin
- g in a Hybrid Manganese Chloride
+SUMMARY:★Coupling Chirality\, Polar Order\, and Altermagnetic Spin Split
+ ting in a Hybrid Manganese Chloride
 DTSTART;TZID=Asia/Shanghai:20260707T193000
 DTEND;TZID=Asia/Shanghai:20260707T210000
 UID:968627823d5db1b75e3d027eb9db74ef@reportautocal
-DESCRIPTION:主讲人: Alessandro Stroppa CNR-SPIN Institute (Italy)\n\n
- 该研究通过第一性原理计算和自旋空间群分析，预测混
- 合锰卤化物[(R)/(S)-MPA]2[MnCl4(H2O)]中补偿磁态存在非相对论
- 的反铁磁自旋分裂，并发现手性、极性和磁自由度耦合
- 形成对称相关流形。由此推导出电子和磁光响应的符号
- 规则：同时反转手性和极性或单独反转磁畴会反转整个
- 布里渊区的自旋分裂，而单独反转手性或极性只在对称
- 选择区域改变符号；自旋轨道耦合下反转手性或磁序会
- 翻转克尔旋转角。研究揭示了通过有机阳离子设计调控
- 自旋分裂的化学途径。
+DESCRIPTION:主讲人: Alessandro Stroppa 意大利CNR-SPIN研究所\n\n
+ 报告通过第一性原理和自旋空间群分析，预测杂化锰氯
+ 化物[(R)/(S)-MPA]2[MnCl4(H2O)]中存在非相对论极限下的交变磁
+ 自旋分裂，并阐明手性、极性和磁性自由度耦合对自旋
+ 分裂符号和动量分布的调控规律，为通过有机阳离子设
+ 计实现自旋分裂控制提供了化学途径。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1470,12 +1466,12 @@ SUMMARY:★Electronic structure evidence for charge nematic bond order in
 DTSTART;TZID=Asia/Shanghai:20260709T100000
 DTEND;TZID=Asia/Shanghai:20260709T113000
 UID:58c306a907c4878ddf5a6dd688ca414b@reportautocal
-DESCRIPTION:主讲人: Changyoung Kim 首尔大学\n\n报告介绍利用
- 外延薄膜生长结合原位角分辨光电子能谱（ARPES）研究单
- 层SrIrO₃薄膜的电子性质。单层SrIrO₃表现出类似Sr₂IrO
- ₄的莫特绝缘态和短程反铁磁序，通过外延应变可诱导
- 出强关联金属态。偏振依赖ARPES测量表明其基态可能存在
- 电荷向列键序，初步STM结果支持该解释。
+DESCRIPTION:主讲人: Changyoung Kim 首尔国立大学\n\n报告介绍
+ 单单元厚度SrIrO₃薄膜的电子结构研究，通过原位角分辨
+ 光电子能谱（ARPES）测量，发现薄膜具有类似Sr₂IrO₄的
+ 莫特绝缘态和短程反铁磁序。通过外延应变可诱导金属
+ 态，并观察到可能存在的电荷向列键序，初步STM结果支
+ 持该解释。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
