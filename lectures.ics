@@ -1458,18 +1458,28 @@ DESCRIPTION:主讲人: 无\n\n清华大学物理系将于8月4日至7日
 LOCATION:清华大学
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tsinghua-Weizmann Condensed Matter Workshop
+DTSTART;TZID=Asia/Shanghai:20250804T090000
+DTEND;TZID=Asia/Shanghai:20250807T170000
+UID:b9b13fb69d195c0aab4d67bc7cef1709@reportautocal
+DESCRIPTION:主讲人: 未知\n\n该邮件为会议注册通知，主题
+ 为凝聚态物理研讨会，非单个学术讲座。会议时间为8月4
+ 日至7日，需填写注册信息并提交海报。
+LOCATION:清华大学
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:★Coupling Chirality\, Polar Order\, and Altermagnetic Spin Split
  ting in a Hybrid Manganese Chloride
 DTSTART;TZID=Asia/Shanghai:20260707T193000
 DTEND;TZID=Asia/Shanghai:20260707T210000
 UID:968627823d5db1b75e3d027eb9db74ef@reportautocal
-DESCRIPTION:主讲人: Alessandro Stroppa 意大利国家研究委员会SP
- IN研究所\n\n通过第一性原理计算和自旋空间群分析，预
- 测手性锰卤化物[(R)/(S)-MPA]2[MnCl4(H2O)]在非相对论极限下存
- 在交变磁自旋分裂。揭示了手性、极性和磁性自由度耦
- 合对自旋分裂符号和动量分布的调控规律，并展示了翻
- 转手性、极性或磁畴对磁光Kerr旋转角的不同影响，为通
- 过有机阳离子设计控制自旋分裂提供了化学途径。
+DESCRIPTION:主讲人: Alessandro Stroppa CNR-SPIN Institute\n\n该研究
+ 通过第一性原理和自旋空间群分析，预测杂化锰氯化物[(
+ R)/(S)-MPA]2[MnCl4(H2O)]中存在非相对论极限下的交变磁自旋
+ 劈裂，并揭示了手性、极性和磁自由度之间的耦合关系
+ 。通过改变手性、极性或磁畴方向，可以调控布里渊区
+ 内的自旋劈裂符号和磁光克尔效应，为利用有机阳离子
+ 设计控制自旋劈裂提供了化学途径。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1479,11 +1489,11 @@ DTSTART;TZID=Asia/Shanghai:20260709T100000
 DTEND;TZID=Asia/Shanghai:20260709T113000
 UID:58c306a907c4878ddf5a6dd688ca414b@reportautocal
 DESCRIPTION:主讲人: Changyoung Kim 首尔国立大学\n\n报告介绍
- 了利用原位角分辨光电子能谱（ARPES）研究单胞厚度SrIrO
- ₃薄膜的电子性质。通过外延应变可诱导出强关联金属
- 态，并发现其基态可能存在电荷向列键序，STM结果也支
- 持这一解释。该工作展示了低维体系中新颖电子相的可
- 控实现与表征。
+ 利用原位角分辨光电子能谱（ARPES）研究单层SrIrO₃薄膜
+ 的电子结构。单层薄膜与Sr₂IrO₄结构相同，呈现Mott绝
+ 缘态及短程反铁磁序。通过外延应变可诱导出金属态，
+ 该金属态保留强关联效应，偏振依赖ARPES和STM实验证据表
+ 明其基态可能存在电荷向列键序。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
