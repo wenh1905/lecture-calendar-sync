@@ -1435,4 +1435,37 @@ DESCRIPTION:主讲人: Kai Wu\n\n该报告探讨了基础模型之外的
  。
 LOCATION:科学馆/322
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Coupling Chirality\, Polar Order\, and Altermagnetic Spin Split
+ ting in a Hybrid Manganese Chloride
+DTSTART;TZID=Asia/Shanghai:20260707T193000
+DTEND;TZID=Asia/Shanghai:20260707T210000
+UID:968627823d5db1b75e3d027eb9db74ef@reportautocal
+DESCRIPTION:主讲人: Alessandro Stroppa 意大利CNR-SPIN研究所\n\n
+ 该研究通过第一性原理计算与自旋空间群分析，预测手
+ 性杂化锰氯化物[(R)/(S)-MPA]2[MnCl4(H2O)]的补偿磁性态存在非
+ 相对论极限下的交变磁自旋分裂。发现手性、极性与磁
+ 自由度的耦合定义了对称性流形，并推导出电子及磁光
+ 响应的符号规则：同时反转手性与极性或单独反转磁畴
+ 可反转整个布里渊区的自旋分裂，而单独反转手性或极
+ 性仅在对称性选择区域改变符号。自旋-轨道耦合下，反
+ 转手性或磁序可翻转克尔旋转角，极性变化则不影响。
+ 该工作揭示了通过有机阳离子设计调控自旋分裂的化学
+ 途径。
+LOCATION:物理楼/W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Electronic structure evidence for charge nematic bond order in 
+ single unit cell thick iridate films
+DTSTART;TZID=Asia/Shanghai:20260709T100000
+DTEND;TZID=Asia/Shanghai:20260709T113000
+UID:58c306a907c4878ddf5a6dd688ca414b@reportautocal
+DESCRIPTION:主讲人: Changyoung Kim 首尔国立大学\n\n报告介绍
+ 在单胞厚SrIrO₃薄膜中利用原位角分辨光电子能谱（ARPES
+ ）研究电子结构，发现该二维强关联体系在外延应变下
+ 呈现金属态，并通过偏振依赖测量揭示电荷向列键序的
+ 存在，STM结果支持这一解释。该工作展示了原子级薄膜
+ 中新颖电子相的调控与探测。
+LOCATION:物理楼/W105
+END:VEVENT
 END:VCALENDAR
