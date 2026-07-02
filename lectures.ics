@@ -1473,13 +1473,17 @@ SUMMARY:★Coupling Chirality\, Polar Order\, and Altermagnetic Spin Split
 DTSTART;TZID=Asia/Shanghai:20260707T193000
 DTEND;TZID=Asia/Shanghai:20260707T210000
 UID:968627823d5db1b75e3d027eb9db74ef@reportautocal
-DESCRIPTION:主讲人: Alessandro Stroppa CNR-SPIN Institute\n\n该研究
- 通过第一性原理和自旋空间群分析，预测杂化锰氯化物[(
- R)/(S)-MPA]2[MnCl4(H2O)]中存在非相对论极限下的交变磁自旋
- 劈裂，并揭示了手性、极性和磁自由度之间的耦合关系
- 。通过改变手性、极性或磁畴方向，可以调控布里渊区
- 内的自旋劈裂符号和磁光克尔效应，为利用有机阳离子
- 设计控制自旋劈裂提供了化学途径。
+DESCRIPTION:主讲人: Alessandro Stroppa CNR-SPIN Institute\n\n本报告
+ 通过第一性原理计算和自旋空间群分析，研究手性杂化
+ 锰氯化物[(R)/(S)-MPA]2[MnCl4(H2O)]。预测其补偿磁态在非相对
+ 论极限下存在交变磁自旋分裂，并阐明手性、极性和磁
+ 自由度耦合产生的对称性流形。由此推导出电子和磁光
+ 响应的符号规则：同时翻转手性和极性或单独翻转磁畴
+ 可反转整个布里渊区的自旋分裂，而单独翻转手性或极
+ 性仅在对称性选择的区域改变分裂符号。自旋-轨道耦合
+ 下，翻转手性或磁序改变克尔旋转角，极性变化不影响
+ 。该成果为通过设计有机阳离子的手性和极性实现自旋
+ 分裂的化学调控提供了新途径。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1488,12 +1492,12 @@ SUMMARY:★Electronic structure evidence for charge nematic bond order in
 DTSTART;TZID=Asia/Shanghai:20260709T100000
 DTEND;TZID=Asia/Shanghai:20260709T113000
 UID:58c306a907c4878ddf5a6dd688ca414b@reportautocal
-DESCRIPTION:主讲人: Changyoung Kim 首尔国立大学\n\n报告介绍
- 利用原位角分辨光电子能谱（ARPES）研究单层SrIrO₃薄膜
- 的电子结构。单层薄膜与Sr₂IrO₄结构相同，呈现Mott绝
- 缘态及短程反铁磁序。通过外延应变可诱导出金属态，
- 该金属态保留强关联效应，偏振依赖ARPES和STM实验证据表
- 明其基态可能存在电荷向列键序。
+DESCRIPTION:主讲人: Changyoung Kim 首尔大学\n\n报告主要介绍
+ 利用原位角分辨光电子能谱（ARPES）研究单胞厚SrIrO₃薄
+ 膜的电子结构。该薄膜具有类似Sr₂IrO₄的莫特绝缘态和
+ 短程反铁磁序，通过外延应变可诱导出强关联金属态。
+ 极化依赖的ARPES实验暗示其基态可能存在电荷向列键序，
+ 初步STM结果支持这一解释。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
