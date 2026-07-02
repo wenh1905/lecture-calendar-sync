@@ -1485,11 +1485,15 @@ DTSTART;TZID=Asia/Shanghai:20260707T193000
 DTEND;TZID=Asia/Shanghai:20260707T210000
 UID:968627823d5db1b75e3d027eb9db74ef@reportautocal
 DESCRIPTION:主讲人: Alessandro Stroppa 意大利CNR-SPIN研究所\n\n
- 该研究通过第一性原理计算和自旋空间群分析，预测了
- 一种杂化锰氯化物材料中同时存在手性、极性序和交变
- 磁自旋分裂，揭示了其自旋分裂和磁光响应随手性、极
- 性和磁畴反转的符号变化规律，为通过有机阳离子设计
- 控制自旋分裂提供了新途径。
+ 该报告通过第一性原理和自旋空间群分析，预测杂化锰
+ 氯化物中补偿磁态存在非相对论性交变磁自旋分裂，并
+ 揭示了手性、极性和磁自由度的耦合关系。由此推导出
+ 电子结构和磁光响应符号规律：同时翻转手性与极性或
+ 单独翻转磁域可反转整个布里渊区的自旋分裂，而单独
+ 翻转手性或极性仅改变对称选择区符号。引入自旋轨道
+ 耦合后，翻转手性或磁序可反转克尔旋转角，极性变化
+ 则无影响。这些结果为通过有机阳离子设计调控手性和
+ 极性进而控制自旋分裂提供了化学途径。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1498,11 +1502,13 @@ SUMMARY:★Electronic structure evidence for charge nematic bond order in
 DTSTART;TZID=Asia/Shanghai:20260709T100000
 DTEND;TZID=Asia/Shanghai:20260709T113000
 UID:58c306a907c4878ddf5a6dd688ca414b@reportautocal
-DESCRIPTION:主讲人: Changyoung Kim 首尔国立大学\n\n报告利用
- 原位角分辨光电子能谱（ARPES）研究了单层SrIrO₃薄膜的
- 电子结构。通过外延应变可在单层薄膜中诱导金属态，
- 并观察到电荷向列键序的迹象。该工作展示了二维强关
- 联体系中新型电子相的调控与探测方法。
+DESCRIPTION:主讲人: Changyoung Kim 首尔国立大学\n\n报告介绍
+ 利用原位角分辨光电子能谱（ARPES）研究单胞厚SrIrO₃薄
+ 膜的电子结构。该薄膜具有与Sr₂IrO₄类似的晶体结构，
+ 表现出莫特绝缘态和短程反铁磁序。通过外延应变可诱
+ 导金属态，并观察到电荷向列键序的迹象。初步STM结果
+ 支持这一解释，为探索低维强关联体系的新奇电子相提
+ 供了重要依据。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
