@@ -1459,16 +1459,6 @@ LOCATION:清华大学
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tsinghua-Weizmann Condensed Matter Workshop
-DTSTART;TZID=Asia/Shanghai:20250804T090000
-DTEND;TZID=Asia/Shanghai:20250807T170000
-UID:b9b13fb69d195c0aab4d67bc7cef1709@reportautocal
-DESCRIPTION:主讲人: 未知\n\n该邮件为会议注册通知，主题
- 为凝聚态物理研讨会，非单个学术讲座。会议时间为8月4
- 日至7日，需填写注册信息并提交海报。
-LOCATION:清华大学
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tsinghua-Weizmann Condensed Matter Workshop
 DTSTART;TZID=Asia/Shanghai:20240804T090000
 DTEND;TZID=Asia/Shanghai:20240807T170000
 UID:ce9f9f114d572e3023fcd9f85c0856b0@reportautocal
@@ -1478,19 +1468,29 @@ DESCRIPTION:主讲人: 未知\n\n清华大学物理系举办的凝聚态
 LOCATION:清华大学
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tsinghua-Weizmann Condensed Matter Workshop
+DTSTART;TZID=Asia/Shanghai:20250804T090000
+DTEND;TZID=Asia/Shanghai:20250807T170000
+UID:b9b13fb69d195c0aab4d67bc7cef1709@reportautocal
+DESCRIPTION:主讲人: 无\n\n该邮件是关于Tsinghua-Weizmann凝聚态
+ 物理研讨会的注册通知，会议时间为8月4日至7日，由清
+ 华大学物理系主办，内容涉及凝聚态物理前沿研究，但
+ 未提供具体讲座信息。
+LOCATION:清华大学物理系
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:★Coupling Chirality\, Polar Order\, and Altermagnetic Spin Split
  ting in a Hybrid Manganese Chloride
 DTSTART;TZID=Asia/Shanghai:20260707T193000
 DTEND;TZID=Asia/Shanghai:20260707T210000
 UID:968627823d5db1b75e3d027eb9db74ef@reportautocal
 DESCRIPTION:主讲人: Alessandro Stroppa 意大利CNR-SPIN研究所\n\n
- 该报告通过第一性原理计算和自旋空间群分析，研究了
- 合成的手性锰氯化物[(R)/(S)-MPA]2[MnCl4(H2O)]。研究发现，该
- 材料的补偿磁态在非相对论极限下具有交变磁自旋分裂
- ，且手性、极性和磁自由度的耦合决定了电子和磁光响
- 应的符号规则。通过反转手性、极性或磁畴，可控制自
- 旋分裂的符号和动量分布，为利用有机阳离子设计调控
- 自旋分裂和磁光读出提供了化学途径。
+ 该研究通过第一性原理计算和自旋空间群分析，预测了
+ 手性杂化锰氯化物[(R)/(S)-MPA]2[MnCl4(H2O)]中补偿磁态存在非
+ 相对论极限下的交变磁自旋分裂，并发现手性、极性和
+ 磁自由度耦合定义了对称相关流形，导出了自旋分裂和
+ 磁光克尔效应的符号规则，为通过有机阳离子设计控制
+ 自旋分裂提供了化学途径。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1499,12 +1499,11 @@ SUMMARY:★Electronic structure evidence for charge nematic bond order in
 DTSTART;TZID=Asia/Shanghai:20260709T100000
 DTEND;TZID=Asia/Shanghai:20260709T113000
 UID:58c306a907c4878ddf5a6dd688ca414b@reportautocal
-DESCRIPTION:主讲人: Changyoung Kim 首尔大学\n\n报告介绍利用
- 原位角分辨光电子能谱（ARPES）研究单层SrIrO₃薄膜的电
- 子性质。单层SrIrO₃具有与Sr₂IrO₄相似的莫特绝缘态，
- 但通过外延应变可诱导金属态，并表现出电荷向列键序
- 的证据。该工作展示了原子层厚度强关联薄膜中新颖电
- 子相的调控与探测。
+DESCRIPTION:主讲人: Changyoung Kim Seoul National University\n\n报告
+ 介绍利用原位角分辨光电子能谱（ARPES）研究单胞厚SrIrO
+ ₃薄膜的电子结构。实验发现该二维体系具有类似Sr₂IrO
+ ₄的莫特绝缘态，通过外延应变可诱导金属态，并观察
+ 到电荷向列键序的证据，初步STM结果支持该解释。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
