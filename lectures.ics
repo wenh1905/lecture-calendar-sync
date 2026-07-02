@@ -1473,17 +1473,15 @@ SUMMARY:★Coupling Chirality\, Polar Order\, and Altermagnetic Spin Split
 DTSTART;TZID=Asia/Shanghai:20260707T193000
 DTEND;TZID=Asia/Shanghai:20260707T210000
 UID:968627823d5db1b75e3d027eb9db74ef@reportautocal
-DESCRIPTION:主讲人: Alessandro Stroppa CNR-SPIN Institute\n\n本报告
- 通过第一性原理计算和自旋空间群分析，研究手性杂化
- 锰氯化物[(R)/(S)-MPA]2[MnCl4(H2O)]。预测其补偿磁态在非相对
- 论极限下存在交变磁自旋分裂，并阐明手性、极性和磁
- 自由度耦合产生的对称性流形。由此推导出电子和磁光
- 响应的符号规则：同时翻转手性和极性或单独翻转磁畴
- 可反转整个布里渊区的自旋分裂，而单独翻转手性或极
- 性仅在对称性选择的区域改变分裂符号。自旋-轨道耦合
- 下，翻转手性或磁序改变克尔旋转角，极性变化不影响
- 。该成果为通过设计有机阳离子的手性和极性实现自旋
- 分裂的化学调控提供了新途径。
+DESCRIPTION:主讲人: Alessandro Stroppa CNR-SPIN研究所\n\n该研究
+ 通过第一性原理和自旋空间群分析，预测杂化锰氯化物
+ 中补偿磁态存在非相对论极限下的交变磁自旋分裂。手
+ 性、极性和磁自由度耦合定义对称流形，导出电子和磁
+ 光响应符号规则：同时反转手性和极性或单独反转磁畴
+ 可反转布里渊区内自旋分裂符号，而单独反转手性或极
+ 性仅对称选择区域改变符号。自旋轨道耦合下，反转手
+ 性或磁序翻转Kerr旋转角，极性保持不变。结果显示可通
+ 过设计有机阳离子的手性和极性来调控自旋分裂。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1492,12 +1490,12 @@ SUMMARY:★Electronic structure evidence for charge nematic bond order in
 DTSTART;TZID=Asia/Shanghai:20260709T100000
 DTEND;TZID=Asia/Shanghai:20260709T113000
 UID:58c306a907c4878ddf5a6dd688ca414b@reportautocal
-DESCRIPTION:主讲人: Changyoung Kim 首尔大学\n\n报告主要介绍
- 利用原位角分辨光电子能谱（ARPES）研究单胞厚SrIrO₃薄
- 膜的电子结构。该薄膜具有类似Sr₂IrO₄的莫特绝缘态和
- 短程反铁磁序，通过外延应变可诱导出强关联金属态。
- 极化依赖的ARPES实验暗示其基态可能存在电荷向列键序，
- 初步STM结果支持这一解释。
+DESCRIPTION:主讲人: Changyoung Kim 首尔国立大学\n\n报告介绍
+ 利用原位角分辨光电子能谱(ARPES)研究单原胞厚SrIrO₃薄
+ 膜的电子结构。发现薄膜在应变诱导的金属态中表现出
+ 强关联效应，并首次通过偏振依赖的ARPES和STM实验观察到
+ 电荷向列键序，为探索低维强关联体系中的新奇量子相
+ 提供了实验证据。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
