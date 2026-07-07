@@ -1517,14 +1517,13 @@ SUMMARY:★Light-Induced Ultrafast Control of Polarization and Magnetizati
 DTSTART;TZID=Asia/Shanghai:20260721T100000
 DTEND;TZID=Asia/Shanghai:20260721T113000
 UID:0200e0cc4178b98dfd58b003abbce5b3@reportautocal
-DESCRIPTION:主讲人: Xiangzhu Zhou 特伦托大学\n\n报告利用约束
- 密度泛函理论和多体实时模拟，研究光激发载流子对半
- 导体极化和磁化的超快控制。发现菱面体堆叠的过渡金
- 属硫族化物双层中，层选择性电荷再分布可在几百飞秒
- 内实现极化反转，无需层间滑动。同时，通过高通量筛
- 选，在线偏振光激发非磁性半导体时，发现交换驱动的
- 自旋极化可诱导瞬态磁化，其大小和磁序由局域配位和
- 能带边缘轨道特性决定。
+DESCRIPTION:主讲人: Xiangzhu Zhou 特伦托大学\n\n报告介绍了利
+ 用光激发载流子对半导体中极化和磁化进行超快控制的
+ 机制，包括通过层选择电荷再分配实现菱方堆叠过渡金
+ 属硫族化合物双层极化反转（无需结构滑动），以及通
+ 过线性偏振光在非磁性半导体中诱导交换驱动自旋极化
+ 。结合约束密度泛函理论、实时多体模拟和高通量筛选
+ ，揭示了非平衡态调控铁性序的路径。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1533,12 +1532,16 @@ SUMMARY:Topological Order and Non-Hermitian Skin Effect in Generalized Ide
 DTSTART;TZID=Asia/Shanghai:20260709T140000
 DTEND;TZID=Asia/Shanghai:20260709T153000
 UID:43344838730b8546646a4a3f3a748911@reportautocal
-DESCRIPTION:主讲人: Jiong-Hao Wang Stockholm University\n\n将理想Che
- rn能带的概念推广到非厄米领域，在具有虚规范势的Kapit-
- Mueller晶格模型中，最低能带满足广义理想条件，展现出
- 非厄米趋肤效应。在强相互作用下，分数填充时形成不
- 可压缩液体，圆柱上为趋肤-Laughlin态，环面上出现拓扑
- 有序Laughlin态与负集体模的非常规竞争。
+DESCRIPTION:主讲人: Jiong-Hao Wang 斯德哥尔摩大学\n\n该报告
+ 将理想Chern带的概念推广到非厄米体系，研究非厄米拓扑
+ 物理与分数化的结合。在具有虚规范势的Kapit-Mueller晶格
+ 模型中，最低能带满足广义理想条件，复贝里曲率与复
+ 量子度规同步。该带在环面和圆柱上保持实且平坦，圆
+ 柱上所有本征态局域于边界，产生无谱缠绕的非厄米趋
+ 肤效应。在相互作用体系中，广义理想条件稳定了分数
+ 填充下的不可压缩液体，圆柱上的基态为趋肤-劳克林态
+ ，环面上则出现拓扑有序的劳克林态与负集体模之间的
+ 竞争。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
