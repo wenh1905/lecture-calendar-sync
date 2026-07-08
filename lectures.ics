@@ -1517,13 +1517,13 @@ SUMMARY:★Light-Induced Ultrafast Control of Polarization and Magnetizati
 DTSTART;TZID=Asia/Shanghai:20260721T100000
 DTEND;TZID=Asia/Shanghai:20260721T113000
 UID:0200e0cc4178b98dfd58b003abbce5b3@reportautocal
-DESCRIPTION:主讲人: Xiangzhu Zhou 特伦托大学\n\n报告讨论光激
- 发载流子对半导体中极化和磁化的超快控制。通过约束
- 密度泛函理论和多体实时模拟，展示了菱面体堆叠过渡
- 金属二硫化物双层中无需层间滑移即可实现层间电荷重
- 分布驱动的极化反转，以及在线偏振光激发下非磁性半
- 导体中交换驱动的自旋极化。这些结果为瞬态调控铁性
- 材料提供了新途径。
+DESCRIPTION:主讲人: Xiangzhu Zhou 特伦托大学\n\n报告探讨了通
+ 过光激发载流子瞬态控制半导体中极化和磁化的机制。
+ 利用约束密度泛函理论与多体实时模拟，展示了在菱面
+ 体堆叠TMD双层中无需结构滑移即可在飞秒时间尺度内实
+ 现极化反转。同时，通过高通量筛选在线偏振光激发的
+ 非磁性半导体中发现了交换驱动的自旋极化，其大小和
+ 磁序取决于局域配位和能带边缘轨道特性。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1533,11 +1533,10 @@ DTSTART;TZID=Asia/Shanghai:20260709T140000
 DTEND;TZID=Asia/Shanghai:20260709T153000
 UID:43344838730b8546646a4a3f3a748911@reportautocal
 DESCRIPTION:主讲人: Jiong-Hao Wang 斯德哥尔摩大学\n\n本报告
- 将理想Chern带的概念推广到非厄米领域，研究Kapit-Mueller
- 晶格模型中虚规范势导致的非厄米皮肤效应。在强相互
- 作用下，系统在圆柱面上出现皮肤-Laughlin态，在环面上
- 出现拓扑有序Laughlin态与负集体模的竞争，揭示了非厄米
- 性与拓扑序的深刻关联。
+ 将理想陈带的概念推广到非厄米领域，通过Kapit-Mueller晶
+ 格模型引入虚规范势，揭示了非厄米趋肤效应与拓扑序
+ 的复杂相互作用，在分数填充下发现不可压缩液体及Skin-
+ Laughlin态，并观察到不同流形上基态的显著差异。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
