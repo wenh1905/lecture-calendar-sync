@@ -1517,12 +1517,14 @@ SUMMARY:★Light-Induced Ultrafast Control of Polarization and Magnetizati
 DTSTART;TZID=Asia/Shanghai:20260721T100000
 DTEND;TZID=Asia/Shanghai:20260721T113000
 UID:0200e0cc4178b98dfd58b003abbce5b3@reportautocal
-DESCRIPTION:主讲人: Xiangzhu Zhou 特伦托大学\n\n报告探讨了利
- 用光激发载流子对半导体中极化和磁化进行超快调控的
- 机制。通过第一性原理和实时模拟，展示了菱面体堆叠
- 过渡金属双硫属化物双层中无需层间滑动即可在飞秒尺
- 度实现极化反转，并高通量筛选出非磁性半导体在线性
- 偏振光激发下产生交换驱动的自旋极化。
+DESCRIPTION:主讲人: Xiangzhu Zhou 特伦托大学\n\n报告讨论利用
+ 光生载流子超快控制半导体极化和磁化的新机制。首先
+ ，在菱面体堆叠的过渡金属硫族化物双层中，通过层选
+ 择性电荷再分布实现电子驱动的极化反转，无需层间滑
+ 动，时间尺度约几百飞秒。其次，通过高通量第一性原
+ 理搜索，在线偏振光激发下，非磁性半导体中可产生交
+ 换驱动的自旋极化，其大小和磁序取决于局部配位环境
+ 和能带边缘轨道特性。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1532,14 +1534,12 @@ DTSTART;TZID=Asia/Shanghai:20260709T140000
 DTEND;TZID=Asia/Shanghai:20260709T153000
 UID:43344838730b8546646a4a3f3a748911@reportautocal
 DESCRIPTION:主讲人: Jiong-Hao Wang 斯德哥尔摩大学\n\n该报告
- 将理想Chern带的概念推广到非厄米体系，揭示了能带理论
- 和强相互作用区域中的若干重要结果。通过引入虚规范
- 势的Kapit-Mueller晶格模型，发现其最低能带满足广义理想
- 条件，具有复Berry曲率与复量子度规同步的特征。在环面
- 和圆柱上，理想带保持纯实且平坦，但本征态在圆柱上
- 表现出边界局域化的非厄米趋肤效应。在相互作用下，
- 广义理想条件稳定了分数量子液体，形成了趋肤-Laughlin
- 态，并在不同流形上表现出截然不同的拓扑有序行为。
+ 将理想Chern能带的概念推广到非厄米体系，在Kapit-Mueller
+ 晶格模型中引入虚规范势，发现广义理想条件导致非厄
+ 米趋肤效应而无谱缠绕。在强相互作用下，分数填充时
+ 形成非厄米不可压缩液体，圆柱上呈现趋肤-Laughlin态，
+ 环面上则出现拓扑有序的Laughlin态与负集体模之间的非常
+ 规竞争。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
