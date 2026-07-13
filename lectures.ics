@@ -1545,12 +1545,12 @@ SUMMARY:Open Thermodynamic Boundary Conditions for First-Principles Electr
 DTSTART;TZID=Asia/Shanghai:20260717T153000
 DTEND;TZID=Asia/Shanghai:20260717T170000
 UID:bd132fd3b9e3a5fa58ceddc7d37d7267@reportautocal
-DESCRIPTION:主讲人: Stefan Wippermann 德国马尔堡大学\n\n该报
- 告提出了第一性原理电化学中的开放热力学边界条件框
- 架，通过动态控制电极电位，在有限模拟单元中实现电
- 化学界面的物理一致描述。利用该方法揭示了镁上异常
- 阳极析氢反应的精确机理，解决了150年来的未解之谜，
- 为实际工况下电化学系统的预测性模拟提供了新途径。
+DESCRIPTION:主讲人: Stefan Wippermann 德国马尔堡大学\n\n本报
+ 告介绍一种实现开放热力学边界条件的框架，通过动态
+ 控制电极电位，在有限的第一性原理模拟单元中实现电
+ 化学界面的物理一致描述。结合从头算分子动力学，揭
+ 示了镁上异常阳极析氢反应逾150年未解的机理，为电化
+ 学系统在真实条件下的预测性模拟提供了新方法。
 LOCATION:物理楼/W260
 END:VEVENT
 END:VCALENDAR
