@@ -1554,18 +1554,17 @@ DESCRIPTION:主讲人: Stefan Wippermann 德国马尔堡大学\n\n本报
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:引力波探测：从黑洞附近的弯曲时空到宏观量子力
- 学
+SUMMARY:★引力波探测：从黑洞附近的弯曲时空到宏观量子
+ 力学
 DTSTART;TZID=Asia/Shanghai:20260727T150000
 DTEND;TZID=Asia/Shanghai:20260727T163000
 UID:4ccad07bdd7bae9c498dde92d1b6de3e@reportautocal
-DESCRIPTION:主讲人: 陈雁北 美国加州理工学院\n\n引力波探
- 测为基础物理研究开辟新途径。报告介绍利用引力波研
- 究黑洞动力学及其基本性质，包括黑洞振荡、视界附近
- 时空几何信号及并合后黑洞趋平衡过程，检验广义相对
- 论。同时介绍激光干涉探测器中的量子测量技术，如频
- 率依赖压缩态，以及利用探测器研究宏观物体连续量子
- 测量下的动力学，探索引力在宏观量子系统中的作用。
+DESCRIPTION:主讲人: 陈雁北 美国加州理工学院\n\n报告介绍
+ 引力波探测在基础物理中的应用，包括利用引力波研究
+ 黑洞动力学和强场引力（如黑洞振荡、视界几何等），
+ 以及引力波探测器中的量子测量技术（如频率依赖压缩
+ 态、相干量子反馈），探讨宏观物体在连续量子测量下
+ 的动力学、量子纠缠以及引力在量子系统中的作用。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
