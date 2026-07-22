@@ -1557,15 +1557,14 @@ BEGIN:VEVENT
 SUMMARY:引力波探测：从黑洞附近的弯曲时空到宏观量子力
  学
 DTSTART;TZID=Asia/Shanghai:20260727T150000
-DTEND;TZID=Asia/Shanghai:20260727T163000
+DTEND;TZID=Asia/Shanghai:20260727T173000
 UID:4ccad07bdd7bae9c498dde92d1b6de3e@reportautocal
-DESCRIPTION:主讲人: 陈雁北 美国加州理工学院\n\n报告介绍
- 引力波探测如何为研究黑洞动力学、强场引力及量子力
- 学提供新途径。内容涵盖利用引力波研究黑洞振荡、视
- 界几何及并合后弛豫过程，以及激光干涉仪中量子测量
- 技术（如压缩态、量子反馈）提升灵敏度，并探讨宏观
- 物体在量子测量下的行为及引力在量子系统中的可能作
- 用。
+DESCRIPTION:主讲人: 陈雁北 美国加州理工学院\n\n引力波直
+ 接探测为基础物理研究开辟新途径。讲座介绍利用引力
+ 波研究黑洞动力学与强场引力，包括黑洞振荡及视界几
+ 何，以及激光干涉引力波探测器中的量子测量技术（如
+ 压缩态、量子反馈）及其在宏观量子力学检验中的应用
+ 。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
