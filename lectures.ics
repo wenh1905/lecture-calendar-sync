@@ -1569,4 +1569,18 @@ DESCRIPTION:主讲人: 陈雁北 美国加州理工学院\n\n引力波的
  。
 LOCATION:物理楼/W105
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★High Pressure Ultrafast Dynamics of LaH10±δ and La3Ni2O7 and 
+ Emergent Quantum State in 1T-TaS2
+DTSTART;TZID=Asia/Shanghai:20260813T103000
+DTEND;TZID=Asia/Shanghai:20260813T120000
+UID:029274d2c627f89b42ec81ff19587b9c@reportautocal
+DESCRIPTION:主讲人: 赵继民 中国科学院物理研究所\n\n报告
+ 介绍高压超快光谱学的最新研究进展，包括自主研制的
+ 原位高压泵浦-探测超快光谱仪器，并利用该技术研究了L
+ aH10±δ、La3Ni2O7等超导材料在高压下的超快动力学，揭示
+ 其强电声耦合机制，同时探测到1T-TaS2在65K以下出现的新
+ 兴量子态。
+LOCATION:物理楼/W105
+END:VEVENT
 END:VCALENDAR
