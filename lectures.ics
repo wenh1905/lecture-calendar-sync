@@ -1575,12 +1575,12 @@ SUMMARY:★High Pressure Ultrafast Dynamics of LaH10±δ and La3Ni2O7 and
 DTSTART;TZID=Asia/Shanghai:20260813T103000
 DTEND;TZID=Asia/Shanghai:20260813T120000
 UID:029274d2c627f89b42ec81ff19587b9c@reportautocal
-DESCRIPTION:主讲人: 赵继民 中国科学院物理研究所\n\n赵继
- 民研究员介绍了自主搭建的高压原位超快光谱装置，并
- 利用该技术研究了LaH10±δ、La3Ni2O7等超导材料的高压超快
- 动力学，揭示了强电声耦合在近室温超导中的关键作用
- ，精确测量了超导能隙。此外，还发现了电荷密度波材
- 料1T-TaS₂在65K以下的涌现量子态。
+DESCRIPTION:主讲人: 赵继民 中国科学院物理研究所\n\n报告
+ 介绍高压超快光谱技术及其在量子材料中的应用。通过
+ 自主搭建的原位高压泵浦-探测系统，研究了LaH10±δ超氢
+ 化物、La3Ni2O7镍氧化物超导体及1T-TaS2电荷密度波材料，
+ 揭示了强电子-声子耦合、超导能隙及低温下涌现的量子
+ 态，为理解近室温超导机制提供直接实验证据。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
