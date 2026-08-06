@@ -1588,12 +1588,12 @@ SUMMARY:★The Unfinished Physics of Stars
 DTSTART;TZID=Asia/Shanghai:20260811T140000
 DTEND;TZID=Asia/Shanghai:20260811T153000
 UID:6a715720f9d3babea248580898c42546@reportautocal
-DESCRIPTION:主讲人: Yuan-Sen Ting 俄亥俄州立大学\n\n恒星光谱
- 是信息最密集的物理测量之一，但现有模型在原子分子
- 跃迁、局部平衡近似及三维表面流动等方面存在不足。
- 报告探讨利用可微物理模型、分层推断和模拟推断等机
- 器学习方法，从海量光谱中提取恒星物理信息，并应用
- 于行星吞噬、引力检验及银河系演化研究。
-LOCATION:线上（腾讯会议）
+DESCRIPTION:主讲人: 丁源森 俄亥俄州立大学\n\n讲座探讨恒
+ 星光谱蕴含的丰富物理信息，指出当前数据量已超过解
+ 释模型的瓶颈。作者提出结合可微物理模型、分层推断
+ 、模拟推断及自动假设搜索等方法，以解决原子分子跃
+ 迁数据不完整、局域平衡近似失效等问题，并强调恒星
+ 光谱是检验机器学习方法的理想测试平台。
+LOCATION:线上
 END:VEVENT
 END:VCALENDAR
