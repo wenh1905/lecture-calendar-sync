@@ -1588,12 +1588,12 @@ SUMMARY:★The Unfinished Physics of Stars
 DTSTART;TZID=Asia/Shanghai:20260811T140000
 DTEND;TZID=Asia/Shanghai:20260811T153000
 UID:6a715720f9d3babea248580898c42546@reportautocal
-DESCRIPTION:主讲人: 丁源森 俄亥俄州立大学\n\n本讲座探讨
- 恒星光谱作为物理科学中信息密度最高的测量之一，指
- 出数据瓶颈已转向解释模型。通过可微物理模型、分层
- 推断及模拟推断等方法，搜索复杂建模空间，并利用恒
- 星光谱作为机器学习的检验平台，推动对行星吞噬、引
- 力检验和银河系形成等前沿问题的理解。
-LOCATION:线上
+DESCRIPTION:主讲人: 丁源森 俄亥俄州立大学\n\n丁源森教授
+ 探讨恒星光谱蕴含的丰富物理信息，指出当前瓶颈在于
+ 解释模型而非数据。他介绍利用可微分物理模型、分层
+ 推断和机器学习方法处理恒星光谱，以解决原子网络不
+ 完整、局部平衡近似失效等问题，并延伸至行星吞噬、
+ 引力检验及银河系演化等研究。
+LOCATION:线上（腾讯会议）
 END:VEVENT
 END:VCALENDAR
