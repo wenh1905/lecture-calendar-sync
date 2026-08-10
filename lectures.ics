@@ -1596,4 +1596,17 @@ DESCRIPTION:主讲人: 丁源森 俄亥俄州立大学\n\n报告探讨恒
  谱也是检验表示学习和机器学习方法的理想平台。
 LOCATION:线上
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:氢硼球形环聚变反应堆核心技术简介
+DTSTART;TZID=Asia/Shanghai:20260813T140000
+DTEND;TZID=Asia/Shanghai:20260813T153000
+UID:8a43b90d123b3d168f3b5fd6aba41b76@reportautocal
+DESCRIPTION:主讲人: 赵寒月 新奥\n\n报告围绕新奥氢硼球形
+ 环聚变技术路线，介绍聚变商业化电厂所需突破的核心
+ 技术，包括实现高增益、长稳态、高效率发电的反应堆
+ 运行模式，装置平台的工程化技术，以及利用人工智能
+ 加速聚变研发。同时介绍氢硼球形环聚变反应堆的物理
+ 设计流程，为聚变研究提供物理基础。
+LOCATION:物理楼/W105
+END:VEVENT
 END:VCALENDAR
