@@ -1599,13 +1599,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:氢硼球形环聚变反应堆核心技术简介
 DTSTART;TZID=Asia/Shanghai:20260813T140000
-DTEND;TZID=Asia/Shanghai:20260813T153000
+DTEND;TZID=Asia/Shanghai:20260813T150000
 UID:8a43b90d123b3d168f3b5fd6aba41b76@reportautocal
-DESCRIPTION:主讲人: 赵寒月 新奥\n\n报告面向氢硼聚变商业
- 化需求，介绍氢硼球形环聚变反应堆核心技术，包括实
- 现高增益、长稳态、高效率发电的运行模式，装置平台
- 工程化技术，以及利用人工智能加速聚变研发，并阐述
- 反应堆物理设计流程。
+DESCRIPTION:主讲人: 赵寒月 新奥\n\n报告介绍了新奥选择氢
+ 硼球形环聚变技术路线的背景，阐述了未来氢硼聚变电
+ 厂所需突破的核心技术，包括高增益、长稳态、高效率
+ 发电的反应堆运行模式，装置平台建设的工程化技术，
+ 以及利用人工智能加速聚变研发等内容，并讲解了氢硼
+ 球形环聚变反应堆的物理设计流程。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
