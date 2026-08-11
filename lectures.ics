@@ -1597,20 +1597,6 @@ DESCRIPTION:主讲人: 丁源森 俄亥俄州立大学\n\n报告探讨恒
 LOCATION:线上
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:氢硼球形环聚变反应堆核心技术简介、新奥氢硼聚
- 变反应研究进展
-DTSTART;TZID=Asia/Shanghai:20260813T140000
-DTEND;TZID=Asia/Shanghai:20260813T163000
-UID:086bea7334c34ac79d6a643287b2c436@reportautocal
-DESCRIPTION:主讲人: 赵寒月 新奥、刘兵 新奥\n\n报告介绍新
- 奥氢硼球形环聚变反应堆的核心技术，包括高增益长稳
- 态运行模式、工程化及人工智能加速研发，并概述物理
- 设计流程；同时汇报氢硼聚变研究进展，涵盖反应截面
- 、自旋极化、非热平衡等离子体特性及束驱动波机制，
- 以及在大型螺旋装置上的最新实验结果。
-LOCATION:物理楼/W105
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:氢硼球形环聚变反应堆核心技术简介
 DTSTART;TZID=Asia/Shanghai:20260813T140000
 DTEND;TZID=Asia/Shanghai:20260813T153000
@@ -1620,6 +1606,21 @@ DESCRIPTION:主讲人: 赵寒月 新奥\n\n新奥基于环保、低成本
  介绍实现高增益、长稳态、高效率发电的反应堆运行模
  式，装置平台建设的工程化技术，利用人工智能加速聚
  变研发，以及氢硼球形环聚变反应堆的物理设计流程。
+LOCATION:物理楼/W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:氢硼球形环聚变反应堆核心技术简介、新奥氢硼聚
+ 变反应研究进展
+DTSTART;TZID=Asia/Shanghai:20260813T140000
+DTEND;TZID=Asia/Shanghai:20260813T163000
+UID:086bea7334c34ac79d6a643287b2c436@reportautocal
+DESCRIPTION:主讲人: 赵寒月 新奥、刘兵 新奥\n\n报告介绍了
+ 新奥基于环保、低成本、燃料易得需求选择的氢硼球形
+ 环聚变技术路线，包括实现高增益、长稳态、高效率发
+ 电的反应堆运行模式、工程化技术及人工智能加速研发
+ ，并概述了反应堆物理设计流程。另一报告聚焦p-11B聚变
+ 研究进展，涵盖核物理机制、非热平衡等离子体特性、
+ 束驱动波机制以及大型螺旋装置上的最新实验结果。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
