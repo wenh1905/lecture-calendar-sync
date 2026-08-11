@@ -1609,4 +1609,18 @@ DESCRIPTION:主讲人: 赵寒月 新奥\n\n本讲座介绍新奥基于环
  的物理设计流程。
 LOCATION:物理楼/W105
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:氢硼球形环聚变反应堆核心技术简介、新奥氢硼聚
+ 变反应研究进展
+DTSTART;TZID=Asia/Shanghai:20260813T140000
+DTEND;TZID=Asia/Shanghai:20260813T163000
+UID:086bea7334c34ac79d6a643287b2c436@reportautocal
+DESCRIPTION:主讲人: 赵寒月 新奥、刘兵 新奥\n\n报告介绍新
+ 奥氢硼球形环聚变反应堆的核心技术，包括高增益长稳
+ 态运行模式、工程化及人工智能加速研发，并概述物理
+ 设计流程；同时汇报氢硼聚变研究进展，涵盖反应截面
+ 、自旋极化、非热平衡等离子体特性及束驱动波机制，
+ 以及在大型螺旋装置上的最新实验结果。
+LOCATION:物理楼/W105
+END:VEVENT
 END:VCALENDAR
