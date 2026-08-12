@@ -1622,4 +1622,17 @@ DESCRIPTION:主讲人: 赵寒月 新奥、刘兵 新奥\n\n报告介绍了
  驱动波机制及大型螺旋装置最新实验结果。
 LOCATION:物理楼/W105
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:面向具身智能的仿生传感技术
+DTSTART;TZID=Asia/Shanghai:20260812T142000
+DTEND;TZID=Asia/Shanghai:20260812T155000
+UID:24233a0cfeee70345f29afe4f6a65273@reportautocal
+DESCRIPTION:主讲人: 范智勇 香港科技大学\n\n报告由香港科
+ 技大学范智勇教授主讲，介绍面向具身智能的仿生传感
+ 技术。内容涵盖模仿生物感官的传感器设计原理、制备
+ 方法及其在智能机器人等具身智能系统中的应用，探讨
+ 如何通过仿生结构提升传感性能与适应复杂环境的能力
+ 。
+LOCATION:泥沙馆/数字厅
+END:VEVENT
 END:VCALENDAR
