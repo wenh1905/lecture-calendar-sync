@@ -1627,12 +1627,25 @@ SUMMARY:面向具身智能的仿生传感技术
 DTSTART;TZID=Asia/Shanghai:20260812T142000
 DTEND;TZID=Asia/Shanghai:20260812T155000
 UID:24233a0cfeee70345f29afe4f6a65273@reportautocal
-DESCRIPTION:主讲人: 范智勇 香港科技大学\n\n报告由香港科
- 技大学范智勇教授主讲，介绍面向具身智能的仿生传感
- 技术。内容涵盖模仿生物感官的传感器设计原理、制备
- 方法及其在智能机器人等具身智能系统中的应用，探讨
- 如何通过仿生结构提升传感性能与适应复杂环境的能力
- 。
+DESCRIPTION:主讲人: 范智勇 香港科技大学\n\n本报告聚焦面
+ 向具身智能的仿生传感技术，借鉴生物感官机制，研发
+ 新型仿生传感器件与系统，突破传统传感器的局限，提
+ 升机器人在复杂环境中的感知、识别与自适应能力，为
+ 具身智能发展提供关键技术支撑。
 LOCATION:泥沙馆/数字厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★High Pressure Ultrafast Dynamics of LaH10±δ and La3Ni2O7 and 
+ Emergent Quantum State in 1T-TaS2
+DTSTART;TZID=Asia/Shanghai:20260820T103000
+DTEND;TZID=Asia/Shanghai:20260820T120000
+UID:80ee8c0fee75cafe4176223fd5e2bc84@reportautocal
+DESCRIPTION:主讲人: 赵继民 中国科学院物理研究所\n\n报告
+ 介绍利用自主研制的高压超快光谱装置，研究高压下LaH10
+ ±δ和La3Ni2O7的超快动力学，揭示强电子-声子耦合对近室
+ 温超导的贡献，并精确测量超导能隙；还在1T-TaS2中发现6
+ 5K以下的新奇量子态，为理解强关联量子材料提供重要证
+ 据。
+LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
