@@ -1625,13 +1625,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:面向具身智能的仿生传感技术
 DTSTART;TZID=Asia/Shanghai:20260812T142000
-DTEND;TZID=Asia/Shanghai:20260812T165000
+DTEND;TZID=Asia/Shanghai:20260812T155000
 UID:24233a0cfeee70345f29afe4f6a65273@reportautocal
 DESCRIPTION:主讲人: 范智勇 香港科技大学\n\n报告介绍面向
- 具身智能的仿生传感技术，探讨如何借鉴生物感知机制
- ，研发新型传感器件与系统，以提升机器人在复杂环境
- 中的感知与交互能力。内容涵盖仿生视觉、触觉等传感
- 原理、材料设计及其在具身智能领域的应用前景。
+ 具身智能的仿生传感技术，借鉴生物感知机制，发展新
+ 型传感器件与系统，旨在提升机器人在复杂环境中的感
+ 知与交互能力，推动具身智能在工业、服务等领域的应
+ 用。
 LOCATION:泥沙馆/数字厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1641,11 +1641,11 @@ DTSTART;TZID=Asia/Shanghai:20260820T103000
 DTEND;TZID=Asia/Shanghai:20260820T120000
 UID:80ee8c0fee75cafe4176223fd5e2bc84@reportautocal
 DESCRIPTION:主讲人: 赵继民 中国科学院物理研究所\n\n报告
- 介绍高压超快光谱学的最新研究，包括自主搭建的原位
- 高压泵浦-探测超快光谱仪器，并利用该技术研究LaH10±δ
- 和La3Ni2O7的超快动力学，揭示强电子-声子耦合对近室温
- 超导的关键作用，同时在1T-TaS2中发现低于65K的新兴量子
- 态。
+ 介绍高压超快光谱技术及其在超导和电荷密度波材料中
+ 的应用。通过自主研制的原位高压泵浦-探测装置，研究
+ 了LaH10±δ和La3Ni2O7的超快动力学，揭示了强电子-声子耦
+ 合与近室温超导电性的关联，并精确测量超导能隙。还
+ 在1T-TaS2中发现了65K以下的新兴量子态。
 LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
