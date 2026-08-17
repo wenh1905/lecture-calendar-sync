@@ -1675,20 +1675,6 @@ LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
  新园/科学报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:量子材料与器件学术会议（暨量子中心成立15周年
- 年会）
-DTSTART;TZID=Asia/Shanghai:20260822T090000
-DTEND;TZID=Asia/Shanghai:20260823T170000
-UID:2b27e1b3e7df9dea1cb12b08b0e2a77d@reportautocal
-DESCRIPTION:主讲人: \n\n北京大学量子材料科学中心举办‘
- 量子材料与器件’学术会议，庆祝中心成立15周年。会议
- 涵盖量子材料与器件领域的前沿研究，包括新型量子材
- 料制备、物理性质表征及器件应用等方向，邀请相关领
- 域学者作报告并交流最新进展。
-LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
- 新园/科学报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:★北京大学“量子材料与器件”学术会议（暨量子
  中心成立15周年年会）
 DTSTART;TZID=Asia/Shanghai:20260822T090000
@@ -1700,5 +1686,18 @@ DESCRIPTION:主讲人: 量子材料科学中心 北京大学\n\n本次会
  、量子输运等方向，设有多个邀请报告和学术交流环节
  。
 LOCATION:北京大学/中关新园/科学报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★量子材料与器件学术会议（暨量子中心成立15周
+ 年年会）
+DTSTART;TZID=Asia/Shanghai:20260822T090000
+DTEND;TZID=Asia/Shanghai:20260823T170000
+UID:2b27e1b3e7df9dea1cb12b08b0e2a77d@reportautocal
+DESCRIPTION:主讲人: 待定\n\n本次会议为量子材料与器件领
+ 域的学术年会，旨在庆祝北京大学量子材料科学中心成
+ 立15周年，汇聚专家学者交流量子材料、量子器件及相关
+ 领域的最新研究进展，涵盖新材料制备、物性调控与器
+ 件应用等前沿方向。
+LOCATION:北京大学/英杰交流中心/阳光厅
 END:VEVENT
 END:VCALENDAR
