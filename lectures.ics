@@ -1648,4 +1648,16 @@ DESCRIPTION:主讲人: 赵继民 中国科学院物理研究所\n\n报告
  在1T-TaS2中发现了65K以下的新兴量子态。
 LOCATION:物理楼/W105
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★“量子材料与器件”学术会议（暨量子中心成立
+ 15周年年会）
+DTSTART;TZID=Asia/Shanghai:20260822T090000
+DTEND;TZID=Asia/Shanghai:20260823T170000
+UID:632ea0e2a28c37c5ae92801b10db6791@reportautocal
+DESCRIPTION:主讲人: 组委会 北京大学\n\n本次会议为北京大
+ 学量子材料科学中心成立15周年年会，聚焦量子材料与器
+ 件的制备、物性调控及应用等前沿研究，设有多个学术
+ 报告，旨在促进量子材料领域的学术交流与合作。
+LOCATION:北京大学/中关新园/科学报告厅
+END:VEVENT
 END:VCALENDAR
