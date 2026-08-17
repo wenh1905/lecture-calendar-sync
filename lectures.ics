@@ -1660,4 +1660,18 @@ DESCRIPTION:主讲人: 组委会 北京大学\n\n本次会议为北京大
  报告，旨在促进量子材料领域的学术交流与合作。
 LOCATION:北京大学/中关新园/科学报告厅
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:量子材料与器件学术会议
+DTSTART;TZID=Asia/Shanghai:20260822T090000
+DTEND;TZID=Asia/Shanghai:20260823T180000
+UID:e72cf8562960f6ddf3a9393b1e802e82@reportautocal
+DESCRIPTION:主讲人: \n\n该邮件为北京大学量子材料科学中
+ 心举办的“量子材料与器件”学术会议通知，庆祝中心
+ 成立15周年。会议原定于2026年8月22日至23日举行，地点包
+ 括英杰交流中心阳光厅和中关新园科学报告厅。由于邮
+ 件仅提供了会议总体信息，未包含具体报告题目、主讲
+ 人及详细时间安排，因此无法提取单场讲座内容。
+LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
+ 新园/科学报告厅
+END:VEVENT
 END:VCALENDAR
