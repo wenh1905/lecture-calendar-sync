@@ -1649,18 +1649,6 @@ DESCRIPTION:主讲人: 赵继民 中国科学院物理研究所\n\n报告
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★“量子材料与器件”学术会议（暨量子中心成立
- 15周年年会）
-DTSTART;TZID=Asia/Shanghai:20260822T090000
-DTEND;TZID=Asia/Shanghai:20260823T170000
-UID:632ea0e2a28c37c5ae92801b10db6791@reportautocal
-DESCRIPTION:主讲人: 组委会 北京大学\n\n本次会议为北京大
- 学量子材料科学中心成立15周年年会，聚焦量子材料与器
- 件的制备、物性调控及应用等前沿研究，设有多个学术
- 报告，旨在促进量子材料领域的学术交流与合作。
-LOCATION:北京大学/中关新园/科学报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:量子材料与器件学术会议
 DTSTART;TZID=Asia/Shanghai:20260822T090000
 DTEND;TZID=Asia/Shanghai:20260823T180000
@@ -1699,6 +1687,19 @@ DESCRIPTION:主讲人: 会议报告人 北京大学量子材料科学中
  盖量子材料合成、物性表征、器件应用等方向。会议设
  多场报告，22日上午在英杰交流中心阳光厅，22日下午及2
  3日在中关新园科学报告厅举行。
+LOCATION:北京大学/英杰交流中心/阳光厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★“量子材料与器件”学术会议（暨量子中心成立
+ 15周年年会）
+DTSTART;TZID=Asia/Shanghai:20260822T090000
+DTEND;TZID=Asia/Shanghai:20260823T180000
+UID:632ea0e2a28c37c5ae92801b10db6791@reportautocal
+DESCRIPTION:主讲人: 量子材料科学中心 北京大学\n\n本次会
+ 议为北京大学量子材料科学中心成立15周年的学术年会，
+ 围绕量子材料与器件展开，涵盖量子材料的设计、制备
+ 、表征与器件应用等前沿进展，旨在促进学术交流与合
+ 作。
 LOCATION:北京大学/英杰交流中心/阳光厅
 END:VEVENT
 END:VCALENDAR
