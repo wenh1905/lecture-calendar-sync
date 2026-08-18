@@ -1692,18 +1692,6 @@ LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
  新园/科学报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:北京大学“量子材料与器件”学术会议（暨量子中
- 心成立15周年年会）
-DTSTART;TZID=Asia/Shanghai:20260822T090000
-DTEND;TZID=Asia/Shanghai:20260823T170000
-UID:52ef8dedb49771568a85a98f560f0dcc@reportautocal
-DESCRIPTION:主讲人: 未提供\n\n转发会议通知：北京大学量
- 子材料与器件学术会议将于8月22-23日举办，会议涉及量
- 子材料与器件等方向，未提供具体讲座信息。
-LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
- 新园/科学报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:北京大学“量子材料与器件”学术会议
 DTSTART;TZID=Asia/Shanghai:20260822T090000
 DTEND;TZID=Asia/Shanghai:20260823T170000
@@ -1725,6 +1713,29 @@ DESCRIPTION:主讲人: 王海宁 清华大学\n\n本次Quantum Gases 2026
  会议围绕量子气体领域的最新研究进展展开，涵盖超冷
  原子的量子相变、量子模拟、低维量子气体以及量子少
  体物理等前沿课题，为相关领域学者提供交流平台。
+LOCATION:物理楼/W101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★北京大学“量子材料与器件”学术会议（暨量子
+ 中心成立15周年年会）
+DTSTART;TZID=Asia/Shanghai:20260822T090000
+DTEND;TZID=Asia/Shanghai:20260823T170000
+UID:52ef8dedb49771568a85a98f560f0dcc@reportautocal
+DESCRIPTION:主讲人: 多位报告人\n\n本次学术会议为北京大
+ 学量子材料科学中心成立15周年年会，围绕量子材料与器
+ 件的最新研究进展，涵盖量子材料合成、物理性质调控
+ 、器件设计与应用等方向，旨在促进学术交流与合作。
+LOCATION:北京大学/英杰交流中心/阳光厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quantum Gases 2026
+DTSTART;TZID=Asia/Shanghai:20260824T000000
+DTEND;TZID=Asia/Shanghai:20260826T235900
+UID:6d6457f041ea95c0314eafc48b595d73@reportautocal
+DESCRIPTION:主讲人: \n\n该讲座/会议以量子气体为主题，内
+ 容涉及量子气体的制备、操控及其在量子模拟等领域的
+ 应用，时间为2026年8月24日至26日，地点在清华大学物理
+ 楼W101。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
