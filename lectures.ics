@@ -1692,16 +1692,14 @@ LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
  新园/科学报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★北京大学“量子材料与器件”学术会议（暨量子
- 中心成立15周年年会）
+SUMMARY:北京大学“量子材料与器件”学术会议（暨量子中
+ 心成立15周年年会）
 DTSTART;TZID=Asia/Shanghai:20260822T090000
 DTEND;TZID=Asia/Shanghai:20260823T170000
 UID:52ef8dedb49771568a85a98f560f0dcc@reportautocal
-DESCRIPTION:主讲人: 多位报告人\n\n本次会议由北京大学量
- 子材料科学中心举办，作为量子中心成立15周年年会，围
- 绕量子材料与器件的前沿研究展开，涵盖量子材料制备
- 、物性调控、量子器件应用等方向，邀请领域内多位专
- 家作学术报告，促进学术交流与合作。
+DESCRIPTION:主讲人: 未提供\n\n转发会议通知：北京大学量
+ 子材料与器件学术会议将于8月22-23日举办，会议涉及量
+ 子材料与器件等方向，未提供具体讲座信息。
 LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
  新园/科学报告厅
 END:VEVENT
@@ -1710,12 +1708,11 @@ SUMMARY:Quantum Gases 2026
 DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260826T170000
 UID:25264aabc117295e7c70722e37bbd14d@reportautocal
-DESCRIPTION:主讲人: \n\n本次会议聚焦量子气体（Quantum Gases
- ）领域的最新进展，涵盖超冷原子的量子模拟、强关联
- 多体物理、低维量子气体、量子相变与量子临界现象等
- 热点方向。会议邀请多位国内外知名学者报告最新研究
- 成果，促进学术交流与合作，为凝聚态物理与原子分子
- 物理交叉领域提供交流平台。
+DESCRIPTION:主讲人: 未提供\n\n该邮件为量子气体领域学术
+ 活动通知，活动持续三天，地点在物理楼W101，具体报告
+ 人及详细日程未在邮件中提供。量子气体研究涉及量子
+ 模拟、强关联体系等前沿物理问题，但与光谱学及低维
+ 半导体领域不直接相关。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
