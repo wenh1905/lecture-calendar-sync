@@ -1704,15 +1704,27 @@ LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
  新园/科学报告厅
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:北京大学“量子材料与器件”学术会议
+DTSTART;TZID=Asia/Shanghai:20260822T090000
+DTEND;TZID=Asia/Shanghai:20260823T170000
+UID:0819dca328dc631cb82defa2d4b0293f@reportautocal
+DESCRIPTION:主讲人: 待定 北京大学\n\n这是北京大学量子材
+ 料科学中心举办的关于量子材料与器件的学术会议，暨
+ 中心成立15周年年会。会议于8月22日至23日在北京大学举
+ 行，涵盖量子材料、量子器件等前沿研究方向，设有多
+ 个学术报告。欢迎感兴趣的师生参加。
+LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
+ 新园/科学报告厅
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Quantum Gases 2026
 DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260826T170000
 UID:25264aabc117295e7c70722e37bbd14d@reportautocal
-DESCRIPTION:主讲人: 未提供\n\n该邮件为量子气体领域学术
- 活动通知，活动持续三天，地点在物理楼W101，具体报告
- 人及详细日程未在邮件中提供。量子气体研究涉及量子
- 模拟、强关联体系等前沿物理问题，但与光谱学及低维
- 半导体领域不直接相关。
+DESCRIPTION:主讲人: 王海宁 清华大学\n\n本次Quantum Gases 2026
+ 会议围绕量子气体领域的最新研究进展展开，涵盖超冷
+ 原子的量子相变、量子模拟、低维量子气体以及量子少
+ 体物理等前沿课题，为相关领域学者提供交流平台。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
