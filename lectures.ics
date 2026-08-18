@@ -1709,11 +1709,11 @@ SUMMARY:Quantum Gases 2026
 DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260826T170000
 UID:25264aabc117295e7c70722e37bbd14d@reportautocal
-DESCRIPTION:主讲人: 王海宁 清华大学\n\n本次报告围绕量子
- 气体领域的最新研究进展展开，介绍超冷原子气体的量
- 子模拟、量子相变与关联效应、相互作用调控等核心问
- 题，并结合2026年该领域的发展趋势，讨论量子气体在精
- 密测量和量子信息处理中的潜在应用。
+DESCRIPTION:主讲人: 待定\n\n该活动为期三天，聚焦量子气
+ 体领域的最新研究进展，涵盖超冷原子气体、玻色-爱因
+ 斯坦凝聚、量子简并现象、强相互作用体系以及量子模
+ 拟等前沿方向，旨在促进量子气体相关学术交流和合作
+ 。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
