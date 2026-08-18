@@ -1649,20 +1649,6 @@ DESCRIPTION:主讲人: 赵继民 中国科学院物理研究所\n\n报告
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:量子材料与器件学术会议
-DTSTART;TZID=Asia/Shanghai:20260822T090000
-DTEND;TZID=Asia/Shanghai:20260823T180000
-UID:e72cf8562960f6ddf3a9393b1e802e82@reportautocal
-DESCRIPTION:主讲人: \n\n该邮件为北京大学量子材料科学中
- 心举办的“量子材料与器件”学术会议通知，庆祝中心
- 成立15周年。会议原定于2026年8月22日至23日举行，地点包
- 括英杰交流中心阳光厅和中关新园科学报告厅。由于邮
- 件仅提供了会议总体信息，未包含具体报告题目、主讲
- 人及详细时间安排，因此无法提取单场讲座内容。
-LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
- 新园/科学报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:★量子材料与器件学术会议（暨量子中心成立15周
  年年会）
 DTSTART;TZID=Asia/Shanghai:20260822T090000
@@ -1705,15 +1691,30 @@ LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
  新园/科学报告厅
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:★量子材料与器件学术会议
+DTSTART;TZID=Asia/Shanghai:20260822T090000
+DTEND;TZID=Asia/Shanghai:20260823T180000
+UID:e72cf8562960f6ddf3a9393b1e802e82@reportautocal
+DESCRIPTION:主讲人: 量子材料科学中心 北京大学\n\n北京大
+ 学量子材料科学中心于2026年8月22日至23日举办“量子材
+ 料与器件”学术会议，庆祝中心成立15周年。会议涵盖量
+ 子材料与器件的制备、表征与应用等前沿主题，涉及低
+ 维半导体、量子点等方向。会议分别在英杰交流中心阳
+ 光厅和中关新园科学报告厅举行，欢迎感兴趣的师生参
+ 加。
+LOCATION:北京大学/英杰交流中心/阳光厅；北京大学/中关
+ 新园/科学报告厅
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Quantum Gases 2026
 DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260826T170000
 UID:25264aabc117295e7c70722e37bbd14d@reportautocal
-DESCRIPTION:主讲人: 待定\n\n该活动为期三天，聚焦量子气
- 体领域的最新研究进展，涵盖超冷原子气体、玻色-爱因
- 斯坦凝聚、量子简并现象、强相互作用体系以及量子模
- 拟等前沿方向，旨在促进量子气体相关学术交流和合作
- 。
+DESCRIPTION:主讲人: 待定 清华大学\n\n本次会议围绕量子气
+ 体领域的最新进展展开，包括超冷原子量子模拟、强关
+ 联量子气体、低维量子气体等方向，会议时间从8月24日
+ 持续到26日，地点在物理楼W101。由于原邮件未给出具体
+ 报告人，本通知仅提供会议基本信息。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
