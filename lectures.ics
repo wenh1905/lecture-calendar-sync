@@ -1730,12 +1730,23 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quantum Gases 2026
 DTSTART;TZID=Asia/Shanghai:20260824T090000
-DTEND;TZID=Asia/Shanghai:20260826T180000
+DTEND;TZID=Asia/Shanghai:20260826T170000
 UID:25264aabc117295e7c70722e37bbd14d@reportautocal
-DESCRIPTION:主讲人: \n\n本次会议于2026年8月24日至26日在物
- 理楼W101举行，主题为量子气体研究，涵盖玻色-爱因斯坦
- 凝聚、费米气体、强关联效应等前沿课题，旨在促进相
- 关领域学者交流最新理论与实验进展。
+DESCRIPTION:主讲人: \n\n本次会议聚焦量子气体领域的前沿
+ 研究进展，涵盖超冷原子、玻色-爱因斯坦凝聚、量子模
+ 拟等课题，旨在促进该领域学者间的学术交流与合作。
 LOCATION:物理楼/W101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Design of Advanced Divertor in Nuclear Fusion Tokamak devices
+DTSTART;TZID=Asia/Shanghai:20260824T090000
+DTEND;TZID=Asia/Shanghai:20260824T110000
+UID:a42b58468415c070e04c741455b25783@reportautocal
+DESCRIPTION:主讲人: 吴昊声 都灵理工大学\n\n报告聚焦核聚
+ 变托卡马克装置中先进偏滤器设计，针对未来聚变堆偏
+ 滤器靶板面临极高热流密度的问题，介绍先进偏滤器概
+ 念及SOLPS-ITER、SOLEDEG2D、EMC3-EIRENE等数值模拟工具，并展
+ 示SPARC、ARC、DTT等未来装置偏滤器工程设计的最新进展。
+LOCATION:刘卿楼/105
 END:VEVENT
 END:VCALENDAR
