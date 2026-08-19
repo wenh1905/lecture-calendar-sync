@@ -562,8 +562,8 @@ SUMMARY:New Higgs Boson Candidates at the LHC and the Rise of Agentic AI i
 DTSTART;TZID=Asia/Shanghai:20260409T160000
 DTEND;TZID=Asia/Shanghai:20260409T173000
 UID:b940b4c78bb8354d070ba337dafb4516@reportautocal
-DESCRIPTION:主讲人: Bruce Mellado 中国科学院高能物理研究所\
- n\n本次报告将讨论大型强子对撞机数据研究中出现的两
+DESCRIPTION:主讲人: Bruce Mellado 中国科学院高能物理研究所
+ \n\n本次报告将讨论大型强子对撞机数据研究中出现的两
  个新的希格斯玻色子候选者，分别位于95 GeV和152 GeV附近
  ，并解释它们为何日益受到关注。报告将把这些可能的
  信号置于高能新现象搜寻的更广泛背景中，探讨其对未
@@ -1745,10 +1745,11 @@ SUMMARY:Quantum Gases 2026
 DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260826T170000
 UID:25264aabc117295e7c70722e37bbd14d@reportautocal
-DESCRIPTION:主讲人: 待定\n\n本次会议聚焦量子气体领域的
- 研究进展，涵盖玻色-爱因斯坦凝聚、超冷费米子气体、
- 量子模拟以及强关联量子多体现象等前沿课题，为相关
- 研究者提供学术交流平台。
+DESCRIPTION:主讲人: 待定\n\n该邮件通知了2026年8月24日至26
+ 日在清华大学物理楼W101举办的量子气体学术会议，但未
+ 提供具体讲座安排及主讲人信息。会议可能涵盖量子气
+ 体的理论、实验及应用等方向，具体内容需进一步确认
+ 。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -1757,12 +1758,12 @@ SUMMARY:核聚变托卡马克装置先进偏滤器设计（The Design of A
 DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260824T110000
 UID:a3b5ac9e441fbe3b8f5a3d7e920165c1@reportautocal
-DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n针对未
- 来核聚变反应堆中偏滤器靶板承受极高热流、远超工程
- 限制的问题，介绍先进偏滤器概念及其设计方法。讲解SO
- LPS-ITER、SOLEDEG2D、EMC3-EIRENE等程序在偏滤器工程设计中的
- 应用，并展示SPARC、ARC、DTT等未来聚变装置偏滤器设计的
- 最新进展。
-LOCATION:刘卿楼/105会议室
+DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n讲座报
+ 告了核聚变托卡马克装置中先进偏滤器的设计。核聚变
+ 反应堆稳态运行时偏滤器靶板热流密度远超工程限制，
+ 需采用先进偏滤器方案。报告介绍了先进偏滤器概念及SO
+ LPS-ITER、SOLEDEG2D、EMC3-EIRENE等模拟代码，并展示了SPARC、AR
+ C、DTT等未来聚变堆偏滤器工程设计的最新进展。
+LOCATION:刘卿楼/105
 END:VEVENT
 END:VCALENDAR
