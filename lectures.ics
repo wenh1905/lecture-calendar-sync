@@ -1728,16 +1728,6 @@ DESCRIPTION:主讲人: \n\n该讲座/会议以量子气体为主题，内
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quantum Gases 2026
-DTSTART;TZID=Asia/Shanghai:20260824T090000
-DTEND;TZID=Asia/Shanghai:20260826T170000
-UID:25264aabc117295e7c70722e37bbd14d@reportautocal
-DESCRIPTION:主讲人: \n\n本次会议聚焦量子气体领域的前沿
- 研究进展，涵盖超冷原子、玻色-爱因斯坦凝聚、量子模
- 拟等课题，旨在促进该领域学者间的学术交流与合作。
-LOCATION:物理楼/W101
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Design of Advanced Divertor in Nuclear Fusion Tokamak devices
 DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260824T110000
@@ -1747,6 +1737,30 @@ DESCRIPTION:主讲人: 吴昊声 都灵理工大学\n\n报告聚焦核聚
  滤器靶板面临极高热流密度的问题，介绍先进偏滤器概
  念及SOLPS-ITER、SOLEDEG2D、EMC3-EIRENE等数值模拟工具，并展
  示SPARC、ARC、DTT等未来装置偏滤器工程设计的最新进展。
+LOCATION:刘卿楼/105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quantum Gases 2026
+DTSTART;TZID=Asia/Shanghai:20260824T090000
+DTEND;TZID=Asia/Shanghai:20260826T170000
+UID:25264aabc117295e7c70722e37bbd14d@reportautocal
+DESCRIPTION:主讲人: 待定\n\n本次“Quantum Gases 2026”会议围
+ 绕超冷原子量子气体的前沿研究展开，涵盖量子多体物
+ 理、量子模拟、新奇量子态等主题，旨在为相关领域学
+ 者提供交流最新成果和合作机会的平台。
+LOCATION:物理楼/W101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:核聚变托卡马克装置先进偏滤器设计（The Design of A
+ dvanced Divertor in Nuclear Fusion Tokamak devices）
+DTSTART;TZID=Asia/Shanghai:20260824T090000
+DTEND;TZID=Asia/Shanghai:20260824T110000
+UID:a3b5ac9e441fbe3b8f5a3d7e920165c1@reportautocal
+DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n报告针
+ 对核聚变反应堆中沿磁力线输运至偏滤器靶板的热流密
+ 度远超工程限制的问题，介绍先进偏滤器概念及SOLPS-ITER
+ 、SOLEDEG2D、EMC3-EIRENE等程序在设计中的应用，并展示SPARC
+ 、ARC、DTT等未来聚变装置的偏滤器工程设计进展。
 LOCATION:刘卿楼/105
 END:VEVENT
 END:VCALENDAR
