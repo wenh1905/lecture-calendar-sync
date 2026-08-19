@@ -1730,12 +1730,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quantum Gases 2026
 DTSTART;TZID=Asia/Shanghai:20260824T090000
-DTEND;TZID=Asia/Shanghai:20260826T170000
+DTEND;TZID=Asia/Shanghai:20260826T180000
 UID:25264aabc117295e7c70722e37bbd14d@reportautocal
-DESCRIPTION:主讲人: \n\n本次讲座围绕量子气体研究的最新
- 进展，介绍超冷原子体系的量子模拟、强关联效应以及
- 相关实验技术，探讨量子气体在基础物理和量子计算中
- 的应用前景。
+DESCRIPTION:主讲人: \n\n本次会议于2026年8月24日至26日在物
+ 理楼W101举行，主题为量子气体研究，涵盖玻色-爱因斯坦
+ 凝聚、费米气体、强关联效应等前沿课题，旨在促进相
+ 关领域学者交流最新理论与实验进展。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
