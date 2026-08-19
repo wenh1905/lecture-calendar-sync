@@ -1732,11 +1732,10 @@ SUMMARY:Quantum Gases 2026
 DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260826T170000
 UID:25264aabc117295e7c70722e37bbd14d@reportautocal
-DESCRIPTION:主讲人: 待定 待定\n\n本次会议聚焦量子气体领
- 域的前沿研究，涵盖玻色-爱因斯坦凝聚、简并费米气体
- 、量子模拟与精密测量等方向，旨在促进学术交流与合
- 作。会议于2026年8月24日至26日在清华大学物理楼W101举行
- 。
+DESCRIPTION:主讲人: \n\n本次讲座围绕量子气体研究的最新
+ 进展，介绍超冷原子体系的量子模拟、强关联效应以及
+ 相关实验技术，探讨量子气体在基础物理和量子计算中
+ 的应用前景。
 LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
