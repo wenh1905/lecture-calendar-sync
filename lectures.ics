@@ -1729,19 +1729,6 @@ DESCRIPTION:主讲人: 未知\n\n该邮件为转发通知，宣布将于20
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Design of Advanced Divertor in Nuclear Fusion Tokamak devices
-DTSTART;TZID=Asia/Shanghai:20260824T090000
-DTEND;TZID=Asia/Shanghai:20260824T110000
-UID:a42b58468415c070e04c741455b25783@reportautocal
-DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n本讲座
- 介绍核聚变托卡马克装置中的先进偏滤器设计。聚变堆
- 稳态运行时偏滤器靶板热流密度极高，远超工程限制。
- 讲座将讲解先进偏滤器概念，并介绍SOLPS-ITER、SOLEDEG2D、E
- MC3-EIRENE等模拟程序在偏滤器工程设计中的应用，以及SPAR
- C、ARC和DTT等未来聚变堆偏滤器设计的最新进展。
-LOCATION:刘卿楼/105
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Quantum Gases 2026
 DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260826T170000
@@ -1779,6 +1766,19 @@ DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n报告介
  -ITER、SOLEDEG2D、EMC3-EIRENE等模拟程序在偏滤器工程设计中
  的应用，并介绍SPARC、ARC、DTT等未来聚变堆偏滤器设计的
  最新进展。
+LOCATION:刘卿楼/105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Design of Advanced Divertor in Nuclear Fusion Tokamak devices
+DTSTART;TZID=Asia/Shanghai:20260824T090000
+DTEND;TZID=Asia/Shanghai:20260824T110000
+UID:a42b58468415c070e04c741455b25783@reportautocal
+DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n核聚变
+ 反应堆中大量功率沿磁力线输运至偏滤器靶板，未缓解
+ 时热流可达数十至上百兆瓦每平方米，远超工程极限。
+ 报告介绍先进偏滤器概念，并综述SOLPS-ITER等程序在偏滤
+ 器工程设计中的应用，以及SPARC、ARC、DTT等未来聚变装置
+ 偏滤器设计的最新进展。
 LOCATION:刘卿楼/105
 END:VEVENT
 END:VCALENDAR
