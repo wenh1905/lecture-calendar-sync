@@ -1774,11 +1774,11 @@ DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260824T110000
 UID:a42b58468415c070e04c741455b25783@reportautocal
 DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n核聚变
- 反应堆中大量功率沿磁力线输运至偏滤器靶板，未缓解
- 时热流可达数十至上百兆瓦每平方米，远超工程极限。
- 报告介绍先进偏滤器概念，并综述SOLPS-ITER等程序在偏滤
- 器工程设计中的应用，以及SPARC、ARC、DTT等未来聚变装置
- 偏滤器设计的最新进展。
+ 反应堆中，沿磁力线输运至偏滤器靶板的热流极高，远
+ 超工程限制。报告介绍先进偏滤器概念，及SOLPS-ITER、SOLE
+ DEG2D、EMC3-EIRENE等模拟程序在先进偏滤器工程设计中的应
+ 用，并展示SPARC、ARC、DTT等未来聚变装置偏滤器设计的最
+ 新进展。
 LOCATION:刘卿楼/105
 END:VEVENT
 END:VCALENDAR
