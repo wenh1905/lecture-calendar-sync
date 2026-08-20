@@ -1771,12 +1771,12 @@ SUMMARY:核聚变托卡马克装置先进偏滤器设计（The Design of A
 DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260824T110000
 UID:a3b5ac9e441fbe3b8f5a3d7e920165c1@reportautocal
-DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n本讲座
- 介绍核聚变托卡马克装置先进偏滤器的设计。聚变堆中
- 沿磁力线流向偏滤器靶板的热流密度极高，远超工程限
- 制，需设计先进偏滤器来缓解。报告将介绍先进偏滤器
- 概念及SOLPS-ITER等模拟程序在工程设计中的应用，并展示S
- PARC、ARC、DTT等未来聚变堆偏滤器设计的最新进展。
+DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n报告介
+ 绍核聚变托卡马克装置中先进偏滤器的概念与设计方法
+ ，以应对未来聚变堆靶板面临的极高热流密度挑战。将
+ 讲解SOLPS-ITER等模拟程序包在偏滤器工程设计中的应用，
+ 并展示SPARC、ARC和DTT等未来聚变装置的偏滤器设计最新进
+ 展。
 LOCATION:刘卿楼/105会议室
 END:VEVENT
 END:VCALENDAR
