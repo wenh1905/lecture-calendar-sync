@@ -1754,20 +1754,6 @@ DESCRIPTION:主讲人: 待定\n\n本次会议聚焦量子气体研究领
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:核聚变托卡马克装置先进偏滤器设计（The Design of A
- dvanced Divertor in Nuclear Fusion Tokamak devices）
-DTSTART;TZID=Asia/Shanghai:20260824T090000
-DTEND;TZID=Asia/Shanghai:20260824T110000
-UID:a3b5ac9e441fbe3b8f5a3d7e920165c1@reportautocal
-DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n核聚变
- 反应堆中大量功率沿磁力线到达偏滤器靶板，稳态热流
- 远超工程极限。本报告介绍先进偏滤器概念，以及SOLPS-IT
- ER、SOLEDEG2D、EMC3-EIRENE等代码在偏滤器工程设计中的应用
- ，并展示SPARC、ARC、DTT等未来聚变堆的偏滤器设计进展，
- 为缓解热流问题提供解决方案。
-LOCATION:刘卿楼/105
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:核聚变托卡马克装置先进偏滤器设计
 DTSTART;TZID=Asia/Shanghai:20260824T090000
 DTEND;TZID=Asia/Shanghai:20260824T110000
@@ -1778,6 +1764,21 @@ DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n该报告
  先进偏滤器概念，以及SOLPS-ITER等模拟程序在偏滤器工程
  设计中的应用，并展示SPARC、ARC、DTT等未来聚变装置的设
  计进展。
+LOCATION:刘卿楼/105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:核聚变托卡马克装置先进偏滤器设计（The Design of A
+ dvanced Divertor in Nuclear Fusion Tokamak devices）
+DTSTART;TZID=Asia/Shanghai:20260824T090000
+DTEND;TZID=Asia/Shanghai:20260824T110000
+UID:a3b5ac9e441fbe3b8f5a3d7e920165c1@reportautocal
+DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n报告介
+ 绍核聚变托卡马克装置中先进偏滤器的设计概念，旨在
+ 解决未来聚变堆偏滤器靶板承受数十至上百兆瓦每平方
+ 米量级热流密度、远超工程限值的问题。报告将讲解SOLPS
+ -ITER、SOLEDEG2D、EMC3-EIRENE等模拟程序在偏滤器工程设计中
+ 的应用，并介绍SPARC、ARC、DTT等未来聚变堆偏滤器设计的
+ 最新进展。
 LOCATION:刘卿楼/105
 END:VEVENT
 END:VCALENDAR
