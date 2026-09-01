@@ -1780,30 +1780,31 @@ DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n报告介
 LOCATION:刘卿楼/105会议室
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Materials for the future
+SUMMARY:★Materials for the future
 DTSTART;TZID=Asia/Shanghai:20260904T160000
 DTEND;TZID=Asia/Shanghai:20260904T173000
 UID:43e628b03792e75e19a15e5454dff640@reportautocal
-DESCRIPTION:主讲人: Konstantin Novoselov 新加坡国立大学\n\n报
- 告探讨未来材料的发展方向，重点介绍功能智能材料，
- 这类材料能够适应环境变化、具备记忆功能，并通过反
- 馈调节自身性能，可用于超越冯·诺依曼计算、神经形态
- 设备、人机接口、智能膜及催化剂等新兴领域。报告还
- 讨论了制备方法及未来应用前景。
+DESCRIPTION:主讲人: 康斯坦丁·诺沃肖洛夫 新加坡国立大学
+ \n\n报告将探讨功能智能材料，这类材料具有自适应、记
+ 忆和环境反馈能力，如可改变渗透性的活性膜、相变材
+ 料等。它们可超越冯·诺依曼计算，用于神经形态计算、
+ 人机界面、人工器官等。报告人因发现石墨烯获2010年诺
+ 贝尔物理学奖，将介绍定制材料的最新进展及应用。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Axion production and detection using dual NMR-type experiments
+SUMMARY:Axion production and detection using dual NMR-type experiments
 DTSTART;TZID=Asia/Shanghai:20260901T140000
 DTEND;TZID=Asia/Shanghai:20260901T153000
 UID:9043bb56b2c45a020c50e9b1b6a3a7d8@reportautocal
-DESCRIPTION:主讲人: 杨丰维 美因茨大学\n\n报告介绍利用双
- 核磁共振（NMR）实验产生和探测轴子。轴子与核自旋耦
- 合，一个器件中的振荡磁场驱动核自旋产生轴子源，再
- 用附近自旋极化样品和磁强计探测。研究表明，10厘米尺
- 度的双NMR装置在1小时积分时间内可超越现有恒星冷却等
- 天体物理对轴子-核子耦合的约束，并能探测宽质量范围
- 的轴子。
+DESCRIPTION:主讲人: 杨丰维 约翰内斯·古腾堡大学美因茨\n
+ \n本报告提出利用双核磁共振（NMR）实验产生并探测轴子
+ 。通过核自旋与轴子场的耦合，一个装置中的振荡磁场
+ 驱动核自旋产生轴子源，另一个装置中的极化样品进行
+ 共振探测。该方法产生的轴子场梯度大，且频率已知，
+ 可实现长时积分。研究表明，两个10厘米尺度NMR装置运行
+ 一小时即可超越现有恒星冷却等天体物理对轴子-核子耦
+ 合的约束，并能探测宽质量范围的轴子。
 LOCATION:物理楼/W260
 END:VEVENT
 END:VCALENDAR
