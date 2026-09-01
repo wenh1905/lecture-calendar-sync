@@ -1779,4 +1779,30 @@ DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n报告介
  展。
 LOCATION:刘卿楼/105会议室
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Materials for the future
+DTSTART;TZID=Asia/Shanghai:20260904T160000
+DTEND;TZID=Asia/Shanghai:20260904T173000
+UID:43e628b03792e75e19a15e5454dff640@reportautocal
+DESCRIPTION:主讲人: Konstantin Novoselov 新加坡国立大学\n\n报
+ 告将探讨面向未来的功能智能材料，这类材料能根据环
+ 境变化自适应调整性能，具有记忆和反馈能力，可用于
+ 超越冯诺依曼计算、神经形态计算、智能膜、人造器官
+ 等领域。报告人将介绍该类材料的制备方法、现有及未
+ 来应用，并分享其在石墨烯等低维材料研究中的进展。
+LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Axion production and detection using dual NMR-type experiments
+DTSTART;TZID=Asia/Shanghai:20260901T140000
+DTEND;TZID=Asia/Shanghai:20260901T153000
+UID:9043bb56b2c45a020c50e9b1b6a3a7d8@reportautocal
+DESCRIPTION:主讲人: 杨丰维 美因茨大学\n\n该报告探讨利用
+ 核磁共振（NMR）技术产生和探测轴子。通过一个装置中
+ 核自旋受振荡磁场驱动作为轴子源，在附近自旋极化样
+ 品中驱动核磁共振，并用灵敏磁力计探测。研究显示，10
+ 厘米尺度NMR装置对一小时积分即可超越现有天体物理对
+ 轴子-核子耦合的约束，并能探测宽范围轴子质量。
+LOCATION:物理楼/W260
+END:VEVENT
 END:VCALENDAR
