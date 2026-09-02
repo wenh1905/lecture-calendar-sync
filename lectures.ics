@@ -1780,33 +1780,6 @@ DESCRIPTION:主讲人: 吴昊声 意大利都灵理工大学\n\n报告介
 LOCATION:刘卿楼/105会议室
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Materials for the future
-DTSTART;TZID=Asia/Shanghai:20260904T160000
-DTEND;TZID=Asia/Shanghai:20260904T173000
-UID:43e628b03792e75e19a15e5454dff640@reportautocal
-DESCRIPTION:主讲人: Konstantin Novoselov 新加坡国立大学\n\n讲
- 座探讨未来材料的发展方向，重点介绍具有记忆和自适
- 应功能的功能智能材料，这类材料能够响应环境反馈改
- 变性质，可用于神经形态计算、人机界面、人工器官等
- 领域。报告人结合石墨烯等二维材料的研究，阐述如何
- 设计与制造非平衡态智能材料及其潜在应用。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:★Axion production and detection using dual NMR-type experiments
-DTSTART;TZID=Asia/Shanghai:20260901T140000
-DTEND;TZID=Asia/Shanghai:20260901T153000
-UID:9043bb56b2c45a020c50e9b1b6a3a7d8@reportautocal
-DESCRIPTION:主讲人: 杨丰维 美因茨大学\n\n该报告提出利用
- 双核磁共振（NMR）实验方案产生并探测轴子。在一个装
- 置中，由振荡磁场驱动的原子核作为轴子源，在附近的
- 极化样品中通过灵敏磁强计探测轴子信号。此方法可获
- 得显著灵敏度，10厘米级NMR装置一小时观测即可超越恒星
- 冷却等天体物理对轴子-核子耦合的约束，可探测较宽范
- 围的轴子质量。
-LOCATION:物理楼/W260
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:等离子体医学——现状与未来方向（Plasma medicine 
  – Facts and future directions）
 DTSTART;TZID=Asia/Shanghai:20260909T090000
@@ -1822,6 +1795,47 @@ DESCRIPTION:主讲人: Kristian Wende 莱布尼兹等离子体科学与技
  学痕迹及其对分子功能和识别的影响，发现直接分子效
  应与免疫刺激效应，为等离子体医学应用开辟了新途径
  。
+LOCATION:刘卿楼/219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Materials for the future
+DTSTART;TZID=Asia/Shanghai:20260904T160000
+DTEND;TZID=Asia/Shanghai:20260904T173000
+UID:43e628b03792e75e19a15e5454dff640@reportautocal
+DESCRIPTION:主讲人: 康斯坦丁·诺沃肖洛夫 新加坡国立大学
+ \n\n讲座探讨未来材料的发展方向，重点介绍功能智能材
+ 料的概念，即材料能根据环境反馈改变性质并具备记忆
+ 功能，可应用于神经形态计算、人机接口、人工器官等
+ 领域，并讨论构建此类材料的策略及潜在应用。
+LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Axion production and detection using dual NMR-type experiments
+DTSTART;TZID=Asia/Shanghai:20260901T140000
+DTEND;TZID=Asia/Shanghai:20260901T153000
+UID:9043bb56b2c45a020c50e9b1b6a3a7d8@reportautocal
+DESCRIPTION:主讲人: 杨丰维 美因茨大学\n\n本报告探讨利用
+ 双核磁共振型实验产生和探测轴子。轴子通过轴矢流与
+ 核自旋耦合，在装置中产生后可在邻近的自旋极化样品
+ 中驱动核磁共振，并由高灵敏磁强计探测。该方法具有
+ 显著的轴子场梯度和精确可调的探测频率，10厘米级器件
+ 在1小时积分时间内即可超越星体冷却等现有天体物理对
+ 轴子-核子耦合的限制，并可探测宽质量范围的轴子。
+LOCATION:物理楼/W260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plasma medicine – Facts and future directions
+DTSTART;TZID=Asia/Shanghai:20260909T090000
+DTEND;TZID=Asia/Shanghai:20260909T110000
+UID:5d7e3418122bf928f498fac3789b7c98@reportautocal
+DESCRIPTION:主讲人: 克里斯蒂安·文德 莱布尼兹等离子体科
+ 学与技术研究所\n\n讲座介绍等离子体医学的现状与未来
+ ：等离子体设备已在急慢性伤口护理和口腔疾病治疗中
+ 获批应用，并展现出控制肿瘤的潜力。报告强调活性氧/
+ 氮物种是主要效应因子，但其分子机制仍不清晰。研究
+ 者通过多种模型追踪等离子体生成物种对生物分子的化
+ 学影响，发现其能直接影响分子功能并产生免疫刺激效
+ 应，为等离子体的医学应用开辟了新途径。
 LOCATION:刘卿楼/219
 END:VEVENT
 END:VCALENDAR
