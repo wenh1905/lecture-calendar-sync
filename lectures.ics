@@ -1803,25 +1803,25 @@ DTSTART;TZID=Asia/Shanghai:20260904T160000
 DTEND;TZID=Asia/Shanghai:20260904T173000
 UID:43e628b03792e75e19a15e5454dff640@reportautocal
 DESCRIPTION:主讲人: 康斯坦丁·诺沃肖洛夫 新加坡国立大学
- \n\n报告介绍了功能智能材料的概念，这类材料可根据环
- 境反馈改变性质并具备记忆功能，属于非平衡态材料，
- 能通过循环变化做功并利用环境能量。它们对超越冯·诺
- 依曼计算、神经形态计算、人机界面、人工器官、智能
- 膜、智能电池及催化剂等前沿应用至关重要，并讨论了
- 相关材料制备方法与未来应用前景。
+ \n\n本次讲座介绍面向未来的功能智能材料。这类材料能
+ 适应环境变化、具备记忆与反馈功能，可用于超越冯·诺
+ 依曼计算的内存计算、人机接口、人工器官、智能膜、
+ 智能电池和催化剂等领域。报告将讨论功能智能材料的
+ 创制方法及现有和未来应用。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Axion production and detection using dual NMR-type experiments
+SUMMARY:Axion production and detection using dual NMR-type experiments
 DTSTART;TZID=Asia/Shanghai:20260901T140000
 DTEND;TZID=Asia/Shanghai:20260901T153000
 UID:9043bb56b2c45a020c50e9b1b6a3a7d8@reportautocal
-DESCRIPTION:主讲人: 杨丰维 美因茨大学\n\n报告提出用双NMR
- 装置产生并探测轴子：一个装置产生轴子源，可在邻近
- 自旋极化样品中驱动核磁共振并读出信号。该方案利用
- 近场轴子场梯度和已知的产生频率实现高灵敏探测。一
- 对10厘米级NMR装置运行一小时即可超越恒星冷却等现有天
- 体物理约束，探测范围覆盖宽广的轴子质量区间。
+DESCRIPTION:主讲人: 杨丰维 美因茨大学\n\n本报告研究利用
+ 双核磁共振（NMR）型实验产生和探测轴子。轴子与核自
+ 旋的轴向流耦合使其可由振荡磁场驱动产生，并驱动附
+ 近自旋极化样品的NMR信号。该方案产生的轴子场梯度大
+ 、频率已知，可精确调谐探测，实现长时间测量。理论
+ 计算表明，一对10厘米级NMR装置积分一小时即可超越现有
+ 恒星冷却等天体物理约束，覆盖宽泛轴子质量范围。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -1830,12 +1830,12 @@ DTSTART;TZID=Asia/Shanghai:20260909T090000
 DTEND;TZID=Asia/Shanghai:20260909T110000
 UID:5d7e3418122bf928f498fac3789b7c98@reportautocal
 DESCRIPTION:主讲人: Kristian Wende 莱布尼兹等离子体科学与技
- 术研究所\n\n等离子体医学发展迅速，设备已用于伤口护
- 理和口腔疾病治疗，正探索用于恶性肿瘤如光化性角化
- 病。关键机制是等离子体产生的活性氧/氮物种，但分子
- 细节不明。报告人用不同复杂度模型研究这些物种在生
- 物分子上的化学痕迹及功能影响，发现直接作用和免疫
- 刺激效应，为未来医学应用提供新方向。
+ 术研究所\n\n本报告综述等离子体医学的发展现状与未来
+ 方向，展示等离子体设备在急慢性伤口护理和口腔疾病
+ 治疗中的临床应用效果，并探讨其在肿瘤治疗如光化性
+ 角化病中的潜力。报告强调等离子体产生的活性氧和氮
+ 物种对生物分子的化学效应及其免疫刺激作用，揭示等
+ 离子体医学未来的可能应用前景。
 LOCATION:刘卿楼/219
 END:VEVENT
 END:VCALENDAR
