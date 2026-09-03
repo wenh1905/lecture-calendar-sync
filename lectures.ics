@@ -1816,27 +1816,27 @@ SUMMARY:Plasma medicine – Facts and future directions
 DTSTART;TZID=Asia/Shanghai:20260909T090000
 DTEND;TZID=Asia/Shanghai:20260909T110000
 UID:5d7e3418122bf928f498fac3789b7c98@reportautocal
-DESCRIPTION:主讲人: Kristian Wende 莱布尼兹等离子体科学与技
- 术研究所\n\n本报告介绍等离子体医学的现状与未来方向
- 。等离子体技术在伤口护理、口腔疾病治疗中已投入临
- 床应用，并展现出治疗癌症的潜力。研究表明等离子体
- 产生的活性氧和氮物种是其主要生物学效应机制，但具
- 体分子机理尚不明确。报告将探讨等离子体在医学中的
- 直接分子效应与免疫刺激效应。
+DESCRIPTION:主讲人: 克里斯蒂安·文德 莱布尼兹等离子体科
+ 学与技术研究所\n\n本报告介绍等离子体医学的现状与未
+ 来方向。过去二十年，等离子体设备已从实验室走向临
+ 床应用，在急慢性伤口护理及口腔疾病治疗中显示出良
+ 好效果。当前研究重点探索等离子体对肿瘤的抑制作用
+ ，其产生的活性氧氮物种是主要效应因子，但分子机制
+ 仍待阐明。报告还涉及血浆活性物种对生物分子的化学
+ 影响及免疫刺激效应，并展望了未来应用前景。
 LOCATION:刘卿楼/219
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Materials for the future
+SUMMARY:Materials for the future
 DTSTART;TZID=Asia/Shanghai:20260904T160000
 DTEND;TZID=Asia/Shanghai:20260904T173000
 UID:43e628b03792e75e19a15e5454dff640@reportautocal
-DESCRIPTION:主讲人: Konstantin Novoselov 新加坡国立大学\n\n康
- 斯坦丁·诺沃肖洛夫教授将介绍功能性智能材料的概念，
- 这类材料具有记忆功能，能通过反馈机制适应环境并改
- 变自身特性，涵盖非平衡态材料、相变材料等。报告将
- 探讨其在类脑计算、人机界面、人工器官及智能膜等领
- 域的应用前景，并结合石墨烯等二维材料的研究进展进
- 行阐述。
+DESCRIPTION:主讲人: 康斯坦丁·诺沃肖洛夫 新加坡国立大学
+ \n\n报告探讨面向未来的功能智能材料：超越传统静态材
+ 料，发展具备记忆和随环境反馈改变功能的适应性材料
+ ，包括非平衡态材料和相变材料，并讨论其在类脑计算
+ 、人机交互、人工器官、智能膜与电池等方面的应用与
+ 未来前景。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
