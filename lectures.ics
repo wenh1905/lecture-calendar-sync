@@ -1798,19 +1798,6 @@ DESCRIPTION:主讲人: Kristian Wende 莱布尼兹等离子体科学与技
 LOCATION:刘卿楼/219
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Materials for the future
-DTSTART;TZID=Asia/Shanghai:20260904T160000
-DTEND;TZID=Asia/Shanghai:20260904T173000
-UID:43e628b03792e75e19a15e5454dff640@reportautocal
-DESCRIPTION:主讲人: 康斯坦丁·诺沃肖洛夫 新加坡国立大学
- \n\n本次讲座介绍面向未来的功能智能材料。这类材料能
- 适应环境变化、具备记忆与反馈功能，可用于超越冯·诺
- 依曼计算的内存计算、人机接口、人工器官、智能膜、
- 智能电池和催化剂等领域。报告将讨论功能智能材料的
- 创制方法及现有和未来应用。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Axion production and detection using dual NMR-type experiments
 DTSTART;TZID=Asia/Shanghai:20260901T140000
 DTEND;TZID=Asia/Shanghai:20260901T153000
@@ -1829,14 +1816,28 @@ SUMMARY:Plasma medicine – Facts and future directions
 DTSTART;TZID=Asia/Shanghai:20260909T090000
 DTEND;TZID=Asia/Shanghai:20260909T110000
 UID:5d7e3418122bf928f498fac3789b7c98@reportautocal
-DESCRIPTION:主讲人: 克里斯蒂安·文德 莱布尼兹等离子体科
- 学与技术研究所\n\n报告介绍了等离子体医学的发展现状
- ：等离子体设备已在伤口护理和口腔疾病治疗中获得临
- 床应用，目前正研究其在恶性肿瘤如光化性角化病治疗
- 中的潜力。等离子体产生的活性氧和氮物种被认为是产
- 生疗效的关键，但其分子机制尚不明确。通过模型研究
- 发现等离子体成分能直接影响分子功能并激活免疫反应
- ，为未来应用提供了新方向。
+DESCRIPTION:主讲人: Kristian Wende 莱布尼兹等离子体科学与技
+ 术研究所\n\n本报告介绍等离子体医学的现状与未来方向
+ 。等离子体设备已在伤口护理和口腔疾病治疗中临床应
+ 用，并显示出对恶性肿瘤等疾病的治疗潜力。研究聚焦
+ 等离子体产生的活性氧和氮物种对蛋白质、脂质等生物
+ 分子的化学作用及其分子机制，发现其对分子功能有直
+ 接影响并具有免疫刺激效应，为等离子体医学应用提供
+ 了新思路。
 LOCATION:刘卿楼/219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Materials for the future
+DTSTART;TZID=Asia/Shanghai:20260904T160000
+DTEND;TZID=Asia/Shanghai:20260904T173000
+UID:43e628b03792e75e19a15e5454dff640@reportautocal
+DESCRIPTION:主讲人: Konstantin Novoselov 新加坡国立大学\n\n讲
+ 座介绍超越传统静态材料的功能智能材料，这类材料具
+ 有记忆功能，能通过环境反馈改变自身特性，用于神经
+ 形态计算、人机接口、人工器官等领域。报告人康斯坦
+ 丁·诺沃肖洛夫是石墨烯发现者之一，2010年诺贝尔物理
+ 学奖得主，将结合其研究进展探讨智能材料的制备及未
+ 来应用。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
