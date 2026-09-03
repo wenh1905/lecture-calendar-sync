@@ -1817,27 +1817,26 @@ DTSTART;TZID=Asia/Shanghai:20260909T090000
 DTEND;TZID=Asia/Shanghai:20260909T110000
 UID:5d7e3418122bf928f498fac3789b7c98@reportautocal
 DESCRIPTION:主讲人: Kristian Wende 莱布尼兹等离子体科学与技
- 术研究所\n\n报告介绍等离子体医学自本世纪初以来的发
- 展现状与未来方向。目前已有多款等离子体医疗器械用
- 于伤口护理和口腔疾病治疗，并在癌症治疗方面展现出
- 潜力。等离子体产生的活性氧和活性氮是主要效应分子
- ，但其分子机制尚未完全阐明。报告人通过不同复杂度
- 的模型研究，发现活性物种可直接改变分子功能并激发
- 免疫效应，为后续医学应用指明方向。
+ 术研究所\n\n本报告介绍等离子体医学的现状与未来方向
+ 。等离子体技术在伤口护理、口腔疾病治疗中已投入临
+ 床应用，并展现出治疗癌症的潜力。研究表明等离子体
+ 产生的活性氧和氮物种是其主要生物学效应机制，但具
+ 体分子机理尚不明确。报告将探讨等离子体在医学中的
+ 直接分子效应与免疫刺激效应。
 LOCATION:刘卿楼/219
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Materials for the future
+SUMMARY:★Materials for the future
 DTSTART;TZID=Asia/Shanghai:20260904T160000
 DTEND;TZID=Asia/Shanghai:20260904T173000
 UID:43e628b03792e75e19a15e5454dff640@reportautocal
-DESCRIPTION:主讲人: Konstantin Novoselov 新加坡国立大学\n\n本
- 次报告介绍面向未来技术的功能智能材料。传统材料性
- 能稳定，而功能智能材料能根据环境和控制信号改变性
- 能，具备记忆与自适应能力，可用于神经形态计算、人
- 机界面、人造器官、智能膜、智能电池等。报告将讨论
- 此类材料的制备进展、设计方法及未来应用，并展望超
- 越冯·诺依曼计算等新范式。
+DESCRIPTION:主讲人: Konstantin Novoselov 新加坡国立大学\n\n康
+ 斯坦丁·诺沃肖洛夫教授将介绍功能性智能材料的概念，
+ 这类材料具有记忆功能，能通过反馈机制适应环境并改
+ 变自身特性，涵盖非平衡态材料、相变材料等。报告将
+ 探讨其在类脑计算、人机界面、人工器官及智能膜等领
+ 域的应用前景，并结合石墨烯等二维材料的研究进展进
+ 行阐述。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
