@@ -1827,16 +1827,16 @@ DESCRIPTION:主讲人: 克里斯蒂安·文德 莱布尼兹等离子体科
 LOCATION:刘卿楼/219
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Materials for the future
+SUMMARY:★Materials for the future
 DTSTART;TZID=Asia/Shanghai:20260904T160000
 DTEND;TZID=Asia/Shanghai:20260904T173000
 UID:43e628b03792e75e19a15e5454dff640@reportautocal
 DESCRIPTION:主讲人: 康斯坦丁·诺沃肖洛夫 新加坡国立大学
- \n\n报告探讨未来材料的发展方向，提出功能智能材料概
- 念，即能感知环境并通过反馈自适应改变性能、具有记
- 忆功能的材料。这类材料有望推动超越冯·诺依曼计算、
- 人机接口、人工器官、智能膜及智能电池等领域的发展
- ，并介绍了其制备途径和潜在应用。
+ \n\n报告探讨未来材料的发展方向，重点介绍能够随环境
+ 反馈改变性能、具有记忆与自适应功能的功能智能材料
+ 。这类材料可超越传统冯·诺依曼计算架构，推动神经形
+ 态计算、人机接口、人工器官、智能膜、智能电池等领
+ 域的突破，并讨论其设计策略、现有进展及应用前景。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
