@@ -1831,12 +1831,11 @@ SUMMARY:★Materials for the future
 DTSTART;TZID=Asia/Shanghai:20260904T160000
 DTEND;TZID=Asia/Shanghai:20260904T173000
 UID:43e628b03792e75e19a15e5454dff640@reportautocal
-DESCRIPTION:主讲人: Konstantin Novoselov 新加坡国立大学\n\n报
- 告人Novoselov教授将讨论未来材料的发展方向，提出功能
- 智能材料的概念，这类材料能感知环境并通过反馈改变
- 自身性质，具有记忆和适应性，可应用于超越冯·诺依曼
- 计算、人机界面、人工器官等领域。报告还将介绍定制
- 材料的构建方法及现有和未来应用前景。
+DESCRIPTION:主讲人: 康斯坦丁·诺沃肖洛夫 新加坡国立大学
+ \n\n报告介绍了面向未来技术的功能智能材料，这类材料
+ 具有记忆和自适应能力，能够响应环境反馈而改变性能
+ ，有助于发展类脑计算、人机接口、人工器官和智能膜
+ 等。报告还讨论了制造这种材料的策略和潜在应用。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
