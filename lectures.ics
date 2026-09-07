@@ -1854,4 +1854,19 @@ DESCRIPTION:主讲人: 金洪柱 韩国庆北大学\n\n讲座介绍韩国
  和COSINE实验，旨在推动下一代大规模稀有事件探测。
 LOCATION:刘卿楼/1002会议室
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Status and Prospects of the Detector Research Development Center a
+ t the Center for Underground Physics\, Institute of Basic Science
+DTSTART;TZID=Asia/Shanghai:20260915T103000
+DTEND;TZID=Asia/Shanghai:20260915T113000
+UID:fccb81c398b79d92a78e1de77354269b@reportautocal
+DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n本报告介绍
+ 韩国基础科学研究所地下物理中心探测器研发中心的发
+ 展现状与展望。该中心为暗物质和无中微子双贝塔衰变
+ 等稀有事件搜索研制超低本底探测器，涵盖晶体生长、
+ 材料纯化、低温探测器开发及低本底测量等关键技术，
+ 并服务于AMoRE和COSINE实验，展望下一代大质量稀有事件实
+ 验的前景。
+LOCATION:刘卿楼/1002
+END:VEVENT
 END:VCALENDAR
