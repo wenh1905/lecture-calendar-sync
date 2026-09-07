@@ -1861,11 +1861,11 @@ DTSTART;TZID=Asia/Shanghai:20260915T103000
 DTEND;TZID=Asia/Shanghai:20260915T113000
 UID:fccb81c398b79d92a78e1de77354269b@reportautocal
 DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n报告介绍韩
- 国基础科学研究所地下物理中心探测器研发中心，该中
- 心专为暗物质和无中微子双贝塔衰变实验研制极低本底
- 探测器，涵盖晶体生长、低温探测器研发与表征、低本
- 底测量等。重点展示AMoRE和COSINE实验所用关键技术，并展
- 望面向下一代大质量稀有事件实验的发展路线。
+ 国基础科学研究所地下物理中心下属探测器研发中心的
+ 现状与展望，该中心为暗物质与无中微子双贝塔衰变等
+ 稀有事件搜索研制超低本底探测器，涵盖晶体生长、材
+ 料纯化、低温探测器开发及低本底测量等关键技术，并
+ 支撑AMoRE和COSINE实验及未来更大规模实验。
 LOCATION:刘卿楼/1002
 END:VEVENT
 END:VCALENDAR
