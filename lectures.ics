@@ -1839,22 +1839,6 @@ DESCRIPTION:主讲人: 康斯坦丁·诺沃肖洛夫 新加坡国立大学
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:基础科学研究所地下物理中心-探测器研发中心现
- 状与展望（Status and Prospects of the Detector Research Development C
- enter at the Center for Underground Physics\, Institute of Basic Science
- ）
-DTSTART;TZID=Asia/Shanghai:20260915T103000
-DTEND;TZID=Asia/Shanghai:20260915T113000
-UID:b4a8202222ec7cc2f992c1f6c5d7cc54@reportautocal
-DESCRIPTION:主讲人: 金洪柱 韩国庆北大学\n\n讲座介绍韩国
- 基础科学研究所地下物理中心探测器研发中心的现状与
- 未来规划。该中心为暗物质和无中微子双贝塔衰变等稀
- 有事件实验研制超低本底探测器，涵盖晶体生长、材料
- 纯化、低温探测器开发及低本底测量等技术，并支持AMoRE
- 和COSINE实验，旨在推动下一代大规模稀有事件探测。
-LOCATION:刘卿楼/1002会议室
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Status and Prospects of the Detector Research Development Center a
  t the Center for Underground Physics\, Institute of Basic Science
 DTSTART;TZID=Asia/Shanghai:20260915T103000
@@ -1867,6 +1851,22 @@ DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n本报告介绍
  材料纯化、低温探测器开发及低本底测量等关键技术，
  并服务于AMoRE和COSINE实验，展望下一代大质量稀有事件实
  验的前景。
+LOCATION:刘卿楼/1002
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:基础科学研究所地下物理中心-探测器研发中心现
+ 状与展望（Status and Prospects of the Detector Research Development C
+ enter at the Center for Underground Physics\, Institute of Basic Science
+ ）
+DTSTART;TZID=Asia/Shanghai:20260915T103000
+DTEND;TZID=Asia/Shanghai:20260915T113000
+UID:b4a8202222ec7cc2f992c1f6c5d7cc54@reportautocal
+DESCRIPTION:主讲人: 金洪柱 韩国庆北大学\n\n报告介绍了韩
+ 国基础科学研究所地下物理中心探测器研发中心的现状
+ 与前景。该中心为暗物质和无中微子双β衰变等稀有事件
+ 探测研制超低本底探测器，开展晶体生长与提纯、低温
+ 探测器研发、低本底测量及模拟研究，并规划了面向下
+ 一代更大质量稀有事件实验的技术路线。
 LOCATION:刘卿楼/1002
 END:VEVENT
 END:VCALENDAR
