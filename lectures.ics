@@ -1855,21 +1855,6 @@ DESCRIPTION:主讲人: 金洪柱 韩国庆北大学\n\n报告介绍了韩
 LOCATION:刘卿楼/1002
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:基础科学研究所地下物理中心-探测器研发中心现
- 状与展望
-DTSTART;TZID=Asia/Shanghai:20260915T103000
-DTEND;TZID=Asia/Shanghai:20260915T113000
-UID:fe9db7ac58bb3f4a6039932bd615caac@reportautocal
-DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n本报告介绍
- 韩国基础科学研究所地下物理中心探测器研发中心的现
- 状与前景。该中心为暗物质和无中微子双β衰变等稀有事
- 件探测实验研制超低本底探测器，涵盖晶体生长、材料
- 提纯、低温探测器开发及低本底测量等关键技术，并支
- 持AMoRE和COSINE实验，同时展望了面向下一代大规模稀有事
- 件探测器的技术路线。
-LOCATION:刘卿楼/1002
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Status and Prospects of the Detector Research Development Center a
  t the Center for Underground Physics\, Institute of Basic Science
 DTSTART;TZID=Asia/Shanghai:20260915T103000
@@ -1886,18 +1871,32 @@ DESCRIPTION:主讲人: 金洪柱 庆北大学\n\n报告介绍韩国基础
 LOCATION:刘卿楼/1002
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:基础科学研究所地下物理中心-探测器研发中心现
+ 状与展望
+DTSTART;TZID=Asia/Shanghai:20260915T103000
+DTEND;TZID=Asia/Shanghai:20260915T113000
+UID:fe9db7ac58bb3f4a6039932bd615caac@reportautocal
+DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n本讲座介绍
+ 韩国基础科学研究所地下物理中心探测器研发中心的现
+ 状与展望。该中心为暗物质和无中微子双贝塔衰变等稀
+ 有事件探测研制超低本底探测器，开展晶体生长与纯化
+ 、低温探测器开发、低本底测量和模拟研究，并介绍为AM
+ oRE和COSINE实验发展的探测器技术及未来大规模实验路线
+ 图。
+LOCATION:刘卿楼/1002
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Quantum Advantage in Optimization and Learning: From Reinforcement
   and Apprenticeship Learning to Algorithmic Expressivity
 DTSTART;TZID=Asia/Shanghai:20260909T160000
 DTEND;TZID=Asia/Shanghai:20260909T173000
 UID:05e7c329ace3a1eaa0a37a7b8b0ac587@reportautocal
-DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n报告探讨量子计算在
- 优化和学习中的优势：提出混合在线-离线强化学习模型
- ，利用量子生成模型访问解决了遗憾定义问题，实现时
- 间对数依赖的遗憾界；在逆强化学习的学徒学习中，算
- 法在特征维度和动作空间上实现二次加速；最后研究量
- 子行走优化算法的表达能力，给出动态李代数维数的上
- 界，揭示实现最优解所需的过参数化条件。
+DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n探讨量子计算在优化
+ 和学习中的优势，涵盖在线强化学习、学徒学习及变分
+ 量子算法的表达性。提出新型混合在线-离线强化学习模
+ 型，突破经典遗憾界限；在逆强化学习中获得二次加速
+ ；并分析量子行走优化算法的动态李代数维度上限，揭
+ 示过参数化条件。
 LOCATION:物理楼/W260
 END:VEVENT
 END:VCALENDAR
