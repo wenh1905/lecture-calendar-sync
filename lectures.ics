@@ -1855,20 +1855,6 @@ DESCRIPTION:主讲人: 金洪柱 韩国庆北大学\n\n报告介绍了韩
 LOCATION:刘卿楼/1002
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Status and Prospects of the Detector Research Development Center a
- t the Center for Underground Physics\, Institute of Basic Science
-DTSTART;TZID=Asia/Shanghai:20260915T103000
-DTEND;TZID=Asia/Shanghai:20260915T113000
-UID:fccb81c398b79d92a78e1de77354269b@reportautocal
-DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n报告介绍韩
- 国基础科学研究所地下物理中心下属探测器研发中心的
- 现状与展望，该中心为暗物质与无中微子双贝塔衰变等
- 稀有事件搜索研制超低本底探测器，涵盖晶体生长、材
- 料纯化、低温探测器开发及低本底测量等关键技术，并
- 支撑AMoRE和COSINE实验及未来更大规模实验。
-LOCATION:刘卿楼/1002
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:基础科学研究所地下物理中心-探测器研发中心现
  状与展望
 DTSTART;TZID=Asia/Shanghai:20260915T103000
@@ -1884,18 +1870,34 @@ DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n本报告介绍
 LOCATION:刘卿楼/1002
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Status and Prospects of the Detector Research Development Center a
+ t the Center for Underground Physics\, Institute of Basic Science
+DTSTART;TZID=Asia/Shanghai:20260915T103000
+DTEND;TZID=Asia/Shanghai:20260915T113000
+UID:fccb81c398b79d92a78e1de77354269b@reportautocal
+DESCRIPTION:主讲人: 金洪柱 庆北大学\n\n报告介绍韩国基础
+ 科学研究所地下物理中心所属探测器研发中心的现状与
+ 未来规划。该中心为暗物质和无中微子双贝塔衰变等稀
+ 有事件探测研制超低本底探测器，涵盖晶体生长与材料
+ 纯化、低温探测器研发、低本底测量及模拟研究，发展
+ 超纯闪烁晶体和金属磁量热计等关键探测技术，支撑AMoRE
+ 和COSINE实验，并规划面向下一代更大规模实验的技术路
+ 线。
+LOCATION:刘卿楼/1002
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Quantum Advantage in Optimization and Learning: From Reinforcement
   and Apprenticeship Learning to Algorithmic Expressivity
 DTSTART;TZID=Asia/Shanghai:20260909T160000
 DTEND;TZID=Asia/Shanghai:20260909T173000
 UID:05e7c329ace3a1eaa0a37a7b8b0ac587@reportautocal
-DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n本报告探讨量子计算
- 优势在优化与学习中的前沿进展，主要涵盖三个方向：
- 提出新的混合在线-离线强化学习模型，实现时间对数依
- 赖的遗憾界以突破经典极限；在基于逆强化学习的学徒
- 学习中相比经典算法实现特征维与动作空间的二次加速
- ；并推导量子行走优化算法动态李代数维数的多项式上
- 界，揭示其过度参数化的复杂性问题。
+DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n报告探讨量子计算在
+ 优化和学习中的优势：提出混合在线-离线强化学习模型
+ ，利用量子生成模型访问解决了遗憾定义问题，实现时
+ 间对数依赖的遗憾界；在逆强化学习的学徒学习中，算
+ 法在特征维度和动作空间上实现二次加速；最后研究量
+ 子行走优化算法的表达能力，给出动态李代数维数的上
+ 界，揭示实现最优解所需的过参数化条件。
 LOCATION:物理楼/W260
 END:VEVENT
 END:VCALENDAR
