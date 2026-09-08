@@ -1855,22 +1855,6 @@ DESCRIPTION:主讲人: 金洪柱 韩国庆北大学\n\n报告介绍了韩
 LOCATION:刘卿楼/1002
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Status and Prospects of the Detector Research Development Center a
- t the Center for Underground Physics\, Institute of Basic Science
-DTSTART;TZID=Asia/Shanghai:20260915T103000
-DTEND;TZID=Asia/Shanghai:20260915T113000
-UID:fccb81c398b79d92a78e1de77354269b@reportautocal
-DESCRIPTION:主讲人: 金洪柱 庆北大学\n\n报告介绍韩国基础
- 科学研究所地下物理中心所属探测器研发中心的现状与
- 未来规划。该中心为暗物质和无中微子双贝塔衰变等稀
- 有事件探测研制超低本底探测器，涵盖晶体生长与材料
- 纯化、低温探测器研发、低本底测量及模拟研究，发展
- 超纯闪烁晶体和金属磁量热计等关键探测技术，支撑AMoRE
- 和COSINE实验，并规划面向下一代更大规模实验的技术路
- 线。
-LOCATION:刘卿楼/1002
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:基础科学研究所地下物理中心-探测器研发中心现
  状与展望
 DTSTART;TZID=Asia/Shanghai:20260915T103000
@@ -1886,17 +1870,32 @@ DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n本讲座介绍
 LOCATION:刘卿楼/1002
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Status and Prospects of the Detector Research Development Center a
+ t the Center for Underground Physics\, Institute of Basic Science
+DTSTART;TZID=Asia/Shanghai:20260915T103000
+DTEND;TZID=Asia/Shanghai:20260915T113000
+UID:fccb81c398b79d92a78e1de77354269b@reportautocal
+DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n本报告介绍
+ 韩国基础科学研究所地下物理中心探测器研发中心的现
+ 状与前景。该中心为暗物质和无中微子双β衰变等稀有事
+ 件实验研制超低本底探测器，开展晶体生长、低温探测
+ 器研发与低本底测量，掌握超纯闪烁晶体、金属磁量热
+ 器等关键技术，支持AMoRE、COSINE实验并规划未来发展。
+LOCATION:刘卿楼/1002
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Quantum Advantage in Optimization and Learning: From Reinforcement
   and Apprenticeship Learning to Algorithmic Expressivity
 DTSTART;TZID=Asia/Shanghai:20260909T160000
 DTEND;TZID=Asia/Shanghai:20260909T173000
 UID:05e7c329ace3a1eaa0a37a7b8b0ac587@reportautocal
-DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n探讨量子计算在优化
- 和学习中的优势，涵盖在线强化学习、学徒学习及变分
- 量子算法的表达性。提出新型混合在线-离线强化学习模
- 型，突破经典遗憾界限；在逆强化学习中获得二次加速
- ；并分析量子行走优化算法的动态李代数维度上限，揭
- 示过参数化条件。
+DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n该报告探讨量子计算
+ 优势在优化与学习领域的前沿研究：提出混合在线-离线
+ 强化学习模型，利用量子生成模型使遗憾界对时间水平T
+ 呈多对数依赖，突破经典平方根障碍；在逆强化学习的
+ 学徒学习中，实现了特征维度和动作空间的二次加速；
+ 并研究了基于量子行走的优化算法的表达极限，推导出
+ 动李代数维数的多项式上界。
 LOCATION:物理楼/W260
 END:VEVENT
 END:VCALENDAR
