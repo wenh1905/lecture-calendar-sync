@@ -1875,12 +1875,13 @@ SUMMARY:Status and Prospects of the Detector Research Development Center a
 DTSTART;TZID=Asia/Shanghai:20260915T103000
 DTEND;TZID=Asia/Shanghai:20260915T113000
 UID:fccb81c398b79d92a78e1de77354269b@reportautocal
-DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n本报告介绍
- 韩国基础科学研究所地下物理中心探测器研发中心的现
- 状与前景。该中心为暗物质和无中微子双β衰变等稀有事
- 件实验研制超低本底探测器，开展晶体生长、低温探测
- 器研发与低本底测量，掌握超纯闪烁晶体、金属磁量热
- 器等关键技术，支持AMoRE、COSINE实验并规划未来发展。
+DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n介绍韩国基
+ 础科学研究所地下物理中心探测器研发中心的现状与展
+ 望。该中心为暗物质和无中微子双贝塔衰变等稀有事件
+ 搜寻研制超低本底探测器，具备晶体生长、材料纯化、
+ 低温探测器开发及低本底测量能力，发展了超纯闪烁晶
+ 体、金属磁量热计等关键技术，支撑AMoRE和COSINE实验，并
+ 规划了下一代大质量稀有事件探测路线。
 LOCATION:刘卿楼/1002
 END:VEVENT
 BEGIN:VEVENT
@@ -1889,13 +1890,13 @@ SUMMARY:Quantum Advantage in Optimization and Learning: From Reinforcement
 DTSTART;TZID=Asia/Shanghai:20260909T160000
 DTEND;TZID=Asia/Shanghai:20260909T173000
 UID:05e7c329ace3a1eaa0a37a7b8b0ac587@reportautocal
-DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n该报告探讨量子计算
- 优势在优化与学习领域的前沿研究：提出混合在线-离线
- 强化学习模型，利用量子生成模型使遗憾界对时间水平T
- 呈多对数依赖，突破经典平方根障碍；在逆强化学习的
- 学徒学习中，实现了特征维度和动作空间的二次加速；
- 并研究了基于量子行走的优化算法的表达极限，推导出
- 动李代数维数的多项式上界。
+DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n本报告探讨量子计算
+ 在优化与学习中的优势，涵盖在线强化学习、学徒学习
+ 及变分量子算法表达能力三方面。提出混合在线-离线强
+ 化学习模型，借助量子生成模型获得时间对数依赖的遗
+ 憾界，突破经典下界；在逆强化学习中获得特征维度与
+ 动作空间的二次加速；并分析了量子行走优化算法动态
+ 李代数维数的上界条件。
 LOCATION:物理楼/W260
 END:VEVENT
 END:VCALENDAR
