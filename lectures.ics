@@ -1868,4 +1868,34 @@ DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n报告介绍韩
  支撑AMoRE和COSINE实验及未来更大规模实验。
 LOCATION:刘卿楼/1002
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:基础科学研究所地下物理中心-探测器研发中心现
+ 状与展望
+DTSTART;TZID=Asia/Shanghai:20260915T103000
+DTEND;TZID=Asia/Shanghai:20260915T113000
+UID:fe9db7ac58bb3f4a6039932bd615caac@reportautocal
+DESCRIPTION:主讲人: KIM HONG JOO 韩国庆北大学\n\n本报告介绍
+ 韩国基础科学研究所地下物理中心探测器研发中心的现
+ 状与前景。该中心为暗物质和无中微子双β衰变等稀有事
+ 件探测实验研制超低本底探测器，涵盖晶体生长、材料
+ 提纯、低温探测器开发及低本底测量等关键技术，并支
+ 持AMoRE和COSINE实验，同时展望了面向下一代大规模稀有事
+ 件探测器的技术路线。
+LOCATION:刘卿楼/1002
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quantum Advantage in Optimization and Learning: From Reinforcement
+  and Apprenticeship Learning to Algorithmic Expressivity
+DTSTART;TZID=Asia/Shanghai:20260909T160000
+DTEND;TZID=Asia/Shanghai:20260909T173000
+UID:05e7c329ace3a1eaa0a37a7b8b0ac587@reportautocal
+DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n本报告探讨量子计算
+ 优势在优化与学习中的前沿进展，主要涵盖三个方向：
+ 提出新的混合在线-离线强化学习模型，实现时间对数依
+ 赖的遗憾界以突破经典极限；在基于逆强化学习的学徒
+ 学习中相比经典算法实现特征维与动作空间的二次加速
+ ；并推导量子行走优化算法动态李代数维数的多项式上
+ 界，揭示其过度参数化的复杂性问题。
+LOCATION:物理楼/W260
+END:VEVENT
 END:VCALENDAR
