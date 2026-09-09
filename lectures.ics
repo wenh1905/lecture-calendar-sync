@@ -1890,13 +1890,26 @@ SUMMARY:Quantum Advantage in Optimization and Learning: From Reinforcement
 DTSTART;TZID=Asia/Shanghai:20260909T160000
 DTEND;TZID=Asia/Shanghai:20260909T173000
 UID:05e7c329ace3a1eaa0a37a7b8b0ac587@reportautocal
-DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n该报告探讨量子计算
- 在优化与学习中的优势，涵盖三个方向：提出混合在线-
- 离线强化学习模型，利用量子生成模型将遗憾界改进为
- 时间T的多对数依赖，突破经典Ω(√T)下限；在逆强化学
- 习的学徒学习中实现特征维数与动作空间规模的二次加
- 速；并为基于量子游走的优化算法推导动态李代数维数
- 的多项式上界，揭示达到最优解所需的过参数化条件。
+DESCRIPTION:主讲人: Debbie Lim Huey Chih 单位未注明\n\n报告探
+ 索量子计算在优化和学习中的优势。提出混合在线-离线
+ 强化学习框架，借助量子生成模型将遗憾的时间依赖降
+ 至多对数，突破经典√T下界；在逆强化学习的学徒学习
+ 中相对经典算法在特征维度和动作空间实现二次加速；
+ 并分析量子行走优化算法QWOA的动态李代数上界，揭示其
+ 在NPO-PB类问题上需过参数化的条件。
 LOCATION:物理楼/W260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:量子成像和三个令人惊讶的Stern-Gerlach实验
+DTSTART;TZID=Asia/Shanghai:20260917T143000
+DTEND;TZID=Asia/Shanghai:20260917T160000
+UID:3bc4951941bb93baa89395f905361883@reportautocal
+DESCRIPTION:主讲人: 汪立宏 美国加州理工学院\n\n本讲座报
+ 告量子成像与三个Stern-Gerlach实验。纠缠光子量子成像可
+ 实现超越经典衍射极限的超分辨；将玻尔兹曼方程重新
+ 表述为量子方程，揭示标准量子自旋方程的经典起源；
+ 展示多级Stern-Gerlach实验建模、低磁场梯度原子束量子测
+ 量及零梯度插层实验，并估算电子自旋坍缩时间。
+LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
