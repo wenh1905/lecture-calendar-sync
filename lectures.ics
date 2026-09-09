@@ -1890,13 +1890,13 @@ SUMMARY:Quantum Advantage in Optimization and Learning: From Reinforcement
 DTSTART;TZID=Asia/Shanghai:20260909T160000
 DTEND;TZID=Asia/Shanghai:20260909T173000
 UID:05e7c329ace3a1eaa0a37a7b8b0ac587@reportautocal
-DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n本报告探讨量子计算
- 在优化与学习中的优势，涵盖在线强化学习、学徒学习
- 及变分量子算法表达能力三方面。提出混合在线-离线强
- 化学习模型，借助量子生成模型获得时间对数依赖的遗
- 憾界，突破经典下界；在逆强化学习中获得特征维度与
- 动作空间的二次加速；并分析了量子行走优化算法动态
- 李代数维数的上界条件。
+DESCRIPTION:主讲人: Debbie Lim Huey Chih\n\n该报告探讨量子计算
+ 在优化与学习中的优势，涵盖三个方向：提出混合在线-
+ 离线强化学习模型，利用量子生成模型将遗憾界改进为
+ 时间T的多对数依赖，突破经典Ω(√T)下限；在逆强化学
+ 习的学徒学习中实现特征维数与动作空间规模的二次加
+ 速；并为基于量子游走的优化算法推导动态李代数维数
+ 的多项式上界，揭示达到最优解所需的过参数化条件。
 LOCATION:物理楼/W260
 END:VEVENT
 END:VCALENDAR
