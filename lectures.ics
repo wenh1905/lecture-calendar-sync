@@ -1905,12 +1905,28 @@ SUMMARY:★量子成像和三个令人惊讶的Stern-Gerlach实验
 DTSTART;TZID=Asia/Shanghai:20260917T143000
 DTEND;TZID=Asia/Shanghai:20260917T160000
 UID:3bc4951941bb93baa89395f905361883@reportautocal
-DESCRIPTION:主讲人: 汪立宏 美国加州理工学院\n\n报告介绍
- 基于纠缠光子符合检测的量子成像，展示超越经典衍射
- 极限的超分辨能力及理论框架。还探讨经典与量子交界
- 处的原子物理，将玻尔兹曼方程重构为量子方程，并展
- 示三项斯特恩-格拉赫实验的意外结果，包括利用光学光
- 谱技术实现低场量子测量及估算电子自旋坍缩时间。
+DESCRIPTION:主讲人: 汪立宏 美国加州理工学院\n\n讲座介绍
+ 基于纠缠光子重合检测的量子成像，实现超越经典衍射
+ 极限的超分辨。研究经典与量子交界原子物理，证明玻
+ 尔兹曼方程可重述为量子冯·诺依曼和薛定谔方程。三项
+ 意外实验：建模多级Stern-Gerlach实验，低场量子测量，利
+ 用光学光谱分辨空间重叠原子分布，估算电子自旋坍缩
+ 时间。
 LOCATION:物理楼/W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reinforcement Learning to Harness Approximation Errors for Long-Ti
+ me Quantum Simulation
+DTSTART;TZID=Asia/Shanghai:20260911T140000
+DTEND;TZID=Asia/Shanghai:20260911T153000
+UID:9736495116a60c554f4af5fe663da419@reportautocal
+DESCRIPTION:主讲人: Yu-Bo Shi 新加坡国立大学\n\n报告介绍 RL-
+ Trotter 强化学习框架，将长时量子模拟中不可避免的近似
+ 误差作为纠错资源。它利用能量与能量方差等守恒量作
+ 为学习信号，不访问目标波函数，仅自适应调整下一个 T
+ rotter 步长；通过优化整体长时演化发现自校正序列，提
+ 高精度，对测量噪声鲁棒并降低测量开销，还能泛化到
+ 未见初始态和更大系统。
+LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
