@@ -1905,13 +1905,15 @@ SUMMARY:★量子成像和三个令人惊讶的Stern-Gerlach实验
 DTSTART;TZID=Asia/Shanghai:20260917T143000
 DTEND;TZID=Asia/Shanghai:20260917T160000
 UID:3bc4951941bb93baa89395f905361883@reportautocal
-DESCRIPTION:主讲人: 汪立宏 美国加州理工学院\n\n讲座介绍
- 基于纠缠光子重合检测的量子成像，实现超越经典衍射
- 极限的超分辨。研究经典与量子交界原子物理，证明玻
- 尔兹曼方程可重述为量子冯·诺依曼和薛定谔方程。三项
- 意外实验：建模多级Stern-Gerlach实验，低场量子测量，利
- 用光学光谱分辨空间重叠原子分布，估算电子自旋坍缩
- 时间。
+DESCRIPTION:主讲人: 汪立宏 加州理工学院\n\n报告介绍基于
+ 纠缠光子符合探测的量子成像，其超越经典衍射极限实
+ 现超分辨，并探讨光子源自原子分子时经典与量子交界
+ 处的原子物理问题，证明玻尔兹曼方程可改写为量子冯·
+ 诺依曼方程与薛定谔方程。报告重点展示三项出人意料
+ 的Stern-Gerlach实验观测，包括多级Stern-Gerlach实验建模、极
+ 低磁场梯度下利用光学光谱技术分辨空间重叠原子束的
+ 量子测量，以及估算电子自旋坍缩时间，并指出传统理
+ 论在零场梯度附近的偏差。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1921,12 +1923,25 @@ DTSTART;TZID=Asia/Shanghai:20260911T140000
 DTEND;TZID=Asia/Shanghai:20260911T153000
 UID:9736495116a60c554f4af5fe663da419@reportautocal
 DESCRIPTION:主讲人: Yu-Bo Shi 新加坡国立大学\n\n报告介绍 RL-
- Trotter 强化学习框架，将长时量子模拟中不可避免的近似
- 误差作为纠错资源。它利用能量与能量方差等守恒量作
- 为学习信号，不访问目标波函数，仅自适应调整下一个 T
- rotter 步长；通过优化整体长时演化发现自校正序列，提
- 高精度，对测量噪声鲁棒并降低测量开销，还能泛化到
- 未见初始态和更大系统。
+ Trotter 强化学习框架，将长期量子模拟中不可避免的近似
+ 误差视为误差校正资源。该方法利用能量及能量方差等
+ 守恒律低维信息，学习自适应调节下一 Trotter 步长，无
+ 需目标波函数，并通过优化整体长期演化发现自校正序
+ 列。方法对测量噪声鲁棒，可泛化到相似初态并迁移至
+ 更大系统，支持经典预训练后在量子硬件部署。
 LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multi-wavelength\, multi-messenger\, transient astrophysics
+DTSTART;TZID=Asia/Shanghai:20260914T140000
+DTEND;TZID=Asia/Shanghai:20260914T153000
+UID:12d441bc721aca86f65ee6d74a7bf7bc@reportautocal
+DESCRIPTION:主讲人: 张冰 香港大学\n\n报告回顾多波段、多
+ 信使观测背景下天体物理暂现源研究的最新进展，重点
+ 介绍伽马射线暴（GRB）、快速X射线暂现源（FXT）和快速
+ 射电暴（FRB）。报告特别关注爱因斯坦探针、SVOM空间望
+ 远镜以及FAST射电望远镜所取得的突破性观测成果，并展
+ 望多信使天文学未来的发展方向。
+LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
