@@ -1905,13 +1905,13 @@ SUMMARY:★量子成像和三个令人惊讶的Stern-Gerlach实验
 DTSTART;TZID=Asia/Shanghai:20260917T143000
 DTEND;TZID=Asia/Shanghai:20260917T160000
 UID:3bc4951941bb93baa89395f905361883@reportautocal
-DESCRIPTION:主讲人: 汪立宏 美国加州理工学院\n\n介绍基于
- 纠缠光子符合检测的量子成像，其非经典相关性可实现
- 超越经典衍射极限的超分辨成像。报告还探讨经典与量
- 子交界处的原子物理，将玻尔兹曼方程重述为量子方程
- ，并展示三个意外的Stern-Gerlach实验，包括利用光学光谱
- 技术在低磁场梯度下分辨原子束分裂及估算电子自旋坍
- 缩时间。
+DESCRIPTION:主讲人: 汪立宏 美国加州理工学院\n\n报告介绍
+ 基于纠缠光子符合探测的量子成像，可实现超越经典衍
+ 射极限的超分辨，并讨论其理论与实验。还探讨经典与
+ 量子交界处的原子物理，将玻尔兹曼方程重述为量子方
+ 程，揭示自旋方程经典起源。重点展示三项意外的Stern-Ge
+ rlach实验结果，包括多级实验建模、低磁场梯度下利用光
+ 学光谱分辨重叠原子束及零梯度阶段效应。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1920,13 +1920,13 @@ SUMMARY:Reinforcement Learning to Harness Approximation Errors for Long-Ti
 DTSTART;TZID=Asia/Shanghai:20260911T140000
 DTEND;TZID=Asia/Shanghai:20260911T153000
 UID:9736495116a60c554f4af5fe663da419@reportautocal
-DESCRIPTION:主讲人: Yu-Bo Shi 新加坡国立大学\n\n报告介绍 RL-
- Trotter 强化学习框架，将长时量子模拟中的近似误差作为
- 纠错资源。它利用能量及能量方差等守恒律低维信息指
- 导智能体，仅调整下一 Trotter 步长，无需目标波函数。
- 通过优化整体演化发现自校正序列，提升长时动力学精
- 度，并抗测量噪声、降低开销，可泛化并迁移至更大系
- 统。
+DESCRIPTION:主讲人: Yu-Bo Shi 新加坡国立大学\n\n报告介绍RL-T
+ rotter强化学习框架，将量子长时间模拟中不可避免的近
+ 似误差视为纠错资源。该方法仅利用能量、能量方差等
+ 守恒律低维信息，学习调节下一步Trotter步长，优化整体
+ 长时间演化，发现可自我校正的误差补偿序列，从而提
+ 升精度、降低测量开销，并泛化到相似初态及更大系统
+ ，支持经典预训练后量子硬件部署。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -1934,10 +1934,11 @@ SUMMARY:Multi-wavelength\, multi-messenger\, transient astrophysics
 DTSTART;TZID=Asia/Shanghai:20260914T140000
 DTEND;TZID=Asia/Shanghai:20260914T153000
 UID:12d441bc721aca86f65ee6d74a7bf7bc@reportautocal
-DESCRIPTION:主讲人: 张冰 香港大学\n\n报告综述多波段、多
- 信使天体暂现源研究进展，重点介绍伽马射线暴、快速X
- 射线暂现源和快速射电暴，并讨论爱因斯坦探针、SVOM空
- 间望远镜及FAST射电望远镜带来的突破性观测成果。
+DESCRIPTION:主讲人: 张冰 香港大学\n\n本报告综述多波段、
+ 多信使观测下天体物理暂现源研究进展，重点讨论伽马
+ 射线暴、快速X射线暂现源和快速射电暴，并介绍爱因斯
+ 坦探针、SVOM空间望远镜及FAST射电望远镜取得的突破性观
+ 测成果。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
