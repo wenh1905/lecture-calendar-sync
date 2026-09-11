@@ -1920,14 +1920,14 @@ SUMMARY:Reinforcement Learning to Harness Approximation Errors for Long-Ti
 DTSTART;TZID=Asia/Shanghai:20260911T140000
 DTEND;TZID=Asia/Shanghai:20260911T153000
 UID:9736495116a60c554f4af5fe663da419@reportautocal
-DESCRIPTION:主讲人: Yu-Bo Shi 新加坡国立大学\n\n报告介绍 RL-
- Trotter 强化学习框架，用于长时量子模拟。它将近似演化
- 中不可避免的误差视为纠错资源，而非仅需抑制的缺陷
- 。利用能量及其方差等守恒量提供的低维信息，智能体
- 自适应调整 Trotter 步长，无需目标波函数。通过优化整
- 个长时演化，发现自校正序列，提高精度，对测量噪声
- 鲁棒，减少开销，并可泛化到相似初态、从小系统迁移
- 至大系统。
+DESCRIPTION:主讲人: 石宇波 新加坡国立大学\n\n介绍了一种
+ 强化学习框架RL-Trotter，将近似模拟中的累积误差视为可
+ 校正资源。利用能量守恒等低维信息作为学习信号，自
+ 适应调整Trotter步长，无需目标波函数。通过优化整个长
+ 时演化，发现自校正序列，使后期误差补偿前期误差，
+ 提高长期动力学精度。策略对测量噪声鲁棒，可泛化到
+ 相似初态和更大系统，实现经典预训练后量子硬件部署
+ 。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -1935,11 +1935,11 @@ SUMMARY:Multi-wavelength\, multi-messenger\, transient astrophysics
 DTSTART;TZID=Asia/Shanghai:20260914T140000
 DTEND;TZID=Asia/Shanghai:20260914T153000
 UID:12d441bc721aca86f65ee6d74a7bf7bc@reportautocal
-DESCRIPTION:主讲人: 张冰 香港大学\n\n本报告回顾多波段、
- 多信使观测背景下天体暂现源研究的最新进展，重点介
- 绍伽马射线暴、快速X射线暂现源和快速射电暴，并关注
- 爱因斯坦探针、SVOM空间望远镜及FAST射电望远镜取得的突
- 破性观测成果。
+DESCRIPTION:主讲人: 张冰 香港大学\n\n本报告综述多波段、
+ 多信使观测下天体物理暂现源的研究进展，重点介绍伽
+ 马射线暴、快速X射线暂现源和快速射电暴，并强调爱因
+ 斯坦探针、SVOM空间望远镜及FAST射电望远镜带来的突破性
+ 观测。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -1947,12 +1947,13 @@ SUMMARY:AI 物理：计算物理研究的变革与未来
 DTSTART;TZID=Asia/Shanghai:20260917T160000
 DTEND;TZID=Asia/Shanghai:20260917T173000
 UID:fff84d3b0a59a1ce2b51a438449e60a0@reportautocal
-DESCRIPTION:主讲人: 龚新高 复旦大学\n\n报告围绕AI驱动计
- 算物质科学的变革，介绍机器学习势突破第一性原理的
- 时空极限，让AI掌握物理规律的数学载体，以通用势模型
- 与通用哈密顿量实现全材料空间高通量探索，并通过AI合
- 成路线规划打通从理论预测到实验制备的完整链路，展
- 现AI如何改变人类认识物质世界的方式。
+DESCRIPTION:主讲人: 龚新高 复旦大学\n\n本报告将人工智能
+ 视为物理学的“新望远镜”，介绍AI驱动计算物质科学的
+ 变革：以机器学习势突破第一性原理的时空极限，让AI掌
+ 握物理规律的数学载体，以通用势模型与通用哈密顿量
+ 实现全材料空间的高通量探索，并以AI合成路线规划打通
+ 从理论预测到实验制备的链路，推动物理规律发现与学
+ 科知识统一。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
