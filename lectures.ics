@@ -1961,13 +1961,13 @@ SUMMARY:从光子到图像：拓展X射线成像的边界（From Photons t
 DTSTART;TZID=Asia/Shanghai:20260917T100000
 DTEND;TZID=Asia/Shanghai:20260917T110000
 UID:e752ed19f6e089828a4f7912c3bd2191@reportautocal
-DESCRIPTION:主讲人: Pablo Villanueva 瑞典隆德大学\n\n报告围绕
- 衍射极限储存环和X射线自由电子激光时代，重新思考X射
- 线成像的三大环节：X射线与物质相互作用、仪器与数据
- 采集、计算重建。介绍X射线多投影成像、扫描康普顿X射
- 线显微、AI高维4D重建与低剂量相位恢复、多光束叠层成
- 像等，旨在拓展动态、低剂量和高效相干X射线成像边界
- 。
+DESCRIPTION:主讲人: Pablo Villanueva 瑞典隆德大学\n\n报告探讨
+ 衍射极限存储环与X射线自由电子激光推动下的X射线成像
+ 新边界，围绕X射线—物质相互作用、仪器与数据采集、
+ 计算重建三方面展开。介绍X射线多投影成像、扫描康普
+ 顿X射线显微、基于AI的高维4D重建与低剂量相位恢复、多
+ 光束叠层成像等方法，展示如何利用光源亮度、相干性
+ 和时间结构突破成像极限。
 LOCATION:刘卿楼/402
 END:VEVENT
 BEGIN:VEVENT
@@ -1975,13 +1975,12 @@ SUMMARY:How do you form a solar system like ours?
 DTSTART;TZID=Asia/Shanghai:20260917T150000
 DTEND;TZID=Asia/Shanghai:20260917T163000
 UID:5354d53c6db53107731801f3e09b1e51@reportautocal
-DESCRIPTION:主讲人: Daniel Price 莫纳什大学\n\n本报告探讨像
- 太阳系这样的行星系统如何形成。太阳系看似规则有序
- ，但行星自旋不齐、尘埃曾剧烈熔融、星子盘在47 au处截
- 断。借助ALMA对年轻恒星周围气体尘埃盘的观测，发现行
- 星在恒星形成最初百万年内快速形成，且环境混乱。报
- 告将结合恒星形成过程，更新行星形成图景并解释太阳
- 系旧谜题。
+DESCRIPTION:主讲人: Daniel Price 莫纳什大学\n\n报告探讨太阳
+ 系如何形成，指出行星盘并非整齐有序，存在自转不对
+ 齐、尘埃熔融、星子盘在47 au截断等线索。结合ALMA对年
+ 轻恒星周围气体尘埃盘的观测，说明行星在恒星形成最
+ 初百万年、环境混乱时快速形成，并讨论这些新发现如
+ 何改变行星形成认识并解释太阳系古老谜题。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
