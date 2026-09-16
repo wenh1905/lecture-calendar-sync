@@ -1974,11 +1974,11 @@ SUMMARY:Dark matter dark energy interaction
 DTSTART;TZID=Asia/Shanghai:20260916T133000
 DTEND;TZID=Asia/Shanghai:20260916T150000
 UID:e1388006c9eb6866e40ddf0f8e892f83@reportautocal
-DESCRIPTION:主讲人: 王连涛 芝加哥大学\n\n报告讨论暗物质
- 与暗能量相互作用的模型。受最新DESI数据启发，介绍暗
- 物质与暗能量耦合的可能性，分析构建此类理论模型时
- 面临的理论困难，并提出一类可能自然的模型，涉及粒
- 子物理、宇宙学与早期宇宙。
+DESCRIPTION:主讲人: 王连涛 芝加哥大学\n\n近期DESI数据激发
+ 了对暗物质与暗能量相互作用模型的探索。报告将分析
+ 构建此类模型时面临的困难，并识别出一类可能的自然
+ 模型，对理解宇宙加速膨胀和暗物质本质具有重要意义
+ 。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1986,12 +1986,13 @@ SUMMARY:AI 物理：计算物理研究的变革与未来
 DTSTART;TZID=Asia/Shanghai:20260917T160000
 DTEND;TZID=Asia/Shanghai:20260917T173000
 UID:fff84d3b0a59a1ce2b51a438449e60a0@reportautocal
-DESCRIPTION:主讲人: 龚新高 复旦大学\n\n报告从AI驱动计算
- 物质科学变革出发，介绍机器学习势突破第一性原理时
- 空极限，让AI掌握物理规律的数学载体，以通用势模型与
- 通用哈密顿量实现全材料空间高通量探索，并通过AI合成
- 路线规划打通从理论预测到实验制备的完整链路，展现AI
- 如何让隐匿物理规律浮现、汇聚学科知识。
+DESCRIPTION:主讲人: 龚新高 复旦大学\n\n本报告从AI驱动计
+ 算物质科学变革出发，介绍以机器学习势突破第一性原
+ 理的时空极限，让AI掌握物理规律的数学载体，借助通用
+ 势模型与通用哈密顿量实现全材料空间的高通量探索，
+ 并以AI合成路线规划打通从理论预测到实验制备的链路。
+ AI正成为物理学的“新望远镜”，帮助发现数据中的物理
+ 规律，拓展对物质世界的认识。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2000,12 +2001,11 @@ DTSTART;TZID=Asia/Shanghai:20260918T143000
 DTEND;TZID=Asia/Shanghai:20260918T160000
 UID:62b8f567f444ada0953608d457f0067b@reportautocal
 DESCRIPTION:主讲人: Zimo Sun 普林斯顿高等研究院\n\n报告介
- 绍二维共形场论中 Virasoro 最小模型的 Ginzburg–Landau 描述
- 进展，重点给出 M(3\,8) 与 M(3\,10) 最小模型 D 型模不变量
- 的 GL 拉格朗日量，由两个带三次相互作用和虚耦合的标
- 量场构造；讨论超对称推广，描述 N=1 超共形最小模型 SM
- (12\,14) 的例外 (E6\,D8) 模不变量，并预言三维新幺正超对
- 称 CFT。
+ 绍非对角极小模型的Ginzburg–Landau描述，针对M(3\,8)和M(3\,
+ 10)的D型模不变量，构造由两个标量场、立方相互作用及
+ 虚耦合组成的GL拉格朗日量；并讨论超对称推广，为N=1超
+ 共形极小模型SM(12\,14)的例外(E6\,D8)模不变量提供GL描述，
+ 三维延拓下预言新的幺正超对称共形场论。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
