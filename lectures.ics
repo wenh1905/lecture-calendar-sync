@@ -1942,20 +1942,6 @@ DESCRIPTION:主讲人: 张冰 香港大学\n\n本报告综述多波段、
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AI 物理：计算物理研究的变革与未来
-DTSTART;TZID=Asia/Shanghai:20260917T160000
-DTEND;TZID=Asia/Shanghai:20260917T173000
-UID:fff84d3b0a59a1ce2b51a438449e60a0@reportautocal
-DESCRIPTION:主讲人: 龚新高 复旦大学\n\n龚新高院士将介绍
- 人工智能如何成为物理学的“新望远镜”，推动计算物
- 质科学变革。内容包括以机器学习势突破第一性原理时
- 空极限，让AI掌握物理规律的数学载体，以通用势模型与
- 通用哈密顿量实现全材料空间高通量探索，并以AI合成路
- 线规划打通理论预测到实验制备链路，展现AI拓展物质世
- 界认知的潜力。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:从光子到图像：拓展X射线成像的边界（From Photons t
  o Images: Pushing the Limits of X-ray Imaging）
 DTSTART;TZID=Asia/Shanghai:20260917T100000
@@ -1982,5 +1968,30 @@ DESCRIPTION:主讲人: Daniel Price 莫纳什大学\n\n报告探讨太阳
  初百万年、环境混乱时快速形成，并讨论这些新发现如
  何改变行星形成认识并解释太阳系古老谜题。
 LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dark matter dark energy interaction
+DTSTART;TZID=Asia/Shanghai:20260916T133000
+DTEND;TZID=Asia/Shanghai:20260916T150000
+UID:e1388006c9eb6866e40ddf0f8e892f83@reportautocal
+DESCRIPTION:主讲人: 王连涛 芝加哥大学\n\n报告围绕暗物质
+ 与暗能量相互作用的模型展开。近期DESI观测数据为这类
+ 相互作用提供了新的动机。主讲人将分析构建暗物质与
+ 暗能量相互作用模型时存在的理论困难，并介绍一类可
+ 能的自然模型，讨论其对粒子物理与宇宙学的影响。
+LOCATION:物理楼/W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI 物理：计算物理研究的变革与未来
+DTSTART;TZID=Asia/Shanghai:20260917T160000
+DTEND;TZID=Asia/Shanghai:20260917T173000
+UID:fff84d3b0a59a1ce2b51a438449e60a0@reportautocal
+DESCRIPTION:主讲人: 龚新高 复旦大学\n\n本报告探讨人工智
+ 能如何推动计算物理研究变革，介绍机器学习势突破第
+ 一性原理时空极限、让AI掌握物理规律数学载体、以通用
+ 势模型与通用哈密顿量实现全材料空间高通量探索，以
+ 及AI合成路线规划打通理论预测到实验制备链路，展望AI
+ 拓展人类对物质世界的认知。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
