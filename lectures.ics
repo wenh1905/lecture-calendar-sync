@@ -1974,11 +1974,11 @@ SUMMARY:Dark matter dark energy interaction
 DTSTART;TZID=Asia/Shanghai:20260916T133000
 DTEND;TZID=Asia/Shanghai:20260916T150000
 UID:e1388006c9eb6866e40ddf0f8e892f83@reportautocal
-DESCRIPTION:主讲人: 王连涛 芝加哥大学\n\n报告基于近期DESI
- 观测数据，探讨暗物质与暗能量相互作用的可能性。主
- 讲人将分析构建此类相互作用模型时面临的理论困难，
- 并提出一类可能的自然模型，涉及粒子物理、宇宙学及
- 早期宇宙。
+DESCRIPTION:主讲人: 王连涛 芝加哥大学\n\n报告围绕暗物质
+ 与暗能量相互作用的模型展开。近期DESI数据促使人们考
+ 虑二者存在相互作用；报告将分析构造这类模型时的主
+ 要困难，并提出一类可能的自然模型。内容属于粒子物
+ 理与宇宙学理论前沿。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -1986,12 +1986,13 @@ SUMMARY:AI 物理：计算物理研究的变革与未来
 DTSTART;TZID=Asia/Shanghai:20260917T160000
 DTEND;TZID=Asia/Shanghai:20260917T173000
 UID:fff84d3b0a59a1ce2b51a438449e60a0@reportautocal
-DESCRIPTION:主讲人: 龚新高 复旦大学\n\n本报告介绍人工智
- 能作为物理学的新望远镜，如何推动计算物质科学变革
- 。内容包括以机器学习势突破第一性原理的时空极限，
- 让AI掌握物理规律的数学载体，以通用势模型与通用哈密
- 顿量实现全材料空间的高通量探索，并通过AI合成路线规
- 划打通理论预测到实验制备链路。
+DESCRIPTION:主讲人: 龚新高 复旦大学\n\n报告介绍AI驱动计
+ 算物质科学的变革，包括以机器学习势突破第一性原理
+ 的时空极限，让AI掌握物理规律的数学载体，以通用势模
+ 型与通用哈密顿量实现全材料空间的高通量探索，以AI合
+ 成路线规划打通从理论预测到实验制备的完整链路。AI正
+ 改变我们认识物质世界的方式，让隐匿的物理规律浮现
+ ，汇聚学科知识为统一认知框架。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -1999,14 +2000,14 @@ SUMMARY:Ginzburg–Landau Descriptions of Some Non-Diagonal Minimal Models
 DTSTART;TZID=Asia/Shanghai:20260918T143000
 DTEND;TZID=Asia/Shanghai:20260918T160000
 UID:62b8f567f444ada0953608d457f0067b@reportautocal
-DESCRIPTION:主讲人: Zimo Sun 普林斯顿高等研究院\n\n报告介
- 绍非对角极小模型的Ginzburg-Landau描述。Belavin-Polyakov-Zamolo
- dchikov的Virasoro极小模型长期仅有幺正系列的拉格朗日描
- 述。本报告给出M(3\,8)和M(3\,10)极小模型D型模不变量的GL
- 拉格朗日量，由两个标量场构成，含立方相互作用与虚
- 耦合。进一步讨论超对称推广，得到N=1超共形极小模型SM
- (12\,14)的例外(E6\,D8)模不变量的GL描述，并预测新的三维
- 幺正超共形场论。
+DESCRIPTION:主讲人: 孙梓墨 普林斯顿高等研究院\n\n本报告
+ 介绍非对角极小模型的Ginzburg–Landau描述。Belavin–Polyakov
+ –Zamolodchikov构造了Virasoro极小模型，但拉格朗日描述多
+ 限于酉系列。报告将给出M(3\,8)和M(3\,10)的D型模不变量的G
+ L拉格朗日量，由两个具有三次相互作用和虚耦合的标量
+ 场构成。随后讨论超对称推广，得到N=1超共形极小模型SM
+ (12\,14)的例外(E₆\, D₈)模不变量的GL描述，并延拓至三维
+ ，预测新的酉超共形CFT。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -2014,12 +2015,11 @@ SUMMARY:Deep Learning on Type Ia Supernovae
 DTSTART;TZID=Asia/Shanghai:20260924T100000
 DTEND;TZID=Asia/Shanghai:20260924T113000
 UID:4d5ec2fdb58b46ff4c4bf2be47a48c2e@reportautocal
-DESCRIPTION:主讲人: 陈星卓 浙江大学\n\n报告介绍利用深度
- 学习辅助Ia型超新星结构估计，以及深度学习在三维辐射
- 转移模拟中的应用。Ia型超新星是可标准化的宇宙学烛光
- ，其理论模拟涉及流体力学、核合成和辐射转移，计算
- 昂贵且难以高精度复现观测。报告人将分享相关研究进
- 展。
+DESCRIPTION:主讲人: 陈星卓 浙江大学\n\nIa型超新星作为可
+ 标准化的宇宙烛光，在宇宙学中至关重要。报告介绍利
+ 用深度学习辅助估计Ia型超新星结构，并将其应用于三维
+ 辐射转移模拟，以提升计算效率，帮助弥合理论模型与
+ 观测特征之间的差距。
 LOCATION:物理楼/W361
 END:VEVENT
 END:VCALENDAR
