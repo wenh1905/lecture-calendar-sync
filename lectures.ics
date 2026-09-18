@@ -2015,12 +2015,11 @@ SUMMARY:Deep Learning on Type Ia Supernovae
 DTSTART;TZID=Asia/Shanghai:20260924T100000
 DTEND;TZID=Asia/Shanghai:20260924T113000
 UID:4d5ec2fdb58b46ff4c4bf2be47a48c2e@reportautocal
-DESCRIPTION:主讲人: 陈星卓 浙江大学\n\n本报告介绍深度学
- 习在Ia型超新星研究中的应用。Ia型超新星可作为标准烛
- 光，对宇宙学至关重要，但包含流体力学、核合成和辐
- 射转移的第一性原理模拟计算代价高，难以精确复现观
- 测。报告将介绍利用深度学习辅助估计Ia型超新星结构，
- 以及深度学习在三维辐射转移模拟中的应用。
+DESCRIPTION:主讲人: 陈星卓 浙江大学\n\nIa型超新星可作为
+ 宇宙学标准烛光，但其涉及流体力学、核合成和辐射转
+ 移的第一性原理模拟计算成本高昂。报告介绍利用深度
+ 学习辅助估计Ia型超新星结构，并探讨深度学习在三维辐
+ 射转移模拟中的应用。
 LOCATION:物理楼/W361
 END:VEVENT
 END:VCALENDAR
