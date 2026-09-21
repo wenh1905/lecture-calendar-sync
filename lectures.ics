@@ -2030,13 +2030,12 @@ DTSTART;TZID=Asia/Shanghai:20260922T160000
 DTEND;TZID=Asia/Shanghai:20260922T173000
 UID:5d1a74c4735602ac33985205eb3e1ceb@reportautocal
 DESCRIPTION:主讲人: 柳卫平 中国原子能科学研究院\n\n报告
- 介绍核天体物理国际前沿进展，聚焦宇宙创生后元素合
- 成、比铁更重元素来源及大质量恒星命运。JUNA团队自主
- 研制国际最强流深地核物理实验装置，发展极低本底高
- 效率测量方法，攻克近伽莫夫能量极低截面直接测量难
- 题。研究排除氟丰度异常的核物理因素，获得最精确伽
- 马射线天文反应数据，澄清重元素合成中子源反应率分
- 歧，并发现辐射俘获新共振。
+ 介绍核天体物理国际最新进展及JUNA锦屏深地核天体物理
+ 实验。团队自主研制国际最强流深地核物理装置，发展
+ 极低本底高效率测量方法，攻克近伽莫夫能量极低截面
+ 直接测量难题，澄清氟丰度、天体重元素合成中子源反
+ 应率等分歧，取得最精确伽马射线天文反应数据，发现
+ 辐射俘获新共振，成果发表于Nature、PRL等。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2045,12 +2044,26 @@ SUMMARY:First Principles Design of Functional Materials for Energy And Opt
 DTSTART;TZID=Asia/Shanghai:20260924T160000
 DTEND;TZID=Asia/Shanghai:20260924T173000
 UID:c4147fa4343d2b51a9cc05e832fb91b2@reportautocal
-DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n本次报告
- 介绍利用第一性原理方法设计能源与光电器件用功能材
- 料。报告将讨论电子结构理论与计算能力进展如何推动
- 知识驱动的材料设计，加速能源与光电材料发现，并以
- 太阳能电池、催化剂、透明导电材料等为例，说明计算
- 模拟在理解与设计功能材料中的作用。
+DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n报告介绍
+ 第一性原理计算方法在功能材料设计中的应用，强调电
+ 子结构理论结合算力可实现面向能源与光电器件的知识
+ 驱动材料设计。内容涵盖太阳能电池、催化剂和透明导
+ 电材料等案例，说明计算方法如何帮助理解并设计具有
+ 特定性能的功能材料，加速能源与光电材料的发现。
 LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reassessing Chemical Processes Defining the Isotopic Compositions 
+ of the First Solids in the Solar System
+DTSTART;TZID=Asia/Shanghai:20260924T150000
+DTEND;TZID=Asia/Shanghai:20260924T163000
+UID:e1a20443a05d30f15f61dd4c3a831bca@reportautocal
+DESCRIPTION:主讲人: 林莽 中国科学院广州地球化学研究所\n
+ \n报告重新评估太阳系最早形成固体中异常氧同位素组成
+ 的化学成因。其17O/16O与18O/16O呈近乎1:1变化，不同于质量
+ 依赖分馏。CO光解和同位素自屏蔽常被用于解释该特征，
+ 但报告从理论上质疑其能否产生观测关系，并探讨原行
+ 星盘中其他化学路径，以追溯太阳系化学起点。
+LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
