@@ -2039,21 +2039,6 @@ DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n报告介绍
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reassessing Chemical Processes Defining the Isotopic Compositions 
- of the First Solids in the Solar System
-DTSTART;TZID=Asia/Shanghai:20260924T150000
-DTEND;TZID=Asia/Shanghai:20260924T163000
-UID:e1a20443a05d30f15f61dd4c3a831bca@reportautocal
-DESCRIPTION:主讲人: 林莽 中国科学院广州地球化学研究所\n
- \n报告重新评估太阳系最早固体中氧同位素异常的形成机
- 制。其17O/16O与18O/16O呈近1:1关系，区别于传统质量相关分
- 馏。CO光解及同位素自屏蔽常被用来解释该特征，但报告
- 从理论上指出选择性CO光解可能无法产生观测关系，并呼
- 吁寻找原行星盘中其他化学路径，以理解太阳系化学起
- 点。
-LOCATION:物理楼/E100
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:大山深处仰望星空：JUNA锦屏深地核天体物理进展
 DTSTART;TZID=Asia/Shanghai:20260922T160000
 DTEND;TZID=Asia/Shanghai:20260922T173000
@@ -2067,5 +2052,21 @@ DESCRIPTION:主讲人: 柳卫平 中国原子能科学研究院、南方
  反应、中子源反应率、圣杯反应及新共振等方面取得成
  果。
 LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reassessing Chemical Processes Defining the Isotopic Compositions 
+ of the First Solids in the Solar System
+DTSTART;TZID=Asia/Shanghai:20260924T150000
+DTEND;TZID=Asia/Shanghai:20260924T163000
+UID:e1a20443a05d30f15f61dd4c3a831bca@reportautocal
+DESCRIPTION:主讲人: 林莽 中国科学院广州地球化学研究所\n
+ \n报告重新审视太阳系最早固体中氧同位素异常的成因。
+ 这些固体的17O/16O与18O/16O呈近1:1关系，不同于常规质量相
+ 关分馏，通常被归因于CO光解离及同位素自屏蔽效应。报
+ 告重新评估该模型的基本假设，从理论上指出同位素选
+ 择性CO光解离可能无法产生观测到的同位素关系，从而促
+ 使人们寻找原行星盘中其他化学路径，以理解太阳系最
+ 早固体的氧同位素异常及太阳系的化学起点。
+LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
