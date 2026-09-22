@@ -2025,19 +2025,6 @@ DESCRIPTION:主讲人: 陈星卓 浙江大学\n\nIa型超新星作为可
 LOCATION:物理楼/W361
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:大山深处仰望星空：JUNA锦屏深地核天体物理进展
-DTSTART;TZID=Asia/Shanghai:20260922T160000
-DTEND;TZID=Asia/Shanghai:20260922T173000
-UID:5d1a74c4735602ac33985205eb3e1ceb@reportautocal
-DESCRIPTION:主讲人: 柳卫平 中国原子能科学研究院\n\n报告
- 介绍核天体物理国际最新进展，聚焦宇宙创生后元素合
- 成及大质量恒星命运。JUNA团队研制国际最强流深地核物
- 理实验装置，发展极低本底高效率测量方法，攻克近伽
- 莫夫能量极低截面直接测量难题，并取得多项重要成果
- 。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:First Principles Design of Functional Materials for Energy And Opt
  oelectronic Device Applications
 DTSTART;TZID=Asia/Shanghai:20260924T160000
@@ -2058,11 +2045,27 @@ DTSTART;TZID=Asia/Shanghai:20260924T150000
 DTEND;TZID=Asia/Shanghai:20260924T163000
 UID:e1a20443a05d30f15f61dd4c3a831bca@reportautocal
 DESCRIPTION:主讲人: 林莽 中国科学院广州地球化学研究所\n
- \n报告重新评估太阳系最早固体中异常氧同位素组成的化
- 学成因。这些固体的17O/16O与18O/16O变化近于1:1，偏离常规
- 质量依赖分馏，约束了早期太阳系环境。传统CO光解及同
- 位素自屏蔽模型或难以解释该关系，因此需探索原行星
- 盘中其他化学途径，以追溯太阳系化学起点。
+ \n报告重新评估太阳系最早固体中氧同位素异常的形成机
+ 制。其17O/16O与18O/16O呈近1:1关系，区别于传统质量相关分
+ 馏。CO光解及同位素自屏蔽常被用来解释该特征，但报告
+ 从理论上指出选择性CO光解可能无法产生观测关系，并呼
+ 吁寻找原行星盘中其他化学路径，以理解太阳系化学起
+ 点。
 LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:大山深处仰望星空：JUNA锦屏深地核天体物理进展
+DTSTART;TZID=Asia/Shanghai:20260922T160000
+DTEND;TZID=Asia/Shanghai:20260922T173000
+UID:5d1a74c4735602ac33985205eb3e1ceb@reportautocal
+DESCRIPTION:主讲人: 柳卫平 中国原子能科学研究院、南方
+ 科技大学\n\n报告介绍核天体物理国际前沿，探讨宇宙创
+ 生3分钟后元素合成、比铁更重元素来源及大质量恒星命
+ 运。JUNA团队在锦屏深地研制国际最强流深地核物理实验
+ 装置，发展极低本底高效率测量方法，攻克近伽莫夫能
+ 量极低截面反应直接测量难题，并在氟丰度、伽马天文
+ 反应、中子源反应率、圣杯反应及新共振等方面取得成
+ 果。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
