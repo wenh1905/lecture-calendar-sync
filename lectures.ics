@@ -2040,20 +2040,6 @@ DESCRIPTION:主讲人: 林莽 中国科学院广州地球化学研究所\n
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:大山深处仰望星空：JUNA锦屏深地核天体物理进展
-DTSTART;TZID=Asia/Shanghai:20260922T160000
-DTEND;TZID=Asia/Shanghai:20260922T173000
-UID:5d1a74c4735602ac33985205eb3e1ceb@reportautocal
-DESCRIPTION:主讲人: 柳卫平 中国原子能科学研究院\n\n报告
- 介绍核天体物理前沿，探讨宇宙创生3分钟后元素合成、
- 比铁更重元素来源及大质量恒星命运。JUNA团队在锦屏深
- 地研制国际最强流核物理装置，发展极低本底高效率测
- 量方法，攻克近伽莫夫能量极低截面反应直接测量难题
- ，并在氟丰度、伽马射线天文反应、中子源反应率、圣
- 杯反应等方面取得重要成果。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:【理学院科学之美讲坛】大山深处仰望星空：JUNA
  锦屏深地核天体物理进展
 DTSTART;TZID=Asia/Shanghai:20260922T160000
@@ -2069,18 +2055,32 @@ DESCRIPTION:主讲人: 柳卫平 中国原子能科学研究院\n\n报告
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:大山深处仰望星空：JUNA锦屏深地核天体物理进展
+DTSTART;TZID=Asia/Shanghai:20260922T160000
+DTEND;TZID=Asia/Shanghai:20260922T173000
+UID:5d1a74c4735602ac33985205eb3e1ceb@reportautocal
+DESCRIPTION:主讲人: 柳卫平 中国原子能科学研究院\n\n报告
+ 介绍核天体物理前沿，探讨宇宙创生后元素合成与重元
+ 素起源。JUNA团队在锦屏深地建立国际最强流核物理实验
+ 装置，发展极低本底高效测量方法，攻克近伽莫夫能量
+ 极低截面反应直接测量难题，并取得伽马射线天文反应
+ 、天体重元素合成中子源、圣杯反应与新共振等成果。
+LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Background-Induced Forces from Quadratically Coupled Ultralight Da
  rk Matter
 DTSTART;TZID=Asia/Shanghai:20260924T140000
 DTEND;TZID=Asia/Shanghai:20260924T153000
 UID:3c5d01771535891a14c55e8836486bd0@reportautocal
-DESCRIPTION:主讲人: 徐海麟 李政道研究所\n\n报告研究二次
- 耦合超轻标量暗物质作为相干经典场，通过与物质相互
- 作用诱导成分依赖力。作者超越球对称近似，用分波法
- 计算角度依赖，并推导暗物质波长远小于地球半径时的
- 解析描述。报告揭示地球屏蔽产生的多边带频带结构及
- 年变化信号模板，重新评估MICROSCOPE约束，并展望Galileo Ga
- lilei、STE-QUEST等空间实验提升灵敏度。
+DESCRIPTION:主讲人: 徐海麟 李政道研究所\n\n报告计算二次
+ 耦合超轻标量暗物质背景诱导的成分依赖力，超越球对
+ 称近似，用分波法给出角依赖及暗物质波长远小于地球
+ 半径时的解析描述。发现地球屏蔽产生特征频带结构，
+ 信号分裂为多个边带，且边带振幅随地球运动呈年度变
+ 化，可构建完整信号模板。据此重新评估MICROSCOPE约束，
+ 并表明Galileo Galilei、STE-QUEST等空间等效原理实验利用全
+ 频带信息可显著提升灵敏度。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -2089,12 +2089,12 @@ SUMMARY:First Principles Design of Functional Materials for Energy And Opt
 DTSTART;TZID=Asia/Shanghai:20260924T160000
 DTEND;TZID=Asia/Shanghai:20260924T173000
 UID:c4147fa4343d2b51a9cc05e832fb91b2@reportautocal
-DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n报告利用
- 第一性原理电子结构方法，介绍功能材料的理性设计与
- 计算模拟，聚焦能源和光电器件应用。通过选取太阳能
- 电池、催化剂和透明导电材料等案例，说明计算方法如
- 何理解并设计具有特定性能的材料，从而加速能源与光
- 电材料的发现与开发。
+DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n本报告介
+ 绍利用第一性原理方法进行功能材料设计，以服务能源
+ 与光电器件应用。报告将结合近期研究案例，说明如何
+ 通过计算理解并设计太阳能电池、催化剂和透明导电材
+ 料等，展示第一性原理计算在加速能源与光电材料发现
+ 中的重要作用。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
