@@ -2054,19 +2054,33 @@ DESCRIPTION:主讲人: 柳卫平 中国原子能科学研究院\n\n报告
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:【理学院科学之美讲坛】大山深处仰望星空：JUNA
+ 锦屏深地核天体物理进展
+DTSTART;TZID=Asia/Shanghai:20260922T160000
+DTEND;TZID=Asia/Shanghai:20260922T173000
+UID:91ca45eee4fc01fc0c950c5808e5cfc9@reportautocal
+DESCRIPTION:主讲人: 柳卫平 中国原子能科学研究院\n\n报告
+ 介绍核天体物理国际最新进展，重点讲述JUNA锦屏深地核
+ 天体物理实验。团队自主研制国际最强流深地核物理装
+ 置，发展极低本底高效率测量方法，攻克近伽莫夫能量
+ 极低截面直接测量难题，并在氟丰度、伽马天文反应、
+ 重元素合成中子源、圣杯反应及新共振等方面取得重要
+ 成果。
+LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Background-Induced Forces from Quadratically Coupled Ultralight Da
  rk Matter
 DTSTART;TZID=Asia/Shanghai:20260924T140000
 DTEND;TZID=Asia/Shanghai:20260924T153000
 UID:3c5d01771535891a14c55e8836486bd0@reportautocal
-DESCRIPTION:主讲人: 徐海麟 上海交通大学李政道研究所\n\n
- 报告研究二次耦合超轻标量暗物质作为相干经典场，通
- 过与物质相互作用产生依赖成分的背景诱导力。作者完
- 整计算该力并超越球对称近似，采用分波方法分析散射
- 与角度依赖，发现地球屏蔽会产生特征频带和多个边带
- 信号，且边带幅度随地球运动发生年度变化，可用于构
- 建信号模板，并重新评估MICROSCOPE约束及未来空间等效原
- 理实验灵敏度。
+DESCRIPTION:主讲人: 徐海麟 李政道研究所\n\n报告研究二次
+ 耦合超轻标量暗物质作为相干经典场，通过与物质相互
+ 作用诱导成分依赖力。作者超越球对称近似，用分波法
+ 计算角度依赖，并推导暗物质波长远小于地球半径时的
+ 解析描述。报告揭示地球屏蔽产生的多边带频带结构及
+ 年变化信号模板，重新评估MICROSCOPE约束，并展望Galileo Ga
+ lilei、STE-QUEST等空间实验提升灵敏度。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -2075,12 +2089,12 @@ SUMMARY:First Principles Design of Functional Materials for Energy And Opt
 DTSTART;TZID=Asia/Shanghai:20260924T160000
 DTEND;TZID=Asia/Shanghai:20260924T173000
 UID:c4147fa4343d2b51a9cc05e832fb91b2@reportautocal
-DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n本讲座介
- 绍利用第一性原理电子结构理论进行功能材料的计算设
- 计与理解，面向能源和光电器件应用。报告将选取近期
- 研究案例，说明如何通过计算方法设计和优化太阳能电
- 池、催化剂、透明导电材料等功能材料，从而加速能源
- 与光电材料的科学发现。
+DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n报告利用
+ 第一性原理电子结构方法，介绍功能材料的理性设计与
+ 计算模拟，聚焦能源和光电器件应用。通过选取太阳能
+ 电池、催化剂和透明导电材料等案例，说明计算方法如
+ 何理解并设计具有特定性能的材料，从而加速能源与光
+ 电材料的发现与开发。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
