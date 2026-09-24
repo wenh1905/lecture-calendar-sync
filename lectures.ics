@@ -2068,22 +2068,6 @@ DESCRIPTION:主讲人: 柳卫平 中国原子能科学研究院\n\n报告
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Background-Induced Forces from Quadratically Coupled Ultralight Da
- rk Matter
-DTSTART;TZID=Asia/Shanghai:20260924T140000
-DTEND;TZID=Asia/Shanghai:20260924T153000
-UID:3c5d01771535891a14c55e8836486bd0@reportautocal
-DESCRIPTION:主讲人: 徐海麟 李政道研究所\n\n报告计算二次
- 耦合超轻标量暗物质背景诱导的成分依赖力，超越球对
- 称近似，用分波法给出角依赖及暗物质波长远小于地球
- 半径时的解析描述。发现地球屏蔽产生特征频带结构，
- 信号分裂为多个边带，且边带振幅随地球运动呈年度变
- 化，可构建完整信号模板。据此重新评估MICROSCOPE约束，
- 并表明Galileo Galilei、STE-QUEST等空间等效原理实验利用全
- 频带信息可显著提升灵敏度。
-LOCATION:物理楼/W260
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:First Principles Design of Functional Materials for Energy And Opt
  oelectronic Device Applications
 DTSTART;TZID=Asia/Shanghai:20260924T160000
@@ -2096,5 +2080,22 @@ DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n本报告介
  料等，展示第一性原理计算在加速能源与光电材料发现
  中的重要作用。
 LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Background-Induced Forces from Quadratically Coupled Ultralight Da
+ rk Matter
+DTSTART;TZID=Asia/Shanghai:20260924T140000
+DTEND;TZID=Asia/Shanghai:20260924T153000
+UID:3c5d01771535891a14c55e8836486bd0@reportautocal
+DESCRIPTION:主讲人: 徐海麟 李政道研究所\n\n报告研究二次
+ 耦合超轻标量暗物质作为相干经典场，通过暗物质背景
+ 与物质相互作用产生依赖成分的力。作者超越球对称近
+ 似，用分波方法计算背景诱导力的角依赖，并给出地球
+ 半径远大于暗物质波长时仍适用的解析描述。首次表明
+ 地球屏蔽形成特征频带结构，使信号分裂为多个边带，
+ 且边带振幅随地球穿越暗物质晕而逐年变化，可用于构
+ 建完整信号模板，并重新评估 MICROSCOPE 约束及未来空间
+ 等效原理实验的灵敏度。
+LOCATION:物理楼/W260
 END:VEVENT
 END:VCALENDAR
