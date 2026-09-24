@@ -2068,33 +2068,32 @@ DESCRIPTION:主讲人: 柳卫平 中国原子能科学研究院\n\n报告
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:First Principles Design of Functional Materials for Energy And Opt
- oelectronic Device Applications
-DTSTART;TZID=Asia/Shanghai:20260924T160000
-DTEND;TZID=Asia/Shanghai:20260924T173000
-UID:c4147fa4343d2b51a9cc05e832fb91b2@reportautocal
-DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n本报告介
- 绍利用第一性原理方法进行功能材料设计，以服务能源
- 与光电器件应用。报告将结合近期研究案例，说明如何
- 通过计算理解并设计太阳能电池、催化剂和透明导电材
- 料等，展示第一性原理计算在加速能源与光电材料发现
- 中的重要作用。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Background-Induced Forces from Quadratically Coupled Ultralight Da
  rk Matter
 DTSTART;TZID=Asia/Shanghai:20260924T140000
 DTEND;TZID=Asia/Shanghai:20260924T153000
 UID:3c5d01771535891a14c55e8836486bd0@reportautocal
 DESCRIPTION:主讲人: 徐海麟 上海交通大学李政道研究所\n\n
- 报告研究二次耦合的超轻标量暗物质作为相干经典场，
- 通过与物质相互作用诱导依赖于成分的力。作者提出超
- 越球对称近似的完整计算，利用分波方法确定力的角依
- 赖，并给出解析描述。首次发现地球屏蔽产生特征频带
- 结构，分裂为多个边带，提供独特实验信号。边带幅度
- 随地球运动年度变化，可构建完整信号模板。重新评估MI
- CROSCOPE约束，并表明空间等效原理实验可提升灵敏度。
+ 报告研究二次耦合超轻标量暗物质作为相干经典场，通
+ 过暗物质背景诱导依赖物质组分的作用力。作者超越球
+ 对称近似，用分波法计算其角依赖，发现地球屏蔽产生
+ 特征频率带与多边带信号，且边带振幅随地球运动年度
+ 变化，可构建完整信号模板，并重新评估MICROSCOPE限制及
+ 未来空间等价原理实验灵敏度。
 LOCATION:物理楼/W260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First Principles Design of Functional Materials for Energy And Opt
+ oelectronic Device Applications
+DTSTART;TZID=Asia/Shanghai:20260924T160000
+DTEND;TZID=Asia/Shanghai:20260924T173000
+UID:c4147fa4343d2b51a9cc05e832fb91b2@reportautocal
+DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n报告介绍
+ 利用第一性原理电子结构方法进行功能材料设计，以加
+ 速能源与光电器件材料发现。将结合近期研究案例，讨
+ 论如何理解并设计太阳能电池、催化剂及透明导电材料
+ 等，展示计算方法在材料性能调控与器件应用中的作用
+ 。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
