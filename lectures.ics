@@ -2073,13 +2073,14 @@ SUMMARY:Background-Induced Forces from Quadratically Coupled Ultralight Da
 DTSTART;TZID=Asia/Shanghai:20260924T140000
 DTEND;TZID=Asia/Shanghai:20260924T153000
 UID:3c5d01771535891a14c55e8836486bd0@reportautocal
-DESCRIPTION:主讲人: 徐海麟 上海交通大学李政道研究所\n\n
- 报告研究二次耦合超轻标量暗物质作为相干经典场，通
- 过暗物质背景诱导依赖物质组分的作用力。作者超越球
- 对称近似，用分波法计算其角依赖，发现地球屏蔽产生
- 特征频率带与多边带信号，且边带振幅随地球运动年度
- 变化，可构建完整信号模板，并重新评估MICROSCOPE限制及
- 未来空间等价原理实验灵敏度。
+DESCRIPTION:主讲人: 徐海麟 李政道研究所\n\n报告研究二次
+ 耦合超轻标量暗物质作为相干经典场产生的依赖成分背
+ 景诱导力。工作超越球对称近似，用分波方法给出角依
+ 赖与解析描述，并首次揭示地球屏蔽导致多边带频带结
+ 构，边带幅度随地球穿越暗物质晕周年变化，可构建完
+ 整信号模板。据此重新评估MICROSCOPE约束，并说明Galileo Ga
+ lilei、STE-QUEST等空间等效原理实验利用全频带信息可显著
+ 提升灵敏度。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -2088,12 +2089,12 @@ SUMMARY:First Principles Design of Functional Materials for Energy And Opt
 DTSTART;TZID=Asia/Shanghai:20260924T160000
 DTEND;TZID=Asia/Shanghai:20260924T173000
 UID:c4147fa4343d2b51a9cc05e832fb91b2@reportautocal
-DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n报告介绍
- 利用第一性原理电子结构方法进行功能材料设计，以加
- 速能源与光电器件材料发现。将结合近期研究案例，讨
- 论如何理解并设计太阳能电池、催化剂及透明导电材料
- 等，展示计算方法在材料性能调控与器件应用中的作用
- 。
+DESCRIPTION:主讲人: 魏苏淮 宁波东方理工大学\n\n本报告介
+ 绍利用第一性原理电子结构理论进行功能材料设计，面
+ 向能源与光电器件应用。报告将讨论计算方法如何理解
+ 和设计太阳能电池、催化剂、透明导电材料等功能材料
+ ，展示知识驱动的计算材料设计在加速能源与光电材料
+ 发现中的重要作用。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
