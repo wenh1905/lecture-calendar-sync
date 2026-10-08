@@ -2104,10 +2104,12 @@ DTSTART;TZID=Asia/Shanghai:20261009T103000
 DTEND;TZID=Asia/Shanghai:20261009T120000
 UID:9880757cc37c5253f7f853bdeaf9e9d8@reportautocal
 DESCRIPTION:主讲人: 哈梦可 英国伯明翰大学\n\n报告研究沿[
- 110]晶向施加单轴应力对La1.875Ba0.125CuO4超导转变温度的调
- 控，发现低Tc畴向高Tc畴逐步转变，并探讨应力对正交-四
- 方相变及畴极化的影响，指出材料内部存在强且空间不
- 均匀的正交畸变偏置场，可能与Ba/La置换无序有关。
+ 110]晶向施加单轴应力对La1.875Ba0.125CuO4超导转变温度的影
+ 响。应力可使Tc从约4 K提升至约35 K，但转变通过低Tc畴向
+ 高Tc畴逐步发生。应力还抑制低温正交相到四方相相变，
+ 高温四方相向正交相转变形成的畴需大于1 GPa才能完全极
+ 化，表明材料内部存在较强且不均匀的正交畸变偏置场
+ ，可能与Ba/La置换无序有关。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -2115,12 +2117,12 @@ SUMMARY:Quantum Information meets Particle Physics
 DTSTART;TZID=Asia/Shanghai:20261008T140000
 DTEND;TZID=Asia/Shanghai:20261008T153000
 UID:711567a2cc3546544ed669384919d577@reportautocal
-DESCRIPTION:主讲人: 程焜 匹兹堡大学\n\n本报告探讨量子信
- 息科学与粒子物理的交叉。粒子对撞机可提供海量事件
- 与丰富基准系统，助力量子信息研究；量子信息方法也
- 为粒子物理提供新技术，帮助识别碰撞中的完整底层信
- 息。报告将回顾近期连接粒子物理与量子信息的工作，
- 并讨论对两个领域的潜在影响。
+DESCRIPTION:主讲人: 程焜 匹兹堡大学\n\n本报告讨论量子信
+ 息与粒子物理的交叉研究。粒子对撞机可为量子信息科
+ 学提供大量事件和丰富基准系统，而量子信息方法也可
+ 引入粒子物理，帮助识别完整底层信息。报告将回顾近
+ 期连接粒子物理与量子信息科学的工作，并讨论其对两
+ 个领域的潜在影响。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -2129,12 +2131,12 @@ SUMMARY:Galaxy Formation with HyperMillennium: Bridging Cosmological Simul
 DTSTART;TZID=Asia/Shanghai:20261008T150000
 DTEND;TZID=Asia/Shanghai:20261008T163000
 UID:40f628dedad348e5103ea52b51b71f64@reportautocal
-DESCRIPTION:主讲人: 郭琦 北京师范大学\n\n本报告介绍超大
- 规模宇宙学N体模拟HyperMillennium，并结合半解析星系形成
- 模型，连接DESI、JWST等新观测。报告将展示该框架如何在
- 大尺度与高红移范围检验星系形成范式、预测未来巡天
- ，并追踪从近邻宇宙到z~9的星系族群，探讨当前理论的
- 成败与改进方向。
+DESCRIPTION:主讲人: 郭琦 北京师范大学\n\n报告介绍超大规
+ 模宇宙学N体模拟HyperMillennium，结合半解析星系形成模型
+ ，连接DESI大尺度结构观测与JWST早期宇宙星系观测，覆盖
+ 从近邻宇宙到z~9的星系族群，检验标准宇宙学与星系形
+ 成范式，并为未来巡天提供预测，讨论当前模型成功之
+ 处与待改进方向。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2144,12 +2146,12 @@ DTSTART;TZID=Asia/Shanghai:20261008T160000
 DTEND;TZID=Asia/Shanghai:20261008T173000
 UID:f5df5c26a56e97a4af0a1b87ab6ef144@reportautocal
 DESCRIPTION:主讲人: 何红建 上海交通大学李政道研究所\n\n
- 本报告探讨物理学中质量起源这一深刻谜题。首先介绍
- 标准模型四维希格斯机制下的质量生成，重点讨论泡利
- 提出的轻中微子质量、右手中微子及暴胀宇宙学非高斯
- 信号；随后讨论三维Chern-Simons规范与引力理论的拓扑质
- 量生成、S矩阵拓扑等价定理，以及Kaluza-Klein和弦论中的
- 几何质量生成，并揭示(引力)=(规范理论)^2的深刻关系。
+ 报告探讨质量起源。首先介绍标准模型四维希格斯机制
+ ，特别是泡利提出的轻中微子质量产生、右手中微子及
+ 暴胀宇宙学非高斯信号；随后讨论三维陈-西蒙斯规范与
+ 引力理论的拓扑质量产生，借助S矩阵拓扑等价定理；最
+ 后介绍Kaluza-Klein规范、引力及弦论中的几何质量产生，
+ 并揭示(引力)=(规范理论)^2及其统一意义。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2157,12 +2159,12 @@ SUMMARY:Quantum Information meets Particle Physics
 DTSTART;TZID=Asia/Shanghai:20261015T140000
 DTEND;TZID=Asia/Shanghai:20261015T153000
 UID:b43712d8722731142b5fabdb2909f918@reportautocal
-DESCRIPTION:主讲人: 程焜 匹兹堡大学\n\n本报告聚焦量子信
- 息与粒子物理的交叉研究。报告人将回顾近期将对撞机
- 物理与量子信息科学相连接的工作，讨论如何利用对撞
- 机产生的大量事件和丰富基准系统推进量子信息研究，
- 同时借助量子信息方法为粒子物理提供新技术，帮助识
- 别完整的底层信息，并评估对两个领域的潜在影响。
+DESCRIPTION:主讲人: 程焜 匹兹堡大学\n\n报告探讨量子信息
+ 与粒子物理的交叉融合。对量子信息科学而言，粒子对
+ 撞机可提供大量事件和丰富基准系统；对粒子物理而言
+ ，这些发展引入新技术，有助于识别完整底层信息。报
+ 告将回顾连接粒子物理与量子信息科学的近期工作，并
+ 讨论对两领域的潜在影响。
 LOCATION:物理楼/W260
 END:VEVENT
 END:VCALENDAR
