@@ -2174,14 +2174,13 @@ SUMMARY:Universal Supersymmetric Observables and Anomalies in Defect CFTs
 DTSTART;TZID=Asia/Shanghai:20261009T143000
 DTEND;TZID=Asia/Shanghai:20261009T160000
 UID:fc2cbfd82fdd5523f317986580a75dec@reportautocal
-DESCRIPTION:主讲人: 黄紫潇 复旦大学\n\n本讲座探讨量子场
- 论中缺陷系统的普适性质，重点研究缺陷对超对称Casimir
- 能量和超对称Rényi熵的贡献，并给出闭式表达式及其与
- 缺陷Weyl反常和't Hooft反常的关系。报告通过四维和六维
- 超共形场论中的表面缺陷实例，包括六维(2\,0)理论Wilson
- 面、四维N=4超杨-米尔斯理论Gukov-Witten缺陷和六维(1\,0)手
- 性表面缺陷，揭示体-缺陷系统中由缺陷反常支配的普适
- 结构。
+DESCRIPTION:主讲人: 黄紫潇 复旦大学\n\n报告研究量子场论
+ 中缺陷的普适超对称可观测量与反常。主讲人将讨论缺
+ 陷对超对称卡西米尔能量和超对称Rényi熵的贡献，给出
+ 闭式表达式，并说明其与缺陷Weyl反常和't Hooft反常的关
+ 系。通过六维(2\,0)理论Wilson面、四维N=4超杨-米尔斯Gukov-W
+ itten缺陷及六维(1\,0)手征表面缺陷等例子，揭示体-缺陷
+ 系统中的普适结构。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
