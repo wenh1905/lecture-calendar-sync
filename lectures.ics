@@ -2190,13 +2190,11 @@ SUMMARY:Elucidating the nature of neutrinos: where are we and where are we
 DTSTART;TZID=Asia/Shanghai:20261015T160000
 DTEND;TZID=Asia/Shanghai:20261015T173000
 UID:8b1b713f580e3e852b41fc8f87a63d94@reportautocal
-DESCRIPTION:主讲人: Laura Baudis 苏黎世大学\n\n本报告探讨中
- 微子的本质，重点是其是否为马约拉纳费米子，即是否
- 为自身反粒子。无中微子双β衰变是检验该性质的最灵敏
- 探针。报告介绍相关实验技术，聚焦LEGEND项目：LEGEND-200
- 在LNGS利用约200公斤富集76Ge高纯锗探测器于超纯液氩中运
- 行并展示首批结果；同时展望LEGEND-1000检验倒置中微子质
- 量排序的前景。
+DESCRIPTION:主讲人: 劳拉·鲍迪斯 苏黎世大学\n\n介绍中微
+ 子是否为其自身反粒子的马约拉纳费米子问题，无中微
+ 子双β衰变作为最灵敏探针，概述主要实验技术，重点介
+ 绍LEGEND项目、LEGEND-200首批结果，以及LEGEND-1000探测倒序
+ 中微子质量排序的前景。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
