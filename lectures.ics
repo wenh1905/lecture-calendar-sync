@@ -2190,13 +2190,13 @@ SUMMARY:Elucidating the nature of neutrinos: where are we and where are we
 DTSTART;TZID=Asia/Shanghai:20261015T160000
 DTEND;TZID=Asia/Shanghai:20261015T173000
 UID:8b1b713f580e3e852b41fc8f87a63d94@reportautocal
-DESCRIPTION:主讲人: Laura Baudis 苏黎世大学\n\n中微子是唯一
- 可能为马约拉纳费米子的已知基本粒子，即自身反粒子
- 。最灵敏探针是无中微子双贝塔衰变。报告将介绍中微
- 子及该衰变物理，重点介绍 LEGEND 项目，包括 LNGS 的 LEGEN
- D-200 使用约200公斤富集76Ge高纯锗探测器在超纯液氩中的
- 首批结果，并讨论 LEGEND-1000 探测反向中微子质量顺序的
- 前景。
+DESCRIPTION:主讲人: 劳拉·鲍迪斯 苏黎世大学\n\n中微子是
+ 唯一可能为马约拉纳费米子的已知基本粒子，即自身反
+ 粒子。无中微子双贝塔衰变是探测其马约拉纳性质最敏
+ 感、或许唯一可行的途径。报告将介绍中微子与无中微
+ 子双贝塔衰变物理，概述主要实验技术，重点介绍LEGEND
+ 项目，包括LEGEND-200首批结果及LEGEND-1000探测倒置质量顺
+ 序的前景。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2204,12 +2204,13 @@ SUMMARY:★低维量子材料中的定制化光与物质相互作用
 DTSTART;TZID=Asia/Shanghai:20261015T093000
 DTEND;TZID=Asia/Shanghai:20261015T103000
 UID:720f25116a08779f564aa2d6cae5ec78@reportautocal
-DESCRIPTION:主讲人: 李其橦 清华大学电子工程系\n\n报告关
- 注低维量子材料中定制化光与物质相互作用，重点介绍
- 二维半导体激子特性及其在经典与量子光子学中的潜力
- 。包括基于单层半导体的自由空间全光超快调制，以及
- 人工超晶格中层间激子的电可调量子局域化与单激子确
- 定性俘获。
+DESCRIPTION:主讲人: 李其橦 清华大学电子工程系\n\n报告围
+ 绕低维量子材料中定制化光与物质相互作用，重点介绍
+ 二维半导体激子特性及其在经典与量子光子学器件中的
+ 潜力。包括基于二维单层半导体的自由空间全光超快调
+ 制，以及纳米电极人工超晶格中层间激子的电可调量子
+ 局域化与单激子确定性俘获，展示极端非线性与量子调
+ 控前景。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -2218,12 +2219,26 @@ SUMMARY:Pulsars discovered by FAST and measurements of relativistic effect
 DTSTART;TZID=Asia/Shanghai:20261020T103000
 DTEND;TZID=Asia/Shanghai:20261020T120000
 UID:32a1214c6977f2164266ef36cd6e635a@reportautocal
-DESCRIPTION:主讲人: 韩金林 中国科学院国家天文台\n\n报告
- 介绍利用FAST在银河系盘面附近开展脉冲星巡天，已发现
- 约900颗脉冲星，包括200余颗毫秒脉冲星和180个双星系统
- ，并发现最短轨道周期、三体系统、双中子星等特殊系
- 统。通过测量脉冲星双星相对论效应，确定十余颗中子
- 星质量，推动理解脉冲星分布、辐射和双星形成。
+DESCRIPTION:主讲人: 韩金林 中国科学院国家天文台\n\n利用F
+ AST在银道面±10度天区开展脉冲星巡天，已发现约900颗脉
+ 冲星，揭示银河系暗弱脉冲星族群，并探测9例快速射电
+ 暴。新发现包括200余颗毫秒脉冲星、180个双星系统、10个
+ 双中子星系统及最短轨道周期53分钟等特殊系统。通过测
+ 量双星脉冲星相对论效应，确定了十余颗中子星的质量
+ 。
 LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Controlling femtosecond electron bunches with THz-frequency light
+DTSTART;TZID=Asia/Shanghai:20261020T100000
+DTEND;TZID=Asia/Shanghai:20261020T113000
+UID:ccf1c9ebcdef330fcfbd3fbc523bfc09@reportautocal
+DESCRIPTION:主讲人: 史蒂文·贾米森 兰卡斯特大学和科克罗
+ 夫特研究所\n\n报告介绍利用激光产生的太赫兹脉冲控制
+ 飞秒电子束，用于超快电子衍射、显微镜及自由电子激
+ 光X射线源。重点讨论高功率太赫兹产生、电子束加速、
+ 压缩和偏转，展示亚相对论和相对论电子束的实验结果
+ ，并探讨RF/THz/等离子体混合加速器的潜在应用。
+LOCATION:刘卿楼/105
 END:VEVENT
 END:VCALENDAR
