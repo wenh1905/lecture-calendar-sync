@@ -2233,15 +2233,12 @@ SUMMARY:Controlling femtosecond electron bunches with THz-frequency light
 DTSTART;TZID=Asia/Shanghai:20261020T100000
 DTEND;TZID=Asia/Shanghai:20261020T113000
 UID:ccf1c9ebcdef330fcfbd3fbc523bfc09@reportautocal
-DESCRIPTION:主讲人: 史蒂文·贾米森 兰卡斯特大学物理与天
- 文学院/科克克罗夫特粒子加速器科学研究所\n\n报告介绍
- 飞秒电子束在超快电子衍射、显微镜和自由电子激光X射
- 线源中的应用，重点讲述Cockcroft研究所太赫兹加速项目
- ：利用激光产生的高功率太赫兹脉冲压缩和控制DC或射频
- 加速器产生的电子束。内容涵盖非线性光学产生超过100 
- μJ太赫兹脉冲、高阶偏振态、100 keV亚相对论及相对论电
- 子束的加速与偏转，并探讨RF/THz/等离子体混合加速器的
- 应用前景。
+DESCRIPTION:主讲人: Steven Jamison 英国兰卡斯特大学物理与天
+ 文学院/科克罗夫特粒子加速器科学研究所\n\n本报告介绍
+ 利用太赫兹频率光控制飞秒电子束。内容涵盖非线性光
+ 学产生高功率THz脉冲、THz加速与偏转、100 keV亚相对论及
+ 相对论电子束实验，以及其在超快电子衍射、自由电子
+ 激光和混合射频/THz/等离子体加速器中的应用。
 LOCATION:刘卿楼/105
 END:VEVENT
 END:VCALENDAR
