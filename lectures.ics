@@ -2241,4 +2241,31 @@ DESCRIPTION:主讲人: Steven Jamison 英国兰卡斯特大学物理与天
  激光和混合射频/THz/等离子体加速器中的应用。
 LOCATION:刘卿楼/105
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wave Optics Lensing
+DTSTART;TZID=Asia/Shanghai:20261022T150000
+DTEND;TZID=Asia/Shanghai:20261022T163000
+UID:8ae59b49290c3ba99a167d1963bdf916@reportautocal
+DESCRIPTION:主讲人: 彭威礼 中央研究院天文及天文物理研
+ 究所/加拿大理论天体物理研究所\n\n报告指出引力波与快
+ 速射电暴是由波动效应而非几何光学主导的新型宇宙学
+ 源，介绍等离子体透镜的最新研究结果，并展望快速射
+ 电暴和引力波引力透镜的未来机遇，探讨波效应如何改
+ 变物理观测量，从而有望实现精密宇宙学距离测量。
+LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:立体定向放射治疗在脑转移瘤的应用现状及临床挑
+ 战
+DTSTART;TZID=Asia/Shanghai:20261022T192000
+DTEND;TZID=Asia/Shanghai:20261022T203000
+UID:d416deba75b50983ef913bb73f630da6@reportautocal
+DESCRIPTION:主讲人: 葛红 河南省肿瘤医院\n\n报告围绕立体
+ 定向放射治疗在脑转移瘤中的应用现状与临床挑战，介
+ 绍脑转移发生比例及SRS/FSRS适应证，比较其与全脑放疗在
+ 生活质量和神经认知方面的优势，讨论术后HFSRT、术前SRT
+ 、靶向免疫联合放疗、复发再程SRS及放射性坏死鉴别与
+ 防治等关键问题。
+LOCATION:腾讯会议/223 931 191
+END:VEVENT
 END:VCALENDAR
