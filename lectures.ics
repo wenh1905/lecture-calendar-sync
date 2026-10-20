@@ -2246,11 +2246,10 @@ SUMMARY:Wave Optics Lensing
 DTSTART;TZID=Asia/Shanghai:20261022T150000
 DTEND;TZID=Asia/Shanghai:20261022T163000
 UID:8ae59b49290c3ba99a167d1963bdf916@reportautocal
-DESCRIPTION:主讲人: 彭威礼 中研院天文所/加拿大理论天体
- 物理研究所\n\n报告讨论引力波与快速射电暴作为宇宙学
- 源，其观测由波动光学而非几何光学主导；介绍等离子
- 体透镜最新结果，并展望利用FRB和引力波的波效应开展
- 精密宇宙学距离测量。
+DESCRIPTION:主讲人: 彭威礼 ASIAA/CITA\n\n介绍引力波与快速射
+ 电暴作为波效应主导的宇宙学源，讨论等离子体透镜的
+ 最新结果，以及利用FRB和引力波引力透镜中波效应对可
+ 观测量的改变，探索精密宇宙学距离测量的未来机会。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2259,13 +2258,14 @@ SUMMARY:立体定向放射治疗在脑转移瘤的应用现状及临床挑
 DTSTART;TZID=Asia/Shanghai:20261022T192000
 DTEND;TZID=Asia/Shanghai:20261022T203000
 UID:d416deba75b50983ef913bb73f630da6@reportautocal
-DESCRIPTION:主讲人: 葛红 河南省肿瘤医院放疗科\n\n报告围
- 绕立体定向放射治疗在脑转移瘤中的应用，介绍立体定
- 向放射外科与分次放疗相比全脑放疗的优势、术后与术
- 前放疗选择，以及靶向、免疫等联合治疗和复发再程放
- 疗策略；并讨论放射性坏死鉴别、功能影像评估及分割
- 放疗降低坏死风险。
-LOCATION:腾讯会议/223 931 191
+DESCRIPTION:主讲人: 葛红 河南省肿瘤医院\n\n20%~30%的实体瘤
+ 会发生脑转移，其中肺癌最常见。报告依据ASTRO指南，介
+ 绍SRS/FSRS治疗多发脑转移在生活质量和神经认知方面的优
+ 势，比较术后HFSRT与术前SRT，讨论靶向、免疫、抗血管药
+ 物联合放疗的拓展应用；并分析SCLC、脑干转移及复发病
+ 灶再程SRS的剂量把控，重点讲解放疗后3~18月放射性坏死
+ 的功能影像鉴别与防治。
+LOCATION:腾讯会议 223 931 191
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:高压超导新材料创制:从Cu1234到富氢体系
@@ -2273,10 +2273,10 @@ DTSTART;TZID=Asia/Shanghai:20261022T160000
 DTEND;TZID=Asia/Shanghai:20261022T173000
 UID:a1c092a636df028a4c47b5376c44b7e3@reportautocal
 DESCRIPTION:主讲人: 靳常青 中国科学院物理研究所\n\n报告
- 介绍通过发展极端条件新技术，在超导新材料设计、创
- 制和多功能化方面的进展，包括发现常压118K的“三高”C
- u1234超导体、铁基“111”体系及拓扑超导、210K以上钙基
- 富氢超导，以及Ti、Sc等元素高压超导行为。
+ 介绍团队发展极端条件新技术，设计创制常压118K三高铜
+ 氧化物超导体Cu1234，发现并命名铁基超导111体系，研制21
+ 0K以上钙基富氢超导材料，并实验发现Ti、Sc等元素高压
+ 超导行为，持续刷新元素超导记录。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
