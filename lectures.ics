@@ -2281,4 +2281,30 @@ DESCRIPTION:主讲人: 靳常青 中国科学院物理研究所\n\n报告
  导行为与元素超导纪录刷新。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temporal Entanglement and Holography
+DTSTART;TZID=Asia/Shanghai:20261023T143000
+DTEND;TZID=Asia/Shanghai:20261023T160000
+UID:285f49824bc5dc6d441147fb890fb1a5@reportautocal
+DESCRIPTION:主讲人: Michał Heller 根特大学\n\n报告介绍时间
+ 纠缠这一概念，探讨其如何为利用张量网络计算实时可
+ 观测量提供新视角，并讨论在AdS/CFT全息对偶框架下理解
+ 时间纠缠的最新进展，内容基于相关近期研究工作。
+LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quantum corrections to the near-extremal thermodynamics of (warped
+ ) BTZ black holes
+DTSTART;TZID=Asia/Shanghai:20261027T143000
+DTEND;TZID=Asia/Shanghai:20261027T160000
+UID:7c22667b3e77b3996586273fd2619fb6@reportautocal
+DESCRIPTION:主讲人: Robinson Mancilla 布鲁塞尔自由大学\n\n报
+ 告研究BTZ及扭曲BTZ黑洞近极端热力学中的单圈量子修正
+ ，聚焦极端喉部变为零模的本征模式。在三维拓扑大质
+ 量引力中比较近视界与全几何本征值问题，分析Schwarzian
+ 及转动扇区在低温下如何被抬升，并修正文献中转动扇
+ 区不匹配，指出转动模将喉部视为开放系统，其贡献依
+ 赖全几何边界条件。
+LOCATION:科学馆/322
+END:VEVENT
 END:VCALENDAR
