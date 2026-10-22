@@ -2286,11 +2286,10 @@ SUMMARY:Temporal Entanglement and Holography
 DTSTART;TZID=Asia/Shanghai:20261023T143000
 DTEND;TZID=Asia/Shanghai:20261023T160000
 UID:285f49824bc5dc6d441147fb890fb1a5@reportautocal
-DESCRIPTION:主讲人: Michał Heller 根特大学\n\n本报告讨论时
- 间纠缠这一新视角，介绍如何利用张量网络计算实时可
- 观测量的最新进展，并重点阐述在AdS/CFT框架下理解时间
- 纠缠的相关研究。报告基于三项近期工作，涉及量子信
- 息、张量网络与全息对偶的交叉内容。
+DESCRIPTION:主讲人: Michał Heller 根特大学\n\n报告介绍时间
+ 纠缠为利用张量网络计算实时可观测量提供了新视角，
+ 并讨论在AdS/CFT对应中理解这一概念的最新研究进展，涉
+ 及张量网络与全息对偶中的实时演化问题。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -2302,9 +2301,10 @@ UID:7c22667b3e77b3996586273fd2619fb6@reportautocal
 DESCRIPTION:主讲人: Robinson Mancilla 布鲁塞尔自由大学\n\n报
  告研究BTZ及warped BTZ黑洞近极端热力学中的单圈量子修正
  ，在三维拓扑大质量引力框架下比较近视界与全几何本
- 征值问题，分析Schwarzian和旋转扇区在低温下如何被抬升
- ，并解决文献中旋转扇区不匹配问题，指出旋转模将喉
- 部视为开放系统，其贡献依赖全几何边界条件。
+ 征值问题，分析Schwarzian模与转动扇区在低温下如何被抬
+ 升，并解决文献中两区域转动扇区不匹配问题，指出转
+ 动模将喉区视为开放系统，其贡献依赖全几何边界条件
+ 。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -2313,10 +2313,10 @@ DTSTART;TZID=Asia/Shanghai:20261027T160000
 DTEND;TZID=Asia/Shanghai:20261027T173000
 UID:85045395cf679bf1a27c93b22cc1e84c@reportautocal
 DESCRIPTION:主讲人: Francisco Guinea IMDEA纳米科学研究所\n\n报
- 告将介绍多层石墨烯堆垛体系近期实验与理论研究，特
- 别是菱面体石墨烯堆垛中的超导、磁性及平带等新奇相
- 和反常行为，并讨论其复杂相图及区别于传统魔角体系
- 的新型低维电子性质。
+ 告将介绍多层石墨烯堆叠体系近期实验与理论研究，重
+ 点讨论菱方堆叠石墨烯中由平坦电子能带引发的超导、
+ 磁性等复杂相图，以及与传统魔角体系不同的新奇特性
+ 和反常行为。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2324,12 +2324,12 @@ SUMMARY:A personal tour on string solitons\, dualities and M-Theory
 DTSTART;TZID=Asia/Shanghai:20261028T160000
 DTEND;TZID=Asia/Shanghai:20261028T173000
 UID:f460969207ec1a7416fceee49b81f4a6@reportautocal
-DESCRIPTION:主讲人: 卢建新 中国科学技术大学\n\n报告从“
- 为何需要量子引力与弦理论”切入，回顾早期认为弦与
- 高维膜无关的误解，介绍弦孤子发现如何纠正认识并推
- 动弦对偶及M理论确立；结合亲身经历总结启发，并讨论M
- 理论挑战、最新进展及开弦对产生与QED Schwinger效应的关
- 系。
+DESCRIPTION:主讲人: 卢建新 中国科学技术大学\n\n报告从量
+ 子引力与弦理论的动机出发，回顾弦孤立子的发现如何
+ 纠正弦与高维膜无关的早期误解，并阐述其在建立弦对
+ 偶及M理论存在性中的关键作用；还将讨论M理论面临的挑
+ 战、最新进展，以及开弦对产生与QED Schwinger效应的关系
+ 。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
