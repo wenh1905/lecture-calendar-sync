@@ -2286,10 +2286,11 @@ SUMMARY:Temporal Entanglement and Holography
 DTSTART;TZID=Asia/Shanghai:20261023T143000
 DTEND;TZID=Asia/Shanghai:20261023T160000
 UID:285f49824bc5dc6d441147fb890fb1a5@reportautocal
-DESCRIPTION:主讲人: Michał Heller 根特大学\n\n报告介绍时间
- 纠缠这一概念，探讨其如何为利用张量网络计算实时可
- 观测量提供新视角，并讨论在AdS/CFT全息对偶框架下理解
- 时间纠缠的最新进展，内容基于相关近期研究工作。
+DESCRIPTION:主讲人: Michał Heller 根特大学\n\n报告从时间纠
+ 缠的新视角出发，介绍如何利用张量网络计算实时物理
+ 可观测量的方法，并讨论在AdS/CFT对应中理解时间纠缠的
+ 最新研究进展，内容基于2408.15752、2507.17847和2607.14012等
+ 工作。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -2299,12 +2300,39 @@ DTSTART;TZID=Asia/Shanghai:20261027T143000
 DTEND;TZID=Asia/Shanghai:20261027T160000
 UID:7c22667b3e77b3996586273fd2619fb6@reportautocal
 DESCRIPTION:主讲人: Robinson Mancilla 布鲁塞尔自由大学\n\n报
- 告研究BTZ及扭曲BTZ黑洞近极端热力学中的单圈量子修正
- ，聚焦极端喉部变为零模的本征模式。在三维拓扑大质
- 量引力中比较近视界与全几何本征值问题，分析Schwarzian
- 及转动扇区在低温下如何被抬升，并修正文献中转动扇
- 区不匹配，指出转动模将喉部视为开放系统，其贡献依
- 赖全几何边界条件。
+ 告研究BTZ及warped BTZ黑洞近极端热力学中的单圈量子修正
+ ，关注在极端喉部变为零模的本征模式。工作在三维拓
+ 扑大质量引力框架下，比较近视界与全几何本征值问题
+ ，分析Schwarzian及旋转扇区在低温下如何被提升，并推广
+ 微扰论以解决此前文献中旋转扇区不匹配问题。报告指
+ 出旋转模将喉部视为开放系统，其贡献依赖全几何边界
+ 条件，不能仅由喉部确定。
+LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Superconductivity in graphene stacks
+DTSTART;TZID=Asia/Shanghai:20261027T160000
+DTEND;TZID=Asia/Shanghai:20261027T173000
+UID:85045395cf679bf1a27c93b22cc1e84c@reportautocal
+DESCRIPTION:主讲人: 弗朗西斯科·吉内亚 IMDEA纳米科学研究
+ 所\n\n报告围绕多层石墨烯堆叠体系的相图展开，介绍其
+ 中超导、磁性等看似不相容现象共存的复杂行为，以及
+ 菱面体石墨烯平带带来的新路径。重点讨论近期实验与
+ 理论研究发现的新奇物相和反常行为，并与扭转堆叠体
+ 系进行比较。
+LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A personal tour on string solitons\, dualities and M-Theory
+DTSTART;TZID=Asia/Shanghai:20261028T160000
+DTEND;TZID=Asia/Shanghai:20261028T173000
+UID:f460969207ec1a7416fceee49b81f4a6@reportautocal
+DESCRIPTION:主讲人: 卢建新 中国科学技术大学\n\n本次报告
+ 从量子引力与弦理论的基本问题出发，回顾弦孤子的发
+ 现如何纠正早期对弦与高维膜关系的误解，并推动弦对
+ 偶性及M理论的确立。报告人将结合亲身经历介绍相关发
+ 展、启示与挑战，并涉及其在开弦对产生、QED Schwinger效
+ 应联系及潜在应用方面的最新工作。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
