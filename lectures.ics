@@ -2286,11 +2286,10 @@ SUMMARY:Temporal Entanglement and Holography
 DTSTART;TZID=Asia/Shanghai:20261023T143000
 DTEND;TZID=Asia/Shanghai:20261023T160000
 UID:285f49824bc5dc6d441147fb890fb1a5@reportautocal
-DESCRIPTION:主讲人: Michał Heller 根特大学\n\n本报告介绍时
- 间纠缠这一理解实时可观测量的新视角，重点讨论利用
- 张量网络计算实时观测量的方法，以及在AdS/CFT框架下理
- 解时间纠缠概念的最新研究进展，内容基于三篇相关论
- 文。
+DESCRIPTION:主讲人: Michał Heller 根特大学\n\n报告介绍时间
+ 纠缠这一新视角，用于借助张量网络计算实时可观测物
+ 理量，并讨论在AdS/CFT对偶框架下理解时间纠缠概念的最
+ 新研究进展。内容基于三篇相关论文。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -2299,13 +2298,13 @@ SUMMARY:Quantum corrections to the near-extremal thermodynamics of (warped
 DTSTART;TZID=Asia/Shanghai:20261027T143000
 DTEND;TZID=Asia/Shanghai:20261027T160000
 UID:7c22667b3e77b3996586273fd2619fb6@reportautocal
-DESCRIPTION:主讲人: Robinson Mancilla 布鲁塞尔自由大学\n\n报
- 告研究BTZ及warped BTZ黑洞的一圈量子修正，重点分析极端
- 喉区变成零模的本征模。在三维拓扑大质量引力中比较
- 近视界与全几何本征值问题，考察低温下Schwarzian与转动
- 扇区的抬升，并解决文献中转动扇区不匹配问题，指出
- 转动模将喉区视为开放系统，其贡献依赖全几何边界条
- 件。
+DESCRIPTION:主讲人: Robinson Mancilla 布鲁塞尔自由大学\n\n讲
+ 座研究BTZ及warped BTZ黑洞近视界热力学的一圈量子修正，
+ 在三维拓扑质量引力框架下比较近视界与全几何本征值
+ 问题，分析Schwarzian与转动扇区在低温下如何被抬升，并
+ 通过推广微扰论解决文献中转动扇区不匹配问题，指出
+ 转动模式将喉区视为开放系统，其贡献依赖全几何边界
+ 条件。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -2313,10 +2312,11 @@ SUMMARY:★Superconductivity in graphene stacks
 DTSTART;TZID=Asia/Shanghai:20261027T160000
 DTEND;TZID=Asia/Shanghai:20261027T173000
 UID:85045395cf679bf1a27c93b22cc1e84c@reportautocal
-DESCRIPTION:主讲人: Francisco Guinea IMDEA纳米科学研究所\n\n讲
- 座介绍多层石墨烯堆垛的相图，重点讨论菱面体石墨烯
- 中的超导、磁性及极平电子带等新相和反常行为，并综
- 述相关实验与理论进展。
+DESCRIPTION:主讲人: Francisco Guinea IMDEA Nanoscience\n\n报告聚焦
+ 多层石墨烯堆叠体系的相图，介绍其中超导、磁性等复
+ 杂且看似不相容的物相，并讨论菱形堆叠石墨烯实现平
+ 电子带的途径及近期实验与理论研究，重点阐释新奇的
+ 相和反常行为。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2324,12 +2324,12 @@ SUMMARY:A personal tour on string solitons\, dualities and M-Theory
 DTSTART;TZID=Asia/Shanghai:20261028T160000
 DTEND;TZID=Asia/Shanghai:20261028T173000
 UID:f460969207ec1a7416fceee49b81f4a6@reportautocal
-DESCRIPTION:主讲人: 卢建新 中国科学技术大学\n\n报告从量
- 子引力与弦论的基本问题出发，回顾弦孤子的发现如何
- 纠正弦与高维膜无关的早期误解，并说明其在建立弦对
- 偶及M理论存在性中的关键作用；同时讨论M理论面临的挑
- 战、近期进展，以及开弦对产生与QED Schwinger效应的关系
- 及潜在应用。
+DESCRIPTION:主讲人: 卢建新 中国科学技术大学\n\n报告从“
+ 为何需要量子引力与弦理论”切入，回顾弦孤子的发现
+ 如何纠正弦与高维膜无关的早期误解，并阐述其在建立
+ 各种弦对偶和M理论存在性中的关键作用。报告还将讨论M
+ 理论面临的挑战、最新进展，以及开弦对产生与QED Schwing
+ er效应的关系及潜在应用。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -2338,11 +2338,11 @@ DTSTART;TZID=Asia/Shanghai:20261030T100000
 DTEND;TZID=Asia/Shanghai:20261030T113000
 UID:8708c7e1ac4c0f6eccab391a2bf4b5cd@reportautocal
 DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
- 性光谱学原理与方法，利用对称性选择、相干探测和相
- 位敏感测量抑制体相背景，实现界面微观结构、局域电
- 场、电荷转移与化学反应的高灵敏表征，并展示界面敏
- 感太赫兹非线性谱学在低维材料、单原子层电极及能源
- 界面中的应用。
+ 性光谱学的基本原理、方法发展及应用，利用对称性选
+ 择、相干探测和相位敏感测量抑制体相背景，实现界面
+ 微观结构、局域电场、电荷转移与化学反应的选择性表
+ 征；并介绍界面敏感的太赫兹非线性谱学技术及其在低
+ 维材料界面、单原子层电极和能源界面中的应用。
 LOCATION:未提供
 END:VEVENT
 END:VCALENDAR
