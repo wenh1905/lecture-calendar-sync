@@ -2282,69 +2282,6 @@ DESCRIPTION:主讲人: 靳常青 中国科学院物理研究所\n\n报告
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★界面光谱学——从微观探测到微观调控
-DTSTART;TZID=Asia/Shanghai:20261030T100000
-DTEND;TZID=Asia/Shanghai:20261030T113000
-UID:8708c7e1ac4c0f6eccab391a2bf4b5cd@reportautocal
-DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
- 性光谱学的基本原理、方法发展及应用，利用对称性选
- 择、相干探测和相位敏感测量抑制体相背景，实现界面
- 微观结构、局域电场、电荷转移与化学反应的选择性表
- 征；并介绍界面敏感的太赫兹非线性谱学技术及其在低
- 维材料界面、单原子层电极和能源界面中的应用。
-LOCATION:未提供
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Temporal Entanglement and Holography
-DTSTART;TZID=Asia/Shanghai:20261023T143000
-DTEND;TZID=Asia/Shanghai:20261023T160000
-UID:285f49824bc5dc6d441147fb890fb1a5@reportautocal
-DESCRIPTION:主讲人: 米哈乌·海勒 根特大学\n\n报告介绍时
- 间纠缠这一新视角，说明如何用张量网络计算实时可观
- 测量，并讨论在反德西特/共形场论（AdS/CFT）中理解该概
- 念的最新进展，内容基于三项近期研究。
-LOCATION:科学馆/322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Quantum corrections to the near-extremal thermodynamics of (warped
- ) BTZ black holes
-DTSTART;TZID=Asia/Shanghai:20261027T143000
-DTEND;TZID=Asia/Shanghai:20261027T160000
-UID:7c22667b3e77b3996586273fd2619fb6@reportautocal
-DESCRIPTION:主讲人: Robinson Mancilla 布鲁塞尔自由大学\n\n本
- 报告研究BTZ及warped BTZ黑洞的一圈量子修正，聚焦极端喉
- 部零模。在三维拓扑大质量引力框架下，比较近视界与
- 全几何本征值问题，确定Schwarzian与旋转扇区在低温下的
- 提升机制，并解决旋转扇区不匹配问题，表明旋转模将
- 喉部视为开放系统，其贡献依赖全几何边界条件。
-LOCATION:科学馆/322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:★Superconductivity in graphene stacks
-DTSTART;TZID=Asia/Shanghai:20261027T160000
-DTEND;TZID=Asia/Shanghai:20261027T173000
-UID:85045395cf679bf1a27c93b22cc1e84c@reportautocal
-DESCRIPTION:主讲人: Francisco Guinea IMDEA纳米科学研究所\n\n多
- 层石墨烯堆叠的相图是近年研究热点，体系表现出超导
- 与磁性等看似不相容的复杂行为，并可形成极平电子带
- ，为扭曲堆叠之外提供新途径。报告将介绍菱方石墨烯
- 堆叠的实验与理论进展，重点讨论新奇的相和异常行为
- 。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A personal tour on string solitons\, dualities and M-Theory
-DTSTART;TZID=Asia/Shanghai:20261028T160000
-DTEND;TZID=Asia/Shanghai:20261028T173000
-UID:f460969207ec1a7416fceee49b81f4a6@reportautocal
-DESCRIPTION:主讲人: 卢建新 中国科学技术大学\n\n报告从量
- 子引力和弦论的基本问题出发，回顾弦孤子的发现如何
- 纠正弦与高维膜无关的早期误解，并推动弦对偶性及M理
- 论的确立。报告还将讨论M理论面临的挑战、近期进展，
- 以及开弦对产生与QED Schwinger效应的关系及潜在应用。
-LOCATION:科学馆/322
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:★Interfacial Spectroscopy: From Microscopic Probing to Microscop
  ic Control
 DTSTART;TZID=Asia/Shanghai:20261030T100000
@@ -2358,5 +2295,69 @@ DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
  法与太赫兹非线性谱学在低维材料界面、单原子层电极
  和能源界面中的应用。
 LOCATION:未提供
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temporal Entanglement and Holography
+DTSTART;TZID=Asia/Shanghai:20261023T143000
+DTEND;TZID=Asia/Shanghai:20261023T160000
+UID:285f49824bc5dc6d441147fb890fb1a5@reportautocal
+DESCRIPTION:主讲人: Michał Heller 根特大学\n\n报告介绍时间
+ 纠缠这一利用张量网络计算实时可观测量的新视角，并
+ 讨论在 AdS/CFT 对应中理解该概念的最新进展，内容基于
+ 三篇相关论文。
+LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quantum corrections to the near-extremal thermodynamics of (warped
+ ) BTZ black holes
+DTSTART;TZID=Asia/Shanghai:20261027T143000
+DTEND;TZID=Asia/Shanghai:20261027T160000
+UID:7c22667b3e77b3996586273fd2619fb6@reportautocal
+DESCRIPTION:主讲人: 罗宾逊·曼西利亚 布鲁塞尔自由大学\n
+ \n报告研究BTZ及warped BTZ黑洞近极端热力学中的单圈量子
+ 修正，聚焦极端喉部零模。基于三维拓扑大质量引力，
+ 比较近视界与全几何本征值问题，分析小温度下Schwarzian
+ 与转动扇区抬升，推广微扰论解决转动扇区不匹配，并
+ 指出转动模把喉部视为开放系统，其贡献依赖全几何边
+ 界条件。
+LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Superconductivity in graphene stacks
+DTSTART;TZID=Asia/Shanghai:20261027T160000
+DTEND;TZID=Asia/Shanghai:20261027T173000
+UID:85045395cf679bf1a27c93b22cc1e84c@reportautocal
+DESCRIPTION:主讲人: Francisco Guinea IMDEA Nanoscience\n\n报告将介
+ 绍多层石墨烯堆叠相图研究，重点讨论菱面体石墨烯堆
+ 叠中的超导、磁性及极平电子带等复杂物性，展示不同
+ 于魔角扭转体系的新途径，并介绍近期实验与理论进展
+ 、新奇异相和反常行为。
+LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A personal tour on string solitons\, dualities and M-Theory
+DTSTART;TZID=Asia/Shanghai:20261028T160000
+DTEND;TZID=Asia/Shanghai:20261028T173000
+UID:f460969207ec1a7416fceee49b81f4a6@reportautocal
+DESCRIPTION:主讲人: 卢建新 中国科学技术大学\n\n报告从量
+ 子引力与弦理论的基本问题出发，回顾弦孤子的发现如
+ 何纠正弦与高维膜无关的早期误解，并阐述其在建立弦
+ 对偶性及M理论中的关键作用。报告还将讨论M理论面临的
+ 挑战、最新进展，以及开弦对产生与QED Schwinger效应关系
+ 等最新工作。
+LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★界面光谱学——从微观探测到微观调控
+DTSTART;TZID=Asia/Shanghai:20261030T100000
+DTEND;TZID=Asia/Shanghai:20261030T113000
+UID:8708c7e1ac4c0f6eccab391a2bf4b5cd@reportautocal
+DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
+ 性光谱学原理、方法及应用，利用对称性选择、相干探
+ 测和相位敏感测量抑制体相背景，实现界面结构、局域
+ 电场、电荷转移与化学反应的高灵敏表征；并介绍界面
+ 非线性光谱新方法和界面敏感太赫兹非线性谱学技术在
+ 低维材料界面、单原子层电极及能源界面中的应用。
+LOCATION:未注明
 END:VEVENT
 END:VCALENDAR
