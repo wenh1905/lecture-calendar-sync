@@ -2333,19 +2333,6 @@ DESCRIPTION:主讲人: 卢建新 中国科学技术大学\n\n报告从量
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★界面光谱学——从微观探测到微观调控
-DTSTART;TZID=Asia/Shanghai:20261030T100000
-DTEND;TZID=Asia/Shanghai:20261030T113000
-UID:8708c7e1ac4c0f6eccab391a2bf4b5cd@reportautocal
-DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
- 性光谱学的基本原理与方法，利用对称性选择、相干探
- 测和相位敏感测量抑制体相背景，实现界面微观结构、
- 局域电场、电荷转移与化学反应的选择性表征；并介绍
- 界面非线性光谱新方法及界面敏感太赫兹非线性谱学在
- 低维材料界面、单原子层电极和能源界面中的应用。
-LOCATION:物理楼/未注明
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:★Interfacial Spectroscopy: From Microscopic Probing to Microscop
  ic Control
 DTSTART;TZID=Asia/Shanghai:20261030T100000
@@ -2358,5 +2345,18 @@ DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
  敏感太赫兹非线性谱学在低维材料、单原子层电极和能
  源界面中的应用。
 LOCATION:未注明
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★界面光谱学——从微观探测到微观调控
+DTSTART;TZID=Asia/Shanghai:20261030T100000
+DTEND;TZID=Asia/Shanghai:20261030T113000
+UID:8708c7e1ac4c0f6eccab391a2bf4b5cd@reportautocal
+DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
+ 性光谱学原理与方法，利用对称性选择、相干探测和相
+ 位敏感测量抑制体相背景，实现界面结构、局域电场、
+ 电荷转移与化学反应的选择性表征；并介绍界面敏感太
+ 赫兹非线性谱学及其在低维材料、单原子层电极和能源
+ 界面中的应用。
+LOCATION:物理楼/未注明
 END:VEVENT
 END:VCALENDAR
