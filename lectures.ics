@@ -2282,21 +2282,6 @@ DESCRIPTION:主讲人: 靳常青 中国科学院物理研究所\n\n报告
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Interfacial Spectroscopy: From Microscopic Probing to Microscop
- ic Control
-DTSTART;TZID=Asia/Shanghai:20261030T100000
-DTEND;TZID=Asia/Shanghai:20261030T113000
-UID:81bbefac21ad0b81b5f09af85a735925@reportautocal
-DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
- 性光谱学的基本原理、方法发展及应用，利用对称性选
- 择、相干探测和相位敏感测量抑制体相背景，实现界面
- 微观结构、局域电场、电荷转移和化学过程的高灵敏、
- 界面特异、时间分辨表征；并介绍界面非线性光谱新方
- 法与太赫兹非线性谱学在低维材料界面、单原子层电极
- 和能源界面中的应用。
-LOCATION:未提供
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Temporal Entanglement and Holography
 DTSTART;TZID=Asia/Shanghai:20261023T143000
 DTEND;TZID=Asia/Shanghai:20261023T160000
@@ -2359,5 +2344,19 @@ DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
  界面非线性光谱新方法及界面敏感太赫兹非线性谱学在
  低维材料界面、单原子层电极和能源界面中的应用。
 LOCATION:物理楼/未注明
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Interfacial Spectroscopy: From Microscopic Probing to Microscop
+ ic Control
+DTSTART;TZID=Asia/Shanghai:20261030T100000
+DTEND;TZID=Asia/Shanghai:20261030T113000
+UID:81bbefac21ad0b81b5f09af85a735925@reportautocal
+DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
+ 性光谱学原理、方法及应用，利用对称性选择、相干探
+ 测和相位敏感测量抑制体相背景，实现界面结构、局域
+ 电场、电荷转移与化学反应的高灵敏表征，并展示界面
+ 敏感太赫兹非线性谱学在低维材料、单原子层电极和能
+ 源界面中的应用。
+LOCATION:未注明
 END:VEVENT
 END:VCALENDAR
