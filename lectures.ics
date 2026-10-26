@@ -2360,19 +2360,6 @@ DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
 LOCATION:未提供
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:肿瘤放射治疗前沿技术
-DTSTART;TZID=Asia/Shanghai:20261028T192000
-DTEND;TZID=Asia/Shanghai:20261028T203000
-UID:3df4ed4547f9afc9ec68524df0acd03b@reportautocal
-DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n讲座围绕肿
- 瘤放射治疗前沿技术，介绍调强放疗、容积旋转调强、
- 立体定向放疗、图像引导放疗、质子与碳离子治疗，以
- 及人工智能靶区勾画、计划设计、质量控制、MR引导自适
- 应放疗和FLASH超高剂量率放疗等进展，并讨论精准化、智
- 能化趋势及临床转化挑战。
-LOCATION:线上/腾讯会议/788 7994 0149
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:From Floquet engineering to cavity control of quantum materials
 DTSTART;TZID=Asia/Shanghai:20261029T160000
 DTEND;TZID=Asia/Shanghai:20261029T173000
@@ -2384,5 +2371,45 @@ DESCRIPTION:主讲人: 迈克尔·A·森特夫 不来梅大学/汉堡马
  发耦合，进而改变超导与拓扑性质，并展望光与腔场作
  为操控和创造关联量子相的工具。
 LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:肿瘤放射治疗前沿技术
+DTSTART;TZID=Asia/Shanghai:20261028T192000
+DTEND;TZID=Asia/Shanghai:20261028T203000
+UID:3df4ed4547f9afc9ec68524df0acd03b@reportautocal
+DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n报告围绕肿
+ 瘤放射治疗前沿技术，介绍调强放疗、容积旋转调强、
+ 立体定向放疗、图像引导放疗及质子碳离子治疗，并讨
+ 论人工智能在靶区勾画、计划设计、质控和在线自适应
+ 中的应用，以及MR引导自适应放疗、FLASH超高剂量率放疗
+ 的潜力与挑战，展望生物影像引导和实时计划闭环融合
+ 的发展趋势。
+LOCATION:腾讯会议 788 7994 0149（密码811812）
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent results from the LOFAR radio telescope and ESA's Euclid mis
+ sion
+DTSTART;TZID=Asia/Shanghai:20261027T103000
+DTEND;TZID=Asia/Shanghai:20261027T120000
+UID:4349e8b73cb6646bd95780f6a2e41325@reportautocal
+DESCRIPTION:主讲人: Huub Röttgering 莱顿天文台\n\n介绍LOFAR低
+ 频射电望远镜与欧空局Euclid空间望远镜两项巡天项目，
+ 并讨论利用其最新数据研究星系中心超大质量黑洞的形
+ 成与演化，以及黑洞外流对星系及其周围环境的影响。
+LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmological simulations of galaxy formation
+DTSTART;TZID=Asia/Shanghai:20261029T150000
+DTEND;TZID=Asia/Shanghai:20261029T163000
+UID:0e4c7b749f1056bf6f43d78d40c8db69@reportautocal
+DESCRIPTION:主讲人: Joop Schaye 莱顿大学\n\n报告介绍星系形
+ 成水动力模拟在河外天文学和宇宙学中的核心作用，讨
+ 论近年模拟真实性显著提升的原因及主要挑战，并介绍
+ 新一代COLIBRE模拟套件。该套件显式模拟多相星际介质及
+ 尘埃颗粒形成演化，抑制暗物质向重子虚假传能，体积
+ 和分辨率更高，并展示宇宙时间尺度上星系演化的初步
+ 结果。
+LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
