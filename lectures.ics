@@ -2360,31 +2360,33 @@ DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
 LOCATION:未提供
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:From Floquet engineering to cavity control of quantum materials
-DTSTART;TZID=Asia/Shanghai:20261029T160000
-DTEND;TZID=Asia/Shanghai:20261029T173000
-UID:9b666ae24aa2ec8ae47323829457536d@reportautocal
-DESCRIPTION:主讲人: 迈克尔·A·森特夫 不来梅大学/汉堡马
- 克斯·普朗克物质结构与动力学研究所\n\n报告介绍利用
- 光调控量子材料的新进展，从周期性驱动的Floquet工程出
- 发，讨论腔量子材料中光子涨落与电子、声子及集体激
- 发耦合，进而改变超导与拓扑性质，并展望光与腔场作
- 为操控和创造关联量子相的工具。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:肿瘤放射治疗前沿技术
 DTSTART;TZID=Asia/Shanghai:20261028T192000
 DTEND;TZID=Asia/Shanghai:20261028T203000
 UID:3df4ed4547f9afc9ec68524df0acd03b@reportautocal
-DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n报告围绕肿
- 瘤放射治疗前沿技术，介绍调强放疗、容积旋转调强、
- 立体定向放疗、图像引导放疗及质子碳离子治疗，并讨
- 论人工智能在靶区勾画、计划设计、质控和在线自适应
- 中的应用，以及MR引导自适应放疗、FLASH超高剂量率放疗
- 的潜力与挑战，展望生物影像引导和实时计划闭环融合
- 的发展趋势。
+DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n报告聚焦肿
+ 瘤放射治疗前沿技术，涵盖调强放疗、容积旋转调强、
+ 立体定向放疗、图像引导放疗，以及质子碳离子治疗、
+ 人工智能赋能靶区勾画与自适应放疗、MR引导自适应放疗
+ 和FLASH超高剂量率放疗。报告还讨论多学科数据闭环、生
+ 物自适应靶区验证、AI可靠性、设备可及性等挑战，并展
+ 望生物影像引导与实时计划闭环融合的发展趋势。
 LOCATION:腾讯会议 788 7994 0149（密码811812）
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Floquet engineering to cavity control of quantum materials
+DTSTART;TZID=Asia/Shanghai:20261029T160000
+DTEND;TZID=Asia/Shanghai:20261029T173000
+UID:9b666ae24aa2ec8ae47323829457536d@reportautocal
+DESCRIPTION:主讲人: 迈克尔·A·森特夫 不来梅大学和汉堡马
+ 克斯·普朗克物质结构与动力学研究所\n\n讲座回顾Floquet
+ 工程利用周期光驱动重塑电子态与相互作用，并指出加
+ 热、退相干等挑战；进而介绍腔量子材料，通过定制电
+ 磁环境使光量子涨落与电子及集体激发杂化，无需经典
+ 光照即可改变材料性质。报告将讨论腔修饰电子—声子
+ 耦合与超导、腔陈绝缘体，以及光与腔调控超导和相关
+ 多体量子相。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Recent results from the LOFAR radio telescope and ESA's Euclid mis
@@ -2392,10 +2394,11 @@ SUMMARY:Recent results from the LOFAR radio telescope and ESA's Euclid mis
 DTSTART;TZID=Asia/Shanghai:20261027T103000
 DTEND;TZID=Asia/Shanghai:20261027T120000
 UID:4349e8b73cb6646bd95780f6a2e41325@reportautocal
-DESCRIPTION:主讲人: Huub Röttgering 莱顿天文台\n\n介绍LOFAR低
- 频射电望远镜与欧空局Euclid空间望远镜两项巡天项目，
- 并讨论利用其最新数据研究星系中心超大质量黑洞的形
- 成与演化，以及黑洞外流对星系及其周围环境的影响。
+DESCRIPTION:主讲人: Huub Röttgering 莱顿大学\n\n本报告介绍LOF
+ AR低频射电望远镜和欧空局Euclid空间望远镜两项巡天实验
+ ，并讨论利用其最新观测研究星系中心超大质量黑洞的
+ 形成与演化，以及黑洞外流如何影响星系及其周围环境
+ 。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2403,13 +2406,12 @@ SUMMARY:Cosmological simulations of galaxy formation
 DTSTART;TZID=Asia/Shanghai:20261029T150000
 DTEND;TZID=Asia/Shanghai:20261029T163000
 UID:0e4c7b749f1056bf6f43d78d40c8db69@reportautocal
-DESCRIPTION:主讲人: Joop Schaye 莱顿大学\n\n报告介绍星系形
- 成水动力模拟在河外天文学和宇宙学中的核心作用，讨
- 论近年模拟真实性显著提升的原因及主要挑战，并介绍
- 新一代COLIBRE模拟套件。该套件显式模拟多相星际介质及
- 尘埃颗粒形成演化，抑制暗物质向重子虚假传能，体积
- 和分辨率更高，并展示宇宙时间尺度上星系演化的初步
- 结果。
+DESCRIPTION:主讲人: Joop Schaye 莱顿大学\n\n本报告介绍星系
+ 形成的流体动力学宇宙学模拟，说明其在外星系天文学
+ 和宇宙学中的核心作用及近年逼真度的显著提升，并介
+ 绍新型模拟套件COLIBRE如何显式建模多相星际介质、尘埃
+ 颗粒形成演化，抑制暗物质向重子能量的虚假转移，并
+ 给出跨宇宙时间的首批星系演化结果。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
