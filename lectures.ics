@@ -2364,28 +2364,26 @@ SUMMARY:肿瘤放射治疗前沿技术
 DTSTART;TZID=Asia/Shanghai:20261028T192000
 DTEND;TZID=Asia/Shanghai:20261028T203000
 UID:3df4ed4547f9afc9ec68524df0acd03b@reportautocal
-DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n报告聚焦肿
- 瘤放射治疗前沿技术，涵盖调强放疗、容积旋转调强、
- 立体定向放疗、图像引导放疗，以及质子碳离子治疗、
- 人工智能赋能靶区勾画与自适应放疗、MR引导自适应放疗
- 和FLASH超高剂量率放疗。报告还讨论多学科数据闭环、生
- 物自适应靶区验证、AI可靠性、设备可及性等挑战，并展
- 望生物影像引导与实时计划闭环融合的发展趋势。
-LOCATION:腾讯会议 788 7994 0149（密码811812）
+DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n报告综述肿
+ 瘤放射治疗从形态精准照射向影像引导与生物靶区结合
+ 的精准医学发展，介绍调强放疗、容积旋转调强、立体
+ 定向放疗、图像引导放疗及质子碳离子治疗，并讨论人
+ 工智能在靶区勾画、计划设计、质控和MR引导自适应放疗
+ 中的应用，以及FLASH超高剂量率放疗的潜力与挑战。
+LOCATION:腾讯会议/788 7994 0149
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Floquet engineering to cavity control of quantum materials
 DTSTART;TZID=Asia/Shanghai:20261029T160000
 DTEND;TZID=Asia/Shanghai:20261029T173000
 UID:9b666ae24aa2ec8ae47323829457536d@reportautocal
-DESCRIPTION:主讲人: 迈克尔·A·森特夫 不来梅大学和汉堡马
- 克斯·普朗克物质结构与动力学研究所\n\n讲座回顾Floquet
- 工程利用周期光驱动重塑电子态与相互作用，并指出加
- 热、退相干等挑战；进而介绍腔量子材料，通过定制电
- 磁环境使光量子涨落与电子及集体激发杂化，无需经典
- 光照即可改变材料性质。报告将讨论腔修饰电子—声子
- 耦合与超导、腔陈绝缘体，以及光与腔调控超导和相关
- 多体量子相。
+DESCRIPTION:主讲人: Michael A. Sentef 不来梅大学和汉堡马克斯
+ ·普朗克物质结构与动力学研究所\n\n报告介绍利用光与
+ 腔量子场调控量子材料的新进展：从周期性驱动重塑电
+ 子态与相互作用的Floquet工程，转向将材料置于定制电磁
+ 环境中的腔量子材料，探讨腔修饰电子-声子耦合、超导
+ 及腔Chern绝缘体等拓扑态，并讨论光诱导超导和共振光增
+ 强配对。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2394,11 +2392,10 @@ SUMMARY:Recent results from the LOFAR radio telescope and ESA's Euclid mis
 DTSTART;TZID=Asia/Shanghai:20261027T103000
 DTEND;TZID=Asia/Shanghai:20261027T120000
 UID:4349e8b73cb6646bd95780f6a2e41325@reportautocal
-DESCRIPTION:主讲人: Huub Röttgering 莱顿大学\n\n本报告介绍LOF
- AR低频射电望远镜和欧空局Euclid空间望远镜两项巡天实验
- ，并讨论利用其最新观测研究星系中心超大质量黑洞的
- 形成与演化，以及黑洞外流如何影响星系及其周围环境
- 。
+DESCRIPTION:主讲人: Huub Röttgering 莱顿天文台\n\n介绍LOFAR低
+ 频射电望远镜和欧空局Euclid空间望远镜两项巡天实验及
+ 其观测能力，并讨论星系中心超大质量黑洞形成演化、
+ 黑洞外流如何影响星系及其周围环境的最新研究结果。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2406,12 +2403,12 @@ SUMMARY:Cosmological simulations of galaxy formation
 DTSTART;TZID=Asia/Shanghai:20261029T150000
 DTEND;TZID=Asia/Shanghai:20261029T163000
 UID:0e4c7b749f1056bf6f43d78d40c8db69@reportautocal
-DESCRIPTION:主讲人: Joop Schaye 莱顿大学\n\n本报告介绍星系
- 形成的流体动力学宇宙学模拟，说明其在外星系天文学
- 和宇宙学中的核心作用及近年逼真度的显著提升，并介
- 绍新型模拟套件COLIBRE如何显式建模多相星际介质、尘埃
- 颗粒形成演化，抑制暗物质向重子能量的虚假转移，并
- 给出跨宇宙时间的首批星系演化结果。
+DESCRIPTION:主讲人: Joop Schaye 莱顿大学\n\n讲座介绍流体动
+ 力学星系形成模拟，讨论近年模拟真实性的大幅提升及
+ 现存挑战，重点介绍COLIBRE模拟套件，显式模拟多相星际
+ 介质和尘埃形成演化，抑制暗物质到重子的虚假能量转
+ 移，并展示跨宇宙时间的星系演化首批结果及其与观测
+ 的吻合与差异。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
