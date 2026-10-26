@@ -2359,4 +2359,30 @@ DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
  源界面中的应用。
 LOCATION:未提供
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:肿瘤放射治疗前沿技术
+DTSTART;TZID=Asia/Shanghai:20261028T192000
+DTEND;TZID=Asia/Shanghai:20261028T203000
+UID:3df4ed4547f9afc9ec68524df0acd03b@reportautocal
+DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n讲座围绕肿
+ 瘤放射治疗前沿技术，介绍调强放疗、容积旋转调强、
+ 立体定向放疗、图像引导放疗、质子与碳离子治疗，以
+ 及人工智能靶区勾画、计划设计、质量控制、MR引导自适
+ 应放疗和FLASH超高剂量率放疗等进展，并讨论精准化、智
+ 能化趋势及临床转化挑战。
+LOCATION:线上/腾讯会议/788 7994 0149
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Floquet engineering to cavity control of quantum materials
+DTSTART;TZID=Asia/Shanghai:20261029T160000
+DTEND;TZID=Asia/Shanghai:20261029T173000
+UID:9b666ae24aa2ec8ae47323829457536d@reportautocal
+DESCRIPTION:主讲人: 迈克尔·A·森特夫 不来梅大学/汉堡马
+ 克斯·普朗克物质结构与动力学研究所\n\n报告介绍利用
+ 光调控量子材料的新进展，从周期性驱动的Floquet工程出
+ 发，讨论腔量子材料中光子涨落与电子、声子及集体激
+ 发耦合，进而改变超导与拓扑性质，并展望光与腔场作
+ 为操控和创造关联量子相的工具。
+LOCATION:物理楼/天行报告厅
+END:VEVENT
 END:VCALENDAR
