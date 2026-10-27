@@ -2308,18 +2308,6 @@ DESCRIPTION:主讲人: 罗宾逊·曼西利亚 布鲁塞尔自由大学\n
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Superconductivity in graphene stacks
-DTSTART;TZID=Asia/Shanghai:20261027T160000
-DTEND;TZID=Asia/Shanghai:20261027T173000
-UID:85045395cf679bf1a27c93b22cc1e84c@reportautocal
-DESCRIPTION:主讲人: Francisco Guinea IMDEA Nanoscience\n\n报告将介
- 绍多层石墨烯堆叠相图研究，重点讨论菱面体石墨烯堆
- 叠中的超导、磁性及极平电子带等复杂物性，展示不同
- 于魔角扭转体系的新途径，并介绍近期实验与理论进展
- 、新奇异相和反常行为。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A personal tour on string solitons\, dualities and M-Theory
 DTSTART;TZID=Asia/Shanghai:20261028T160000
 DTEND;TZID=Asia/Shanghai:20261028T173000
@@ -2364,26 +2352,29 @@ SUMMARY:肿瘤放射治疗前沿技术
 DTSTART;TZID=Asia/Shanghai:20261028T192000
 DTEND;TZID=Asia/Shanghai:20261028T203000
 UID:3df4ed4547f9afc9ec68524df0acd03b@reportautocal
-DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n报告综述肿
+DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n报告围绕肿
  瘤放射治疗从形态精准照射向影像引导与生物靶区结合
  的精准医学发展，介绍调强放疗、容积旋转调强、立体
- 定向放疗、图像引导放疗及质子碳离子治疗，并讨论人
- 工智能在靶区勾画、计划设计、质控和MR引导自适应放疗
- 中的应用，以及FLASH超高剂量率放疗的潜力与挑战。
-LOCATION:腾讯会议/788 7994 0149
+ 定向放疗、图像引导放疗、质子碳离子治疗、人工智能
+ 赋能靶区勾画与自适应放疗、MR引导自适应放疗及FLASH超
+ 高剂量率放疗等前沿技术，并讨论多学科数据闭环、生
+ 物自适应靶区验证、AI可靠性及设备可及性等挑战与未来
+ 趋势。
+LOCATION:腾讯会议 788 7994 0149（密码811812）
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Floquet engineering to cavity control of quantum materials
 DTSTART;TZID=Asia/Shanghai:20261029T160000
 DTEND;TZID=Asia/Shanghai:20261029T173000
 UID:9b666ae24aa2ec8ae47323829457536d@reportautocal
-DESCRIPTION:主讲人: Michael A. Sentef 不来梅大学和汉堡马克斯
- ·普朗克物质结构与动力学研究所\n\n报告介绍利用光与
- 腔量子场调控量子材料的新进展：从周期性驱动重塑电
- 子态与相互作用的Floquet工程，转向将材料置于定制电磁
- 环境中的腔量子材料，探讨腔修饰电子-声子耦合、超导
- 及腔Chern绝缘体等拓扑态，并讨论光诱导超导和共振光增
- 强配对。
+DESCRIPTION:主讲人: 迈克尔·A·森特夫 不来梅大学和马克斯
+ ·普朗克物质结构与动力学研究所（汉堡）\n\n讲座概述
+ 利用光调控量子材料的两条路径：Floquet工程通过周期驱
+ 动重塑电子态及相互作用，但面临加热与退相干；腔量
+ 子材料将材料置于定制电磁环境，使光量子涨落与电子
+ 和集体激发杂化，从而改变电子-声子耦合、超导及拓扑
+ 态。报告还讨论光增强配对及用光与腔导航多体能量景
+ 观。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2392,10 +2383,11 @@ SUMMARY:Recent results from the LOFAR radio telescope and ESA's Euclid mis
 DTSTART;TZID=Asia/Shanghai:20261027T103000
 DTEND;TZID=Asia/Shanghai:20261027T120000
 UID:4349e8b73cb6646bd95780f6a2e41325@reportautocal
-DESCRIPTION:主讲人: Huub Röttgering 莱顿天文台\n\n介绍LOFAR低
- 频射电望远镜和欧空局Euclid空间望远镜两项巡天实验及
- 其观测能力，并讨论星系中心超大质量黑洞形成演化、
- 黑洞外流如何影响星系及其周围环境的最新研究结果。
+DESCRIPTION:主讲人: Huub Röttgering 莱顿天文台\n\n报告介绍低
+ 频阵列LOFAR与欧空局欧几里得空间望远镜两项巡天实验，
+ 展示其观测能力，并讨论星系中心超大质量黑洞的形成
+ 与演化，以及黑洞外流如何影响星系及其周围环境的性
+ 质。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2403,12 +2395,37 @@ SUMMARY:Cosmological simulations of galaxy formation
 DTSTART;TZID=Asia/Shanghai:20261029T150000
 DTEND;TZID=Asia/Shanghai:20261029T163000
 UID:0e4c7b749f1056bf6f43d78d40c8db69@reportautocal
-DESCRIPTION:主讲人: Joop Schaye 莱顿大学\n\n讲座介绍流体动
- 力学星系形成模拟，讨论近年模拟真实性的大幅提升及
- 现存挑战，重点介绍COLIBRE模拟套件，显式模拟多相星际
- 介质和尘埃形成演化，抑制暗物质到重子的虚假能量转
- 移，并展示跨宇宙时间的星系演化首批结果及其与观测
- 的吻合与差异。
+DESCRIPTION:主讲人: Joop Schaye 莱顿大学\n\n介绍星系形成流
+ 体动力学模拟在河外天文学和宇宙学中的重要作用，说
+ 明近年模拟真实性显著提升及仍存挑战，重点介绍COLIBRE
+ 模拟套件：显式建模多相星际介质和尘埃颗粒形成演化
+ ，抑制暗物质向重子的虚假能量转移，并提升模拟体积
+ 与分辨率，展示跨宇宙时间的星系演化首批结果及与观
+ 测的对比。
 LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navigating Scientific Publishing in the Nature Portfolio
+DTSTART;TZID=Asia/Shanghai:20261113T103000
+DTEND;TZID=Asia/Shanghai:20261113T113000
+UID:2af31f6098ebd3b313f836f0915f50fa@reportautocal
+DESCRIPTION:主讲人: Aldo Isidori 施普林格·自然\n\n介绍自然
+ 系列期刊中通讯类期刊的编辑模式与同行评审流程，分
+ 享学术出版幕后运作及常见发表问题，帮助青年学者和
+ 学生学会有效与编辑沟通，提高投稿与审稿效率。
+LOCATION:物理楼/W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Superconductivity in graphene stacks
+DTSTART;TZID=Asia/Shanghai:20261027T160000
+DTEND;TZID=Asia/Shanghai:20261027T173000
+UID:85045395cf679bf1a27c93b22cc1e84c@reportautocal
+DESCRIPTION:主讲人: Francisco Guinea IMDEA纳米科学研究所\n\n报
+ 告聚焦多层石墨烯堆垛尤其是菱方堆垛的相图与新奇物
+ 态，讨论超导、磁性等看似不相容现象的共同存在，以
+ 及通过堆垛形成极平电子能带、作为魔角扭转体系之外
+ 的新平台；结合近期实验与理论进展，介绍非常规相和
+ 反常行为。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
