@@ -2366,12 +2366,13 @@ SUMMARY:肿瘤放射治疗前沿技术
 DTSTART;TZID=Asia/Shanghai:20261028T192000
 DTEND;TZID=Asia/Shanghai:20261028T203000
 UID:3df4ed4547f9afc9ec68524df0acd03b@reportautocal
-DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n报告围绕肿
- 瘤放射治疗前沿技术，介绍调强放疗、容积旋转调强、
- 立体定向及图像引导放疗，质子碳离子治疗，人工智能
- 在靶区勾画、计划设计和质控中的应用，MR引导自适应放
- 疗及FLASH超高剂量率放疗的潜力与挑战，并展望生物影像
- 引导与实时计划闭环融合。
+DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n报告介绍肿
+ 瘤放射治疗从形态精准照射迈向影像引导与生物靶区结
+ 合的精准医学时代，涵盖调强放疗、容积旋转调强、立
+ 体定向放疗、图像引导放疗，以及质子碳离子治疗、人
+ 工智能赋能靶区勾画与自适应流程、MR引导自适应放疗和
+ FLASH超高剂量率放疗等前沿技术，并讨论当前挑战与未来
+ 发展趋势。
 LOCATION:腾讯会议/788 7994 0149
 END:VEVENT
 BEGIN:VEVENT
@@ -2380,10 +2381,10 @@ SUMMARY:Recent results from the LOFAR radio telescope and ESA's Euclid mis
 DTSTART;TZID=Asia/Shanghai:20261027T103000
 DTEND;TZID=Asia/Shanghai:20261027T120000
 UID:4349e8b73cb6646bd95780f6a2e41325@reportautocal
-DESCRIPTION:主讲人: 胡布·罗特格林 莱顿天文台\n\n报告介
- 绍LOFAR低频射电望远镜和欧空局Euclid空间望远镜两项巡天
- 项目，并展示关于星系中心超大质量黑洞形成演化及其
- 外流如何影响星系与周边环境的最新研究成果。
+DESCRIPTION:主讲人: Huub Röttgering 莱顿大学\n\n介绍LOFAR低频
+ 射电望远镜与欧空局Euclid空间望远镜两项巡天实验，并
+ 讨论利用其观测研究星系中心超大质量黑洞的形成与演
+ 化，以及黑洞外流如何影响星系及其周围环境。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2391,13 +2392,12 @@ SUMMARY:Cosmological simulations of galaxy formation
 DTSTART;TZID=Asia/Shanghai:20261029T150000
 DTEND;TZID=Asia/Shanghai:20261029T163000
 UID:0e4c7b749f1056bf6f43d78d40c8db69@reportautocal
-DESCRIPTION:主讲人: Joop Schaye 莱顿大学\n\n本报告介绍星系
- 形成的流体动力学宇宙学模拟，说明其近年来真实性显
- 著提升的原因及仍存挑战，并重点介绍新一代COLIBRE模拟
- 套件。该套件显式模拟多相星际介质及尘埃颗粒形成演
- 化，抑制暗物质与重子间的虚假能量传递，并以更高分
- 辨率研究宇宙各时期的星系演化，与观测总体吻合但也
- 揭示待解释差异。
+DESCRIPTION:主讲人: Joop Schaye 莱顿大学\n\n报告介绍星系形
+ 成的流体动力学宇宙学模拟，说明其真实感提升及主要
+ 挑战，并介绍新一代COLIBRE模拟：显式处理多相星际介质
+ 和尘埃颗粒演化，改进暗物质超采样，体积和分辨率更
+ 高，展示跨宇宙时间的星系演化首批结果及与观测的吻
+ 合和差异。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2405,11 +2405,10 @@ SUMMARY:Navigating Scientific Publishing in the Nature Portfolio
 DTSTART;TZID=Asia/Shanghai:20261113T103000
 DTEND;TZID=Asia/Shanghai:20261113T113000
 UID:2af31f6098ebd3b313f836f0915f50fa@reportautocal
-DESCRIPTION:主讲人: Aldo Isidori Springer Nature\n\n本次报告由Natu
- re Portfolio旗下Communications期刊编辑介绍其编辑模式与同行
- 评审流程，分享学术出版幕后运作机制，并解答投稿常
- 见问题，帮助青年科研人员和学生更有效地与编辑沟通
- ，提高投稿与评审效率。
+DESCRIPTION:主讲人: Aldo Isidori Springer Nature\n\n讲座介绍Nature 
+ Portfolio旗下Communications期刊的编辑模式与同行评审流程，
+ 分享学术出版幕后运作及发表常见问题，帮助青年科研
+ 人员和学生有效与编辑沟通，提高投稿与审稿效率。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -2417,12 +2416,11 @@ SUMMARY:★Superconductivity in graphene stacks
 DTSTART;TZID=Asia/Shanghai:20261027T160000
 DTEND;TZID=Asia/Shanghai:20261027T173000
 UID:85045395cf679bf1a27c93b22cc1e84c@reportautocal
-DESCRIPTION:主讲人: 弗朗西斯科·吉内亚 IMDEA纳米科学研究
- 所\n\n报告将介绍多层石墨烯堆叠体系相图研究的最新进
- 展，重点讨论其中超导与磁性等看似不相容的复杂行为
- ，以及利用菱面体堆叠石墨烯获得极平整电子带的途径
- ，并介绍相关实验与理论研究所揭示的新奇物相和异常
- 行为。
+DESCRIPTION:主讲人: Francisco Guinea IMDEA纳米科学研究所\n\n介
+ 绍多层石墨烯堆垛的相图研究，重点讨论菱面体石墨烯
+ 堆垛中的超导、磁性、平带等新物相与异常行为，结合
+ 近期实验和理论进展，探讨其区别于扭转堆垛的强关联
+ 物理特性。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
