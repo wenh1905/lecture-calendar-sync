@@ -2352,29 +2352,26 @@ SUMMARY:肿瘤放射治疗前沿技术
 DTSTART;TZID=Asia/Shanghai:20261028T192000
 DTEND;TZID=Asia/Shanghai:20261028T203000
 UID:3df4ed4547f9afc9ec68524df0acd03b@reportautocal
-DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n报告围绕肿
- 瘤放射治疗从形态精准照射向影像引导与生物靶区结合
- 的精准医学发展，介绍调强放疗、容积旋转调强、立体
- 定向放疗、图像引导放疗、质子碳离子治疗、人工智能
- 赋能靶区勾画与自适应放疗、MR引导自适应放疗及FLASH超
- 高剂量率放疗等前沿技术，并讨论多学科数据闭环、生
- 物自适应靶区验证、AI可靠性及设备可及性等挑战与未来
- 趋势。
-LOCATION:腾讯会议 788 7994 0149（密码811812）
+DESCRIPTION:主讲人: 单国平 浙江省肿瘤医院\n\n讲座聚焦肿
+ 瘤放射治疗前沿技术，介绍调强放疗、容积旋转调强、
+ 立体定向放疗、图像引导放疗及质子碳离子治疗，并讨
+ 论人工智能在靶区勾画、计划设计、质控和在线自适应
+ 中的应用，以及MR引导自适应放疗、FLASH超高剂量率放疗
+ 的潜力、挑战与发展趋势。
+LOCATION:腾讯会议（788 7994 0149，密码811812）
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Floquet engineering to cavity control of quantum materials
 DTSTART;TZID=Asia/Shanghai:20261029T160000
 DTEND;TZID=Asia/Shanghai:20261029T173000
 UID:9b666ae24aa2ec8ae47323829457536d@reportautocal
-DESCRIPTION:主讲人: 迈克尔·A·森特夫 不来梅大学和马克斯
- ·普朗克物质结构与动力学研究所（汉堡）\n\n讲座概述
- 利用光调控量子材料的两条路径：Floquet工程通过周期驱
- 动重塑电子态及相互作用，但面临加热与退相干；腔量
- 子材料将材料置于定制电磁环境，使光量子涨落与电子
- 和集体激发杂化，从而改变电子-声子耦合、超导及拓扑
- 态。报告还讨论光增强配对及用光与腔导航多体能量景
- 观。
+DESCRIPTION:主讲人: Michael A. Sentef 不来梅大学与马克斯·普
+ 朗克物质结构与动力学研究所\n\n本报告介绍利用光与电
+ 磁环境调控量子材料的新进展：从Floquet工程出发，讨论
+ 周期驱动对电子态和相互作用的重塑，以及腔量子材料
+ 中光量子涨落与电子、集体激发的杂化。报告还将涉及
+ 腔修饰电子-声子耦合与超导、腔陈绝缘体，以及光增强
+ 配对和关联量子相的非平衡调控。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2383,11 +2380,11 @@ SUMMARY:Recent results from the LOFAR radio telescope and ESA's Euclid mis
 DTSTART;TZID=Asia/Shanghai:20261027T103000
 DTEND;TZID=Asia/Shanghai:20261027T120000
 UID:4349e8b73cb6646bd95780f6a2e41325@reportautocal
-DESCRIPTION:主讲人: Huub Röttgering 莱顿天文台\n\n报告介绍低
- 频阵列LOFAR与欧空局欧几里得空间望远镜两项巡天实验，
- 展示其观测能力，并讨论星系中心超大质量黑洞的形成
- 与演化，以及黑洞外流如何影响星系及其周围环境的性
- 质。
+DESCRIPTION:主讲人: Huub Röttgering 莱顿大学\n\n介绍LOFAR低频
+ 射电望远镜与欧空局Euclid空间望远镜开展的大规模巡天
+ ，并讨论最新观测结果，重点涉及星系中心超大质量黑
+ 洞的形成与演化，以及黑洞外流对星系和周边环境的影
+ 响。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2395,13 +2392,13 @@ SUMMARY:Cosmological simulations of galaxy formation
 DTSTART;TZID=Asia/Shanghai:20261029T150000
 DTEND;TZID=Asia/Shanghai:20261029T163000
 UID:0e4c7b749f1056bf6f43d78d40c8db69@reportautocal
-DESCRIPTION:主讲人: Joop Schaye 莱顿大学\n\n介绍星系形成流
- 体动力学模拟在河外天文学和宇宙学中的重要作用，说
- 明近年模拟真实性显著提升及仍存挑战，重点介绍COLIBRE
- 模拟套件：显式建模多相星际介质和尘埃颗粒形成演化
- ，抑制暗物质向重子的虚假能量转移，并提升模拟体积
- 与分辨率，展示跨宇宙时间的星系演化首批结果及与观
- 测的对比。
+DESCRIPTION:主讲人: Joop Schaye 莱顿大学\n\n报告介绍星系形
+ 成的流体动力学宇宙学模拟，说明其在新一代观测解释
+ 和宇宙学巡天预测中的作用，并重点介绍COLIBRE模拟套件
+ 。该套件显式模拟多相星际介质及尘埃颗粒形成演化，
+ 改进暗物质与重子能量传递问题，并以更高分辨率给出
+ 跨宇宙时间的星系演化首批结果，与多类观测吻合但也
+ 揭示待解释差异。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2409,10 +2406,10 @@ SUMMARY:Navigating Scientific Publishing in the Nature Portfolio
 DTSTART;TZID=Asia/Shanghai:20261113T103000
 DTEND;TZID=Asia/Shanghai:20261113T113000
 UID:2af31f6098ebd3b313f836f0915f50fa@reportautocal
-DESCRIPTION:主讲人: Aldo Isidori 施普林格·自然\n\n介绍自然
- 系列期刊中通讯类期刊的编辑模式与同行评审流程，分
- 享学术出版幕后运作及常见发表问题，帮助青年学者和
- 学生学会有效与编辑沟通，提高投稿与审稿效率。
+DESCRIPTION:主讲人: Aldo Isidori 施普林格·自然\n\n介绍Nature P
+ ortfolio旗下Communications期刊的编辑模式与同行评审流程，
+ 分享学术出版幕后运作及常见投稿问题，帮助青年研究
+ 人员和学生有效与编辑沟通，提高投稿与审稿效率。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -2420,12 +2417,12 @@ SUMMARY:★Superconductivity in graphene stacks
 DTSTART;TZID=Asia/Shanghai:20261027T160000
 DTEND;TZID=Asia/Shanghai:20261027T173000
 UID:85045395cf679bf1a27c93b22cc1e84c@reportautocal
-DESCRIPTION:主讲人: Francisco Guinea IMDEA纳米科学研究所\n\n报
- 告聚焦多层石墨烯堆垛尤其是菱方堆垛的相图与新奇物
- 态，讨论超导、磁性等看似不相容现象的共同存在，以
- 及通过堆垛形成极平电子能带、作为魔角扭转体系之外
- 的新平台；结合近期实验与理论进展，介绍非常规相和
- 反常行为。
+DESCRIPTION:主讲人: Francisco Guinea IMDEA纳米科学研究所\n\n多
+ 层石墨烯堆垛的相图是近期研究热点，体系呈现超导与
+ 磁性等看似不相容的复杂行为，并提供获得极平电子带
+ 的途径。报告将介绍菱面体石墨烯堆垛的最新实验与理
+ 论研究，重点讨论新奇特相及不同于其他体系的反常行
+ 为。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
