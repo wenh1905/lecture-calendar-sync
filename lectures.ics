@@ -2405,11 +2405,11 @@ SUMMARY:Navigating Scientific Publishing in the Nature Portfolio
 DTSTART;TZID=Asia/Shanghai:20261113T103000
 DTEND;TZID=Asia/Shanghai:20261113T113000
 UID:2af31f6098ebd3b313f836f0915f50fa@reportautocal
-DESCRIPTION:主讲人: Aldo Isidori Springer Nature\n\n讲座介绍Nature 
- Portfolio旗下Communications期刊的编辑模式与同行评审流程，
- 分享学术出版幕后运作及常见发表问题，帮助青年学者
- 和学生理解如何与编辑有效沟通、提高投稿与审稿效率
- 。
+DESCRIPTION:主讲人: Aldo Isidori Springer Nature\n\n本次报告由Natu
+ re Portfolio旗下Communications期刊编辑介绍学术出版幕后运作
+ ，重点讲解编辑模式、同行评审流程、如何与编辑有效
+ 沟通，以及提高投稿和审稿效率的实用建议，尤其面向
+ 早期科研人员和学生。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -2417,11 +2417,11 @@ SUMMARY:★Superconductivity in graphene stacks
 DTSTART;TZID=Asia/Shanghai:20261027T160000
 DTEND;TZID=Asia/Shanghai:20261027T173000
 UID:85045395cf679bf1a27c93b22cc1e84c@reportautocal
-DESCRIPTION:主讲人: Francisco Guinea IMDEA Nanoscience\n\n报告将介
- 绍多层石墨烯堆叠体系相图的最新研究，重点讨论菱面
- 体石墨烯堆叠中极平电子带、超导与磁性等看似不相容
- 现象共存，以及有别于其他体系的新奇物相和反常行为
- 。
+DESCRIPTION:主讲人: 弗朗西斯科·吉内亚 IMDEA纳米科学研究
+ 所\n\n报告聚焦多层石墨烯堆叠体系的相图，介绍菱面堆
+ 叠石墨烯中非常规超导、磁性及平带等新奇相和异常行
+ 为，讨论其与魔角扭转体系不同的实现路径，并结合近
+ 期实验与理论进展进行阐述。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
