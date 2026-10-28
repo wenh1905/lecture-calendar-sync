@@ -2405,11 +2405,11 @@ SUMMARY:Navigating Scientific Publishing in the Nature Portfolio
 DTSTART;TZID=Asia/Shanghai:20261113T103000
 DTEND;TZID=Asia/Shanghai:20261113T113000
 UID:2af31f6098ebd3b313f836f0915f50fa@reportautocal
-DESCRIPTION:主讲人: Aldo Isidori 施普林格·自然\n\n报告将介
- 绍Nature Portfolio旗下Communications系列期刊的编辑模式与同
- 行评审流程，分享学术出版幕后运作经验，并解答投稿
- 常见问题，帮助青年研究人员和学生有效与编辑沟通、
- 提升投稿与审稿效率。
+DESCRIPTION:主讲人: Aldo Isidori 施普林格·自然伦敦办公室\n
+ \n介绍Nature Portfolio旗下Communications系列期刊的编辑模式与
+ 同行评审流程，分享学术出版幕后运作及发表常见问题
+ ，帮助青年研究者和学生有效与编辑沟通，提高投稿与
+ 审稿效率。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -2417,12 +2417,11 @@ SUMMARY:★Superconductivity in graphene stacks
 DTSTART;TZID=Asia/Shanghai:20261027T160000
 DTEND;TZID=Asia/Shanghai:20261027T173000
 UID:85045395cf679bf1a27c93b22cc1e84c@reportautocal
-DESCRIPTION:主讲人: Francisco Guinea IMDEA Nanoscience\n\n多层石墨
- 烯堆叠的相图是近年活跃研究方向，体系呈现超导与磁
- 性等看似不兼容的复杂行为，并可实现不同于扭角堆叠
- 的极平电子带。报告将介绍菱方石墨烯堆叠的最新实验
- 与理论研究，重点讨论新奇特相和在其他体系中少见的
- 异常行为。
+DESCRIPTION:主讲人: Francisco Guinea IMDEA纳米科学研究所\n\n报
+ 告介绍多层石墨烯堆垛体系相图研究的最新实验与理论
+ 进展，重点讨论菱面体石墨烯堆垛中的平带、超导与磁
+ 性共存等新奇相和反常行为，并说明其作为调控平带电
+ 子态新平台的意义。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
