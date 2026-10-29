@@ -2348,20 +2348,6 @@ DESCRIPTION:主讲人: 田传山 复旦大学\n\n报告介绍界面非线
 LOCATION:未提供
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:From Floquet engineering to cavity control of quantum materials
-DTSTART;TZID=Asia/Shanghai:20261029T160000
-DTEND;TZID=Asia/Shanghai:20261029T173000
-UID:9b666ae24aa2ec8ae47323829457536d@reportautocal
-DESCRIPTION:主讲人: Michael A. Sentef 不来梅大学与马克斯·普
- 朗克物质结构与动力学研究所\n\n本报告介绍利用光与电
- 磁环境调控量子材料的新进展：从Floquet工程出发，讨论
- 周期驱动对电子态和相互作用的重塑，以及腔量子材料
- 中光量子涨落与电子、集体激发的杂化。报告还将涉及
- 腔修饰电子-声子耦合与超导、腔陈绝缘体，以及光增强
- 配对和关联量子相的非平衡调控。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:肿瘤放射治疗前沿技术
 DTSTART;TZID=Asia/Shanghai:20261028T192000
 DTEND;TZID=Asia/Shanghai:20261028T203000
@@ -2422,6 +2408,21 @@ DESCRIPTION:主讲人: Francisco Guinea IMDEA纳米科学研究所\n\n报
  进展，重点讨论菱面体石墨烯堆垛中的平带、超导与磁
  性共存等新奇相和反常行为，并说明其作为调控平带电
  子态新平台的意义。
+LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Floquet engineering to cavity control of quantum materials
+DTSTART;TZID=Asia/Shanghai:20261029T160000
+DTEND;TZID=Asia/Shanghai:20261029T173000
+UID:9b666ae24aa2ec8ae47323829457536d@reportautocal
+DESCRIPTION:主讲人: Michael A. Sentef 不来梅大学和汉堡马克斯
+ ·普朗克物质结构与动力学研究所\n\n讲座讨论利用光控
+ 制量子材料，从Floquet工程转向腔量子材料。周期驱动可
+ 重塑电子态，但面临加热与退相干。将材料置于定制电
+ 磁环境，可使光量子涨落与电子及集体激发杂化，无需
+ 经典光照即可改变性质；并探讨腔修饰电子-声子耦合与
+ 超导、诱导腔陈绝缘体等拓扑态，以及光与腔导航多体
+ 能量景观、选择性访问关联量子相。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
