@@ -2415,12 +2415,26 @@ SUMMARY:From Floquet engineering to cavity control of quantum materials
 DTSTART;TZID=Asia/Shanghai:20261029T160000
 DTEND;TZID=Asia/Shanghai:20261029T173000
 UID:9b666ae24aa2ec8ae47323829457536d@reportautocal
-DESCRIPTION:主讲人: Michael A. Sentef 不来梅大学和MPSD汉堡\n\n
- 报告综述利用光与腔量子场调控量子材料的新进展，从Fl
- oquet工程出发，介绍周期性驱动对电子态与相互作用的重
- 塑，以及腔量子材料中光量子涨落与电子、声子及集体
- 激发的耦合，探讨腔修饰超导、拓扑态和光增强配对等
- 关联量子相的控制与诱导。
+DESCRIPTION:主讲人: Michael A. Sentef 不来梅大学、马克斯·普
+ 朗克物质结构与动力学研究所（汉堡）\n\n报告从Floquet工
+ 程出发，介绍周期光场驱动对量子材料电子态与相互作
+ 用的重塑及其加热、退相干挑战；进一步讨论腔量子材
+ 料中光量子涨落与电子、声子及集体激发的耦合，包括
+ 腔修饰电子-声子耦合与超导、腔陈绝缘体，以及光增强
+ 强关联体系配对等调控超导与拓扑量子态的新思路。
 LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exact results for the equal charge superconformal index
+DTSTART;TZID=Asia/Shanghai:20261030T143000
+DTEND;TZID=Asia/Shanghai:20261030T160000
+UID:4487148b3d976cf5610308892b40165a@reportautocal
+DESCRIPTION:主讲人: Miguel Tierz SIMIS\n\n讨论四维N=4超杨-米尔
+ 斯理论U(N)规范群超共形指数等电荷扇区的精确结果，利
+ 用精确电荷投影将大N多引力子指数表示为Euler乘积前因
+ 子与整数分拆数立方生成级数的乘积，并介绍最大自旋
+ 附近的有限秩结果、与多引力子答案一致的精确范围及
+ 显式修正。
+LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
