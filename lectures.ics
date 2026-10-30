@@ -2429,12 +2429,13 @@ SUMMARY:Exact results for the equal charge superconformal index
 DTSTART;TZID=Asia/Shanghai:20261030T143000
 DTEND;TZID=Asia/Shanghai:20261030T160000
 UID:4487148b3d976cf5610308892b40165a@reportautocal
-DESCRIPTION:主讲人: Miguel Tierz 上海数学与交叉学科研究院\n
- \n报告讨论U(N)四维N=4超杨-米尔斯理论超共形指数等电荷
- 扇区的精确结果。通过对已知大N指数施加精确电荷投影
- ，将等电荷多重引力子指数表示为欧拉乘积前因子与整
- 数分拆数立方生成级数之积，并介绍最大自旋附近的有
- 限秩结果、与多重引力子答案的一致范围及显式修正。
+DESCRIPTION:主讲人: Miguel Tierz SIMIS\n\n报告讨论四维U(N) N=4超
+ 杨-米尔斯理论超共形指标等电荷扇区的精确结果。通过
+ 对已知大N指标作精确电荷投影，将等电荷多引力子指标
+ 表示为Euler乘积前因子与整数分拆数立方生成级数的乘积
+ ，并介绍最大自旋附近的有限秩结果、与多引力子答案
+ 精确一致的范围及显式修正，示例说明有限秩系数在多
+ 引力子系数消失处仍可非零。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -2444,10 +2445,11 @@ DTSTART;TZID=Asia/Shanghai:20261105T160000
 DTEND;TZID=Asia/Shanghai:20261105T173000
 UID:c45bae88de689828862f6b76ca88bf43@reportautocal
 DESCRIPTION:主讲人: 季向东 上海交通大学\n\n报告从爱因斯
- 坦追光思想实验出发，回顾相对论量子理论难题，介绍
- 大动量有效场理论（LaMET）如何结合威尔逊临界点思想与
- 格点量子场论，建立从QCD第一性原理计算光速运行质子
- 夸克胶子结构的框架，并讨论高能实验检验。
+ 坦“追上光会看到什么”的思想实验出发，回顾相对论
+ 量子理论的发展，介绍大动量有效场理论（LaMET）如何结
+ 合格点量子色动力学，从第一性原理计算光速运行质子
+ 的夸克与胶子结构，并讨论高能实验检验及质子三维结
+ 构研究。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
