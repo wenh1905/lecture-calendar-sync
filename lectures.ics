@@ -2458,11 +2458,15 @@ DTSTART;TZID=Asia/Shanghai:20261106T160000
 DTEND;TZID=Asia/Shanghai:20261106T173000
 UID:4db3d4ef7ed3c94207d7e5a96a6ce1fc@reportautocal
 DESCRIPTION:主讲人: Dante M. Kennes 亚琛工业大学\n\n报告利用
- 时间和能量分辨光致发光及超快反射显微技术，研究WSe
+ 时间与能量分辨光致发光及超快反射显微技术，研究WSe
  ₂/WS₂莫尔异质双层中多激子态的真实空间与时间动力
- 学，揭示激子莫特绝缘体、相互作用诱导的弹道膨胀及
- 电子掺杂下激子-电子耦合导致的能选择性输运和混合莫
- 特态。
+ 学。在特定激子填充下，长程偶极排斥形成激子莫特绝
+ 缘体，膨胀冻结超过70纳秒；引入关联电子后，激子—电
+ 子与激子—激子排斥促使激子进入更色散的莫尔能带，
+ 产生能量选择性弹道膨胀，并在分数电子填充支持广义
+ 维格纳晶体序时增强。随着激子密度衰减，弹道流转变
+ 为电子—激子混合莫特态，展示了莫尔材料中绝缘冻结
+ 与集体流体运动的可调转变。
 LOCATION:物理楼/W361
 END:VEVENT
 BEGIN:VEVENT
@@ -2471,13 +2475,12 @@ SUMMARY:★From a wandering massive black hole to the Hubble constant with
 DTSTART;TZID=Asia/Shanghai:20261105T150000
 DTEND;TZID=Asia/Shanghai:20261105T163000
 UID:44077475b6ad5751c57b2a612751f010@reportautocal
-DESCRIPTION:主讲人: 施勇 西湖大学\n\n本报告介绍利用三维
- 光谱学（两维空间加一维光谱）探索宇宙。首先介绍DGIS
- 矮星系积分场巡天发现一个偏离核区、质量仅3.5万太阳
- 质量的中等质量黑洞，其特殊环境首次揭示游荡黑洞如
- 何通过引力尾迹吸积。随后介绍WISH巡天，利用星系—质
- 量E关系作为新宇宙标尺，独立于Ia型超新星测量哈勃常
- 数，并展示其校准与试点测量结果。
+DESCRIPTION:主讲人: 施勇 西湖大学\n\n报告介绍三维光谱（
+ 两维空间加一维光谱）在光学波段宇宙探索中的应用，
+ 基于矮星系积分场巡天DGIS发现约3.5万倍太阳质量的非核
+ 中等质量黑洞，并探讨其通过引力尾迹吸积；随后介绍WI
+ SH巡天利用星系—质量E关系作为新宇宙标尺独立测量哈
+ 勃常数，给出定标与试点测量结果。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2486,25 +2489,25 @@ DTSTART;TZID=Asia/Shanghai:20261110T133000
 DTEND;TZID=Asia/Shanghai:20261110T150000
 UID:a0394001b7eafa9c65b5b37ee5bfe1a4@reportautocal
 DESCRIPTION:主讲人: 杨大能 中国科学院紫金山天文台\n\n报
- 告将自相互作用暗物质（SIDM）视为冷暗物质晕演化路径
- 的可控形变，结合CDM模拟、受控SIDM模拟与参数化引力热
- 演化模型，分离自相互作用和晕组装环境效应，解释强
- 透镜扰动体、星系团强透镜及矮星系成团性，并讨论吸
- 热非弹性暗物质对星系暗物质缺失的解释。
+ 告将自相互作用暗物质（SIDM）建模为冷暗物质晕演化路
+ 径的受控形变，结合CDM模拟、SIDM模拟与参数化引力热演
+ 化模型，分离自相互作用和晕组装环境影响，并讨论双
+ 组分SIDM对强透镜扰动体、星系团强透镜及小星系成团性
+ 的解释，以及吸热非弹性暗物质对质量依赖暗物质亏缺
+ 的解释。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:晶胞内约瑟夫森干涉：一种测量超导配对对称性的
- 新方法
+SUMMARY:★晶胞内约瑟夫森干涉：一种测量超导配对对称性
+ 的新方法
 DTSTART;TZID=Asia/Shanghai:20261105T133000
 DTEND;TZID=Asia/Shanghai:20261105T150000
 UID:d1e815426f2b68a9545756c2d60bccab@reportautocal
-DESCRIPTION:主讲人: 孙煜杰 南方科技大学\n\n报告介绍利用
- 超导针尖扫描隧道显微镜在单个晶胞内逐点测量约瑟夫
- 森响应，通过干涉节点与晶格对称性的关系判断超导配
- 对对称性；并以SrTiO3衬底上单层FeSe为例，发现最近邻Fe-F
- e键中心响应最强、沿镜面形成节点线，为无节点d波配对
- 提供相位敏感证据。
+DESCRIPTION:主讲人: 孙煜杰 南方科技大学\n\n报告介绍一种
+ 相位敏感的晶胞内约瑟夫森干涉方法，利用超导针尖扫
+ 描隧道显微镜逐点测量约瑟夫森响应，通过干涉节点与
+ 晶格对称性的关系判断超导配对对称性，并在SrTiO₃衬底
+ 单层FeSe中为无节点d波配对提供实验证据。
 LOCATION:物理楼/W216
 END:VEVENT
 END:VCALENDAR
