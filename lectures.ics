@@ -2458,10 +2458,13 @@ DTSTART;TZID=Asia/Shanghai:20261106T160000
 DTEND;TZID=Asia/Shanghai:20261106T173000
 UID:4db3d4ef7ed3c94207d7e5a96a6ce1fc@reportautocal
 DESCRIPTION:主讲人: Dante M. Kennes 亚琛工业大学\n\n报告利用
- 时间与能量分辨光致发光及超快反射显微技术，研究WSe
- ₂/WS₂莫尔异质双层中多激子态的真实空间与时间动力
- 学，揭示激子莫特绝缘体、弹道膨胀及电子—激子莫特
- 态等非平衡量子多体行为。
+ 时间与能量分辨光致发光和超快反射显微，研究WSe₂/WS
+ ₂莫尔异质双层中多激子态动力学。特定填充下长程偶
+ 极排斥形成激子莫特绝缘体，膨胀冻结逾70纳秒；引入关
+ 联电子后，排斥促使激子进入更色散莫尔能带，产生能
+ 量选择性弹道膨胀，并在分数填充的广义维格纳晶体序
+ 下增强，随后转为电子-激子混合莫特态，展示绝缘冻结
+ 与集体流体运动的可调转变。
 LOCATION:物理楼/W361
 END:VEVENT
 BEGIN:VEVENT
@@ -2471,12 +2474,11 @@ DTSTART;TZID=Asia/Shanghai:20261105T150000
 DTEND;TZID=Asia/Shanghai:20261105T163000
 UID:44077475b6ad5751c57b2a612751f010@reportautocal
 DESCRIPTION:主讲人: 施勇 西湖大学\n\n报告介绍三维光谱技
- 术（两个空间维加一个光谱维）在光学波段探索宇宙中
- 的应用。首先介绍DGIS巡天在矮星系中发现约3.5万太阳质
- 量的离核中等质量黑洞，并探讨游荡黑洞通过引力尾迹
- 吸积物质的环境；随后介绍WISH巡天利用“星系—质量E”
- 作为新宇宙尺，独立于Ia型超新星测量哈勃常数，并展示
- 其定标与初步测量结果。
+ 术（两维空间加一维光谱）在光学波段宇宙探索中的应
+ 用，涵盖矮星系积分场巡天DGIS发现约3.5万太阳质量的偏
+ 离核区中等质量黑洞，以及西湖H0积分场巡天WISH利用星
+ 系—质量E关系作为新宇宙尺，独立于Ia型超新星测量哈
+ 勃常数并展示校准与试点结果。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2485,12 +2487,12 @@ DTSTART;TZID=Asia/Shanghai:20261110T133000
 DTEND;TZID=Asia/Shanghai:20261110T150000
 UID:a0394001b7eafa9c65b5b37ee5bfe1a4@reportautocal
 DESCRIPTION:主讲人: 杨大能 中国科学院紫金山天文台\n\n报
- 告将自相互作用暗物质（SIDM）建模为冷暗物质晕演化路
- 径的可控形变，结合宇宙学CDM模拟、可控SIDM模拟与参数
- 化引力热演化模型，分离自相互作用与晕组装及环境影
- 响，解释强透镜、星系团透镜和矮星系成团等现象，并
- 讨论吸热非弹性暗物质对星系质量相关暗物质亏损的解
- 释。
+ 告把自相互作用暗物质视为冷暗物质晕演化路径的受控
+ 形变，结合宇宙学冷暗物质模拟、受控自相互作用模拟
+ 和参数化引力热演化模型，分离自相互作用与晕组装、
+ 环境效应，说明双组分模型可统一解释致密强透镜扰动
+ 体、星系团强透镜增强和小星系成团，并讨论吸热非弹
+ 性暗物质对星系质量依赖暗物质缺失的解释。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -2501,10 +2503,11 @@ DTEND;TZID=Asia/Shanghai:20261105T150000
 UID:d1e815426f2b68a9545756c2d60bccab@reportautocal
 DESCRIPTION:主讲人: 孙煜杰 南方科技大学\n\n报告介绍利用
  超导针尖扫描隧道显微镜在单个晶胞内逐点测量约瑟夫
- 森响应，通过干涉节点与晶格对称性的关系判断超导配
- 对对称性；并以SrTiO₃衬底上的单层FeSe为例，发现最近
- 邻Fe-Fe键中心响应最强、沿Fe-Se镜面形成节点线，为无节
- 点d波配对提供相位敏感证据。
+ 森响应，通过识别干涉节点与晶格对称性的关系判断超
+ 导配对对称性。以SrTiO₃衬底上单层FeSe为例，观测到最
+ 近邻Fe-Fe键中心响应最强并沿镜面形成节点线，理论分析
+ 表明只有B₁g态同时再现该图样，为无节点d波配对提供
+ 相位敏感证据。
 LOCATION:物理楼/W216
 END:VEVENT
 BEGIN:VEVENT
@@ -2512,13 +2515,13 @@ SUMMARY:Overview of I-mode Experiments and Physics in Tokamaks
 DTSTART;TZID=Asia/Shanghai:20261105T140000
 DTEND;TZID=Asia/Shanghai:20261105T160000
 UID:aebf367abc9a1ebe66d39fdb371cf134@reportautocal
-DESCRIPTION:主讲人: 邹晓岚 法国原子能委员会\n\n报告介绍
- 托卡马克中I模约束实验与物理。I模兼具较好能量约束和
- 较弱粒子约束，可形成明显温度台基而避免强密度台基
+DESCRIPTION:主讲人: 邹晓岚 法国原子能委员会\n\n报告概述
+ 托卡马克中I模约束实验与物理。I模兼具改善的能量约束
+ 和较弱粒子约束，可形成明显温度台基而无强密度台基
  ，通常无大边缘局域模，并伴随弱相干模等边缘涨落。
- 报告总结ASDEX Upgrade、DIII-D、HL-2A、EAST等装置进展，重点
- 介绍EAST的L-I-H功率窗口、边缘湍流、径向电场剪切及1056
- 秒Super I-mode等成果。
+ 报告介绍ASDEX、Alcator C-Mod、EAST等装置上的I模研究，包括
+ L-I-H功率窗口、边缘湍流、径向电场剪切及长脉冲高性能
+ 运行进展。
 LOCATION:刘卿楼/105
 END:VEVENT
 BEGIN:VEVENT
@@ -2526,11 +2529,13 @@ SUMMARY:Knot Your Average Entanglement: A TQFT Tale of Emergent Space
 DTSTART;TZID=Asia/Shanghai:20261103T143000
 DTEND;TZID=Asia/Shanghai:20261103T160000
 UID:5eb485b1ed8a686113ee4e866744e4b4@reportautocal
-DESCRIPTION:主讲人: Dmitry Melnikov 国际物理研究所（UFRN，巴
- 西）\n\n报告基于一维拓扑量子场论或三维Chern-Simons理论
- 构建量子力学模型，探讨纠缠如何作为连接子系统空间
- 拓扑的性质，并介绍该模型在纠缠分类、全息对偶及量
- 子协议等方面的应用。
+DESCRIPTION:主讲人: 德米特里·梅尔尼科夫 巴西北里奥格兰
+ 德联邦大学国际物理研究所\n\n报告介绍拓扑量子场论作
+ 为理解空间由纠缠涌现的直观工具。讲者构建基于量子
+ 态集合与算符的模型，其自然对应一维TQFT或三维Chern-Simo
+ ns理论，并讨论如何将纠缠性质理解为连接子系统之空间
+ 的拓扑性质；若时间允许，还将介绍该模型在纠缠分类
+ 、全息原理与量子协议中的应用。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
