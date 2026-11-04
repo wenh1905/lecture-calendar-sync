@@ -2515,13 +2515,15 @@ SUMMARY:Overview of I-mode Experiments and Physics in Tokamaks
 DTSTART;TZID=Asia/Shanghai:20261105T140000
 DTEND;TZID=Asia/Shanghai:20261105T160000
 UID:aebf367abc9a1ebe66d39fdb371cf134@reportautocal
-DESCRIPTION:主讲人: 邹晓岚 法国原子能委员会\n\n报告概述
- 托卡马克中I模约束实验与物理。I模兼具改善的能量约束
- 和较弱粒子约束，可形成明显温度台基而无强密度台基
- ，通常无大边缘局域模，并伴随弱相干模等边缘涨落。
- 报告介绍ASDEX、Alcator C-Mod、EAST等装置上的I模研究，包括
- L-I-H功率窗口、边缘湍流、径向电场剪切及长脉冲高性能
- 运行进展。
+DESCRIPTION:主讲人: 邹晓岚 法国原子能委员会\n\n报告介绍
+ 托卡马克I模约束的实验与物理。I模兼具改善的能量约束
+ 和较弱的粒子约束，可形成明显温度台基但无强密度台
+ 基，通常无大边缘局域模，并伴随弱相干模等边缘涨落
+ 。报告涵盖ASDEX Upgrade、DIII-D、HL-2A、EAST等装置进展，重
+ 点介绍EAST上L-I-H功率窗口、边缘湍流、径向电场剪切、
+ 磁位形与壁处理影响，以及1056秒Super I-mode和硼化拓展高
+ 密度运行，并讨论其作为未来聚变堆候选运行模式的挑
+ 战。
 LOCATION:刘卿楼/105
 END:VEVENT
 BEGIN:VEVENT
@@ -2530,12 +2532,12 @@ DTSTART;TZID=Asia/Shanghai:20261103T143000
 DTEND;TZID=Asia/Shanghai:20261103T160000
 UID:5eb485b1ed8a686113ee4e866744e4b4@reportautocal
 DESCRIPTION:主讲人: 德米特里·梅尔尼科夫 巴西北里奥格兰
- 德联邦大学国际物理研究所\n\n报告介绍拓扑量子场论作
- 为理解空间由纠缠涌现的直观工具。讲者构建基于量子
- 态集合与算符的模型，其自然对应一维TQFT或三维Chern-Simo
- ns理论，并讨论如何将纠缠性质理解为连接子系统之空间
- 的拓扑性质；若时间允许，还将介绍该模型在纠缠分类
- 、全息原理与量子协议中的应用。
+ 德联邦大学国际物理研究所\n\n报告以拓扑量子场论为工
+ 具探讨纠缠如何涌现出空间。主讲人基于一维TQFT（或三
+ 维Chern-Simons理论）构造由态集与算符组成的量子力学模
+ 型，将子系统的纠缠性质理解为连接空间拓扑的性质，
+ 并讨论该模型在纠缠分类、全息原理及量子协议等方面
+ 的应用。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
