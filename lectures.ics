@@ -2487,13 +2487,11 @@ DTSTART;TZID=Asia/Shanghai:20261105T140000
 DTEND;TZID=Asia/Shanghai:20261105T160000
 UID:aebf367abc9a1ebe66d39fdb371cf134@reportautocal
 DESCRIPTION:主讲人: 邹晓岚 法国原子能委员会\n\n报告介绍
- 托卡马克I模约束区，其兼具改善的能量约束和较弱的粒
- 子约束，可形成明显温度台基而避免H模强密度台基，并
- 通常无大边界局域模。报告将综述I模在ASDEX Upgrade、DIII-D
- 、HL-2A和EAST等装置上的实验进展，重点讨论EAST上L-I-H功
- 率窗口、边界湍流、WCM/GAM/ETRO、径向电场剪切及1056秒超
- 级I模等结果，并展望其作为未来聚变堆候选运行模式的
- 机遇与挑战。
+ 托卡马克I模约束：能量约束改善而粒子约束较弱，形成
+ 温度台基但无强密度台基，常无大边缘局域模并伴随弱
+ 相干模等边缘涨落。总结ASDEX、Alcator C-Mod、EAST等实验，
+ 涵盖L-I-H功率窗口、边缘湍流、径向电场剪切及长脉冲Sup
+ er I-mode。
 LOCATION:刘卿楼/105
 END:VEVENT
 BEGIN:VEVENT
@@ -2502,12 +2500,12 @@ DTSTART;TZID=Asia/Shanghai:20261103T143000
 DTEND;TZID=Asia/Shanghai:20261103T160000
 UID:5eb485b1ed8a686113ee4e866744e4b4@reportautocal
 DESCRIPTION:主讲人: Dmitry Melnikov 巴西里奥格兰德联邦大学
- 国际物理研究所\n\n报告基于拓扑量子场论探讨纠缠如何
- 涌现空间。主讲人将介绍由态与算符集合构成的量子模
- 型，并说明该模型如何在一维TQFT或三维Chern-Simons理论中
- 自然描述纠缠，将纠缠性质理解为连接子系统空间拓扑
- 的性质，并视时间讨论其在纠缠分类、全息与量子协议
- 中的应用。
+ 国际物理研究所\n\n报告利用拓扑量子场论探讨空间如何
+ 从纠缠中涌现，基于一维拓扑量子场论或三维Chern-Simons
+ 理论构建由态与算符集合描述的量子力学模型，讨论纠
+ 缠性质如何体现为连接子系统之空间的拓扑性质，并视
+ 时间介绍该模型在纠缠分类、全息及量子协议中的应用
+ 。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -2517,11 +2515,11 @@ DTSTART;TZID=Asia/Shanghai:20261105T160000
 DTEND;TZID=Asia/Shanghai:20261105T173000
 UID:c45bae88de689828862f6b76ca88bf43@reportautocal
 DESCRIPTION:主讲人: 季向东 上海交通大学\n\n报告从爱因斯
- 坦追光思想实验出发，回顾建立光速运行体系相对论量
- 子理论的理论难题，介绍大动量有效场理论（LaMET）如何
- 结合威尔逊的临界点思想与非微扰格点量子场论，建立
- 从量子色动力学第一性原理计算质子夸克和胶子结构的
- 理论框架，并讨论数值模拟与高能实验检验。
+ 坦“追上一束光会看到什么”的思想实验出发，回顾建
+ 立光速运行体系相对论量子理论的历史难题，介绍大动
+ 量有效场理论（LaMET）结合格点量子场论建立理论框架，
+ 从量子色动力学第一性原理计算质子的夸克与胶子结构
+ ，并用高能实验测量进行检验。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2529,12 +2527,12 @@ SUMMARY:Exploring the Design Space of Mathematical Agents
 DTSTART;TZID=Asia/Shanghai:20261106T100000
 DTEND;TZID=Asia/Shanghai:20261106T113000
 UID:5475618057ca806bb3120435ec3cf87f@reportautocal
-DESCRIPTION:主讲人: 徐超 电子科技大学\n\n讲座探讨数学智
- 能体的设计空间，即将语言模型与支持持续求解数学问
- 题的框架相结合，在给定token成本下提升数学问题求解能
- 力。报告回顾现有方法，结合开发经验讨论框架设计原
- 则与权衡，并通过实验考察设计选择、数学能力与token成
- 本之间的关系，最后展望开放问题与未来方向。
+DESCRIPTION:主讲人: 徐超 电子科技大学\n\n报告探讨数学智
+ 能体的设计空间，即语言模型与支持持续求解数学问题
+ 的执行框架的组合。目标是在给定 token 成本下提升数学
+ 解题能力。报告综述现有方法，结合开发经验讨论框架
+ 设计原则与权衡，并展示设计选择、数学能力与成本关
+ 系的实验，展望开放问题。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -2542,11 +2540,10 @@ SUMMARY:Quantum computing and quantum advantage
 DTSTART;TZID=Asia/Shanghai:20261105T100000
 DTEND;TZID=Asia/Shanghai:20261105T113000
 UID:08523a74d6e6766940282aecb04e2bb5@reportautocal
-DESCRIPTION:主讲人: 袁骁 北京大学\n\n报告围绕量子计算与
- 量子优势展开，首先回顾面向近期量子设备和容错量子
- 计算机的量子算法，随后讨论在早期容错时代实现量子
- 优势的可能性，并分析当前及近期量子硬件可行的应用
- 方向。
+DESCRIPTION:主讲人: 袁骁 北京大学\n\n报告回顾面向近期及
+ 容错量子计算机的量子算法，并讨论在当前及早期容错
+ 量子硬件上实现量子优势的可能性，探讨通用量子计算
+ 机实现困难背景下的现实研究路径。
 LOCATION:物理楼/W361
 END:VEVENT
 BEGIN:VEVENT
@@ -2557,9 +2554,10 @@ DTEND;TZID=Asia/Shanghai:20261105T150000
 UID:d1e815426f2b68a9545756c2d60bccab@reportautocal
 DESCRIPTION:主讲人: 孙煜杰 南方科技大学\n\n报告介绍利用
  超导针尖扫描隧道显微镜在单个晶胞内逐点测量约瑟夫
- 森响应，通过实空间干涉节点与晶格对称性的关系判断
- 超导配对对称性，并以SrTiO₃衬底上单层FeSe为例，给出
- 无节点d波配对（B₁g）的相位敏感实验证据。
+ 森响应，通过实空间干涉节点判断超导配对对称性。以Sr
+ TiO3衬底上单层FeSe为例，发现键中心响应最强并沿镜面形
+ 成节点线，理论表明仅B1g态吻合，为无节点d波配对提供
+ 相位敏感证据。
 LOCATION:物理楼/E101
 END:VEVENT
 END:VCALENDAR
