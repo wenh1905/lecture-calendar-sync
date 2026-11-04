@@ -2439,20 +2439,6 @@ DESCRIPTION:主讲人: Miguel Tierz SIMIS\n\n报告讨论U(N)四维N=4超
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:追光之旅——从爱因斯坦的思想实验到质子的内部
- 世界
-DTSTART;TZID=Asia/Shanghai:20261105T160000
-DTEND;TZID=Asia/Shanghai:20261105T173000
-UID:c45bae88de689828862f6b76ca88bf43@reportautocal
-DESCRIPTION:主讲人: 季向东 上海交通大学\n\n讲座从爱因斯
- 坦“追上一束光”的思想实验出发，回顾相对论量子理
- 论的发展难题，介绍大动量有效场理论（LaMET）如何结合
- 格点量子场论，建立从量子色动力学第一性原理计算光
- 速运动质子夸克胶子结构的理论框架，并讨论高能实验
- 对计算结果的定量检验。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:★Dynamics of Many Moire Excitons
 DTSTART;TZID=Asia/Shanghai:20261106T160000
 DTEND;TZID=Asia/Shanghai:20261106T173000
@@ -2496,34 +2482,18 @@ DESCRIPTION:主讲人: 杨大能 中国科学院紫金山天文台\n\n报
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:晶胞内约瑟夫森干涉：一种测量超导配对对称性的
- 新方法
-DTSTART;TZID=Asia/Shanghai:20261105T133000
-DTEND;TZID=Asia/Shanghai:20261105T150000
-UID:d1e815426f2b68a9545756c2d60bccab@reportautocal
-DESCRIPTION:主讲人: 孙煜杰 南方科技大学\n\n报告介绍利用
- 超导针尖扫描隧道显微镜在单个晶胞内逐点测量约瑟夫
- 森响应，通过识别干涉节点与晶格对称性的关系判断超
- 导配对对称性。以SrTiO₃衬底上单层FeSe为例，观测到最
- 近邻Fe-Fe键中心响应最强并沿镜面形成节点线，理论分析
- 表明只有B₁g态同时再现该图样，为无节点d波配对提供
- 相位敏感证据。
-LOCATION:物理楼/W216
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Overview of I-mode Experiments and Physics in Tokamaks
 DTSTART;TZID=Asia/Shanghai:20261105T140000
 DTEND;TZID=Asia/Shanghai:20261105T160000
 UID:aebf367abc9a1ebe66d39fdb371cf134@reportautocal
 DESCRIPTION:主讲人: 邹晓岚 法国原子能委员会\n\n报告介绍
- 托卡马克I模约束的实验与物理。I模兼具改善的能量约束
- 和较弱的粒子约束，可形成明显温度台基但无强密度台
- 基，通常无大边缘局域模，并伴随弱相干模等边缘涨落
- 。报告涵盖ASDEX Upgrade、DIII-D、HL-2A、EAST等装置进展，重
- 点介绍EAST上L-I-H功率窗口、边缘湍流、径向电场剪切、
- 磁位形与壁处理影响，以及1056秒Super I-mode和硼化拓展高
- 密度运行，并讨论其作为未来聚变堆候选运行模式的挑
- 战。
+ 托卡马克I模约束区，其兼具改善能量约束与较弱粒子约
+ 束，可形成温度台基而避免强密度台基和大幅边界局域
+ 模。报告综述ASDEX、Alcator C-Mod、EAST等装置上的实验进展
+ ，重点讨论EAST的L-I-H功率窗口、边界湍流、弱相干模、
+ 测地声模、径向电场剪切及1056秒超级I模，并展望高密度
+ 、杂质控制、偏滤器脱靶和稳态集成等反应堆应用挑战
+ 。
 LOCATION:刘卿楼/105
 END:VEVENT
 BEGIN:VEVENT
@@ -2531,13 +2501,66 @@ SUMMARY:Knot Your Average Entanglement: A TQFT Tale of Emergent Space
 DTSTART;TZID=Asia/Shanghai:20261103T143000
 DTEND;TZID=Asia/Shanghai:20261103T160000
 UID:5eb485b1ed8a686113ee4e866744e4b4@reportautocal
-DESCRIPTION:主讲人: 德米特里·梅尔尼科夫 巴西北里奥格兰
- 德联邦大学国际物理研究所\n\n报告以拓扑量子场论为工
- 具探讨纠缠如何涌现出空间。主讲人基于一维TQFT（或三
- 维Chern-Simons理论）构造由态集与算符组成的量子力学模
- 型，将子系统的纠缠性质理解为连接空间拓扑的性质，
- 并讨论该模型在纠缠分类、全息原理及量子协议等方面
- 的应用。
+DESCRIPTION:主讲人: Dmitry Melnikov 国际物理研究所/北里奥格
+ 兰德联邦大学（巴西）\n\n拓扑量子场论为理解由纠缠涌
+ 现空间提供工具。报告将定义基于态与算符的量子模型
+ ，对应一维拓扑量子场论或三维Chern-Simons理论，讨论纠
+ 缠性质与连接子系统空间拓扑之间的关系，并视时间介
+ 绍该模型在纠缠分类、全息及量子协议中的应用。
 LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:追光之旅——从爱因斯坦的思想实验到质子的内部
+ 世界
+DTSTART;TZID=Asia/Shanghai:20261105T160000
+DTEND;TZID=Asia/Shanghai:20261105T173000
+UID:c45bae88de689828862f6b76ca88bf43@reportautocal
+DESCRIPTION:主讲人: 季向东 上海交通大学\n\n讲座从爱因斯
+ 坦“追光”思想实验出发，回顾构建光速运行体系相对
+ 论量子理论的历史困难，介绍大动量有效场理论（LaMET）
+ 结合格点量子色动力学，首次建立从第一性原理计算质
+ 子夸克胶子结构的理论框架，并说明其结果可通过高能
+ 实验精确检验。
+LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exploring the Design Space of Mathematical Agents
+DTSTART;TZID=Asia/Shanghai:20261106T100000
+DTEND;TZID=Asia/Shanghai:20261106T113000
+UID:5475618057ca806bb3120435ec3cf87f@reportautocal
+DESCRIPTION:主讲人: 徐超 电子科技大学\n\n报告探讨数学智
+ 能体的设计空间，即将语言模型与支持持续求解数学问
+ 题的框架相结合，在给定 token 成本下提升数学解题能力
+ 。报告将综述现有方法，结合开发经验讨论框架设计原
+ 则与权衡，并通过实验分析设计选择、数学能力与 token 
+ 成本之间的关系，展望开放问题与研究方向。
+LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quantum computing and quantum advantage
+DTSTART;TZID=Asia/Shanghai:20261105T100000
+DTEND;TZID=Asia/Shanghai:20261105T113000
+UID:08523a74d6e6766940282aecb04e2bb5@reportautocal
+DESCRIPTION:主讲人: 袁骁 北京大学\n\n报告围绕量子计算与
+ 量子优势展开，首先回顾面向近期量子硬件及容错量子
+ 计算机的量子算法，随后讨论在早期容错时代实现量子
+ 优势的可能性，并分析当前与近中期量子硬件的应用前
+ 景。
+LOCATION:物理楼/W361
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★晶胞内约瑟夫森干涉：一种测量超导配对对称性
+ 的新方法
+DTSTART;TZID=Asia/Shanghai:20261105T133000
+DTEND;TZID=Asia/Shanghai:20261105T150000
+UID:d1e815426f2b68a9545756c2d60bccab@reportautocal
+DESCRIPTION:主讲人: 孙煜杰 南方科技大学\n\n报告介绍一种
+ 新的相位敏感测量方法：利用超导针尖扫描隧道显微镜
+ 在单个晶胞内逐点测量约瑟夫森响应，通过不同隧穿路
+ 径的干涉节点与晶格对称性的关系判断超导配对对称性
+ 。以SrTiO₃衬底上单层FeSe为例，观测到最近邻Fe-Fe键中心
+ 响应最强、沿镜面形成节点线，为无节点d波配对提供相
+ 位敏感的实验证据。
+LOCATION:物理楼/E101
 END:VEVENT
 END:VCALENDAR
