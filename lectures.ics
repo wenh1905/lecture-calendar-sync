@@ -2514,13 +2514,12 @@ SUMMARY:追光之旅——从爱因斯坦的思想实验到质子的内部
 DTSTART;TZID=Asia/Shanghai:20261105T160000
 DTEND;TZID=Asia/Shanghai:20261105T173000
 UID:c45bae88de689828862f6b76ca88bf43@reportautocal
-DESCRIPTION:主讲人: 季向东 上海交通大学\n\n报告从爱因斯
+DESCRIPTION:主讲人: 季向东 上海交通大学\n\n讲座从爱因斯
  坦“追上一束光”的思想实验出发，回顾建立光速运行
- 体系相对论量子理论的百年难题，介绍大动量有效场理
- 论（LaMET）结合威尔逊临界点思想与非微扰格点量子场论
- ，建立从量子色动力学第一性原理计算质子夸克和胶子
- 结构的理论框架，并讨论高能实验对数值模拟结果的定
- 量检验。
+ 体系相对论量子理论的理论难题，介绍大动量有效场理
+ 论（LaMET）结合格点量子色动力学，从量子色动力学第一
+ 性原理计算质子的夸克和胶子结构，并借助高能实验测
+ 量进行定量检验。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2528,12 +2527,13 @@ SUMMARY:Exploring the Design Space of Mathematical Agents
 DTSTART;TZID=Asia/Shanghai:20261106T100000
 DTEND;TZID=Asia/Shanghai:20261106T113000
 UID:5475618057ca806bb3120435ec3cf87f@reportautocal
-DESCRIPTION:主讲人: 徐超 电子科技大学\n\n报告探讨数学智
- 能体的设计空间，即如何在给定 token 成本下提升数学问
- 题求解能力。讲者将综述现有方法，结合其开发数学智
- 能体的经验，讨论支撑框架设计的原则与权衡，并介绍
- 设计选择、数学能力与 token 成本之间关系的实验，总结
- 已有认识并展望开放问题与未来方向。
+DESCRIPTION:主讲人: Chao Xu 电子科技大学\n\n本报告探讨数学
+ 智能体的设计空间，即语言模型与支持持续数学问题求
+ 解的框架如何结合，以在给定 token 成本下提升数学能力
+ 。报告将综述现有方法，结合开发经验讨论框架设计的
+ 原则与权衡，并通过实验分析设计选择、数学能力与 toke
+ n 成本之间的关系，总结已获经验并展望开放问题与未来
+ 方向。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
@@ -2541,25 +2541,24 @@ SUMMARY:Quantum computing and quantum advantage
 DTSTART;TZID=Asia/Shanghai:20261105T100000
 DTEND;TZID=Asia/Shanghai:20261105T113000
 UID:08523a74d6e6766940282aecb04e2bb5@reportautocal
-DESCRIPTION:主讲人: 袁骁 北京大学\n\n报告回顾面向近期及
- 容错量子计算机的量子算法，讨论在早期容错时代实现
- 量子优势的可能性，并探讨当前与近期量子硬件可解决
- 的实际问题。
+DESCRIPTION:主讲人: 袁骁 北京大学\n\n报告围绕量子计算与
+ 量子优势展开，首先回顾面向近期量子设备和容错量子
+ 计算机的量子算法，并讨论当前及近期量子硬件的现实
+ 能力。随后探讨在早期容错时代实现量子优势的可能性
+ ，分析通用量子计算面临的挑战及可行路径。
 LOCATION:物理楼/W361
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:晶胞内约瑟夫森干涉：一种测量超导配对对称性的
- 新方法
+SUMMARY:★晶胞内约瑟夫森干涉：一种测量超导配对对称性
+ 的新方法
 DTSTART;TZID=Asia/Shanghai:20261105T133000
 DTEND;TZID=Asia/Shanghai:20261105T150000
 UID:d1e815426f2b68a9545756c2d60bccab@reportautocal
 DESCRIPTION:主讲人: 孙煜杰 南方科技大学\n\n报告介绍利用
  超导针尖扫描隧道显微镜在单个晶胞内逐点测量约瑟夫
- 森响应的新方法，通过实空间干涉节点判断超导配对对
- 称性。以SrTiO3衬底上的单层FeSe为例，实验发现最近邻Fe-F
- e键中心响应最强、镜面方向形成节点线，理论表明只有B
- 1g配对态可同时再现该图样，为无节点d波配对提供相位
- 敏感证据。
-LOCATION:物理楼/天文系E101报告厅
+ 森响应，通过实空间干涉节点判断超导配对对称性，并
+ 以SrTiO₃衬底上的单层FeSe为例，给出其无节点d波配对的
+ 相位敏感实验证据。
+LOCATION:物理楼/E101
 END:VEVENT
 END:VCALENDAR
