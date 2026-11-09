@@ -2560,4 +2560,31 @@ DESCRIPTION:主讲人: 孙煜杰 南方科技大学\n\n报告介绍利用
  为单层FeSe无节点d波配对提供相位敏感的实验证据。
 LOCATION:物理楼/E101
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thermal Hall Effect as a Probe of Quantum Materials: Phonon Intrin
+ sic Mechanisms and Multigap Superconductivity
+DTSTART;TZID=Asia/Shanghai:20261112T100000
+DTEND;TZID=Asia/Shanghai:20261112T113000
+UID:741c56bc6d6983de4f00850934f31627@reportautocal
+DESCRIPTION:主讲人: 朱增伟 华中科技大学\n\n报告介绍热霍
+ 尔效应作为探测量子材料中电中性激发和多带准粒子输
+ 运的敏感手段，重点讨论声子内在热霍尔机制及多带超
+ 导中的电子准粒子热霍尔效应，涉及NiPS3磁声耦合、La4Ni3
+ O10密度波增强、WS2与LiNbO3声子相互作用、Nb双能隙超导及
+ 石墨声子拖拽等现象。
+LOCATION:物理楼/W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★非线性输运和磁化中的量子几何
+DTSTART;TZID=Asia/Shanghai:20261112T160000
+DTEND;TZID=Asia/Shanghai:20261112T173000
+UID:d9a2363bb22bd7e08b79ce6ffca5cb12@reportautocal
+DESCRIPTION:主讲人: 卢海舟 南方科技大学\n\n报告介绍量子
+ 几何如何通过非线性输运与非线性磁化被探测，综述二
+ 阶、三阶非线性霍尔效应中的几何与无序机制及区分方
+ 法，并讨论由电场诱导、可用锁定磁光克尔光谱探测的
+ 量子Christoffel非线性磁化，展示几何如何决定二维材料中
+ 的物理。
+LOCATION:物理楼/天行报告厅
+END:VEVENT
 END:VCALENDAR
