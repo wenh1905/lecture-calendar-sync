@@ -2566,12 +2566,12 @@ SUMMARY:Thermal Hall Effect as a Probe of Quantum Materials: Phonon Intrin
 DTSTART;TZID=Asia/Shanghai:20261112T100000
 DTEND;TZID=Asia/Shanghai:20261112T113000
 UID:741c56bc6d6983de4f00850934f31627@reportautocal
-DESCRIPTION:主讲人: 朱增伟 华中科技大学\n\n报告聚焦热霍
- 尔效应作为量子材料探针，介绍声子本征热霍尔机制及
- 多带超导中的电子准粒子热霍尔效应。内容涵盖NiPS3等蜂
- 窝晶格材料中磁振子-声子耦合、La4Ni3O10密度波增强、WS2
- 和LiNbO3的声子-声子作用，以及Nb的双带超导和石墨的双
- 极声子拖曳。
+DESCRIPTION:主讲人: 朱增伟 华中科技大学\n\n报告介绍热霍
+ 尔效应作为量子材料中电中性激发与多带准粒子输运探
+ 针，重点讨论声子本征热霍尔机制及其与磁激发耦合，
+ 并展示NiPS3、La4Ni3O10、WS2、LiNbO3等材料结果；同时以Nb为
+ 例揭示多带超导电子准粒子的热霍尔响应与双能隙特征
+ 。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -2579,12 +2579,52 @@ SUMMARY:★非线性输运和磁化中的量子几何
 DTSTART;TZID=Asia/Shanghai:20261112T160000
 DTEND;TZID=Asia/Shanghai:20261112T173000
 UID:d9a2363bb22bd7e08b79ce6ffca5cb12@reportautocal
-DESCRIPTION:主讲人: 卢海舟 南方科技大学\n\n报告介绍量子
+DESCRIPTION:主讲人: 卢海舟 南方科技大学\n\n讲座介绍量子
  几何如何通过非线性输运与非线性磁化被探测，综述二
- 阶、三阶非线性霍尔效应的几何与无序机制及标度分析
- 方法，并讨论电场诱导、由广义相对论Christoffel符号描述
- 的非线性磁化，及其在二维材料中通过锁相磁光克尔光
- 谱探测。
+ 阶和三阶非线性霍尔效应中的几何与无序机制，并说明
+ 如何利用纵向电导的多项式标度分析区分机制；提出由
+ 电场诱导、以广义相对论Christoffel符号描述的非线性磁化
+ ，并指出可用锁相磁光Kerr光谱在二维材料中探测。
 LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Transiting Exoplanet Survey Satellite and a Sky Full of New Wo
+ rlds
+DTSTART;TZID=Asia/Shanghai:20261112T150000
+DTEND;TZID=Asia/Shanghai:20261112T163000
+UID:688a28de3304f5a26da78b7741f14d46@reportautocal
+DESCRIPTION:主讲人: Joshua Winn 普林斯顿大学\n\n本报告介绍TE
+ SS系外行星巡天任务的历史与设计，及其在发现系外行星
+ 方面的成果。TESS已发现逾千颗行星，宿主恒星类型多样
+ ；任务推动质量—半径关系研究，揭示年轻行星系统中
+ 近共振轨道常见，深化对热木星起源的认识，并为JWST大
+ 气观测提供优选目标。报告还将讨论恒星变率、恒星内
+ 部、天文瞬变及太阳系天体等时域科学成果，并展望未
+ 来。
+LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Decoding Deconfined Quantum Criticality: From the Bootstrap Con
+ e to SO(5) Multicriticality
+DTSTART;TZID=Asia/Shanghai:20261112T143000
+DTEND;TZID=Asia/Shanghai:20261112T160000
+UID:6ccd3ed474e4055d482f89d6b55d2477@reportautocal
+DESCRIPTION:主讲人: 李志金 东南大学\n\n报告探讨二维量子
+ 磁体中Néel相与价键固态相之间的去禁闭量子临界性，利
+ 用共形自举与模糊球光谱区分复固定点行走与真实SO(5)多
+ 临界共形场论两种解释，并介绍混合关联子自举得到的
+ 标度维数与OPE系数及数值检验。
+LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Physics For (AI)² For Physics研讨会
+DTSTART;TZID=Asia/Shanghai:20261116T090000
+DTEND;TZID=Asia/Shanghai:20261116T170000
+UID:ff73db5d641f51626822b42a0da356b3@reportautocal
+DESCRIPTION:主讲人: 组委会\n\n研讨会以“Physics for (AI)² for 
+ Physics”为主题，探讨人工智能与物理学双向赋能及交叉
+ 研究。上午安排大会报告，下午为教师圆桌讨论，由《
+ 物理》等期刊与清华大学物理系主办。
+LOCATION:物理楼
 END:VEVENT
 END:VCALENDAR
