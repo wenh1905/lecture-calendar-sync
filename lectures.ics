@@ -2579,10 +2579,9 @@ DTEND;TZID=Asia/Shanghai:20261112T113000
 UID:741c56bc6d6983de4f00850934f31627@reportautocal
 DESCRIPTION:主讲人: 朱增伟 华中科技大学\n\n报告介绍热霍
  尔效应作为探测量子材料中电中性激发与多带准粒子输
- 运的敏感手段，重点讨论声子本征热霍尔机制，包括NiPS3
- 中磁振子-声子杂化、La4Ni3O10密度波增强、WS2与LiNbO3的声
- 子-声子相互作用及热霍尔角上限，并展示Nb中电子准粒
- 子热霍尔与双能隙超导证据。
+ 运的手段，重点讨论声子本征热霍尔机制及其在多带超
+ 导体中的应用，涉及NiPS3、La4Ni3O10、WS2、LiNbO3、Nb和石墨
+ 等体系。
 LOCATION:物理楼/W105
 END:VEVENT
 BEGIN:VEVENT
@@ -2591,11 +2590,11 @@ DTSTART;TZID=Asia/Shanghai:20261112T160000
 DTEND;TZID=Asia/Shanghai:20261112T173000
 UID:d9a2363bb22bd7e08b79ce6ffca5cb12@reportautocal
 DESCRIPTION:主讲人: 卢海舟 南方科技大学\n\n报告介绍量子
- 几何如何通过非线性输运与非线性磁化进行探测，综述
- 二阶、三阶非线性霍尔效应中的几何与无序机制，并利
- 用纵向电导率多项式标度分析区分机制；还提出电场诱
- 导的非线性磁化，可用锁相磁光克尔光谱在二维材料中
- 探测。
+ 几何如何通过非线性输运与非线性磁化进行探测，梳理
+ 二阶和三阶非线性霍尔效应中的几何与无序机制，并说
+ 明利用标度分析加以区分。报告还提出电场诱导的非线
+ 性磁化，并探讨用锁相磁光克尔光谱在二维材料中探测
+ 该效应。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2604,26 +2603,37 @@ SUMMARY:The Transiting Exoplanet Survey Satellite and a Sky Full of New Wo
 DTSTART;TZID=Asia/Shanghai:20261112T150000
 DTEND;TZID=Asia/Shanghai:20261112T163000
 UID:688a28de3304f5a26da78b7741f14d46@reportautocal
-DESCRIPTION:主讲人: Joshua Winn 普林斯顿大学\n\n介绍TESS卫星2
- 018年发射以来对近全天亮星周围凌星行星的搜寻，已发
- 现逾千颗行星及大量候选体；综述其设计、系外行星质
- 量-半径关系、年轻系统近共振轨道、热木星起源、JWST大
- 气观测目标，以及对恒星变源、恒星内部、瞬变天体与
- 太阳系天体的时域研究。
+DESCRIPTION:主讲人: Joshua Winn 普林斯顿大学\n\n介绍TESS系外
+ 行星巡天卫星的历史、设计与科学发现，包括发现逾千
+ 颗行星、宿主恒星多样性、行星质量-半径关系、近共振
+ 轨道、热木星起源及JWST大气研究目标，并展望其未来。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Decoding Deconfined Quantum Criticality: From the Bootstrap Con
- e to SO(5) Multicriticality
+SUMMARY:Decoding Deconfined Quantum Criticality: From the Bootstrap Cone t
+ o SO(5) Multicriticality
 DTSTART;TZID=Asia/Shanghai:20261112T143000
 DTEND;TZID=Asia/Shanghai:20261112T160000
 UID:6ccd3ed474e4055d482f89d6b55d2477@reportautocal
-DESCRIPTION:主讲人: 李志金 东南大学\n\n报告探讨二维量子
- 磁体中Néel与价键固体相之间的去禁闭量子临界性，比较
- 复固定点行走与真实SO(5)多临界共形场论两种解释。介绍
- SO(5)矢量共形自举形成的锥及其顶点共形数据，并联合混
- 合关联子自举与模糊球谱学检验标度维数和OPE系数，支
- 持SO(5)多临界描述。
+DESCRIPTION:主讲人: 李志金 东南大学\n\n报告聚焦二维量子
+ 磁体中Néel态与价键固体态之间的退禁闭量子临界。主讲
+ 人介绍如何用共形自举与模糊球谱学区分复固定点“行
+ 走”与真实SO(5)多临界共形场论，展示SO(5)矢量及混合关
+ 联子自举得到的标度维数和OPE系数，并结合模糊球计算
+ 检验SO(5)多临界图像，讨论跨接行为、弱一级行为及相图
+ 。
 LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Physics For (AI)² For Physics研讨会
+DTSTART;TZID=Asia/Shanghai:20261116T000000
+DTEND;TZID=Asia/Shanghai:20261116T235900
+UID:d260f4b5e4db205f1ee86ef71fe736c0@reportautocal
+DESCRIPTION:主讲人: \n\n该研讨会围绕“Physics For (AI)² For Phy
+ sics”主题开展，上午安排大会报告，下午举行教师圆桌
+ 讨论，旨在促进人工智能与物理学交叉领域的学术交流
+ 与合作。会议组委会由孙昌璞、朱邦芬、高鸿钧、龚新
+ 高、段文晖组成。
+LOCATION:物理楼
 END:VEVENT
 END:VCALENDAR
