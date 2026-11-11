@@ -2561,17 +2561,6 @@ DESCRIPTION:主讲人: 孙煜杰 南方科技大学\n\n报告介绍利用
 LOCATION:物理楼/E101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Physics For (AI)² For Physics研讨会
-DTSTART;TZID=Asia/Shanghai:20261116T090000
-DTEND;TZID=Asia/Shanghai:20261116T170000
-UID:ff73db5d641f51626822b42a0da356b3@reportautocal
-DESCRIPTION:主讲人: 组委会\n\n研讨会以“Physics for (AI)² for 
- Physics”为主题，探讨人工智能与物理学双向赋能及交叉
- 研究。上午安排大会报告，下午为教师圆桌讨论，由《
- 物理》等期刊与清华大学物理系主办。
-LOCATION:物理楼
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Thermal Hall Effect as a Probe of Quantum Materials: Phonon Intrin
  sic Mechanisms and Multigap Superconductivity
 DTSTART;TZID=Asia/Shanghai:20261112T100000
@@ -2602,26 +2591,41 @@ SUMMARY:The Transiting Exoplanet Survey Satellite and a Sky Full of New Wo
 DTSTART;TZID=Asia/Shanghai:20261112T150000
 DTEND;TZID=Asia/Shanghai:20261112T163000
 UID:688a28de3304f5a26da78b7741f14d46@reportautocal
-DESCRIPTION:主讲人: Joshua Winn 普林斯顿大学\n\n介绍TESS卫星
- 的任务设计、历史与科学成果：它通过四台广角相机扫
- 描近全天，发现大量系外行星及候选体，涵盖多样宿主
- 恒星，推动质量-半径关系、近共振轨道、热木星起源和J
- WST大气观测目标等研究，并产生丰富的时域天文数据。
+DESCRIPTION:主讲人: Joshua Winn 普林斯顿大学\n\n报告介绍NASA
+ 于2018年发射的TESS凌星系外行星巡天卫星，利用四台宽视
+ 场相机搜寻近邻明亮恒星周围的行星，已发现逾千颗行
+ 星及大量候选体，并讨论其在行星质量—半径关系、年
+ 轻行星系统共振轨道、热木星起源、JWST大气观测目标及
+ 恒星时域研究等方面的科学成果与未来前景。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Decoding Deconfined Quantum Criticality: From the Bootstrap Cone t
- o SO(5) Multicriticality
+SUMMARY:★Decoding Deconfined Quantum Criticality: From the Bootstrap Con
+ e to SO(5) Multicriticality
 DTSTART;TZID=Asia/Shanghai:20261112T143000
 DTEND;TZID=Asia/Shanghai:20261112T160000
 UID:6ccd3ed474e4055d482f89d6b55d2477@reportautocal
-DESCRIPTION:主讲人: 李志金 东南大学\n\n报告讨论二维量子
- 磁体中Néel相与价键固体相变对应的退禁闭量子临界性，
- 比较复固定点附近行走与真实SO(5)多临界共形场论两种解
- 释；介绍SO(5)矢量共形自举形成的锥及其顶点共形数据，
- 并利用混合关联子自举与模糊球谱学检验标度维数和算
- 符乘积系数，支持SO(5)多临界理论。
+DESCRIPTION:主讲人: 李志金 东南大学\n\n报告聚焦二维量子
+ 磁体中Néel相与价键固体相之间的量子临界性，讨论其是
+ 接近复固定点还是真实SO(5)多临界共形场论。利用共形boo
+ tstrap构造SO(5)矢量锥，并结合混合关联子确定标度维数与
+ OPE系数，再用fuzzy-sphere谱学检验，结果支持SO(5)多临界共
+ 形场论，并讨论交叉、弱一阶行为及相图。
 LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Physics For (AI)² For Physics研讨会
+DTSTART;TZID=Asia/Shanghai:20261116T090000
+DTEND;TZID=Asia/Shanghai:20261116T170000
+UID:ff73db5d641f51626822b42a0da356b3@reportautocal
+DESCRIPTION:主讲人: 孙昌璞 中国工程物理研究院；朱邦芬 
+ 清华大学；高鸿钧 中国科学院物理研究所；龚新高 复旦
+ 大学；段文晖 清华大学\n\n研讨会主题为“Physics For (AI)²
+  For Physics”，上午举行大会报告，下午开展教师圆桌讨
+ 论，旨在探讨人工智能与物理学的双向融合与相互促进
+ 。会议全天在清华大学物理楼举行，由《物理》等期刊
+ 与清华大学物理系主办。
+LOCATION:物理楼
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:★非线性输运和磁化中的量子几何
@@ -2629,11 +2633,11 @@ DTSTART;TZID=Asia/Shanghai:20261112T160000
 DTEND;TZID=Asia/Shanghai:20261112T173000
 UID:d9a2363bb22bd7e08b79ce6ffca5cb12@reportautocal
 DESCRIPTION:主讲人: 卢海舟 南方科技大学\n\n报告介绍量子
- 几何如何通过非线性输运与非线性磁化被探测，综述二
- 阶、三阶非线性霍尔效应中的几何与无序机制，并利用
- 纵向电导标度分析加以区分；同时介绍电场诱导、由广
- 义相对论Christoffel符号描述的非线性磁化，可在二维材料
- 中通过锁相磁光克尔光谱探测。
+ 几何如何通过非线性输运与非线性磁化探测，梳理二阶
+ 、三阶非线性霍尔效应中的几何与无序机制，并用标度
+ 分析加以区分；同时提出电场诱导、由Christoffel符号描述
+ 的量子非线性磁化，指出可用锁相磁光克尔光谱在二维
+ 材料中探测。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
