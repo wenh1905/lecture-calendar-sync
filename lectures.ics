@@ -2632,12 +2632,12 @@ SUMMARY:★非线性输运和磁化中的量子几何
 DTSTART;TZID=Asia/Shanghai:20261112T160000
 DTEND;TZID=Asia/Shanghai:20261112T173000
 UID:d9a2363bb22bd7e08b79ce6ffca5cb12@reportautocal
-DESCRIPTION:主讲人: 卢海舟 南方科技大学\n\n报告介绍量子
- 几何如何通过非线性输运与非线性磁化被探测，综述二
- 阶和三阶非线性霍尔效应的几何与无序机制，并利用标
- 度分析区分各机制；还提出由电场诱导、以广义相对论Ch
- ristoffel符号描述的非线性磁化，并讨论磁光克尔光谱在
- 二维材料中的探测。
+DESCRIPTION:主讲人: 卢海舟 南方科技大学\n\n报告讨论如何
+ 通过非线性输运与非线性磁化探测量子几何，综述二阶
+ 、三阶非线性霍尔效应中的几何与无序机制，并介绍利
+ 用标度分析区分各机制；同时提出电场诱导、由广义相
+ 对论Christoffel符号描述的非线性磁化，可通过锁相磁光克
+ 尔光谱在二维材料中探测。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2646,11 +2646,11 @@ DTSTART;TZID=Asia/Shanghai:20261117T133000
 DTEND;TZID=Asia/Shanghai:20261117T150000
 UID:d4ede02e3783cfff68ae05cb8eefe231@reportautocal
 DESCRIPTION:主讲人: 钟德亮 中国科学院理论物理研究所\n\n
- 报告研究 IIB 型弦理论在 AdS₃×S³×T⁴ 背景、大 AdS 半径
- 展开及任意相对 RR 与 NS-NS 通量下的强耦合谱。作者发展
- 结合弦场论计算与有限混合通量拟设的方法，用于求对
- 偶 CFT 的标度维度，并检验三族态；纯 RR 极限结果与 worl
- dsheet bootstrap 及可积性计算一致。
+ 报告研究IIB型弦理论在AdS₃×S³×T⁴背景、大AdS半径展开
+ 及任意RR与NS-NS通量比值下的强耦合谱。作者结合弦场论
+ 计算与受世界片宇称约束的有限混合通量拟设，计算对
+ 偶CFT中标度维度，并应用于三类态；纯RR极限下结果与世
+ 界片bootstrap及可积性计算一致。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -2658,12 +2658,11 @@ SUMMARY:Tracing out massive fields in cosmology
 DTSTART;TZID=Asia/Shanghai:20261119T140000
 DTEND;TZID=Asia/Shanghai:20261119T153000
 UID:9fbf19f25a1e318b32ea0fdfee3cf51a@reportautocal
-DESCRIPTION:主讲人: 孙冠豪 重庆大学\n\n报告围绕宇宙学关
- 联函数的 in-in 形式与有效描述，介绍散射振幅常用 EFT 
- 与 Schwinger-Keldysh EFT 的差异，讨论在准单场模型中通过积
- 掉大质量场得到光场有限时间约化密度矩阵，并展示非
- 局域有效描述、大质量展开、局域 EFT、双谱及对称性约
- 束等结果。
+DESCRIPTION:主讲人: 孙冠豪 重庆大学\n\n报告在准德西特背
+ 景下用in-in形式讨论宇宙学关联函数及约化密度矩阵，回
+ 顾散射振幅EFT与Schwinger-Keldysh EFT的差异，介绍通过积分
+ 掉大质量场得到的有限时间约化密度矩阵、分支混合项
+ 、双谱计算、大质量展开及对称性约束。
 LOCATION:物理楼/W260
 END:VEVENT
 END:VCALENDAR
