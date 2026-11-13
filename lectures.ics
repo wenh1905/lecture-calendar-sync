@@ -2647,11 +2647,10 @@ DTSTART;TZID=Asia/Shanghai:20261117T133000
 DTEND;TZID=Asia/Shanghai:20261117T150000
 UID:d4ede02e3783cfff68ae05cb8eefe231@reportautocal
 DESCRIPTION:主讲人: 钟德亮 中国科学院理论物理研究所\n\n
- 报告研究IIB型弦理论在AdS₃×S³×T⁴背景下大AdS半径展开
- 、任意RR与NS-NS通量比时的强耦合谱，结合弦场论计算与
- 有限混合通量拟设，计算对偶CFT中的标度维度，并应用
- 于三类态；在纯RR极限下与worldsheet bootstrap及可积性结果
- 一致。
+ 报告研究大AdS半径下AdS₃×S³×T⁴上的IIB型弦论，在任意
+ RR与NS-NS通量下结合弦场论计算与有限混合通量拟设，求
+ 对偶CFT中标度维数，并检验三族态；纯RR极限结果与世界
+ 面bootstrap及可积性计算一致。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -2659,12 +2658,27 @@ SUMMARY:Tracing out massive fields in cosmology
 DTSTART;TZID=Asia/Shanghai:20261119T140000
 DTEND;TZID=Asia/Shanghai:20261119T153000
 UID:9fbf19f25a1e318b32ea0fdfee3cf51a@reportautocal
-DESCRIPTION:主讲人: 孙冠豪 重庆大学\n\n报告围绕准德西特
- 背景下宇宙学关联函数的in-in计算，介绍散射振幅EFT与Sch
- winger-Keldysh EFT的区别，讨论有限时间下通过积掉大质量
- 场得到的约化密度矩阵、分支混合项、双谱计算及大质
- 量展开下的局域有效描述，并分析对称性与Schwinger-Keldysh
- 约束。
+DESCRIPTION:主讲人: 孙冠豪 重庆大学\n\n报告讨论宇宙学关
+ 联函数在准德西特背景下用in-in形式计算，并以约化密度
+ 矩阵进行有效描述。将比较散射振幅EFT与Schwinger-Keldysh EF
+ T，在准单场模型中迹掉有质量场，得到光场有限时间约
+ 化密度矩阵及分支混合项，计算双谱，并通过大质量展
+ 开获得局域有效场论，最后讨论对称性与Schwinger-Keldysh约
+ 束。
 LOCATION:物理楼/W260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★A Novel Radio-Frequency Inductively Coupled Plasma Torch for Ma
+ terials Processing and Coatings
+DTSTART;TZID=Asia/Shanghai:20261117T090000
+DTEND;TZID=Asia/Shanghai:20261117T110000
+UID:170d0e2019de3eaa55db62d89727408d@reportautocal
+DESCRIPTION:主讲人: Javad Mostaghimi 加拿大多伦多大学\n\n报告
+ 介绍一种新型锥形射频感应耦合等离子体炬，较传统圆
+ 柱形炬增强等离子体约束与电磁耦合，可在宽压力范围
+ 稳定运行，并提高能效、降低氩气消耗和功率密度。该
+ 炬适用于大气及低压涂层、粉末球化，以及ICP-OES/ICP-MS痕
+ 量元素分析，为先进涂层技术提供可扩展平台。
+LOCATION:刘卿楼/104
 END:VEVENT
 END:VCALENDAR
