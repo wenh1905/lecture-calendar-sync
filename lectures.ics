@@ -2647,11 +2647,11 @@ DTSTART;TZID=Asia/Shanghai:20261117T133000
 DTEND;TZID=Asia/Shanghai:20261117T150000
 UID:d4ede02e3783cfff68ae05cb8eefe231@reportautocal
 DESCRIPTION:主讲人: 钟德亮 中国科学院理论物理研究所\n\n
- 报告在较大AdS半径展开下研究IIB弦理论在AdS₃×S³×T⁴上
- 的谱，针对任意RR与NS-NS相对通量，结合有限NS-NS通量下
- 有效的弦场论计算与受世界面宇称约束的有限混合通量
- 拟设，计算对偶CFT标度维度，并应用于三类态；纯RR极限
- 结果与世界面bootstrap及可积性结果一致。
+ 报告研究IIB型弦理论在AdS₃×S³×T4背景下的大半径展开
+ ，针对任意RR与NS-NS通量比值，发展结合弦场论计算与有
+ 限混合通量拟设的方法，用于求对偶CFT中三类态的标度
+ 维度；纯RR极限下结果与worldsheet bootstrap及可积性计算一
+ 致。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -2659,14 +2659,13 @@ SUMMARY:Tracing out massive fields in cosmology
 DTSTART;TZID=Asia/Shanghai:20261119T140000
 DTEND;TZID=Asia/Shanghai:20261119T153000
 UID:9fbf19f25a1e318b32ea0fdfee3cf51a@reportautocal
-DESCRIPTION:主讲人: 孙冠豪 重庆大学\n\n报告讨论准德西特
- 背景下宇宙学关联函数的in-in形式计算，重点介绍通过约
- 化密度矩阵描述有效理论。报告将比较散射振幅有效场
- 论与Schwinger-Keldysh有效场论，讨论在准单场模型中积分掉
- 非线性耦合大质量场后，有限时间光场约化密度矩阵的
- 产生及分支混合项，并给出共形耦合大质量场双谱的显
- 式计算，最后分析大质量展开、局域有效理论及对称性
- 约束。
+DESCRIPTION:主讲人: 孙冠豪 重庆大学\n\n报告介绍准德西特
+ 背景下宇宙学关联函数的in-in形式与有效描述，重点讨论
+ 将大质量场积分掉后所得光场约化密度矩阵，及其在非
+ 线性耦合准单场模型中的分支混合项。报告还将展示共
+ 形耦合大质量场的有效描述与双谱计算，讨论大质量展
+ 开如何得到局域有效场论，并分析约化密度矩阵的对称
+ 性和Schwinger-Keldysh约束。
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
@@ -2675,12 +2674,12 @@ SUMMARY:★A Novel Radio-Frequency Inductively Coupled Plasma Torch for Ma
 DTSTART;TZID=Asia/Shanghai:20261117T090000
 DTEND;TZID=Asia/Shanghai:20261117T110000
 UID:170d0e2019de3eaa55db62d89727408d@reportautocal
-DESCRIPTION:主讲人: Javad Mostaghimi 加拿大多伦多大学\n\n报告
- 介绍一种新型锥形射频感应耦合等离子体炬，较传统圆
- 柱炬可增强等离子体约束与电磁耦合，在宽压力范围内
- 稳定运行。其能量效率高、氩气消耗低、功率密度显著
- 提升，适用于大气及低压条件下的粉末球化和涂层沉积
- ，并在ICP-OES/ICP-MS痕量元素分析中具潜力。
+DESCRIPTION:主讲人: Javad Mostaghimi 多伦多大学\n\n介绍一种新
+ 型锥形射频感应耦合等离子体炬，可在常压和低压下用
+ 于粉末球化与涂层制备。相比传统圆柱形炬，锥形结构
+ 增强等离子体约束和电磁场耦合，提高能量效率、降低
+ 氩气消耗并提升功率密度，适用于大气等离子喷涂、低
+ 压等离子沉积及ICP-OES/ICP-MS痕量元素分析。
 LOCATION:刘卿楼/104
 END:VEVENT
 END:VCALENDAR
