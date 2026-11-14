@@ -2669,17 +2669,18 @@ DESCRIPTION:主讲人: 孙冠豪 重庆大学\n\n报告介绍准德西特
 LOCATION:物理楼/W260
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★A Novel Radio-Frequency Inductively Coupled Plasma Torch for Ma
- terials Processing and Coatings
+SUMMARY:A Novel Radio-Frequency Inductively Coupled Plasma Torch for Mater
+ ials Processing and Coatings
 DTSTART;TZID=Asia/Shanghai:20261117T090000
 DTEND;TZID=Asia/Shanghai:20261117T110000
 UID:170d0e2019de3eaa55db62d89727408d@reportautocal
-DESCRIPTION:主讲人: Javad Mostaghimi 多伦多大学\n\n介绍一种新
- 型锥形射频感应耦合等离子体炬，可在常压和低压下用
- 于粉末球化与涂层制备。相比传统圆柱形炬，锥形结构
- 增强等离子体约束和电磁场耦合，提高能量效率、降低
- 氩气消耗并提升功率密度，适用于大气等离子喷涂、低
- 压等离子沉积及ICP-OES/ICP-MS痕量元素分析。
+DESCRIPTION:主讲人: Javad Mostaghimi 加拿大多伦多大学\n\n报告
+ 介绍一种新型锥形射频感应耦合等离子体炬，探讨其在
+ 常压和低压下用于粉末球化与涂层应用的潜力。锥形结
+ 构可增强等离子体约束和电磁场耦合，提高能量效率、
+ 降低气体消耗与输入功率，并保持较高等离子体温度，
+ 适用于大气等离子喷涂、低压等离子辅助沉积及ICP-OES/ICP
+ -MS痕量元素分析等。
 LOCATION:刘卿楼/104
 END:VEVENT
 END:VCALENDAR
