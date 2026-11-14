@@ -2674,12 +2674,13 @@ SUMMARY:A Novel Radio-Frequency Inductively Coupled Plasma Torch for Mater
 DTSTART;TZID=Asia/Shanghai:20261117T090000
 DTEND;TZID=Asia/Shanghai:20261117T110000
 UID:170d0e2019de3eaa55db62d89727408d@reportautocal
-DESCRIPTION:主讲人: 贾瓦德·莫斯塔吉米 多伦多大学\n\n报
- 告介绍一种新型锥形射频感应耦合等离子体炬，相比传
- 统圆柱形结构可增强等离子体约束和电磁耦合，在宽压
- 力范围内稳定运行，并提高能效、降低氩气消耗和提升
- 功率密度。该炬适用于大气及低压等离子喷涂、涂层沉
- 积、粉末球化，以及ICP-OES/ICP-MS痕量元素分析等。
+DESCRIPTION:主讲人: Javad Mostaghimi 多伦多大学\n\n报告介绍一
+ 种新型锥形射频感应耦合等离子体炬，探讨其在大气压
+ 和低压条件下用于粉末球化与涂层工艺的潜力。锥形结
+ 构增强等离子体约束和电磁场耦合，可在宽压力范围稳
+ 定运行，并提高能效、降低气体消耗和功率密度。该炬
+ 适用于大气等离子喷涂、低压等离子辅助沉积及痕量元
+ 素分析等应用。
 LOCATION:刘卿楼/104
 END:VEVENT
 END:VCALENDAR
