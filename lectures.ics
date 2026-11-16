@@ -2683,4 +2683,16 @@ DESCRIPTION:主讲人: Javad Mostaghimi 多伦多大学\n\n报告介绍一
  用。
 LOCATION:刘卿楼/104
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From dust grains to planetesimals\, via streaming instability?
+DTSTART;TZID=Asia/Shanghai:20261116T140000
+DTEND;TZID=Asia/Shanghai:20261116T153000
+UID:485585a649a48af7d84b55304a085b99@reportautocal
+DESCRIPTION:主讲人: Yanqin Wu 多伦多大学\n\n本讲座围绕原行
+ 星盘中尘埃颗粒如何通过流不稳定性聚集并进一步形成
+ 星子展开，讨论颗粒大小、密度及气体湍流等关键条件
+ ，并结合ALMA观测提出“小颗粒假说”，探讨该机制在真
+ 实原行星盘中是否仍然可行。
+LOCATION:物理楼/E100
+END:VEVENT
 END:VCALENDAR
