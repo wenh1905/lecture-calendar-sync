@@ -2688,11 +2688,25 @@ SUMMARY:From dust grains to planetesimals\, via streaming instability?
 DTSTART;TZID=Asia/Shanghai:20261116T140000
 DTEND;TZID=Asia/Shanghai:20261116T153000
 UID:485585a649a48af7d84b55304a085b99@reportautocal
-DESCRIPTION:主讲人: Yanqin Wu 多伦多大学\n\n本讲座围绕原行
- 星盘中尘埃颗粒如何通过流不稳定性聚集并进一步形成
- 星子展开，讨论颗粒大小、密度及气体湍流等关键条件
- ，并结合ALMA观测提出“小颗粒假说”，探讨该机制在真
- 实原行星盘中是否仍然可行。
+DESCRIPTION:主讲人: Yanqin Wu 多伦多大学\n\n报告探讨原行星
+ 盘中尘埃颗粒如何通过流动不稳定性聚集成团并触发星
+ 子形成，介绍量化关键步骤的研究进展，并基于ALMA观测
+ 提出“小颗粒假说”，讨论真实盘中小于100微米颗粒是
+ 否仍能驱动流动不稳定性。
 LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geometric Frustration and Topological Obstruction in Growing Matte
+ r
+DTSTART;TZID=Asia/Shanghai:20261119T133000
+DTEND;TZID=Asia/Shanghai:20261119T150000
+UID:32805aa4ba87e2dd7929708b66ba545b@reportautocal
+DESCRIPTION:主讲人: Yafei Zhang 希伯来大学拉卡物理研究所\n
+ \n报告探讨局部几何与全局拓扑导致的阻挫如何塑造薄弹
+ 性系统、天然组织及合成薄片。指出玫瑰花瓣尖角源于MC
+ P不相容而非经典高斯机制；以干叶为例说明叶片与主脉
+ 差异收缩产生高斯不相容并控制形状选择；进一步提出
+ 等距不相容会导致几何视界、对称破缺及局部锥和脊。
+LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
