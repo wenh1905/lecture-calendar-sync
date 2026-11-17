@@ -2688,11 +2688,11 @@ SUMMARY:From dust grains to planetesimals\, via streaming instability?
 DTSTART;TZID=Asia/Shanghai:20261116T140000
 DTEND;TZID=Asia/Shanghai:20261116T153000
 UID:485585a649a48af7d84b55304a085b99@reportautocal
-DESCRIPTION:主讲人: 吴燕琴 多伦多大学\n\n报告探讨原行星
- 盘中尘埃颗粒如何通过气流不稳定性聚集并触发星子形
- 成，介绍关键步骤的定量研究，并结合ALMA观测提出小颗
- 粒假说，讨论真实盘中小颗粒是否仍能驱动该不稳定性
- 。
+DESCRIPTION:主讲人: Yanqin Wu 多伦多大学\n\n讲座探讨原行星
+ 盘中尘埃颗粒如何通过流不稳定性聚集并触发星子形成
+ ，尝试量化其中的关键步骤，并结合ALMA观测提出“小颗
+ 粒假说”，讨论尘埃未长至厘米级时流不稳定性是否仍
+ 可发生。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2702,13 +2702,11 @@ DTSTART;TZID=Asia/Shanghai:20261119T133000
 DTEND;TZID=Asia/Shanghai:20261119T150000
 UID:32805aa4ba87e2dd7929708b66ba545b@reportautocal
 DESCRIPTION:主讲人: 张亚飞 希伯来大学拉卡物理研究所\n\n
- 报告探讨薄弹性系统中局部优选几何无法在欧氏空间实
- 现无应力构型所导致的几何不相容，以及局部几何与全
- 局拓扑阻挫如何塑造天然组织和合成薄片。内容包括玫
- 瑰花瓣尖点由MCP不相容而非经典高斯机制产生；干燥叶
- 片中叶片与主脉差异收缩导致高斯不相容并控制形状选
- 择；等距不相容导致几何视界、对称破缺及局域d锥与脊
- 。
+ 报告探讨薄弹性系统中局部几何不相容与全局拓扑阻碍
+ 如何驱动形貌生成。内容涉及玫瑰花瓣尖点源于MCP不相
+ 容而非经典Gauss机制；干叶中叶片与主脉差异收缩产生Gau
+ ss不相容并控制形状选择；并提出等距不相容会导致几何
+ 视界、对称破缺及局域d锥和脊。
 LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
