@@ -2688,11 +2688,12 @@ SUMMARY:From dust grains to planetesimals\, via streaming instability?
 DTSTART;TZID=Asia/Shanghai:20261116T140000
 DTEND;TZID=Asia/Shanghai:20261116T153000
 UID:485585a649a48af7d84b55304a085b99@reportautocal
-DESCRIPTION:主讲人: Yanqin Wu 多伦多大学\n\n讲座探讨原行星
- 盘中尘埃颗粒如何通过流不稳定性聚集并触发星子形成
- ，尝试量化其中的关键步骤，并结合ALMA观测提出“小颗
- 粒假说”，讨论尘埃未长至厘米级时流不稳定性是否仍
- 可发生。
+DESCRIPTION:主讲人: Yanqin Wu 多伦多大学\n\n报告探讨原行星
+ 盘中尘埃颗粒如何通过流动不稳定性聚集并触发星子形
+ 成。主讲人将介绍量化该过程关键步骤的尝试，并基于AL
+ MA观测提出“小颗粒假说”：真实盘中的颗粒可能因表面
+ 物理未长到百微米以上，进而讨论流动不稳定性是否仍
+ 能有效发生。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2702,11 +2703,22 @@ DTSTART;TZID=Asia/Shanghai:20261119T133000
 DTEND;TZID=Asia/Shanghai:20261119T150000
 UID:32805aa4ba87e2dd7929708b66ba545b@reportautocal
 DESCRIPTION:主讲人: 张亚飞 希伯来大学拉卡物理研究所\n\n
- 报告探讨薄弹性系统中局部几何不相容与全局拓扑阻碍
- 如何驱动形貌生成。内容涉及玫瑰花瓣尖点源于MCP不相
- 容而非经典Gauss机制；干叶中叶片与主脉差异收缩产生Gau
- ss不相容并控制形状选择；并提出等距不相容会导致几何
- 视界、对称破缺及局域d锥和脊。
+ 报告探讨几何阻挫与拓扑障碍如何驱动薄弹性材料和组
+ 织成形：玫瑰花瓣尖点源于MCP不相容而非经典Gauss机制；
+ 干燥叶片中差异收缩产生Gauss不相容并控制形状选择；等
+ 距不相容则导致几何视界、对称破缺以及局部d锥和脊。
 LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★转角双层WSe2中薄纱般的超导
+DTSTART;TZID=Asia/Shanghai:20261119T160000
+DTEND;TZID=Asia/Shanghai:20261119T173000
+UID:567617d7d378c835ff49b959095d03e2@reportautocal
+DESCRIPTION:主讲人: 张富春 中国科学院大学\n\n报告回顾高
+ 温铜氧化物与镍酸盐超导研究进展，重点介绍在Mott绝缘
+ 体附近的莫尔双层WSe2中提出“薄纱超导”图像：超流密
+ 度很小却存在超导，用以说明磁性相互作用诱导超导的
+ 普适性，并讨论非常规超导机制。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
