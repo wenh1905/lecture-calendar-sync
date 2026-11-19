@@ -2715,10 +2715,10 @@ DTSTART;TZID=Asia/Shanghai:20261119T160000
 DTEND;TZID=Asia/Shanghai:20261119T173000
 UID:567617d7d378c835ff49b959095d03e2@reportautocal
 DESCRIPTION:主讲人: 张富春 中国科学院大学\n\n报告回顾高
- 温超导铜氧化物与镍酸盐研究进展，重点介绍在Mott绝缘
- 体附近转角双层WSe2莫尔体系中观测到的超流密度极小的
- “薄纱般”超导 proposal，并讨论磁相互作用导致超导的
- 普适性。
+ 温铜氧化物和镍氧化物超导研究进展，重点介绍在莫特
+ 绝缘体附近的莫尔双层WSe2中观测到超流密度极小的“薄
+ 纱般”超导新提议，说明磁性相互作用导致超导的普适
+ 性。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
