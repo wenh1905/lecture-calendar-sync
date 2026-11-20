@@ -2715,9 +2715,22 @@ DTSTART;TZID=Asia/Shanghai:20261119T160000
 DTEND;TZID=Asia/Shanghai:20261119T173000
 UID:567617d7d378c835ff49b959095d03e2@reportautocal
 DESCRIPTION:主讲人: 张富春 中国科学院大学\n\n报告回顾高
- 温超导铜氧化物与镍酸盐的研究进展，并介绍在转角双
- 层WSe2近莫特绝缘体处观测到的极低超流密度“薄纱超导
- ”提议，说明磁相互作用导致超导的普适性。
+ 温超导铜氧化物与镍酸盐的研究进展，重点介绍在莫特
+ 绝缘体附近的莫尔WSe2双层中观测到超流密度极小的“薄
+ 纱”超导提议，并讨论磁性相互作用导致超导的普遍性
+ 。
 LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:原子核与核子中的反物质
+DTSTART;TZID=Asia/Shanghai:20261124T100000
+DTEND;TZID=Asia/Shanghai:20261124T110000
+UID:8fa864996268618b805429e1a807d1d9@reportautocal
+DESCRIPTION:主讲人: 杨思奇 中国科学技术大学\n\n报告围绕
+ 核子与原子核中的海夸克及反物质产生机制，介绍高能
+ 氘核实验等形成的主流认识，并讨论近年新实验观测：
+ 核子海夸克可能不存在大的味不对称，氘核中的反物质
+ 也并非来自核子，预示氘核可能存在非核子结构。
+LOCATION:刘卿楼/104
 END:VEVENT
 END:VCALENDAR
