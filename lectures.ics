@@ -2735,19 +2735,18 @@ DESCRIPTION:主讲人: 杨思奇 中国科学技术大学\n\n报告讨论
 LOCATION:刘卿楼/104
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dressing Electrons with Light: Floquet Engineering of Quantum Mate
- rials
+SUMMARY:★Dressing Electrons with Light: Floquet Engineering of Quantum M
+ aterials
 DTSTART;TZID=Asia/Shanghai:20261126T160000
 DTEND;TZID=Asia/Shanghai:20261126T173000
 UID:e273b3b196c214aa584963d7978d7b8a@reportautocal
 DESCRIPTION:主讲人: Takashi Oka 东京大学\n\n报告介绍强光场
- 驱动晶体中的Floquet工程：光场可将电子缀饰为具有新拓
- 扑性质的新能带，例如圆偏振光下石墨烯被预言为陈绝
- 缘体，相关Floquet能隙已在清华通过时间与角分辨光电子
- 能谱观测。报告梳理Floquet拓扑绝缘体、Floquet外尔半金属
- 和光控相互作用，并讨论冷原子、光子晶格及量子处理
- 器中的反常Floquet绝缘体、时间晶体等无静态对应相，展
- 望非平衡量子材料设计。
+ 驱动晶体时的Floquet工程：光可将电子修饰成具有非平凡
+ 拓扑的新能带。内容涵盖石墨烯圆偏振光诱导陈绝缘体
+ 及时间/角分辨光电子谱观测Floquet能隙，并梳理Floquet拓
+ 扑绝缘体、Floquet外尔半金属、光控相互作用，以及冷原
+ 子、光子晶格和量子处理器中的反常Floquet绝缘体、时间
+ 晶体，展望非平衡量子材料设计。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
