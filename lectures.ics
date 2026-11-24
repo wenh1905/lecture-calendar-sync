@@ -2740,13 +2740,25 @@ SUMMARY:★Dressing Electrons with Light: Floquet Engineering of Quantum M
 DTSTART;TZID=Asia/Shanghai:20261126T160000
 DTEND;TZID=Asia/Shanghai:20261126T173000
 UID:e273b3b196c214aa584963d7978d7b8a@reportautocal
-DESCRIPTION:主讲人: Takashi Oka 东京大学\n\n报告介绍强光场
- 驱动晶体时的Floquet工程：光可将电子修饰成具有非平凡
- 拓扑的新能带。内容涵盖石墨烯圆偏振光诱导陈绝缘体
- 及时间/角分辨光电子谱观测Floquet能隙，并梳理Floquet拓
- 扑绝缘体、Floquet外尔半金属、光控相互作用，以及冷原
- 子、光子晶格和量子处理器中的反常Floquet绝缘体、时间
- 晶体，展望非平衡量子材料设计。
+DESCRIPTION:主讲人: Takashi Oka 东京大学\n\n强光驱动晶体可
+ 设计量子物态。Floquet理论描述光缀饰电子形成新能带并
+ 产生拓扑。石墨烯在圆偏振光下可成为无磁场陈绝缘体
+ ，清华的时间角分辨光电子能谱已观测Floquet能隙。报告
+ 介绍Floquet拓扑绝缘体、Weyl半金属、光控相互作用，以及
+ 冷原子、光子晶格和量子处理器中的非常规Floquet相与时
+ 间晶体，并展望非平衡量子材料设计。
 LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:动态宇宙物理：恒星光变、爆发与宇宙膨胀
+DTSTART;TZID=Asia/Shanghai:20261126T143000
+DTEND;TZID=Asia/Shanghai:20261126T153000
+UID:1ded063ee25830f58291ba595844f951@reportautocal
+DESCRIPTION:主讲人: 王晓锋 清华大学\n\n报告从分钟尺度恒
+ 星光变到宇宙尺度膨胀，介绍时域天文如何揭示恒星内
+ 部结构、爆发机制及宇宙膨胀率。重点介绍清华大学时
+ 域天文研究组系列进展，并展望DUET-P望远镜在哈勃常数
+ 危机、引力波电磁对应体及暗能量研究中的作用。
+LOCATION:物理楼/W101
 END:VEVENT
 END:VCALENDAR
