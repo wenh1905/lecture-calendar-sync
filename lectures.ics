@@ -2740,13 +2740,12 @@ SUMMARY:★Dressing Electrons with Light: Floquet Engineering of Quantum M
 DTSTART;TZID=Asia/Shanghai:20261126T160000
 DTEND;TZID=Asia/Shanghai:20261126T173000
 UID:e273b3b196c214aa584963d7978d7b8a@reportautocal
-DESCRIPTION:主讲人: Takashi Oka 东京大学\n\n强光驱动晶体可
- 设计量子物态。Floquet理论描述光缀饰电子形成新能带并
- 产生拓扑。石墨烯在圆偏振光下可成为无磁场陈绝缘体
- ，清华的时间角分辨光电子能谱已观测Floquet能隙。报告
- 介绍Floquet拓扑绝缘体、Weyl半金属、光控相互作用，以及
- 冷原子、光子晶格和量子处理器中的非常规Floquet相与时
- 间晶体，并展望非平衡量子材料设计。
+DESCRIPTION:主讲人: Takashi Oka 东京大学\n\n报告介绍用强光
+ 场驱动晶体、通过 Floquet 理论设计量子物态的研究。内
+ 容涵盖光诱导拓扑绝缘体、Floquet Weyl 半金属、光控相互
+ 作用，以及反常 Floquet 绝缘体、时间晶体等无静态对应
+ 新相，并讨论在冷原子、光子晶格和量子处理器中的实
+ 现，最后展望非平衡量子材料设计。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 BEGIN:VEVENT
@@ -2754,11 +2753,35 @@ SUMMARY:动态宇宙物理：恒星光变、爆发与宇宙膨胀
 DTSTART;TZID=Asia/Shanghai:20261126T143000
 DTEND;TZID=Asia/Shanghai:20261126T153000
 UID:1ded063ee25830f58291ba595844f951@reportautocal
-DESCRIPTION:主讲人: 王晓锋 清华大学\n\n报告从分钟尺度恒
- 星光变到宇宙尺度膨胀，介绍时域天文如何揭示恒星内
- 部结构、爆发机制及宇宙膨胀率。重点介绍清华大学时
- 域天文研究组系列进展，并展望DUET-P望远镜在哈勃常数
- 危机、引力波电磁对应体及暗能量研究中的作用。
+DESCRIPTION:主讲人: 王晓锋 清华大学\n\n报告从分钟尺度的
+ 恒星光变到宇宙尺度的膨胀，介绍清华大学时域天文研
+ 究组在恒星内部结构、爆发机制和宇宙膨胀率等方面的
+ 系列研究进展，并展望DUET-P望远镜未来在澄清哈勃常数
+ 危机、引力波电磁对应体探测及暗能量性质探索中的作
+ 用。
 LOCATION:物理楼/W101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Engine and Jet Radiation Physics of Gamma-Ray Bursts
+DTSTART;TZID=Asia/Shanghai:20261126T150000
+DTEND;TZID=Asia/Shanghai:20261126T163000
+UID:3374c1891bb57f33032ff8f5c0cbffaf@reportautocal
+DESCRIPTION:主讲人: 梁恩维 广西大学\n\n介绍中法SVOM卫星对
+ 伽马射线暴的观测进展，基于观测数据研究中心引擎模
+ 型与伽马射线辐射机制，并介绍伽马暴X射线偏振巡天观
+ 测技术及立方星在轨运行状况。
+LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent results from the LOFAR radio telescope and ESA's Euclid mis
+ sion
+DTSTART;TZID=Asia/Shanghai:20261127T103000
+DTEND;TZID=Asia/Shanghai:20261127T120000
+UID:74f8999308a731510b2b9e463d61a60d@reportautocal
+DESCRIPTION:主讲人: Huub Röttgering 莱顿大学\n\n介绍LOFAR低频
+ 射电望远镜与欧几里得空间望远镜两项巡天实验，并讨
+ 论星系中心超大质量黑洞的形成演化、黑洞外流对星系
+ 及其环境性质的影响等最新结果。
+LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
