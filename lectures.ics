@@ -2735,29 +2735,15 @@ DESCRIPTION:主讲人: 杨思奇 中国科学技术大学\n\n报告讨论
 LOCATION:刘卿楼/104
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Dressing Electrons with Light: Floquet Engineering of Quantum M
- aterials
-DTSTART;TZID=Asia/Shanghai:20261126T160000
-DTEND;TZID=Asia/Shanghai:20261126T173000
-UID:e273b3b196c214aa584963d7978d7b8a@reportautocal
-DESCRIPTION:主讲人: Takashi Oka 东京大学\n\n报告介绍用强光
- 场驱动晶体、通过 Floquet 理论设计量子物态的研究。内
- 容涵盖光诱导拓扑绝缘体、Floquet Weyl 半金属、光控相互
- 作用，以及反常 Floquet 绝缘体、时间晶体等无静态对应
- 新相，并讨论在冷原子、光子晶格和量子处理器中的实
- 现，最后展望非平衡量子材料设计。
-LOCATION:物理楼/天行报告厅
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:动态宇宙物理：恒星光变、爆发与宇宙膨胀
 DTSTART;TZID=Asia/Shanghai:20261126T143000
 DTEND;TZID=Asia/Shanghai:20261126T153000
 UID:1ded063ee25830f58291ba595844f951@reportautocal
-DESCRIPTION:主讲人: 王晓锋 清华大学\n\n报告介绍从分钟尺
- 度恒星光变到宇宙尺度膨胀的时域天文研究，涵盖恒星
- 内部结构、爆发机制及宇宙膨胀率测量，并总结清华大
- 学时域天文研究组进展，展望DUET-P望远镜在哈勃常数危
- 机、引力波电磁对应体和暗能量研究中的作用。
+DESCRIPTION:主讲人: 王晓锋 清华大学\n\n报告从分钟尺度恒
+ 星光变到宇宙尺度膨胀，介绍清华大学时域天文研究组
+ 在恒星内部结构、爆发机制和宇宙膨胀率方面的系列进
+ 展，并展望DUET-P望远镜在澄清哈勃常数危机、探测引力
+ 波电磁对应体及探索暗能量性质等方面的作用。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -2766,10 +2752,10 @@ DTSTART;TZID=Asia/Shanghai:20261126T150000
 DTEND;TZID=Asia/Shanghai:20261126T163000
 UID:3374c1891bb57f33032ff8f5c0cbffaf@reportautocal
 DESCRIPTION:主讲人: 梁恩维 广西大学\n\n本报告介绍中法合
- 作SVOM卫星对伽马射线暴的观测进展，并基于观测数据汇
- 报伽马暴中心引擎模型与伽马射线辐射机制研究，同时
- 介绍伽马暴X射线偏振巡天观测技术及立方星在轨运行状
- 态。
+ 作SVOM卫星在伽马射线暴观测方面的进展，并基于观测数
+ 据汇报伽马暴中心引擎模型与伽马射线辐射机制研究，
+ 同时介绍伽马暴X射线偏振巡天观测技术及立方星在轨运
+ 行状态。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2778,10 +2764,23 @@ SUMMARY:Recent results from the LOFAR radio telescope and ESA's Euclid mis
 DTSTART;TZID=Asia/Shanghai:20261127T103000
 DTEND;TZID=Asia/Shanghai:20261127T120000
 UID:74f8999308a731510b2b9e463d61a60d@reportautocal
-DESCRIPTION:主讲人: Huub Röttgering 莱顿大学\n\n报告介绍欧洲
- 低频射电望远镜LOFAR与欧空局Euclid空间望远镜的巡天实验
- 及最新成果，重点讨论星系中心超大质量黑洞的形成与
- 演化，以及黑洞外流如何影响星系本身及其周围环境。
+DESCRIPTION:主讲人: Huub Röttgering 莱顿天文台\n\n报告介绍泛
+ 欧低频射电阵列LOFAR与欧空局Euclid空间望远镜两项巡天实
+ 验，重点讨论星系中心超大质量黑洞的形成与演化，以
+ 及黑洞外流如何影响星系及其周围环境。
 LOCATION:物理楼/E100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Dressing Electrons with Light: Floquet Engineering of Quantum M
+ aterials
+DTSTART;TZID=Asia/Shanghai:20261126T160000
+DTEND;TZID=Asia/Shanghai:20261126T173000
+UID:e273b3b196c214aa584963d7978d7b8a@reportautocal
+DESCRIPTION:主讲人: Takashi Oka 东京大学\n\n讲座介绍强光场
+ 驱动晶体时的Floquet工程，利用周期光场修饰电子能带并
+ 设计拓扑量子态，涵盖Floquet拓扑绝缘体、Floquet外尔半金
+ 属、光控相互作用，以及反常Floquet绝缘体、时间晶体等
+ 非平衡相，并展望非平衡量子材料设计。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
