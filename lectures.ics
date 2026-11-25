@@ -2753,12 +2753,11 @@ SUMMARY:动态宇宙物理：恒星光变、爆发与宇宙膨胀
 DTSTART;TZID=Asia/Shanghai:20261126T143000
 DTEND;TZID=Asia/Shanghai:20261126T153000
 UID:1ded063ee25830f58291ba595844f951@reportautocal
-DESCRIPTION:主讲人: 王晓锋 清华大学\n\n报告从分钟尺度的
- 恒星光变到宇宙尺度的膨胀，介绍清华大学时域天文研
- 究组在恒星内部结构、爆发机制和宇宙膨胀率等方面的
- 系列研究进展，并展望DUET-P望远镜未来在澄清哈勃常数
- 危机、引力波电磁对应体探测及暗能量性质探索中的作
- 用。
+DESCRIPTION:主讲人: 王晓锋 清华大学\n\n报告介绍从分钟尺
+ 度恒星光变到宇宙尺度膨胀的时域天文研究，涵盖恒星
+ 内部结构、爆发机制及宇宙膨胀率测量，并总结清华大
+ 学时域天文研究组进展，展望DUET-P望远镜在哈勃常数危
+ 机、引力波电磁对应体和暗能量研究中的作用。
 LOCATION:物理楼/W101
 END:VEVENT
 BEGIN:VEVENT
@@ -2766,10 +2765,11 @@ SUMMARY:Central Engine and Jet Radiation Physics of Gamma-Ray Bursts
 DTSTART;TZID=Asia/Shanghai:20261126T150000
 DTEND;TZID=Asia/Shanghai:20261126T163000
 UID:3374c1891bb57f33032ff8f5c0cbffaf@reportautocal
-DESCRIPTION:主讲人: 梁恩维 广西大学\n\n介绍中法SVOM卫星对
- 伽马射线暴的观测进展，基于观测数据研究中心引擎模
- 型与伽马射线辐射机制，并介绍伽马暴X射线偏振巡天观
- 测技术及立方星在轨运行状况。
+DESCRIPTION:主讲人: 梁恩维 广西大学\n\n本报告介绍中法合
+ 作SVOM卫星对伽马射线暴的观测进展，并基于观测数据汇
+ 报伽马暴中心引擎模型与伽马射线辐射机制研究，同时
+ 介绍伽马暴X射线偏振巡天观测技术及立方星在轨运行状
+ 态。
 LOCATION:物理楼/E100
 END:VEVENT
 BEGIN:VEVENT
@@ -2778,10 +2778,10 @@ SUMMARY:Recent results from the LOFAR radio telescope and ESA's Euclid mis
 DTSTART;TZID=Asia/Shanghai:20261127T103000
 DTEND;TZID=Asia/Shanghai:20261127T120000
 UID:74f8999308a731510b2b9e463d61a60d@reportautocal
-DESCRIPTION:主讲人: Huub Röttgering 莱顿大学\n\n介绍LOFAR低频
- 射电望远镜与欧几里得空间望远镜两项巡天实验，并讨
- 论星系中心超大质量黑洞的形成演化、黑洞外流对星系
- 及其环境性质的影响等最新结果。
+DESCRIPTION:主讲人: Huub Röttgering 莱顿大学\n\n报告介绍欧洲
+ 低频射电望远镜LOFAR与欧空局Euclid空间望远镜的巡天实验
+ 及最新成果，重点讨论星系中心超大质量黑洞的形成与
+ 演化，以及黑洞外流如何影响星系本身及其周围环境。
 LOCATION:物理楼/E100
 END:VEVENT
 END:VCALENDAR
