@@ -2777,10 +2777,10 @@ DTSTART;TZID=Asia/Shanghai:20261126T160000
 DTEND;TZID=Asia/Shanghai:20261126T173000
 UID:e273b3b196c214aa584963d7978d7b8a@reportautocal
 DESCRIPTION:主讲人: Takashi Oka 东京大学\n\n讲座介绍强光场
- 驱动晶体时的Floquet工程，利用周期光场修饰电子能带并
- 设计拓扑量子态，涵盖Floquet拓扑绝缘体、Floquet外尔半金
- 属、光控相互作用，以及反常Floquet绝缘体、时间晶体等
- 非平衡相，并展望非平衡量子材料设计。
+ 驱动晶体中的Floquet工程，将光作为设计量子物态的手段
+ ；讨论Floquet拓扑绝缘体、外尔半金属、光控相互作用，
+ 以及反常Floquet绝缘体、时间晶体等在冷原子、光子晶格
+ 和量子处理器中的实现，并展望非平衡量子材料设计。
 LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
