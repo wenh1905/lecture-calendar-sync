@@ -2776,11 +2776,26 @@ SUMMARY:★Dressing Electrons with Light: Floquet Engineering of Quantum M
 DTSTART;TZID=Asia/Shanghai:20261126T160000
 DTEND;TZID=Asia/Shanghai:20261126T173000
 UID:e273b3b196c214aa584963d7978d7b8a@reportautocal
-DESCRIPTION:主讲人: Takashi Oka 东京大学\n\n讲座介绍强光场
- 驱动晶体中的Floquet工程，将光作为设计量子物态的手段
- ；讨论Floquet拓扑绝缘体、外尔半金属、光控相互作用，
- 以及反常Floquet绝缘体、时间晶体等在冷原子、光子晶格
- 和量子处理器中的实现，并展望非平衡量子材料设计。
+DESCRIPTION:主讲人: Takashi Oka 东京大学\n\n报告介绍强光场
+ 驱动晶体时，光可用于设计量子物态。Floquet理论描述周
+ 期驱动如何将电子修饰为新能带并获得非平庸拓扑；圆
+ 偏振光下石墨烯可成为无磁场的陈绝缘体，其Floquet能隙
+ 已由时间分辨角分辨光电子能谱观测。报告梳理Floquet拓
+ 扑绝缘体、外尔半金属、光控相互作用及反常Floquet绝缘
+ 体、时间晶体等方向，并展望非平衡量子材料设计。
 LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:R-charge concentration in the D1D5 system
+DTSTART;TZID=Asia/Shanghai:20261127T143000
+DTEND;TZID=Asia/Shanghai:20261127T160000
+UID:309ca0f6c454cb67fb0629f47b7618a5@reportautocal
+DESCRIPTION:主讲人: Suzanne Bintanja 欧洲粒子物理实验室\n\n报
+ 告聚焦D1D5系统中的R荷集中现象，介绍1/4-BPS态的手征代
+ 数，并利用该代数与交叉对称性证明：在一般耦合和有
+ 限中心荷下，1/4-BPS态必须存在于荷集中轨迹之外；若时
+ 间允许，还将以具体例子展示非荷集中1/4-BPS主的产生机
+ 制。
+LOCATION:科学馆/322
 END:VEVENT
 END:VCALENDAR
