@@ -2789,24 +2789,37 @@ DTSTART;TZID=Asia/Shanghai:20261127T143000
 DTEND;TZID=Asia/Shanghai:20261127T160000
 UID:309ca0f6c454cb67fb0629f47b7618a5@reportautocal
 DESCRIPTION:主讲人: Suzanne Bintanja 欧洲粒子物理实验室\n\n报
- 告讨论D1D5系统中BPS黑洞的R电荷集中现象及超对称黑洞混
- 沌探测，介绍1/4-BPS态的手征代数，并利用该代数与交叉
- 对称性证明：在一般耦合和有限中心电荷下，1/4-BPS态必
- 然存在于电荷集中轨迹之外，并举例说明非电荷集中的1/
- 4-BPS原初态如何出现。
+ 告讨论D1D5系统中R电荷集中现象及超对称黑洞混沌探针。
+ 由于1/4-BPS扇区理解不足，报告引入1/4-BPS态的手征代数，
+ 并利用交叉对称性证明在一般耦合和有限中心荷下，1/4-B
+ PS态必须存在于电荷集中轨迹之外；若时间允许，还将给
+ 出非电荷集中1/4-BPS主态的具体例子。
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Strong-Field Physics Meets Quantum Light
+SUMMARY:★Strong-Field Physics Meets Quantum Light
 DTSTART;TZID=Asia/Shanghai:20261203T090000
 DTEND;TZID=Asia/Shanghai:20261203T103000
 UID:10398799110692452d5baf5976459b2a@reportautocal
 DESCRIPTION:主讲人: Marcelo F. Ciappina 广东以色列理工学院\n\n
- 报告探讨强场物理与量子光的交叉：将驱动激光视为量
- 子对象，研究光场量子涨落和量子光对阈上电离、气体
- 与固体高次谐波产生及阿秒过程的影响，并介绍高光子
- 数纠缠相干态、压缩真空及可计算的随机量子光学方法
- 。
+ 报告从量子光视角重新审视强场物理，讨论电子动力学
+ 如何反作用于驱动光场，产生高光子数纠缠相干态等半
+ 经典理论难以描述的现象；结合阈上电离、气体与固体
+ 高次谐波产生等示例，并展望阿秒物理与量子信息、开
+ 放量子系统等方向的交叉。
 LOCATION:物理楼/W105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI智能体时代的理论科研与教学
+DTSTART;TZID=Asia/Shanghai:20261203T163000
+DTEND;TZID=Asia/Shanghai:20261203T180000
+UID:1737fb93f20a9c834e953d810f38742a@reportautocal
+DESCRIPTION:主讲人: 王一 香港科技大学\n\n报告回顾AI参与
+ 理论物理研究的进展，介绍使用Codex等智能体高效开展持
+ 续研究，并展示Agentic Research Copilot在宇宙对撞机强混合
+ 问题中协助文献调研、选题、解析推导、数值验算和论
+ 文撰写；同时探讨AI时代学生能力培养及AI辅助教学资源
+ 提升教学效果。
+LOCATION:物理楼/天行报告厅
 END:VEVENT
 END:VCALENDAR
