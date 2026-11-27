@@ -2788,11 +2788,25 @@ SUMMARY:R-charge concentration in the D1D5 system
 DTSTART;TZID=Asia/Shanghai:20261127T143000
 DTEND;TZID=Asia/Shanghai:20261127T160000
 UID:309ca0f6c454cb67fb0629f47b7618a5@reportautocal
-DESCRIPTION:主讲人: Suzanne Bintanja 欧洲核子研究中心\n\n报告
- 讨论超对称黑洞混沌探针与R荷集中现象，介绍D1D5 CFT中1/
- 4-BPS态的手征代数，并利用交叉对称性证明在一般耦合和
- 有限中心荷下，1/4-BPS态存在于荷集中轨迹之外；若时间
- 允许将展示非荷集中1/4-BPS primary的显式例子。
+DESCRIPTION:主讲人: Suzanne Bintanja 欧洲粒子物理实验室\n\n报
+ 告讨论D1D5系统中BPS黑洞的R电荷集中现象及超对称黑洞混
+ 沌探测，介绍1/4-BPS态的手征代数，并利用该代数与交叉
+ 对称性证明：在一般耦合和有限中心电荷下，1/4-BPS态必
+ 然存在于电荷集中轨迹之外，并举例说明非电荷集中的1/
+ 4-BPS原初态如何出现。
 LOCATION:科学馆/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strong-Field Physics Meets Quantum Light
+DTSTART;TZID=Asia/Shanghai:20261203T090000
+DTEND;TZID=Asia/Shanghai:20261203T103000
+UID:10398799110692452d5baf5976459b2a@reportautocal
+DESCRIPTION:主讲人: Marcelo F. Ciappina 广东以色列理工学院\n\n
+ 报告探讨强场物理与量子光的交叉：将驱动激光视为量
+ 子对象，研究光场量子涨落和量子光对阈上电离、气体
+ 与固体高次谐波产生及阿秒过程的影响，并介绍高光子
+ 数纠缠相干态、压缩真空及可计算的随机量子光学方法
+ 。
+LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
