@@ -2797,19 +2797,6 @@ DESCRIPTION:主讲人: 苏珊娜·宾坦雅 欧洲核子研究中心\n\n
 LOCATION:科学馆/322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:★Strong-Field Physics Meets Quantum Light
-DTSTART;TZID=Asia/Shanghai:20261203T090000
-DTEND;TZID=Asia/Shanghai:20261203T103000
-UID:10398799110692452d5baf5976459b2a@reportautocal
-DESCRIPTION:主讲人: Marcelo F. Ciappina 广东以色列理工学院\n\n
- 报告探讨强场物理与量子光学的交叉，将驱动激光场视
- 为量子对象，研究电子动力学与光场量子涨落的耦合，
- 涉及阈上电离、气体与固体高次谐波产生、椭圆偏振经
- 典及量子光驱动，以及可计算的随机方法，并展望其在
- 量子技术中的应用。
-LOCATION:物理楼/W105
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AI智能体时代的理论科研与教学
 DTSTART;TZID=Asia/Shanghai:20261203T163000
 DTEND;TZID=Asia/Shanghai:20261203T180000
@@ -2821,5 +2808,18 @@ DESCRIPTION:主讲人: 王一 香港科技大学\n\n报告回顾AI参与
  验算与论文撰写；同时探讨AI时代的物理教学与能力培养
  。
 LOCATION:物理楼/天行报告厅
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★Strong-Field Physics Meets Quantum Light
+DTSTART;TZID=Asia/Shanghai:20261203T090000
+DTEND;TZID=Asia/Shanghai:20261203T103000
+UID:10398799110692452d5baf5976459b2a@reportautocal
+DESCRIPTION:主讲人: Marcelo F. Ciappina 广东以色列理工学院\n\n
+ 报告从量子光学视角重新审视强场物理：把驱动激光场
+ 量子化，研究电子集体电流与光场量子涨落耦合导致的
+ 驱动场耗竭和量子态改变，并分析量子光驱动下阈上电
+ 离、气体与固体高次谐波等过程，讨论其与阿秒物理、
+ 量子信息及开放量子系统的交叉。
+LOCATION:物理楼/W105
 END:VEVENT
 END:VCALENDAR
